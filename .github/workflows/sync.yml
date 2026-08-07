@@ -1,0 +1,40 @@
+name: Auto Sync Category Stream JSONs
+
+on:
+  schedule:
+    - cron: '0 */1 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build-and-sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.10
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run Extractor Script
+        env:
+          BASE_URL: ${{ secrets.BASE_URL }}
+        run: python main.py
+
+      - name: Commit and Push JSON Updates
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action Bot"
+          git add *.json
+          git diff --staged --quiet || git commit -m "Auto Sync JSONs: $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git push
