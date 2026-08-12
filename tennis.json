@@ -4,7 +4,7 @@
     "title": "US Open | New York, USA | 23 August–13 September 2026",
     "league": "tennis",
     "category": "tennis",
-    "date": 1786447800000,
+    "date": 1786534200000,
     "status": "upcoming",
     "teams": {
       "home": {
@@ -24,8 +24,8 @@
     "title": "National Bank Open Montreal (ATP) | Montreal, Canada | 1–13 August 2026",
     "league": "tennis",
     "category": "tennis",
-    "date": 1786467600000,
-    "status": "live",
+    "date": 1786554000000,
+    "status": "upcoming",
     "teams": {
       "home": {
         "name": "National Bank Open Montreal (ATP) | Montreal, Canada | 1–13 August 2026",
@@ -44,8 +44,8 @@
     "title": "National Bank Open Toronto (WTA) | Toronto, Canada | 1–13 August 2026",
     "league": "tennis",
     "category": "tennis",
-    "date": 1786467600000,
-    "status": "live",
+    "date": 1786554000000,
+    "status": "upcoming",
     "teams": {
       "home": {
         "name": "National Bank Open Toronto (WTA) | Toronto, Canada | 1–13 August 2026",
@@ -64,8 +64,8 @@
     "title": "Cincinnati Open (Tennis) | Cincinnati, Oh, USA | 11–23 August 2026",
     "league": "tennis",
     "category": "tennis",
-    "date": 1786467600000,
-    "status": "live",
+    "date": 1786554000000,
+    "status": "upcoming",
     "teams": {
       "home": {
         "name": "Cincinnati Open (Tennis) | Cincinnati, Oh, USA | 11–23 August 2026",
@@ -84,8 +84,8 @@
     "title": "Quarter-Final",
     "league": "🎾 🇨🇦 atp montreal | atp national bank open | wta 1000 - toronto",
     "category": "tennis",
-    "date": 1786467600000,
-    "status": "live",
+    "date": 1786554000000,
+    "status": "upcoming",
     "teams": {
       "home": {
         "name": "Quarter-Final",
@@ -104,8 +104,8 @@
     "title": "1/2 Final A",
     "league": "🎾 🇨🇦 atp masters montreal",
     "category": "tennis",
-    "date": 1786478400000,
-    "status": "live",
+    "date": 1786564800000,
+    "status": "upcoming",
     "teams": {
       "home": {
         "name": "1/2 Final A",
@@ -124,8 +124,8 @@
     "title": "(Pairs) 1/2 Final A",
     "league": "🎾 🇨🇦 wta 1000 toronto",
     "category": "tennis",
-    "date": 1786482000000,
-    "status": "live",
+    "date": 1786568400000,
+    "status": "upcoming",
     "teams": {
       "home": {
         "name": "(Pairs) 1/2 Final A",
@@ -144,11 +144,91 @@
     "title": "1/4 Final",
     "league": "🎾 🇨🇦 atp masters montreal",
     "category": "tennis",
-    "date": 1786485600000,
-    "status": "live",
+    "date": 1786572000000,
+    "status": "upcoming",
     "teams": {
       "home": {
         "name": "1/4 Final",
+        "badge": ""
+      },
+      "away": {
+        "name": "",
+        "badge": ""
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "dl-tennis-atp-montreal-atp-national-bank-open-wta-1000-toronto-",
+    "title": "ATP Montreal | ATP National Bank Open | WTA 1000 - Toronto | Semi-Final 1",
+    "league": "tennis",
+    "category": "tennis",
+    "date": 1786564800000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "ATP Montreal | ATP National Bank Open | WTA 1000 - Toronto | Semi-Final 1",
+        "badge": ""
+      },
+      "away": {
+        "name": "",
+        "badge": ""
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "dl-tennis-atp-montreal-atp-national-bank-open-wta-1000-toronto-",
+    "title": "ATP Montreal | ATP National Bank Open | WTA 1000 - Toronto | Semi-Final 2",
+    "league": "tennis",
+    "category": "tennis",
+    "date": 1786492800000,
+    "status": "live",
+    "teams": {
+      "home": {
+        "name": "ATP Montreal | ATP National Bank Open | WTA 1000 - Toronto | Semi-Final 2",
+        "badge": ""
+      },
+      "away": {
+        "name": "",
+        "badge": ""
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "dl-tennis-atp-masters-montreal-1-2-final",
+    "title": "ATP Masters Montreal: 1/2 Final",
+    "league": "tennis",
+    "category": "tennis",
+    "date": 1786572000000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "ATP Masters Montreal: 1/2 Final",
+        "badge": ""
+      },
+      "away": {
+        "name": "",
+        "badge": ""
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "dl-tennis-wta-1000-toronto-1-2-final",
+    "title": "WTA 1000 Toronto: 1/2 Final",
+    "league": "tennis",
+    "category": "tennis",
+    "date": 1786575600000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "WTA 1000 Toronto: 1/2 Final",
         "badge": ""
       },
       "away": {
