@@ -105,7 +105,7 @@
     "league": "tennis",
     "category": "tennis",
     "date": 1786681800000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "ATP Montreal | ATP National Bank Open | WTA 1000 Toronto – Final",
@@ -144,8 +144,8 @@
     "title": "ATP Masters & WTA 1000 Cincinnati",
     "league": "tennis",
     "category": "tennis",
-    "date": 1786739400000,
-    "status": "upcoming",
+    "date": 1786667400000,
+    "status": "live",
     "teams": {
       "home": {
         "name": "ATP Masters & WTA 1000 Cincinnati",
@@ -205,7 +205,7 @@
     "league": "tennis",
     "category": "tennis",
     "date": 1786675500000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "ATP Masters & WTA 1000 Cincinnati (Inclusion)",
@@ -225,7 +225,7 @@
     "league": "tennis",
     "category": "tennis",
     "date": 1786676400000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "ATP Masters Montreal: (Couples) Final",
@@ -245,7 +245,7 @@
     "league": "tennis",
     "category": "tennis",
     "date": 1786678200000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "WTA 1000 Toronto: Final",
@@ -269,6 +269,46 @@
     "teams": {
       "home": {
         "name": "ATP Masters Montreal: Final",
+        "badge": ""
+      },
+      "away": {
+        "name": "",
+        "badge": ""
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "dl-tennis-1st-round",
+    "title": "1st Round",
+    "league": "🎾 🇺🇸 2026 cincinnati open tennis atp/wta",
+    "category": "tennis",
+    "date": 1786739400000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "1st Round",
+        "badge": ""
+      },
+      "away": {
+        "name": "",
+        "badge": ""
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "dl-tennis-wta-1000-atp-masters-cincinnati-inclusion",
+    "title": "WTA 1000 & ATP Masters Cincinnati (Inclusion)",
+    "league": "🎾 🇺🇸 tennis",
+    "category": "tennis",
+    "date": 1786665600000,
+    "status": "live",
+    "teams": {
+      "home": {
+        "name": "WTA 1000 & ATP Masters Cincinnati (Inclusion)",
         "badge": ""
       },
       "away": {
