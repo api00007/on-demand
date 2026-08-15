@@ -5,7 +5,7 @@
     "league": "Cricket",
     "category": "cricket",
     "date": 1786753800000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "Australia",
@@ -16,16 +16,36 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/ga08v71597850819.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cricket/2026-08-14/aus-bgd/playlist.m3u8?tk=zIwTBBHrBL0dwESjw6eRQg&e=1786793034|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-australia-vs-bangladesh/2/playlist.m3u8?tk=zIwTBBHrBL0dwESjw6eRQg&e=1786793034|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cricket/2026-08-14/aus-bgd/playlist.m3u8?tk=PPGBfV-vdoqGqPH8DMRmmw&e=1786799958|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-australia-vs-bangladesh/2/playlist.m3u8?tk=PPGBfV-vdoqGqPH8DMRmmw&e=1786799958|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "dl-odi",
+    "title": "Odi vs ",
+    "league": "🏏 🇮🇪 ireland vs afghanistan 🇦🇫",
+    "category": "cricket",
+    "date": 1786786200000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Odi",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/ljpjmn1693034492.png"
+      },
+      "away": {
+        "name": "",
+        "badge": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/papi/tv/dlhd/346/playlist.m3u8|Referer=https://ondemand.st",
+    "sdUrl": ""
   },
   {
     "matchId": "dl-sunrisers-vs-brave",
     "title": "Sunrisers vs Brave",
     "league": "🏏 🏴 the hundred women eliminator",
     "category": "cricket",
-    "date": 1786712400000,
-    "status": "live",
+    "date": 1786798800000,
+    "status": "upcoming",
     "teams": {
       "home": {
         "name": "Sunrisers",
@@ -44,8 +64,8 @@
     "title": "Tbc vs Tbc",
     "league": "🏏 🏴 the hundred men eliminator",
     "category": "cricket",
-    "date": 1786725000000,
-    "status": "live",
+    "date": 1786811400000,
+    "status": "upcoming",
     "teams": {
       "home": {
         "name": "Tbc",
@@ -57,6 +77,46 @@
       }
     },
     "hlsUrl": "https://messi.damitv.st/papi/tv/dlhd/346/playlist.m3u8|Referer=https://ondemand.st",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "dl-day-3-australia-vs-bangladesh",
+    "title": "Day 3 - Australia vs Bangladesh",
+    "league": "🏏 🇦🇺 1st test",
+    "category": "cricket",
+    "date": 1786753800000,
+    "status": "live",
+    "teams": {
+      "home": {
+        "name": "Day 3 - Australia",
+        "badge": ""
+      },
+      "away": {
+        "name": "Bangladesh",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/ga08v71597850819.png"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/papi/tv/dlhd/598/playlist.m3u8|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-australia-vs-bangladesh/playlist.m3u8?tk=DdEDEAAbiTWUHJocm7My8g&e=1786799960|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "dl-fiji-vs-south-africa",
+    "title": "Fiji vs South Africa",
+    "league": "🏉 🇫🇯 (w) int. rugby '26 2nd test",
+    "category": "cricket",
+    "date": 1786759200000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Fiji",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/vsrxul1600867989.png"
+      },
+      "away": {
+        "name": "South Africa",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/xjz9j91553368824.png"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/papi/tv/dlhd/421/playlist.m3u8|Referer=https://ondemand.st",
     "sdUrl": ""
   }
 ]
