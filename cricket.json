@@ -16,8 +16,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/ga08v71597850819.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cricket/2026-08-14/aus-bgd/playlist.m3u8?tk=PPGBfV-vdoqGqPH8DMRmmw&e=1786799958|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-australia-vs-bangladesh/2/playlist.m3u8?tk=PPGBfV-vdoqGqPH8DMRmmw&e=1786799958|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cricket/2026-08-14/aus-bgd/playlist.m3u8?tk=q_GQ41ohKuF7fn6wswKoGg&e=1786805613|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-australia-vs-bangladesh/2/playlist.m3u8?tk=q_GQ41ohKuF7fn6wswKoGg&e=1786805613|Referer=https://ondemand.st"
   },
   {
     "matchId": "dl-odi",
@@ -97,7 +97,7 @@
       }
     },
     "hlsUrl": "https://messi.damitv.st/papi/tv/dlhd/598/playlist.m3u8|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-australia-vs-bangladesh/playlist.m3u8?tk=DdEDEAAbiTWUHJocm7My8g&e=1786799960|Referer=https://ondemand.st"
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-australia-vs-bangladesh/playlist.m3u8?tk=STiaamLUDrSSaUpzdyHdxQ&e=1786805616|Referer=https://ondemand.st"
   },
   {
     "matchId": "dl-fiji-vs-south-africa",
@@ -105,7 +105,7 @@
     "league": "🏉 🇫🇯 (w) int. rugby '26 2nd test",
     "category": "cricket",
     "date": 1786759200000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "Fiji",
@@ -117,6 +117,26 @@
       }
     },
     "hlsUrl": "https://messi.damitv.st/papi/tv/dlhd/421/playlist.m3u8|Referer=https://ondemand.st",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "dl-sri-lanka-vs-india",
+    "title": "Sri Lanka vs India",
+    "league": "🏏 🇱🇰 1st test | day 1",
+    "category": "cricket",
+    "date": 1786768200000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Sri Lanka",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/1nz2oj1718412011.png"
+      },
+      "away": {
+        "name": "India",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/donl7g1646775159.png"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/papi/tv/dlhd/346/playlist.m3u8|Referer=https://ondemand.st",
     "sdUrl": ""
   }
 ]
