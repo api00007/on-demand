@@ -7,10 +7,7 @@ import requests
 BASE_URL = os.environ.get("BASE_URL", "").rstrip("/")
 
 if not BASE_URL:
-    print(
-        "[!] ERROR: 'BASE_URL' environment variable is not set in GitHub"
-        " Secrets!"
-    )
+    print("[!] ERROR: 'BASE_URL' environment variable is not set in GitHub Secrets!")
     sys.exit(1)
 
 MATCHES_API_TEMPLATE = f"{BASE_URL}/papi/matches/{{category}}"
@@ -111,9 +108,7 @@ def process_category(session, category):
                     }
                     category_results.append(match_obj)
                 else:
-                    print(
-                        f"        [!] Extract HTTP Error: {ext_res.status_code}"
-                    )
+                    print(f"        [!] Extract HTTP Error: {ext_res.status_code}")
 
             except Exception as e:
                 print(f"        [!] Extraction Exception: {e}")
@@ -135,6 +130,8 @@ def main():
     session = requests.Session()
     session.headers.update(HEADERS)
 
+    all_matches = []
+
     for cat in CATEGORIES:
         data = process_category(session, cat)
 
@@ -144,7 +141,16 @@ def main():
 
         print(f"[+] Saved {len(data)} matches to '{file_name}'\n")
 
-    print("[SUCCESS] All categories processed and JSON files saved!")
+        all_matches.extend(data)
+
+    main_file_name = "all_matches.json"
+    with open(main_file_name, "w", encoding="utf-8") as f:
+        json.dump(all_matches, f, indent=2, ensure_ascii=False)
+
+    print("==================================================")
+    print(f"[+] Saved TOTAL {len(all_matches)} matches to '{main_file_name}'")
+    print("[SUCCESS] All categories processed and all JSON files saved!")
+    print("==================================================")
 
 
 if __name__ == "__main__":
