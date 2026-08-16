@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "matchId": "afle/2026-08-16/lon-pan",
+    "title": "London Warriors at Panthers Wroclaw",
+    "league": "American Football",
+    "category": "american-football",
+    "date": 1786881600000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "London Warriors",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/bwhywq1625363220.png"
+      },
+      "away": {
+        "name": "Panthers Wroclaw",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/cts3ly1778595131.png"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/afle/2026-08-16/lon-pan/playlist.m3u8?tk=oB4PHEtdhLKJ0crKdvf_SA&e=1786905725|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-london-warriors-at-panthers-wroclaw/2/playlist.m3u8?tk=oB4PHEtdhLKJ0crKdvf_SA&e=1786905725|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "afle/2026-08-16/rhe-fir",
+    "title": "Rhein Fire at Firenze Red Lions",
+    "league": "American Football",
+    "category": "american-football",
+    "date": 1786891200000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Rhein Fire",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/lngctt1777882669.png"
+      },
+      "away": {
+        "name": "Firenze Red Lions",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/y8jeuu1648973843.png"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/afle/2026-08-16/rhe-fir/playlist.m3u8?tk=xnIjI-1GN9DAiP3ykTzQuQ&e=1786905726|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-rhein-fire-at-firenze-red-lions/2/playlist.m3u8?tk=xnIjI-1GN9DAiP3ykTzQuQ&e=1786905726|Referer=https://ondemand.st"
+  }
+]

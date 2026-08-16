@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "matchId": "ufc-330",
+    "title": "UFC 330: Makhachev vs. Machado Garry",
+    "league": "UFC",
+    "category": "fight",
+    "date": 1786829400000,
+    "status": "live",
+    "teams": {
+      "home": {
+        "name": "UFC 330: Makhachev",
+        "badge": ""
+      },
+      "away": {
+        "name": "Machado Garry",
+        "badge": "https://r2.thesportsdb.com/images/media/player/thumb/moixij1725470606.jpg"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/ufc-330/playlist.m3u8?tk=6wtIf2xlxwwS1bo_WuV5WQ&e=1786905727|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-ufc-330-makhachev-vs-machado-garry/2/playlist.m3u8?tk=6wtIf2xlxwwS1bo_WuV5WQ&e=1786905727|Referer=https://ondemand.st"
+  }
+]
