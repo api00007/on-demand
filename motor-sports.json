@@ -16,8 +16,8 @@
         "badge": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/f1/2026/netherlands/fp1/playlist.m3u8?tk=0Tv5FLat96-EuuZ1wciUDA&e=1786919128|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-dutch-grand-prix-practice-1/2/playlist.m3u8?tk=0Tv5FLat96-EuuZ1wciUDA&e=1786919128|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/f1/2026/netherlands/fp1/playlist.m3u8?tk=0SpoEc6YOUE_0jWTMlvGQw&e=1786922528|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-dutch-grand-prix-practice-1/2/playlist.m3u8?tk=0SpoEc6YOUE_0jWTMlvGQw&e=1786922528|Referer=https://ondemand.st"
   },
   {
     "matchId": "f1/2026/netherlands/sprint-q",
@@ -36,8 +36,28 @@
         "badge": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/f1/2026/netherlands/sprint-q/playlist.m3u8?tk=0Tv5FLat96-EuuZ1wciUDA&e=1786919128|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-dutch-grand-prix-qualifying/2/playlist.m3u8?tk=0Tv5FLat96-EuuZ1wciUDA&e=1786919128|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/f1/2026/netherlands/sprint-q/playlist.m3u8?tk=2asynfzaHTA3CqTNv-oPfQ&e=1786922529|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-dutch-grand-prix-sprint/2/playlist.m3u8?tk=2asynfzaHTA3CqTNv-oPfQ&e=1786922529|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "f1/2026/netherlands/sprint",
+    "title": "Dutch Grand Prix - Sprint",
+    "league": "Motorsports",
+    "category": "motor-sports",
+    "date": 1787392800000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Dutch Grand Prix - Sprint",
+        "badge": ""
+      },
+      "away": {
+        "name": "",
+        "badge": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/f1/2026/netherlands/sprint/playlist.m3u8?tk=2asynfzaHTA3CqTNv-oPfQ&e=1786922529|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-dutch-grand-prix-sprint/2/playlist.m3u8?tk=2asynfzaHTA3CqTNv-oPfQ&e=1786922529|Referer=https://ondemand.st"
   },
   {
     "matchId": "f1/2026/netherlands/qualifying",
@@ -56,8 +76,8 @@
         "badge": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/f1/2026/netherlands/qualifying/playlist.m3u8?tk=uiqvpHUbOTvsdD5R12YTvA&e=1786919129|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-dutch-grand-prix-qualifying/2/playlist.m3u8?tk=uiqvpHUbOTvsdD5R12YTvA&e=1786919129|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/f1/2026/netherlands/qualifying/playlist.m3u8?tk=eqQl1ue7Smw6xS2yy4XBAw&e=1786922530|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-dutch-grand-prix-practice-1/2/playlist.m3u8?tk=eqQl1ue7Smw6xS2yy4XBAw&e=1786922530|Referer=https://ondemand.st"
   },
   {
     "matchId": "f1/2026/netherlands/race",
@@ -76,8 +96,8 @@
         "badge": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/f1/2026/netherlands/race/playlist.m3u8?tk=V53x-2UUcPH-o1RaoTW7yA&e=1786919130|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-dutch-grand-prix-race/2/playlist.m3u8?tk=V53x-2UUcPH-o1RaoTW7yA&e=1786919130|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/f1/2026/netherlands/race/playlist.m3u8?tk=eqQl1ue7Smw6xS2yy4XBAw&e=1786922530|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-dutch-grand-prix-race/2/playlist.m3u8?tk=eqQl1ue7Smw6xS2yy4XBAw&e=1786922530|Referer=https://ondemand.st"
   },
   {
     "matchId": "dl-moto-motoamerica-superbike-championship-vir-race-3",
@@ -105,7 +125,7 @@
     "league": "motor-sports",
     "category": "motor-sports",
     "date": 1786878000000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "World Championship Sweden | MX2 | Race 1",
