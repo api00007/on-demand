@@ -1,105 +1,5 @@
 [
   {
-    "matchId": "mlb/2026-08-21/stl-phi",
-    "title": "St. Louis Cardinals vs. Philadelphia Phillies",
-    "league": "MLB",
-    "category": "baseball",
-    "date": 1787352000000,
-    "status": "live",
-    "teams": {
-      "home": {
-        "name": "St. Louis Cardinals",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/3xrldf1617528682.png"
-      },
-      "away": {
-        "name": "Philadelphia Phillies",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/uvyvyr1424003273.png"
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mlb/2026-08-21/stl-phi/playlist.m3u8?tk=Yg-ig1EWtExW28FMuDd8LQ&e=1787404779|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-st-louis-cardinals-vs-philadelphia-phillies/2/playlist.m3u8?tk=Yg-ig1EWtExW28FMuDd8LQ&e=1787404779|Referer=https://ondemand.st"
-  },
-  {
-    "matchId": "mlb/2026-08-21/tor-nyy",
-    "title": "Toronto Blue Jays vs. New York Yankees",
-    "league": "MLB",
-    "category": "baseball",
-    "date": 1787353500000,
-    "status": "live",
-    "teams": {
-      "home": {
-        "name": "Toronto Blue Jays",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/wqwwxx1423478766.png"
-      },
-      "away": {
-        "name": "New York Yankees",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/f9zk3l1617527686.png"
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mlb/2026-08-21/tor-nyy/playlist.m3u8?tk=Yg-ig1EWtExW28FMuDd8LQ&e=1787404779|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-toronto-blue-jays-vs-new-york-yankees/2/playlist.m3u8?tk=Yg-ig1EWtExW28FMuDd8LQ&e=1787404779|Referer=https://ondemand.st"
-  },
-  {
-    "matchId": "mlb/2026-08-21/sf-bos",
-    "title": "San Francisco Giants vs. Boston Red Sox",
-    "league": "MLB",
-    "category": "baseball",
-    "date": 1787353800000,
-    "status": "live",
-    "teams": {
-      "home": {
-        "name": "San Francisco Giants",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/stpsus1425120215.png"
-      },
-      "away": {
-        "name": "Boston Red Sox",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/ov3qi41778132254.png"
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mlb/2026-08-21/sf-bos/playlist.m3u8?tk=np1_dFg5glhEB8dVSbCigw&e=1787404780|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-san-francisco-giants-vs-boston-red-sox/2/playlist.m3u8?tk=np1_dFg5glhEB8dVSbCigw&e=1787404780|Referer=https://ondemand.st"
-  },
-  {
-    "matchId": "mlb/2026-08-21/wsh-mia",
-    "title": "Washington Nationals vs. Miami Marlins",
-    "league": "MLB",
-    "category": "baseball",
-    "date": 1787353800000,
-    "status": "live",
-    "teams": {
-      "home": {
-        "name": "Washington Nationals",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/0722fs1546001701.png"
-      },
-      "away": {
-        "name": "Miami Marlins",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/wpqrut1423694764.png"
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mlb/2026-08-21/wsh-mia/playlist.m3u8?tk=np1_dFg5glhEB8dVSbCigw&e=1787404780|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-washington-nationals-vs-miami-marlins/2/playlist.m3u8?tk=np1_dFg5glhEB8dVSbCigw&e=1787404780|Referer=https://ondemand.st"
-  },
-  {
-    "matchId": "mlb/2026-08-21/tb-bal",
-    "title": "Tampa Bay Rays vs. Baltimore Orioles",
-    "league": "MLB",
-    "category": "baseball",
-    "date": 1787354100000,
-    "status": "live",
-    "teams": {
-      "home": {
-        "name": "Tampa Bay Rays",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/ytywvu1431257088.png"
-      },
-      "away": {
-        "name": "Baltimore Orioles",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/littyt1554031623.png"
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mlb/2026-08-21/tb-bal/playlist.m3u8?tk=t4HF0zYCK3u9HRqxkMj1zw&e=1787404781|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-tampa-bay-rays-vs-baltimore-orioles/2/playlist.m3u8?tk=t4HF0zYCK3u9HRqxkMj1zw&e=1787404781|Referer=https://ondemand.st"
-  },
-  {
     "matchId": "mlb/2026-08-21/nym-chw",
     "title": "New York Mets vs. Chicago White Sox",
     "league": "MLB",
@@ -116,8 +16,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/rxqspq1431540337.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mlb/2026-08-21/nym-chw/playlist.m3u8?tk=hZOibZ4fh4QDpxXiW_gjKA&e=1787404782|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-new-york-mets-vs-chicago-white-sox/2/playlist.m3u8?tk=hZOibZ4fh4QDpxXiW_gjKA&e=1787404782|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mlb/2026-08-21/nym-chw/playlist.m3u8?tk=VHi3hhFp-ylEDDWSWFV4Ug&e=1787410617|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-new-york-mets-vs-chicago-white-sox/2/playlist.m3u8?tk=VHi3hhFp-ylEDDWSWFV4Ug&e=1787410617|Referer=https://ondemand.st"
   },
   {
     "matchId": "mlb/2026-08-21/ath-hou",
@@ -136,8 +36,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/cyvrv31741640777.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mlb/2026-08-21/ath-hou/playlist.m3u8?tk=hZOibZ4fh4QDpxXiW_gjKA&e=1787404782|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-athletics-vs-houston-astros/2/playlist.m3u8?tk=hZOibZ4fh4QDpxXiW_gjKA&e=1787404782|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mlb/2026-08-21/ath-hou/playlist.m3u8?tk=VHi3hhFp-ylEDDWSWFV4Ug&e=1787410617|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-athletics-vs-houston-astros/2/playlist.m3u8?tk=VHi3hhFp-ylEDDWSWFV4Ug&e=1787410617|Referer=https://ondemand.st"
   },
   {
     "matchId": "mlb/2026-08-21/det-kc",
@@ -156,8 +56,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/9dib6o1554032173.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mlb/2026-08-21/det-kc/playlist.m3u8?tk=ovBan77OwfPvVh_k-ePmkQ&e=1787404783|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-detroit-tigers-vs-kansas-city-royals/2/playlist.m3u8?tk=ovBan77OwfPvVh_k-ePmkQ&e=1787404783|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mlb/2026-08-21/det-kc/playlist.m3u8?tk=ET8cfnPNcyA30iqNBE8qXg&e=1787410618|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-detroit-tigers-vs-kansas-city-royals/2/playlist.m3u8?tk=ET8cfnPNcyA30iqNBE8qXg&e=1787410618|Referer=https://ondemand.st"
   },
   {
     "matchId": "mlb/2026-08-21/laa-tex",
@@ -176,8 +76,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/vswsvx1432577476.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mlb/2026-08-21/laa-tex/playlist.m3u8?tk=ovBan77OwfPvVh_k-ePmkQ&e=1787404783|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-los-angeles-angels-vs-texas-rangers/2/playlist.m3u8?tk=ovBan77OwfPvVh_k-ePmkQ&e=1787404783|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mlb/2026-08-21/laa-tex/playlist.m3u8?tk=ET8cfnPNcyA30iqNBE8qXg&e=1787410618|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-los-angeles-angels-vs-texas-rangers/2/playlist.m3u8?tk=ET8cfnPNcyA30iqNBE8qXg&e=1787410618|Referer=https://ondemand.st"
   },
   {
     "matchId": "mlb/2026-08-21/cle-col",
@@ -196,8 +96,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/3zvzao1640964590.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mlb/2026-08-21/cle-col/playlist.m3u8?tk=KFetXaJ0cJoO1_4zEaTE7w&e=1787404784|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-cleveland-guardians-vs-colorado-rockies/2/playlist.m3u8?tk=KFetXaJ0cJoO1_4zEaTE7w&e=1787404784|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mlb/2026-08-21/cle-col/playlist.m3u8?tk=pM6bOjklhTlfae5cQrydWA&e=1787410619|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-cleveland-guardians-vs-colorado-rockies/2/playlist.m3u8?tk=pM6bOjklhTlfae5cQrydWA&e=1787410619|Referer=https://ondemand.st"
   },
   {
     "matchId": "mlb/2026-08-21/cin-ari",
@@ -205,7 +105,7 @@
     "league": "MLB",
     "category": "baseball",
     "date": 1787362800000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "Cincinnati Reds",
@@ -216,8 +116,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/wspusr1431538832.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mlb/2026-08-21/cin-ari/playlist.m3u8?tk=mZyEueGNt2KPrM7-gzs3MA&e=1787404785|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-cincinnati-reds-vs-arizona-diamondbacks/2/playlist.m3u8?tk=mZyEueGNt2KPrM7-gzs3MA&e=1787404785|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mlb/2026-08-21/cin-ari/playlist.m3u8?tk=pM6bOjklhTlfae5cQrydWA&e=1787410619|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-cincinnati-reds-vs-arizona-diamondbacks/2/playlist.m3u8?tk=pM6bOjklhTlfae5cQrydWA&e=1787410619|Referer=https://ondemand.st"
   },
   {
     "matchId": "mlb/2026-08-21/min-sd",
@@ -225,7 +125,7 @@
     "league": "MLB",
     "category": "baseball",
     "date": 1787362800000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "Minnesota Twins",
@@ -236,8 +136,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/necd5v1521905719.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mlb/2026-08-21/min-sd/playlist.m3u8?tk=mZyEueGNt2KPrM7-gzs3MA&e=1787404785|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-minnesota-twins-vs-san-diego-padres/2/playlist.m3u8?tk=mZyEueGNt2KPrM7-gzs3MA&e=1787404785|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mlb/2026-08-21/min-sd/playlist.m3u8?tk=8IW1_JmXVayisZ6vjTlcRw&e=1787410620|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-minnesota-twins-vs-san-diego-padres/2/playlist.m3u8?tk=8IW1_JmXVayisZ6vjTlcRw&e=1787410620|Referer=https://ondemand.st"
   },
   {
     "matchId": "mlb/2026-08-21/chc-sea",
@@ -245,7 +145,7 @@
     "league": "MLB",
     "category": "baseball",
     "date": 1787364600000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "Chicago Cubs",
@@ -256,8 +156,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/wxbe071521892391.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mlb/2026-08-21/chc-sea/playlist.m3u8?tk=qGGuULc20CbmWu1WeZWCPQ&e=1787404786|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-chicago-cubs-vs-seattle-mariners/2/playlist.m3u8?tk=qGGuULc20CbmWu1WeZWCPQ&e=1787404786|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mlb/2026-08-21/chc-sea/playlist.m3u8?tk=8IW1_JmXVayisZ6vjTlcRw&e=1787410620|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-chicago-cubs-vs-seattle-mariners/2/playlist.m3u8?tk=8IW1_JmXVayisZ6vjTlcRw&e=1787410620|Referer=https://ondemand.st"
   },
   {
     "matchId": "mlb/2026-08-21/pit-lad",
@@ -265,7 +165,7 @@
     "league": "MLB",
     "category": "baseball",
     "date": 1787364600000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "Pittsburgh Pirates",
@@ -276,7 +176,7 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/kw6uqr1617527138.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mlb/2026-08-21/pit-lad/playlist.m3u8?tk=qGGuULc20CbmWu1WeZWCPQ&e=1787404786|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-pittsburgh-pirates-vs-los-angeles-dodgers/2/playlist.m3u8?tk=qGGuULc20CbmWu1WeZWCPQ&e=1787404786|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mlb/2026-08-21/pit-lad/playlist.m3u8?tk=8IW1_JmXVayisZ6vjTlcRw&e=1787410620|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-pittsburgh-pirates-vs-los-angeles-dodgers/2/playlist.m3u8?tk=8IW1_JmXVayisZ6vjTlcRw&e=1787410620|Referer=https://ondemand.st"
   }
 ]
