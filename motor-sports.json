@@ -1,5 +1,45 @@
 [
   {
+    "matchId": "mxgp/2026/netherlands/mx2-race-1",
+    "title": "Arnhem - MX2 - Race 1",
+    "league": "Motorsports",
+    "category": "motor-sports",
+    "date": 1787482800000,
+    "status": "live",
+    "teams": {
+      "home": {
+        "name": "Arnhem - MX2 - Race 1",
+        "badge": ""
+      },
+      "away": {
+        "name": "",
+        "badge": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mxgp/2026/netherlands/mx2-race-1/playlist.m3u8?tk=7ka23kgsx88czLzWCxtF2g&e=1787527345|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-arnhem-m-x-2-race-1/2/playlist.m3u8?tk=7ka23kgsx88czLzWCxtF2g&e=1787527345|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "mxgp/2026/netherlands/mxgp-race-1",
+    "title": "Arnhem - MXGP - Race 1",
+    "league": "Motorsports",
+    "category": "motor-sports",
+    "date": 1787486400000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Arnhem - MXGP - Race 1",
+        "badge": ""
+      },
+      "away": {
+        "name": "",
+        "badge": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mxgp/2026/netherlands/mxgp-race-1/playlist.m3u8?tk=7ka23kgsx88czLzWCxtF2g&e=1787527345|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-netherlands-mxgp-race-1/2/playlist.m3u8?tk=7ka23kgsx88czLzWCxtF2g&e=1787527345|Referer=https://ondemand.st"
+  },
+  {
     "matchId": "f1/2026/netherlands/race",
     "title": "Dutch Grand Prix - Race",
     "league": "Motorsports",
@@ -16,8 +56,48 @@
         "badge": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/f1/2026/netherlands/race/playlist.m3u8?tk=Ps8WhyAVv5OYD5dpacDUAg&e=1787523985|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-dutch-grand-prix-race/2/playlist.m3u8?tk=Ps8WhyAVv5OYD5dpacDUAg&e=1787523985|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/f1/2026/netherlands/race/playlist.m3u8?tk=7ka23kgsx88czLzWCxtF2g&e=1787527345|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-dutch-grand-prix-race/2/playlist.m3u8?tk=7ka23kgsx88czLzWCxtF2g&e=1787527345|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "mxgp/2026/netherlands/mx2-race-2",
+    "title": "Arnhem - MX2 - Race 2",
+    "league": "Motorsports",
+    "category": "motor-sports",
+    "date": 1787493600000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Arnhem - MX2 - Race 2",
+        "badge": ""
+      },
+      "away": {
+        "name": "",
+        "badge": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mxgp/2026/netherlands/mx2-race-2/playlist.m3u8?tk=CnihWgHiWBRepxCDghcLYw&e=1787527346|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-netherlands-m-x-2-race-1/2/playlist.m3u8?tk=CnihWgHiWBRepxCDghcLYw&e=1787527346|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "mxgp/2026/netherlands/mxgp-race-2",
+    "title": "Arnhem - MXGP - Race 2",
+    "league": "Motorsports",
+    "category": "motor-sports",
+    "date": 1787497200000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Arnhem - MXGP - Race 2",
+        "badge": ""
+      },
+      "away": {
+        "name": "",
+        "badge": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mxgp/2026/netherlands/mxgp-race-2/playlist.m3u8?tk=CnihWgHiWBRepxCDghcLYw&e=1787527346|Referer=https://ondemand.st",
+    "sdUrl": ""
   },
   {
     "matchId": "dl-moto-mx2-race-1",
@@ -25,7 +105,7 @@
     "league": "🏍️ 🇳🇱 world championship netherlands",
     "category": "motor-sports",
     "date": 1787482800000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "MX2 — Race 1",
