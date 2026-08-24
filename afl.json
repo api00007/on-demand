@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "matchId": "afl/2026-08-28/wb-coll",
+    "title": "Western Bulldogs vs. Collingwood",
+    "league": "AFL",
+    "category": "afl",
+    "date": 1787910000000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Western Bulldogs",
+        "badge": ""
+      },
+      "away": {
+        "name": "Collingwood",
+        "badge": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/afl/2026-08-28/wb-coll/playlist.m3u8?tk=zONuqISKMiUDFXrU1ccmOg&e=1787622868|Referer=https://ondemand.st",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "afl/2026-08-29/melb-carl",
+    "title": "Melbourne vs. Carlton",
+    "league": "AFL",
+    "category": "afl",
+    "date": 1787996100000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Melbourne",
+        "badge": ""
+      },
+      "away": {
+        "name": "Carlton",
+        "badge": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/afl/2026-08-29/melb-carl/playlist.m3u8?tk=RHWmk73ZDViEGR0iZF9IZA&e=1787622869|Referer=https://ondemand.st",
+    "sdUrl": ""
+  }
+]
