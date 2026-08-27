@@ -4,7 +4,7 @@
     "title": "Willow",
     "league": "Cricket",
     "category": "cricket",
-    "date": 1787784677775,
+    "date": 1787804550805,
     "status": "live",
     "teams": {
       "home": {
@@ -16,7 +16,7 @@
         "badge": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/247-willow/playlist.m3u8?tk=zHsaLYb3Mrie4utwWTKK-A&e=1787827879|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/247-willow/playlist.m3u8?tk=qMr9elQ8i0gyEzPI70vC5Q&e=1787847751|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -24,7 +24,7 @@
     "title": "Fox Cricket",
     "league": "Cricket",
     "category": "cricket",
-    "date": 1787784677775,
+    "date": 1787804550805,
     "status": "live",
     "teams": {
       "home": {
@@ -36,16 +36,36 @@
         "badge": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/247-fox-cricket/playlist.m3u8?tk=zHsaLYb3Mrie4utwWTKK-A&e=1787827879|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-fox-cricket/2/playlist.m3u8?tk=zHsaLYb3Mrie4utwWTKK-A&e=1787827879|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/247-fox-cricket/playlist.m3u8?tk=MXw2y-PdpzAwc1O-gQIXkg&e=1787847752|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-fox-cricket/2/playlist.m3u8?tk=MXw2y-PdpzAwc1O-gQIXkg&e=1787847752|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "dl-sri-lanka-vs-india",
+    "title": "Sri Lanka vs India",
+    "league": "🏏 🇱🇰 2nd test | day 4",
+    "category": "cricket",
+    "date": 1787804100000,
+    "status": "live",
+    "teams": {
+      "home": {
+        "name": "Sri Lanka",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/1nz2oj1718412011.png"
+      },
+      "away": {
+        "name": "India",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/kgpver1597857601.png"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/papi/tv/dlhd/346/playlist.m3u8|Referer=https://ondemand.st",
+    "sdUrl": ""
   },
   {
     "matchId": "dl-rotterdam-dockers-vs-amsterdam-flames",
     "title": "Rotterdam Dockers vs Amsterdam Flames",
     "league": "🏏 🇳🇱 european t20 premier league",
     "category": "cricket",
-    "date": 1787749200000,
-    "status": "live",
+    "date": 1787835600000,
+    "status": "upcoming",
     "teams": {
       "home": {
         "name": "Rotterdam Dockers",
@@ -57,6 +77,66 @@
       }
     },
     "hlsUrl": "https://messi.damitv.st/papi/tv/dlhd/346/playlist.m3u8|Referer=https://ondemand.st",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "dl-belfast-wolves-vs-dublin-guardians",
+    "title": "Belfast Wolves vs Dublin Guardians",
+    "league": "🏏 european t20 premier league",
+    "category": "cricket",
+    "date": 1787822100000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Belfast Wolves",
+        "badge": ""
+      },
+      "away": {
+        "name": "Dublin Guardians",
+        "badge": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/papi/tv/dlhd/34/playlist.m3u8|Referer=https://ondemand.st",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "dl-england-vs-pakistan",
+    "title": "England vs Pakistan",
+    "league": "🏏 2nd test | day 1",
+    "category": "cricket",
+    "date": 1787824800000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "England",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/y5wcl81646775152.png"
+      },
+      "away": {
+        "name": "Pakistan",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/0iri471776184809.png"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/papi/tv/dlhd/65/playlist.m3u8|Referer=https://ondemand.st",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "dl-edinburgh-castle-rockers-vs-glasgow-cosmic",
+    "title": "Edinburgh Castle Rockers vs Glasgow Cosmic",
+    "league": "🏏 european t20 premier league",
+    "category": "cricket",
+    "date": 1787835600000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Edinburgh Castle Rockers",
+        "badge": ""
+      },
+      "away": {
+        "name": "Glasgow Cosmic",
+        "badge": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/papi/tv/dlhd/34/playlist.m3u8|Referer=https://ondemand.st",
     "sdUrl": ""
   }
 ]
