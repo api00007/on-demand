@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "matchId": "247-fox-footy",
+    "title": "Fox Footy",
+    "league": "AFL",
+    "category": "afl",
+    "date": 1787925471547,
+    "status": "live",
+    "teams": {
+      "home": {
+        "name": "Fox Footy",
+        "badge": ""
+      },
+      "away": {
+        "name": "",
+        "badge": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/247-fox-footy/playlist.m3u8?tk=tteoLbnnB8OyIV7r0Z4IbQ&e=1787968672|Referer=https://ondemand.st",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "afl/2026-08-29/melb-carl",
+    "title": "Melbourne vs. Carlton",
+    "league": "AFL",
+    "category": "afl",
+    "date": 1787996100000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Melbourne",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/xvtstv1474039391.png"
+      },
+      "away": {
+        "name": "Carlton",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/k9no791584810309.png"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/afl/2026-08-29/melb-carl/playlist.m3u8?tk=tteoLbnnB8OyIV7r0Z4IbQ&e=1787968672|Referer=https://ondemand.st",
+    "sdUrl": ""
+  }
+]
