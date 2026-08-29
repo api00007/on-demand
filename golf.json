@@ -4,7 +4,7 @@
     "title": "Solheim Cup | Bernardus, Cromvoirt, Netherlands | 7 – 13 September 2026",
     "league": "Golf",
     "category": "golf",
-    "date": 1787901000000,
+    "date": 1787987400000,
     "status": "upcoming",
     "teams": {
       "home": {
@@ -24,7 +24,7 @@
     "title": "Husqvarna British Masters - Day 2",
     "league": "⛳ 🇬🇧 dp world tour",
     "category": "golf",
-    "date": 1787916600000,
+    "date": 1788003000000,
     "status": "upcoming",
     "teams": {
       "home": {
@@ -44,11 +44,51 @@
     "title": "Husqvarna British Masters - Day 2, Part 2",
     "league": "⛳ 🇬🇧 dp world tour",
     "category": "golf",
-    "date": 1787927400000,
+    "date": 1788013800000,
     "status": "upcoming",
     "teams": {
       "home": {
         "name": "Husqvarna British Masters - Day 2, Part 2",
+        "badge": ""
+      },
+      "away": {
+        "name": "",
+        "badge": ""
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "dl-golf-day-3",
+    "title": "Day 3",
+    "league": "⛳ 🇬🇧 dp world tour husqvarna british masters",
+    "category": "golf",
+    "date": 1788001200000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Day 3",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/c8577h1564356596.png"
+      },
+      "away": {
+        "name": "",
+        "badge": ""
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "dl-golf-lpga-tour-fm-championship",
+    "title": "Lpga Tour Fm Championship",
+    "league": "Golf",
+    "category": "golf",
+    "date": 1788030000000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Lpga Tour Fm Championship",
         "badge": ""
       },
       "away": {

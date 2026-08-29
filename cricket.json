@@ -4,7 +4,7 @@
     "title": "Willow",
     "league": "Cricket",
     "category": "cricket",
-    "date": 1787959772550,
+    "date": 1787983723390,
     "status": "live",
     "teams": {
       "home": {
@@ -16,7 +16,7 @@
         "badge": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/247-willow/playlist.m3u8?tk=iA7dxv87EcIe-lBoHCGQ-A&e=1788002972|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/247-willow/playlist.m3u8?tk=qpYu6s5hjSA76d6rnoUlsg&e=1788026924|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -24,7 +24,7 @@
     "title": "Fox Cricket",
     "league": "Cricket",
     "category": "cricket",
-    "date": 1787959772550,
+    "date": 1787983723390,
     "status": "live",
     "teams": {
       "home": {
@@ -36,8 +36,8 @@
         "badge": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/247-fox-cricket/playlist.m3u8?tk=vRtLzoK2eEPuKtR7WXUWsg&e=1788002973|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-fox-cricket/2/playlist.m3u8?tk=vRtLzoK2eEPuKtR7WXUWsg&e=1788002973|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/247-fox-cricket/playlist.m3u8?tk=qpYu6s5hjSA76d6rnoUlsg&e=1788026924|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-fox-cricket/2/playlist.m3u8?tk=qpYu6s5hjSA76d6rnoUlsg&e=1788026924|Referer=https://ondemand.st"
   },
   {
     "matchId": "cricket/2026-08-29/eng-pak",
@@ -56,16 +56,36 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/0iri471776184809.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cricket/2026-08-29/eng-pak/playlist.m3u8?tk=vRtLzoK2eEPuKtR7WXUWsg&e=1788002973|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-2-nd-test-england-vs-pakistan/2/playlist.m3u8?tk=vRtLzoK2eEPuKtR7WXUWsg&e=1788002973|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cricket/2026-08-29/eng-pak/playlist.m3u8?tk=49C8iP7TE6WiN1dXKgmZlQ&e=1788026925|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-2-nd-test-england-vs-pakistan/2/playlist.m3u8?tk=49C8iP7TE6WiN1dXKgmZlQ&e=1788026925|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "dl-england-vs-pakistan",
+    "title": "England vs Pakistan",
+    "league": "🏏 🏴 2nd test | day 2",
+    "category": "cricket",
+    "date": 1787997600000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "England",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/y5wcl81646775152.png"
+      },
+      "away": {
+        "name": "Pakistan",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/0iri471776184809.png"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/papi/tv/dlhd/346/playlist.m3u8|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-2-nd-test-england-vs-pakistan/playlist.m3u8?tk=49C8iP7TE6WiN1dXKgmZlQ&e=1788026925|Referer=https://ondemand.st"
   },
   {
     "matchId": "dl-amsterdam-flames-vs-edinburgh-castle-rockers",
     "title": "Amsterdam Flames vs Edinburgh Castle Rockers",
     "league": "🏏 🇳🇱 european t20 premier league",
     "category": "cricket",
-    "date": 1787928300000,
-    "status": "live",
+    "date": 1788014700000,
+    "status": "upcoming",
     "teams": {
       "home": {
         "name": "Amsterdam Flames",
@@ -73,6 +93,66 @@
       },
       "away": {
         "name": "Edinburgh Castle Rockers",
+        "badge": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/papi/tv/dlhd/598/playlist.m3u8|Referer=https://ondemand.st",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "dl-glasgow-cosmic-vs-dublin-guardians",
+    "title": "Glasgow Cosmic vs Dublin Guardians",
+    "league": "🏏 🇪🇺 european t20 premier league",
+    "category": "cricket",
+    "date": 1787994900000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Glasgow Cosmic",
+        "badge": ""
+      },
+      "away": {
+        "name": "Dublin Guardians",
+        "badge": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/papi/tv/dlhd/598/playlist.m3u8|Referer=https://ondemand.st",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "dl-england-vs-pakistan-2nd-test-day-3",
+    "title": "England vs Pakistan — 2nd Test | Day 3",
+    "league": "",
+    "category": "cricket",
+    "date": 1787997600000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "England",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/y5wcl81646775152.png"
+      },
+      "away": {
+        "name": "Pakistan — 2nd Test | Day 3",
+        "badge": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/papi/tv/dlhd/346/playlist.m3u8|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-2-nd-test-england-vs-pakistan/playlist.m3u8?tk=LtTKOZKh3sdhHrBEooGvsg&e=1788026926|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "dl-rotterdam-dockers-vs-belfast-wolves",
+    "title": "Rotterdam Dockers vs Belfast Wolves",
+    "league": "🏏 🇪🇺 european t20 premier league",
+    "category": "cricket",
+    "date": 1788008400000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Rotterdam Dockers",
+        "badge": ""
+      },
+      "away": {
+        "name": "Belfast Wolves",
         "badge": ""
       }
     },
