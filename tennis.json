@@ -4,7 +4,7 @@
     "title": "US Open | New York, USA | 23 August–13 September 2026",
     "league": "tennis",
     "category": "tennis",
-    "date": 1788003000000,
+    "date": 1788089400000,
     "status": "upcoming",
     "teams": {
       "home": {
@@ -24,11 +24,31 @@
     "title": "Men's & Women's Singles 1st Round",
     "league": "🎾 us open grand slam tennis",
     "category": "tennis",
-    "date": 1788016800000,
-    "status": "live",
+    "date": 1788103200000,
+    "status": "upcoming",
     "teams": {
       "home": {
         "name": "Men's & Women's Singles 1st Round",
+        "badge": ""
+      },
+      "away": {
+        "name": "",
+        "badge": ""
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "dl-tennis-men-s-women-s-singles-1st-round-queens-new-york-city",
+    "title": "Men's & Women's Singles 1st Round - Queens, New York City",
+    "league": "🎾 🇺🇸 us open grand slam tennis",
+    "category": "tennis",
+    "date": 1788102000000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Men's & Women's Singles 1st Round - Queens, New York City",
         "badge": ""
       },
       "away": {
