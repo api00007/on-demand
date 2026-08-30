@@ -5,7 +5,7 @@
     "league": "tennis",
     "category": "tennis",
     "date": 1788089400000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "US Open | New York, USA | 23 August–13 September 2026",
@@ -25,10 +25,70 @@
     "league": "🎾 🇺🇸 us open grand slam tennis",
     "category": "tennis",
     "date": 1788102000000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "Men's & Women's Singles 1st Round - Queens, New York City",
+        "badge": ""
+      },
+      "away": {
+        "name": "",
+        "badge": ""
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "dl-tennis-2026-us-open-radio-presented-by-american-express",
+    "title": "2026 US Open Radio Presented By American Express",
+    "league": "🎾 us open",
+    "category": "tennis",
+    "date": 1788100200000,
+    "status": "live",
+    "teams": {
+      "home": {
+        "name": "2026 US Open Radio Presented By American Express",
+        "badge": ""
+      },
+      "away": {
+        "name": "",
+        "badge": ""
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "dl-tennis-us-open-press-conferences",
+    "title": "US Open Press Conferences",
+    "league": "🎾 us open",
+    "category": "tennis",
+    "date": 1788102000000,
+    "status": "live",
+    "teams": {
+      "home": {
+        "name": "US Open Press Conferences",
+        "badge": ""
+      },
+      "away": {
+        "name": "",
+        "badge": ""
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "dl-tennis-2026-us-open-spanish-coverage",
+    "title": "2026 US Open Spanish Coverage",
+    "league": "🎾 us open",
+    "category": "tennis",
+    "date": 1788102000000,
+    "status": "live",
+    "teams": {
+      "home": {
+        "name": "2026 US Open Spanish Coverage",
         "badge": ""
       },
       "away": {
