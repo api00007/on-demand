@@ -5,7 +5,7 @@
     "league": "tennis",
     "category": "tennis",
     "date": 1788175800000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "US Open | New York, USA | 23 August–13 September 2026",
@@ -25,10 +25,90 @@
     "league": "🎾 us open grand slam tennis",
     "category": "tennis",
     "date": 1788188400000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "Mens & Womens Singles 1st Round",
+        "badge": ""
+      },
+      "away": {
+        "name": "",
+        "badge": ""
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "dl-tennis-us-open-radio-presented-by-american-express",
+    "title": "US Open Radio Presented By American Express",
+    "league": "🎾 🇺🇸 us open",
+    "category": "tennis",
+    "date": 1788186600000,
+    "status": "live",
+    "teams": {
+      "home": {
+        "name": "US Open Radio Presented By American Express",
+        "badge": ""
+      },
+      "away": {
+        "name": "",
+        "badge": ""
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "dl-tennis-press-conferences",
+    "title": "Press Conferences",
+    "league": "🎾 🇺🇸 us open",
+    "category": "tennis",
+    "date": 1788188400000,
+    "status": "live",
+    "teams": {
+      "home": {
+        "name": "Press Conferences",
+        "badge": ""
+      },
+      "away": {
+        "name": "",
+        "badge": ""
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "dl-tennis-us-open-spanish-coverage",
+    "title": "US Open Spanish Coverage",
+    "league": "🎾 🇺🇸 us open",
+    "category": "tennis",
+    "date": 1788188400000,
+    "status": "live",
+    "teams": {
+      "home": {
+        "name": "US Open Spanish Coverage",
+        "badge": ""
+      },
+      "away": {
+        "name": "",
+        "badge": ""
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "dl-tennis-2026-us-open-tennis-espn",
+    "title": "2026 US Open Tennis Espn",
+    "league": "🎾 🇺🇸 us open",
+    "category": "tennis",
+    "date": 1788190200000,
+    "status": "live",
+    "teams": {
+      "home": {
+        "name": "2026 US Open Tennis Espn",
         "badge": ""
       },
       "away": {
