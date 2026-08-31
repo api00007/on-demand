@@ -1,22 +1,522 @@
 [
   {
-    "matchId": "cfl/2026-08-30/bc-ott",
-    "title": "BC Lions at Ottawa RedBlacks",
+    "matchId": "cfb/2026-09-03/uapb-miz",
+    "title": "Arkansas-Pine Bluff Golden Lions at Missouri Tigers",
     "league": "American Football",
     "category": "american-football",
-    "date": 1788130800000,
-    "status": "live",
+    "date": 1788480000000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Arkansas-Pine Bluff Golden Lions",
+        "badge": ""
+      },
+      "away": {
+        "name": "Missouri Tigers",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/v6yj6j1583938260.png"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-09-03/uapb-miz/playlist.m3u8?tk=rFn0Bi5drdcx7oGFjCXo6w&e=1788207381|Referer=https://ondemand.st",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "cfb/2026-09-03/idho-utah",
+    "title": "Idaho Vandals at Utah Utes",
+    "league": "American Football",
+    "category": "american-football",
+    "date": 1788483600000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Idaho Vandals",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/j6mbzk1642618619.png"
+      },
+      "away": {
+        "name": "Utah Utes",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/4dcpw51564337024.png"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-09-03/idho-utah/playlist.m3u8?tk=rFn0Bi5drdcx7oGFjCXo6w&e=1788207381|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-idaho-vandals-at-utah-utes/2/playlist.m3u8?tk=rFn0Bi5drdcx7oGFjCXo6w&e=1788207381|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "cfl/2026-09-04/bc-mtl",
+    "title": "BC Lions at Montreal Alouettes",
+    "league": "American Football",
+    "category": "american-football",
+    "date": 1788564600000,
+    "status": "upcoming",
     "teams": {
       "home": {
         "name": "BC Lions",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/k8wjz71546002654.png"
+        "badge": ""
       },
       "away": {
-        "name": "Ottawa RedBlacks",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/ysxssy1424732039.png"
+        "name": "Montreal Alouettes",
+        "badge": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfl/2026-08-30/bc-ott/playlist.m3u8?tk=GLkVXITKVoNdzZGo4js9oQ&e=1788181795|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-bc-lions-at-ottawa-red-blacks/2/playlist.m3u8?tk=GLkVXITKVoNdzZGo4js9oQ&e=1788181795|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfl/2026-09-04/bc-mtl/playlist.m3u8?tk=a7poQeVy6G3QYxheaYYt3w&e=1788207382|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-bc-lions-at-montreal-alouettes/2/playlist.m3u8?tk=a7poQeVy6G3QYxheaYYt3w&e=1788207382|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "cfb/2026-09-04/utep-ou",
+    "title": "UTEP Miners at Oklahoma Sooners",
+    "league": "American Football",
+    "category": "american-football",
+    "date": 1788566400000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "UTEP Miners",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/f02pdz1564337050.png"
+      },
+      "away": {
+        "name": "Oklahoma Sooners",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/8mom0n1583961135.png"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-09-04/utep-ou/playlist.m3u8?tk=a7poQeVy6G3QYxheaYYt3w&e=1788207382|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-utep-miners-at-oklahoma-sooners/2/playlist.m3u8?tk=a7poQeVy6G3QYxheaYYt3w&e=1788207382|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "cfb/2026-09-04/mia-stan",
+    "title": "Miami Hurricanes at Stanford Cardinal",
+    "league": "American Football",
+    "category": "american-football",
+    "date": 1788570000000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Miami Hurricanes",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/0kqdcr1564336226.png"
+      },
+      "away": {
+        "name": "Stanford Cardinal",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/attl4l1635588375.png"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-09-04/mia-stan/playlist.m3u8?tk=hwYwF1J8q-uwhr7bgWI4fA&e=1788207383|Referer=https://ondemand.st",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "cfb/2026-09-04/fres-usc",
+    "title": "Fresno State Bulldogs at USC Trojans",
+    "league": "American Football",
+    "category": "american-football",
+    "date": 1788570000000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Fresno State Bulldogs",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/0hcagy1564335911.png"
+      },
+      "away": {
+        "name": "USC Trojans",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/4403h51564337013.png"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-09-04/fres-usc/playlist.m3u8?tk=hwYwF1J8q-uwhr7bgWI4fA&e=1788207383|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-fresno-state-bulldogs-at-usc-trojans/2/playlist.m3u8?tk=hwYwF1J8q-uwhr7bgWI4fA&e=1788207383|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "cfb/2026-09-05/unt-iu",
+    "title": "North Texas Mean Green at Indiana Hoosiers",
+    "league": "American Football",
+    "category": "american-football",
+    "date": 1788624000000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "North Texas Mean Green",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/pbaycq1564336435.png"
+      },
+      "away": {
+        "name": "Indiana Hoosiers",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/pwcsog1564336028.png"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-09-05/unt-iu/playlist.m3u8?tk=hwYwF1J8q-uwhr7bgWI4fA&e=1788207383|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-north-texas-mean-green-at-indiana-hoosiers/2/playlist.m3u8?tk=hwYwF1J8q-uwhr7bgWI4fA&e=1788207383|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "cfb/2026-09-05/ecu-ala",
+    "title": "East Carolina Pirates at Alabama Crimson Tide",
+    "league": "American Football",
+    "category": "american-football",
+    "date": 1788624000000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "East Carolina Pirates",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/tvf3xp1564335802.png"
+      },
+      "away": {
+        "name": "Alabama Crimson Tide",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/9phwqo1564335442.png"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-09-05/ecu-ala/playlist.m3u8?tk=d7EJbqLmwcpZghvXUkjEPQ&e=1788207384|Referer=https://ondemand.st",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "cfb/2026-09-05/orst-hou",
+    "title": "Oregon State Beavers at Houston Cougars",
+    "league": "American Football",
+    "category": "american-football",
+    "date": 1788624000000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Oregon State Beavers",
+        "badge": ""
+      },
+      "away": {
+        "name": "Houston Cougars",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/xznb791564335987.png"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-09-05/orst-hou/playlist.m3u8?tk=d7EJbqLmwcpZghvXUkjEPQ&e=1788207384|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-oregon-state-beavers-at-houston-cougars/2/playlist.m3u8?tk=d7EJbqLmwcpZghvXUkjEPQ&e=1788207384|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "cfb/2026-09-05/ball-osu",
+    "title": "Ball State Cardinals at Ohio State Buckeyes",
+    "league": "American Football",
+    "category": "american-football",
+    "date": 1788625800000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Ball State Cardinals",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/iyjm3g1564357880.png"
+      },
+      "away": {
+        "name": "Ohio State Buckeyes",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/zvb5721564356954.png"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-09-05/ball-osu/playlist.m3u8?tk=a_HdiTy23A8NHDofF4F7cw&e=1788207385|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-ball-state-cardinals-at-ohio-state-buckeyes/2/playlist.m3u8?tk=a_HdiTy23A8NHDofF4F7cw&e=1788207385|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "cfb/2026-09-05/tnst-uga",
+    "title": "Tennessee State Tigers at Georgia Bulldogs",
+    "league": "American Football",
+    "category": "american-football",
+    "date": 1788634800000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Tennessee State Tigers",
+        "badge": ""
+      },
+      "away": {
+        "name": "Georgia Bulldogs",
+        "badge": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-09-05/tnst-uga/playlist.m3u8?tk=a_HdiTy23A8NHDofF4F7cw&e=1788207385|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-tennessee-state-tigers-at-georgia-bulldogs/2/playlist.m3u8?tk=a_HdiTy23A8NHDofF4F7cw&e=1788207385|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "cfb/2026-09-05/bois-ore",
+    "title": "Boise State Broncos at Oregon Ducks",
+    "league": "American Football",
+    "category": "american-football",
+    "date": 1788636600000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Boise State Broncos",
+        "badge": ""
+      },
+      "away": {
+        "name": "Oregon Ducks",
+        "badge": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-09-05/bois-ore/playlist.m3u8?tk=a_HdiTy23A8NHDofF4F7cw&e=1788207385|Referer=https://ondemand.st",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "cfb/2026-09-05/txst-tex",
+    "title": "Texas State Bobcats at Texas Longhorns",
+    "league": "American Football",
+    "category": "american-football",
+    "date": 1788636600000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Texas State Bobcats",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/ux54w01564336819.png"
+      },
+      "away": {
+        "name": "Texas Longhorns",
+        "badge": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-09-05/txst-tex/playlist.m3u8?tk=ZeRUekKHLf0Mhu3-sHbv_g&e=1788207386|Referer=https://ondemand.st",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "cfb/2026-09-05/mrsh-psu",
+    "title": "Marshall Thundering Herd at Penn State Nittany Lions",
+    "league": "American Football",
+    "category": "american-football",
+    "date": 1788636600000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Marshall Thundering Herd",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/9hakac1643576435.png"
+      },
+      "away": {
+        "name": "Penn State Nittany Lions",
+        "badge": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-09-05/mrsh-psu/playlist.m3u8?tk=ZeRUekKHLf0Mhu3-sHbv_g&e=1788207386|Referer=https://ondemand.st",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "cfb/2026-09-05/fur-tenn",
+    "title": "Furman Paladins at Tennessee Volunteers",
+    "league": "American Football",
+    "category": "american-football",
+    "date": 1788636600000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Furman Paladins",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/49b9f21564356747.png"
+      },
+      "away": {
+        "name": "Tennessee Volunteers",
+        "badge": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-09-05/fur-tenn/playlist.m3u8?tk=wlkiDqsxeEXtuI_AoqkI6w&e=1788207387|Referer=https://ondemand.st",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "cfb/2026-09-05/niu-iowa",
+    "title": "Northern Illinois Huskies at Iowa Hawkeyes",
+    "league": "American Football",
+    "category": "american-football",
+    "date": 1788639300000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Northern Illinois Huskies",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/ptrbw61564336450.png"
+      },
+      "away": {
+        "name": "Iowa Hawkeyes",
+        "badge": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-09-05/niu-iowa/playlist.m3u8?tk=wlkiDqsxeEXtuI_AoqkI6w&e=1788207387|Referer=https://ondemand.st",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "cfb/2026-09-05/most-ta&m",
+    "title": "Missouri State Bears at Texas A&M Aggies",
+    "league": "American Football",
+    "category": "american-football",
+    "date": 1788649200000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Missouri State Bears",
+        "badge": ""
+      },
+      "away": {
+        "name": "Texas A&M Aggies",
+        "badge": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-09-05/most-ta&m/playlist.m3u8?tk=YOQfXmmhllyQtRaCaYPsIQ&e=1788207388|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-missouri-state-bears-at-texas-a-m-aggies/2/playlist.m3u8?tk=YOQfXmmhllyQtRaCaYPsIQ&e=1788207388|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "cfb/2026-09-05/acu-ttu",
+    "title": "Abilene Christian Wildcats at Texas Tech Red Raiders",
+    "league": "American Football",
+    "category": "american-football",
+    "date": 1788649200000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Abilene Christian Wildcats",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/208nt91767515186.png"
+      },
+      "away": {
+        "name": "Texas Tech Red Raiders",
+        "badge": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-09-05/acu-ttu/playlist.m3u8?tk=YOQfXmmhllyQtRaCaYPsIQ&e=1788207388|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-abilene-christian-wildcats-at-texas-tech-red-raiders/2/playlist.m3u8?tk=YOQfXmmhllyQtRaCaYPsIQ&e=1788207388|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "cfb/2026-09-05/clem-lsu",
+    "title": "Clemson Tigers at LSU Tigers",
+    "league": "American Football",
+    "category": "american-football",
+    "date": 1788651000000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Clemson Tigers",
+        "badge": ""
+      },
+      "away": {
+        "name": "LSU Tigers",
+        "badge": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-09-05/clem-lsu/playlist.m3u8?tk=YOQfXmmhllyQtRaCaYPsIQ&e=1788207388|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-clemson-tigers-at-lsu-tigers/2/playlist.m3u8?tk=YOQfXmmhllyQtRaCaYPsIQ&e=1788207388|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "cfb/2026-09-05/wmu-mich",
+    "title": "Western Michigan Broncos at Michigan Wolverines",
+    "league": "American Football",
+    "category": "american-football",
+    "date": 1788651000000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Western Michigan Broncos",
+        "badge": ""
+      },
+      "away": {
+        "name": "Michigan Wolverines",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/tcru5g1720216041.png"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-09-05/wmu-mich/playlist.m3u8?tk=Fzwyrd_fogh-BzU5eme1aw&e=1788207389|Referer=https://ondemand.st",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "cfb/2026-09-05/utu-byu",
+    "title": "Utah Tech Trailblazers at BYU Cougars",
+    "league": "American Football",
+    "category": "american-football",
+    "date": 1788652800000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Utah Tech Trailblazers",
+        "badge": ""
+      },
+      "away": {
+        "name": "BYU Cougars",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/81ut9q1767520735.png"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-09-05/utu-byu/playlist.m3u8?tk=Fzwyrd_fogh-BzU5eme1aw&e=1788207389|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-utah-tech-trailblazers-at-byu-cougars/2/playlist.m3u8?tk=Fzwyrd_fogh-BzU5eme1aw&e=1788207389|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "cfb/2026-09-06/wsu-wash",
+    "title": "Washington State Cougars at Washington Huskies",
+    "league": "American Football",
+    "category": "american-football",
+    "date": 1788724800000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Washington State Cougars",
+        "badge": ""
+      },
+      "away": {
+        "name": "Washington Huskies",
+        "badge": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-09-06/wsu-wash/playlist.m3u8?tk=wVY_0O-tkjvVCZ1IOaXV3w&e=1788207390|Referer=https://ondemand.st",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "cfl/2026-09-06/wpg-ssk",
+    "title": "Winnipeg Blue Bombers at Saskatchewan Roughriders",
+    "league": "American Football",
+    "category": "american-football",
+    "date": 1788735600000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Winnipeg Blue Bombers",
+        "badge": ""
+      },
+      "away": {
+        "name": "Saskatchewan Roughriders",
+        "badge": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfl/2026-09-06/wpg-ssk/playlist.m3u8?tk=wVY_0O-tkjvVCZ1IOaXV3w&e=1788207390|Referer=https://ondemand.st",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "cfb/2026-09-06/wis-nd",
+    "title": "Wisconsin Badgers at Notre Dame Fighting Irish",
+    "league": "American Football",
+    "category": "american-football",
+    "date": 1788737400000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Wisconsin Badgers",
+        "badge": ""
+      },
+      "away": {
+        "name": "Notre Dame Fighting Irish",
+        "badge": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-09-06/wis-nd/playlist.m3u8?tk=XL83l_Ef8BpAO5VscUbLmw&e=1788207391|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-wisconsin-badgers-at-notre-dame-fighting-irish/2/playlist.m3u8?tk=XL83l_Ef8BpAO5VscUbLmw&e=1788207391|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "cfb/2026-09-06/lou-miss",
+    "title": "Louisville Cardinals at Ole Miss Rebels",
+    "league": "American Football",
+    "category": "american-football",
+    "date": 1788737400000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Louisville Cardinals",
+        "badge": ""
+      },
+      "away": {
+        "name": "Ole Miss Rebels",
+        "badge": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-09-06/lou-miss/playlist.m3u8?tk=XL83l_Ef8BpAO5VscUbLmw&e=1788207391|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-louisville-cardinals-at-ole-miss-rebels/2/playlist.m3u8?tk=XL83l_Ef8BpAO5VscUbLmw&e=1788207391|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "cfb/2026-09-07/smu-fsu",
+    "title": "SMU Mustangs at Florida State Seminoles",
+    "league": "American Football",
+    "category": "american-football",
+    "date": 1788823800000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "SMU Mustangs",
+        "badge": ""
+      },
+      "away": {
+        "name": "Florida State Seminoles",
+        "badge": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-09-07/smu-fsu/playlist.m3u8?tk=XL83l_Ef8BpAO5VscUbLmw&e=1788207391|Referer=https://ondemand.st",
+    "sdUrl": ""
   }
 ]

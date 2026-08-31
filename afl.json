@@ -4,7 +4,7 @@
     "title": "Fox Footy",
     "league": "AFL",
     "category": "afl",
-    "date": 1788138603746,
+    "date": 1788164210801,
     "status": "live",
     "teams": {
       "home": {
@@ -16,7 +16,87 @@
         "badge": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/247-fox-footy/playlist.m3u8?tk=hTQMqILyoy1mkKfDhhw4TA&e=1788181803|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/247-fox-footy/playlist.m3u8?tk=8ay4lvmbR-kawGnh_AHNCg&e=1788207411|Referer=https://ondemand.st",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "afl/2026-09-03/fre-haw",
+    "title": "Fremantle vs. Hawthorn",
+    "league": "AFL",
+    "category": "afl",
+    "date": 1788430200000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Fremantle",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/hw34ii1647870691.png"
+      },
+      "away": {
+        "name": "Hawthorn",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/18y3ks1647870779.png"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/afl/2026-09-03/fre-haw/playlist.m3u8?tk=8ay4lvmbR-kawGnh_AHNCg&e=1788207411|Referer=https://ondemand.st",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "afl/2026-09-04/geel-carl",
+    "title": "Geelong Cats vs. Carlton",
+    "league": "AFL",
+    "category": "afl",
+    "date": 1788514800000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Geelong Cats",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/duu5zi1659039634.png"
+      },
+      "away": {
+        "name": "Carlton",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/5avf8e1696312605.png"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/afl/2026-09-04/geel-carl/playlist.m3u8?tk=raJfVAWZl4MT5y-815Ra1w&e=1788207412|Referer=https://ondemand.st",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "afl/2026-09-05/syd-bl",
+    "title": "Sydney Swans vs. Brisbane Lions",
+    "league": "AFL",
+    "category": "afl",
+    "date": 1788585300000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Sydney Swans",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/ndeir91647870648.png"
+      },
+      "away": {
+        "name": "Brisbane Lions",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/tvvxvp1474038810.png"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/afl/2026-09-05/syd-bl/playlist.m3u8?tk=raJfVAWZl4MT5y-815Ra1w&e=1788207412|Referer=https://ondemand.st",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "afl/2026-09-05/adel-wb",
+    "title": "Adelaide Crows vs. Western Bulldogs",
+    "league": "AFL",
+    "category": "afl",
+    "date": 1788600900000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Adelaide Crows",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/0d4wg71659039642.png"
+      },
+      "away": {
+        "name": "Western Bulldogs",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/psoxhx1659039658.png"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/afl/2026-09-05/adel-wb/playlist.m3u8?tk=HZy4qq96oY2Qcg5rlPx14g&e=1788207413|Referer=https://ondemand.st",
     "sdUrl": ""
   }
 ]
