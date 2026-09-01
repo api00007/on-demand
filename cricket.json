@@ -4,7 +4,7 @@
     "title": "Willow",
     "league": "Cricket",
     "category": "cricket",
-    "date": 1788212821411,
+    "date": 1788224601940,
     "status": "live",
     "teams": {
       "home": {
@@ -16,7 +16,7 @@
         "badge": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/247-willow/playlist.m3u8?tk=kuc0OwteeAtT-kQx2_wzcg&e=1788256021|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/247-willow/playlist.m3u8?tk=e5cD8PsuQBaXsq9FB0YNxQ&e=1788267802|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -24,7 +24,7 @@
     "title": "Fox Cricket",
     "league": "Cricket",
     "category": "cricket",
-    "date": 1788212821411,
+    "date": 1788224601940,
     "status": "live",
     "teams": {
       "home": {
@@ -36,16 +36,36 @@
         "badge": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/247-fox-cricket/playlist.m3u8?tk=0i9hvnAAwZmsTq24-Fk6uA&e=1788256022|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-fox-cricket/2/playlist.m3u8?tk=0i9hvnAAwZmsTq24-Fk6uA&e=1788256022|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/247-fox-cricket/playlist.m3u8?tk=PuqtNOskPHC3XREyp4CeBw&e=1788267803|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-fox-cricket/2/playlist.m3u8?tk=PuqtNOskPHC3XREyp4CeBw&e=1788267803|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "dl-england-vs-pakistan",
+    "title": "England vs Pakistan",
+    "league": "🏏 🏴 2nd test | day 5",
+    "category": "cricket",
+    "date": 1788256800000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "England",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/y5wcl81646775152.png"
+      },
+      "away": {
+        "name": "Pakistan",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/0iri471776184809.png"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/papi/tv/dlhd/346/playlist.m3u8|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-2-nd-test-england-vs-pakistan/playlist.m3u8?tk=PuqtNOskPHC3XREyp4CeBw&e=1788267803|Referer=https://ondemand.st"
   },
   {
     "matchId": "dl-bangladesh-vs-indonesia",
     "title": "Bangladesh vs Indonesia",
     "league": "🏏 🌏 women's t20 asia cup 2026",
     "category": "cricket",
-    "date": 1788186600000,
-    "status": "live",
+    "date": 1788273000000,
+    "status": "upcoming",
     "teams": {
       "home": {
         "name": "Bangladesh",
