@@ -5,10 +5,30 @@
     "league": "Golf",
     "category": "golf",
     "date": 1788246600000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "Solheim Cup | Bernardus, Cromvoirt, Netherlands | 7 – 13 September 2026",
+        "badge": ""
+      },
+      "away": {
+        "name": "",
+        "badge": ""
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "dl-golf-british-open-round-1",
+    "title": "British Open | Round 1",
+    "league": "Golf",
+    "category": "golf",
+    "date": 1788264000000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "British Open | Round 1",
         "badge": ""
       },
       "away": {
