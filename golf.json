@@ -4,7 +4,7 @@
     "title": "Solheim Cup | Bernardus, Cromvoirt, Netherlands | 7 – 13 September 2026",
     "league": "Golf",
     "category": "golf",
-    "date": 1788246600000,
+    "date": 1788333000000,
     "status": "upcoming",
     "teams": {
       "home": {
@@ -24,11 +24,51 @@
     "title": "British Open | Round 1",
     "league": "Golf",
     "category": "golf",
-    "date": 1788264000000,
-    "status": "live",
+    "date": 1788350400000,
+    "status": "upcoming",
     "teams": {
       "home": {
         "name": "British Open | Round 1",
+        "badge": ""
+      },
+      "away": {
+        "name": "",
+        "badge": ""
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "dl-golf-kpmg-women-s-irish-open-third-round",
+    "title": "KPMG Women's Irish Open, Third Round",
+    "league": "⛳ ladies european tour golf",
+    "category": "golf",
+    "date": 1788328800000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "KPMG Women's Irish Open, Third Round",
+        "badge": ""
+      },
+      "away": {
+        "name": "",
+        "badge": ""
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "dl-golf-big-break-legends",
+    "title": "Big Break Legends",
+    "league": "⛳ glam golf with blair o'neal",
+    "category": "golf",
+    "date": 1788307200000,
+    "status": "live",
+    "teams": {
+      "home": {
+        "name": "Big Break Legends",
         "badge": ""
       },
       "away": {

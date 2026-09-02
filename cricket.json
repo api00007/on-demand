@@ -4,7 +4,7 @@
     "title": "Willow",
     "league": "Cricket",
     "category": "cricket",
-    "date": 1788303998698,
+    "date": 1788319711673,
     "status": "live",
     "teams": {
       "home": {
@@ -16,7 +16,7 @@
         "badge": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/247-willow/playlist.m3u8?tk=7riA2UfTSXzLb9v-UwgRMg&e=1788347199|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/247-willow/playlist.m3u8?tk=wRhNTwLYL8gA8NHcTNgc8A&e=1788362912|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -24,7 +24,7 @@
     "title": "Fox Cricket",
     "league": "Cricket",
     "category": "cricket",
-    "date": 1788303998698,
+    "date": 1788319711673,
     "status": "live",
     "teams": {
       "home": {
@@ -36,16 +36,36 @@
         "badge": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/247-fox-cricket/playlist.m3u8?tk=7riA2UfTSXzLb9v-UwgRMg&e=1788347199|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-fox-cricket/2/playlist.m3u8?tk=7riA2UfTSXzLb9v-UwgRMg&e=1788347199|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/247-fox-cricket/playlist.m3u8?tk=r_yRHsV4f_GJBUXWNBiPRg&e=1788362913|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-fox-cricket/2/playlist.m3u8?tk=r_yRHsV4f_GJBUXWNBiPRg&e=1788362913|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "dl-england-w-vs-ireland-w",
+    "title": "England W vs Ireland W",
+    "league": "🏏 🇬🇧 one day international women",
+    "category": "cricket",
+    "date": 1788350400000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "England W",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/r89fvy1560074734.png"
+      },
+      "away": {
+        "name": "Ireland W",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/04g7h91679073129.png"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/papi/tv/dlhd/598/playlist.m3u8|Referer=https://ondemand.st",
+    "sdUrl": ""
   },
   {
     "matchId": "dl-glasgow-cosmic-vs-rotterdam-dockers",
     "title": "Glasgow Cosmic vs Rotterdam Dockers",
     "league": "🏏 🇪🇺 european t20 premier league",
     "category": "cricket",
-    "date": 1788267600000,
-    "status": "live",
+    "date": 1788354000000,
+    "status": "upcoming",
     "teams": {
       "home": {
         "name": "Glasgow Cosmic",
@@ -57,6 +77,66 @@
       }
     },
     "hlsUrl": "https://messi.damitv.st/papi/tv/dlhd/346/playlist.m3u8|Referer=https://ondemand.st",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "dl-dublin-guardians-vs-rotterdam-dockets",
+    "title": "Dublin Guardians vs Rotterdam Dockets",
+    "league": "🏏 european t20 premier league",
+    "category": "cricket",
+    "date": 1788339600000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Dublin Guardians",
+        "badge": ""
+      },
+      "away": {
+        "name": "Rotterdam Dockets",
+        "badge": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/papi/tv/dlhd/346/playlist.m3u8|Referer=https://ondemand.st",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "dl-belfast-wolves-vs-edinburgh-castle-rockers",
+    "title": "Belfast Wolves vs Edinburgh Castle Rockers",
+    "league": "🏏 european t20 premier league",
+    "category": "cricket",
+    "date": 1788353100000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Belfast Wolves",
+        "badge": ""
+      },
+      "away": {
+        "name": "Edinburgh Castle Rockers",
+        "badge": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/papi/tv/dlhd/346/playlist.m3u8|Referer=https://ondemand.st",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "dl-sri-lanka-vs-indonesia",
+    "title": "Sri Lanka vs Indonesia",
+    "league": "🏏 women's t20 asia cup 2026",
+    "category": "cricket",
+    "date": 1788359400000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Sri Lanka",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/1nz2oj1718412011.png"
+      },
+      "away": {
+        "name": "Indonesia",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/hkg0st1656933330.png"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/papi/tv/dlhd/598/playlist.m3u8|Referer=https://ondemand.st",
     "sdUrl": ""
   }
 ]
