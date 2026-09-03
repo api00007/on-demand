@@ -4,7 +4,7 @@
     "title": "Solheim Cup | Bernardus, Cromvoirt, Netherlands | 7 – 13 September 2026",
     "league": "Golf",
     "category": "golf",
-    "date": 1788333000000,
+    "date": 1788419400000,
     "status": "upcoming",
     "teams": {
       "home": {
@@ -24,7 +24,7 @@
     "title": "KPMG Women's Irish Open, Third Round",
     "league": "⛳ ladies european tour golf",
     "category": "golf",
-    "date": 1788328800000,
+    "date": 1788415200000,
     "status": "upcoming",
     "teams": {
       "home": {
@@ -44,11 +44,31 @@
     "title": "Big Break Legends",
     "league": "⛳ glam golf with blair o'neal",
     "category": "golf",
-    "date": 1788307200000,
-    "status": "upcoming",
+    "date": 1788393600000,
+    "status": "live",
     "teams": {
       "home": {
         "name": "Big Break Legends",
+        "badge": ""
+      },
+      "away": {
+        "name": "",
+        "badge": ""
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "dl-golf-dp-world-tour-omega-european-masters",
+    "title": "DP World Tour Omega European Masters",
+    "league": "Golf",
+    "category": "golf",
+    "date": 1788435000000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "DP World Tour Omega European Masters",
         "badge": ""
       },
       "away": {

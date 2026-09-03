@@ -4,7 +4,7 @@
     "title": "Willow",
     "league": "Cricket",
     "category": "cricket",
-    "date": 1788390301857,
+    "date": 1788406200750,
     "status": "live",
     "teams": {
       "home": {
@@ -16,7 +16,7 @@
         "badge": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/247-willow/playlist.m3u8?tk=-Y3rLDwsYAu1efJYRChfbQ&e=1788433502|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/247-willow/playlist.m3u8?tk=hI8BaynexHE3bBRH78Xrmg&e=1788449401|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -24,7 +24,7 @@
     "title": "Fox Cricket",
     "league": "Cricket",
     "category": "cricket",
-    "date": 1788390301857,
+    "date": 1788406200750,
     "status": "live",
     "teams": {
       "home": {
@@ -36,16 +36,36 @@
         "badge": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/247-fox-cricket/playlist.m3u8?tk=qylG6rlkDPJdk6RnTe77PA&e=1788433503|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-fox-cricket/2/playlist.m3u8?tk=qylG6rlkDPJdk6RnTe77PA&e=1788433503|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/247-fox-cricket/playlist.m3u8?tk=OFMrQ83gyAWaswQB1TrzvA&e=1788449402|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-fox-cricket/2/playlist.m3u8?tk=OFMrQ83gyAWaswQB1TrzvA&e=1788449402|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "dl-dublin-guardians-vs-rotterdam-dockets",
+    "title": "Dublin Guardians vs Rotterdam Dockets",
+    "league": "🏏 european t20 premier league",
+    "category": "cricket",
+    "date": 1788426000000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Dublin Guardians",
+        "badge": ""
+      },
+      "away": {
+        "name": "Rotterdam Dockets",
+        "badge": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/papi/tv/dlhd/346/playlist.m3u8|Referer=https://ondemand.st",
+    "sdUrl": ""
   },
   {
     "matchId": "dl-belfast-wolves-vs-edinburgh-castle-rockers",
     "title": "Belfast Wolves vs Edinburgh Castle Rockers",
     "league": "🏏 european t20 premier league",
     "category": "cricket",
-    "date": 1788353100000,
-    "status": "live",
+    "date": 1788439500000,
+    "status": "upcoming",
     "teams": {
       "home": {
         "name": "Belfast Wolves",
@@ -64,8 +84,8 @@
     "title": "Sri Lanka vs Indonesia",
     "league": "🏏 women's t20 asia cup 2026",
     "category": "cricket",
-    "date": 1788359400000,
-    "status": "live",
+    "date": 1788445800000,
+    "status": "upcoming",
     "teams": {
       "home": {
         "name": "Sri Lanka",
@@ -77,6 +97,46 @@
       }
     },
     "hlsUrl": "https://messi.damitv.st/papi/tv/dlhd/598/playlist.m3u8|Referer=https://ondemand.st",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "dl-england-w-vs-ireland-w",
+    "title": "England W vs Ireland W",
+    "league": "🏏 🏴 one day international women",
+    "category": "cricket",
+    "date": 1788436800000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "England W",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/r89fvy1560074734.png"
+      },
+      "away": {
+        "name": "Ireland W",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/04g7h91679073129.png"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/papi/tv/dlhd/598/playlist.m3u8|Referer=https://ondemand.st",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "dl-amsterdam-flames-vs-glasgow-cosmic",
+    "title": "Amsterdam Flames vs Glasgow Cosmic",
+    "league": "🏏 🌍 european t20 premier league",
+    "category": "cricket",
+    "date": 1788439500000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Amsterdam Flames",
+        "badge": ""
+      },
+      "away": {
+        "name": "Glasgow Cosmic",
+        "badge": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/papi/tv/dlhd/346/playlist.m3u8|Referer=https://ondemand.st",
     "sdUrl": ""
   }
 ]
