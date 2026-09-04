@@ -4,7 +4,7 @@
     "title": "Willow",
     "league": "Cricket",
     "category": "cricket",
-    "date": 1788476566964,
+    "date": 1788492462861,
     "status": "live",
     "teams": {
       "home": {
@@ -16,7 +16,7 @@
         "badge": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/247-willow/playlist.m3u8?tk=IbL4AQSN90EenhswIc0_Dg&e=1788519767|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/247-willow/playlist.m3u8?tk=scQUXuDKyCegslxMXu2xhg&e=1788535664|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -24,7 +24,7 @@
     "title": "Fox Cricket",
     "league": "Cricket",
     "category": "cricket",
-    "date": 1788476566964,
+    "date": 1788492462861,
     "status": "live",
     "teams": {
       "home": {
@@ -36,16 +36,16 @@
         "badge": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/247-fox-cricket/playlist.m3u8?tk=PKtXd5lMlE3lv8ZBc9Ns5A&e=1788519768|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-fox-cricket/2/playlist.m3u8?tk=PKtXd5lMlE3lv8ZBc9Ns5A&e=1788519768|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/247-fox-cricket/playlist.m3u8?tk=scQUXuDKyCegslxMXu2xhg&e=1788535664|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-fox-cricket/2/playlist.m3u8?tk=scQUXuDKyCegslxMXu2xhg&e=1788535664|Referer=https://ondemand.st"
   },
   {
     "matchId": "dl-england-w-vs-ireland-w",
     "title": "England W vs Ireland W",
     "league": "🏏 🏴 one day international women",
     "category": "cricket",
-    "date": 1788436800000,
-    "status": "live",
+    "date": 1788523200000,
+    "status": "upcoming",
     "teams": {
       "home": {
         "name": "England W",
@@ -56,7 +56,7 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/04g7h91679073129.png"
       }
     },
-    "hlsUrl": "",
+    "hlsUrl": "https://messi.damitv.st/papi/tv/dlhd/598/playlist.m3u8|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -64,8 +64,8 @@
     "title": "Amsterdam Flames vs Glasgow Cosmic",
     "league": "🏏 🌍 european t20 premier league",
     "category": "cricket",
-    "date": 1788439500000,
-    "status": "live",
+    "date": 1788525900000,
+    "status": "upcoming",
     "teams": {
       "home": {
         "name": "Amsterdam Flames",
@@ -77,6 +77,46 @@
       }
     },
     "hlsUrl": "https://messi.damitv.st/papi/tv/dlhd/346/playlist.m3u8|Referer=https://ondemand.st",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "dl-glasgow-cosmic-vs-belfast-wolves",
+    "title": "Glasgow Cosmic vs Belfast Wolves",
+    "league": "🏏 european t20 premier league",
+    "category": "cricket",
+    "date": 1788526800000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Glasgow Cosmic",
+        "badge": ""
+      },
+      "away": {
+        "name": "Belfast Wolves",
+        "badge": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/papi/tv/dlhd/346/playlist.m3u8|Referer=https://ondemand.st",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "dl-women-s-t20-asia-cup-2026-uae-vs-indonesia",
+    "title": "Women'S T20 Asia Cup 2026 - Uae vs Indonesia",
+    "league": "",
+    "category": "cricket",
+    "date": 1788532200000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Women'S T20 Asia Cup 2026 - Uae",
+        "badge": ""
+      },
+      "away": {
+        "name": "Indonesia",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/hkg0st1656933330.png"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/papi/tv/dlhd/598/playlist.m3u8|Referer=https://ondemand.st",
     "sdUrl": ""
   }
 ]
