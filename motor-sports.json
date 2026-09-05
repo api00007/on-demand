@@ -1,25 +1,5 @@
 [
   {
-    "matchId": "f1/2026/italy/fp3",
-    "title": "Italian Grand Prix - Practice 3",
-    "league": "Motorsports",
-    "category": "motor-sports",
-    "date": 1788604200000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Italian Grand Prix - Practice 3",
-        "badge": ""
-      },
-      "away": {
-        "name": "",
-        "badge": ""
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/f1/2026/italy/fp3/playlist.m3u8?tk=A9LWuVbI7L9aSOChhCbxrw&e=1788646192|Referer=https://ondemand.st",
-    "sdUrl": ""
-  },
-  {
     "matchId": "f1/2026/italy/qualifying",
     "title": "Italian Grand Prix - Qualifying",
     "league": "Motorsports",
@@ -36,8 +16,8 @@
         "badge": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/f1/2026/italy/qualifying/playlist.m3u8?tk=A9LWuVbI7L9aSOChhCbxrw&e=1788646192|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-italian-grand-prix-practice-1/2/playlist.m3u8?tk=A9LWuVbI7L9aSOChhCbxrw&e=1788646192|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/f1/2026/italy/qualifying/playlist.m3u8?tk=-3b5AdPSn5U5IMRb_yoWgg&e=1788659089|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-italian-grand-prix-qualifying/2/playlist.m3u8?tk=-3b5AdPSn5U5IMRb_yoWgg&e=1788659089|Referer=https://ondemand.st"
   },
   {
     "matchId": "f1/2026/italy/race",
@@ -56,8 +36,8 @@
         "badge": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/f1/2026/italy/race/playlist.m3u8?tk=EFltXH8nG1m1iUkSV6d7SA&e=1788646193|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-italian-grand-prix-race/2/playlist.m3u8?tk=EFltXH8nG1m1iUkSV6d7SA&e=1788646193|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/f1/2026/italy/race/playlist.m3u8?tk=-3b5AdPSn5U5IMRb_yoWgg&e=1788659089|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-italian-grand-prix-qualifying/2/playlist.m3u8?tk=-3b5AdPSn5U5IMRb_yoWgg&e=1788659089|Referer=https://ondemand.st"
   },
   {
     "matchId": "dl-moto-french-round-sportbike-race-1",
@@ -65,7 +45,7 @@
     "league": "🏎️ fim superbike world championship motorcycle racing",
     "category": "motor-sports",
     "date": 1788605100000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "French Round: Sportbike Race 1",
