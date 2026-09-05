@@ -16,7 +16,7 @@
         "badge": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/f1/2026/italy/fp3/playlist.m3u8?tk=WBWhd3CR7jPAzz5sWZnDkw&e=1788612141|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/f1/2026/italy/fp3/playlist.m3u8?tk=stKnMqfYRI8sqjS7Pz0tEQ&e=1788628949|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -36,7 +36,7 @@
         "badge": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/f1/2026/italy/qualifying/playlist.m3u8?tk=WBWhd3CR7jPAzz5sWZnDkw&e=1788612141|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/f1/2026/italy/qualifying/playlist.m3u8?tk=stKnMqfYRI8sqjS7Pz0tEQ&e=1788628949|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -56,7 +56,27 @@
         "badge": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/f1/2026/italy/race/playlist.m3u8?tk=tub5mQ49ViYbCjqi3P5tPA&e=1788612142|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-italian-grand-prix-race/2/playlist.m3u8?tk=tub5mQ49ViYbCjqi3P5tPA&e=1788612142|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/f1/2026/italy/race/playlist.m3u8?tk=stKnMqfYRI8sqjS7Pz0tEQ&e=1788628949|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-italian-grand-prix-race/2/playlist.m3u8?tk=stKnMqfYRI8sqjS7Pz0tEQ&e=1788628949|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "dl-moto-french-round-sportbike-race-1",
+    "title": "French Round: Sportbike Race 1",
+    "league": "🏎️ fim superbike world championship motorcycle racing",
+    "category": "motor-sports",
+    "date": 1788605100000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "French Round: Sportbike Race 1",
+        "badge": ""
+      },
+      "away": {
+        "name": "",
+        "badge": ""
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
   }
 ]
