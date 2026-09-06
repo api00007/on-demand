@@ -4,7 +4,7 @@
     "title": "Willow",
     "league": "Cricket",
     "category": "cricket",
-    "date": 1788648491585,
+    "date": 1788655262653,
     "status": "live",
     "teams": {
       "home": {
@@ -16,7 +16,7 @@
         "badge": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/247-willow/playlist.m3u8?tk=-SzMYux9QghxiqxMH4jtFw&e=1788691692|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/247-willow/playlist.m3u8?tk=hn-PQ0d-Ah-JaRFsxo1uQQ&e=1788698463|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -24,7 +24,7 @@
     "title": "Fox Cricket",
     "league": "Cricket",
     "category": "cricket",
-    "date": 1788648491585,
+    "date": 1788655262653,
     "status": "live",
     "teams": {
       "home": {
@@ -36,16 +36,36 @@
         "badge": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/247-fox-cricket/playlist.m3u8?tk=-SzMYux9QghxiqxMH4jtFw&e=1788691692|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-fox-cricket/2/playlist.m3u8?tk=-SzMYux9QghxiqxMH4jtFw&e=1788691692|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/247-fox-cricket/playlist.m3u8?tk=hn-PQ0d-Ah-JaRFsxo1uQQ&e=1788698463|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-fox-cricket/2/playlist.m3u8?tk=hn-PQ0d-Ah-JaRFsxo1uQQ&e=1788698463|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "dl-rotterdam-dockers-vs-edinburgh-castle-rockers",
+    "title": "Rotterdam Dockers vs Edinburgh Castle Rockers",
+    "league": "🏏 european t20 premier league",
+    "category": "cricket",
+    "date": 1788686100000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Rotterdam Dockers",
+        "badge": ""
+      },
+      "away": {
+        "name": "Edinburgh Castle Rockers",
+        "badge": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/papi/tv/dlhd/346/playlist.m3u8|Referer=https://ondemand.st",
+    "sdUrl": ""
   },
   {
     "matchId": "dl-dublin-guardians-vs-amsterdam-flames",
     "title": "Dublin Guardians vs Amsterdam Flames",
     "league": "🏏 european t20 premier league",
     "category": "cricket",
-    "date": 1788612300000,
-    "status": "live",
+    "date": 1788698700000,
+    "status": "upcoming",
     "teams": {
       "home": {
         "name": "Dublin Guardians",
@@ -64,8 +84,8 @@
     "title": "India vs Pakistan",
     "league": "🏏 women's t20 asia cup 2026",
     "category": "cricket",
-    "date": 1788618600000,
-    "status": "live",
+    "date": 1788705000000,
+    "status": "upcoming",
     "teams": {
       "home": {
         "name": "India",
