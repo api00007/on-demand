@@ -1,145 +1,5 @@
 [
   {
-    "matchId": "mlb/2026-09-06/chc-mia",
-    "title": "Chicago Cubs vs. Miami Marlins",
-    "league": "MLB",
-    "category": "baseball",
-    "date": 1788716400000,
-    "status": "live",
-    "teams": {
-      "home": {
-        "name": "Chicago Cubs",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/0722fs1546001701.png"
-      },
-      "away": {
-        "name": "Miami Marlins",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/wxbe071521892391.png"
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mlb/2026-09-06/chc-mia/playlist.m3u8?tk=4rZ8d853__EGA83pKnlduA&e=1788772075|Referer=https://ondemand.st",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "mlb/2026-09-06/det-cle",
-    "title": "Detroit Tigers vs. Cleveland Guardians",
-    "league": "MLB",
-    "category": "baseball",
-    "date": 1788716400000,
-    "status": "live",
-    "teams": {
-      "home": {
-        "name": "Detroit Tigers",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/3zvzao1640964590.png"
-      },
-      "away": {
-        "name": "Cleveland Guardians",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/9dib6o1554032173.png"
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mlb/2026-09-06/det-cle/playlist.m3u8?tk=sHCrW9tN7L9lqHjbeXxI2g&e=1788772076|Referer=https://ondemand.st",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "mlb/2026-09-06/sf-nym",
-    "title": "San Francisco Giants vs. New York Mets",
-    "league": "MLB",
-    "category": "baseball",
-    "date": 1788716400000,
-    "status": "live",
-    "teams": {
-      "home": {
-        "name": "San Francisco Giants",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/6wt1cn1617527530.png"
-      },
-      "away": {
-        "name": "New York Mets",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/wqwwxx1423478766.png"
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mlb/2026-09-06/sf-nym/playlist.m3u8?tk=sHCrW9tN7L9lqHjbeXxI2g&e=1788772076|Referer=https://ondemand.st",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "mlb/2026-09-06/ari-hou",
-    "title": "Arizona Diamondbacks vs. Houston Astros",
-    "league": "MLB",
-    "category": "baseball",
-    "date": 1788718200000,
-    "status": "live",
-    "teams": {
-      "home": {
-        "name": "Arizona Diamondbacks",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/miwigx1521893583.png"
-      },
-      "away": {
-        "name": "Houston Astros",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/xe5wlo1713861863.png"
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mlb/2026-09-06/ari-hou/playlist.m3u8?tk=mgoac2gREpzLbMSzWdLiyA&e=1788772077|Referer=https://ondemand.st",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "mlb/2026-09-06/tor-kc",
-    "title": "Toronto Blue Jays vs. Kansas City Royals",
-    "league": "MLB",
-    "category": "baseball",
-    "date": 1788718200000,
-    "status": "live",
-    "teams": {
-      "home": {
-        "name": "Toronto Blue Jays",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/ii3rz81554031260.png"
-      },
-      "away": {
-        "name": "Kansas City Royals",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/f9zk3l1617527686.png"
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mlb/2026-09-06/tor-kc/playlist.m3u8?tk=mgoac2gREpzLbMSzWdLiyA&e=1788772077|Referer=https://ondemand.st",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "mlb/2026-09-06/tb-tex",
-    "title": "Tampa Bay Rays vs. Texas Rangers",
-    "league": "MLB",
-    "category": "baseball",
-    "date": 1788719700000,
-    "status": "live",
-    "teams": {
-      "home": {
-        "name": "Tampa Bay Rays",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/qt9qki1521893151.png"
-      },
-      "away": {
-        "name": "Texas Rangers",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/littyt1554031623.png"
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mlb/2026-09-06/tb-tex/playlist.m3u8?tk=8MtK0M8u5mlAs1zUV5lnEQ&e=1788772078|Referer=https://ondemand.st",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "mlb/2026-09-06/stl-col",
-    "title": "St. Louis Cardinals vs. Colorado Rockies",
-    "league": "MLB",
-    "category": "baseball",
-    "date": 1788721800000,
-    "status": "live",
-    "teams": {
-      "home": {
-        "name": "St. Louis Cardinals",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/r7q6ko1687608395.png"
-      },
-      "away": {
-        "name": "Colorado Rockies",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/uvyvyr1424003273.png"
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mlb/2026-09-06/stl-col/playlist.m3u8?tk=8MtK0M8u5mlAs1zUV5lnEQ&e=1788772078|Referer=https://ondemand.st",
-    "sdUrl": ""
-  },
-  {
     "matchId": "mlb/2026-09-06/ath-sea",
     "title": "Athletics vs. Seattle Mariners",
     "league": "MLB",
@@ -156,8 +16,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/cyvrv31741640777.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mlb/2026-09-06/ath-sea/playlist.m3u8?tk=8MtK0M8u5mlAs1zUV5lnEQ&e=1788772078|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-athletics-vs-seattle-mariners/2/playlist.m3u8?tk=8MtK0M8u5mlAs1zUV5lnEQ&e=1788772078|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mlb/2026-09-06/ath-sea/playlist.m3u8?tk=gzDlZRR5a7UPqu872zJNBA&e=1788780903|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-athletics-vs-seattle-mariners/2/playlist.m3u8?tk=gzDlZRR5a7UPqu872zJNBA&e=1788780903|Referer=https://ondemand.st"
   },
   {
     "matchId": "mlb/2026-09-06/nyy-sd",
@@ -176,7 +36,7 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/wqwwxx1423478766.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mlb/2026-09-06/nyy-sd/playlist.m3u8?tk=VLey30PiQ3XUdl9qH7jC4A&e=1788772079|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mlb/2026-09-06/nyy-sd/playlist.m3u8?tk=gzDlZRR5a7UPqu872zJNBA&e=1788780903|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -185,7 +45,7 @@
     "league": "MLB",
     "category": "baseball",
     "date": 1788733200000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "Minnesota Twins",
@@ -196,7 +56,7 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/necd5v1521905719.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mlb/2026-09-06/min-chw/playlist.m3u8?tk=VLey30PiQ3XUdl9qH7jC4A&e=1788772079|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mlb/2026-09-06/min-chw/playlist.m3u8?tk=5mc8a-ee9h8Zj3B9GzYUMA&e=1788780904|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -216,7 +76,7 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/wpqrut1423694764.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mlb/2026-09-06/wsh-lad/playlist.m3u8?tk=h2Xgxm7rWhNakeRS8sMzhw&e=1788772080|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-washington-nationals-vs-los-angeles-dodgers/2/playlist.m3u8?tk=h2Xgxm7rWhNakeRS8sMzhw&e=1788772080|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mlb/2026-09-06/wsh-lad/playlist.m3u8?tk=5mc8a-ee9h8Zj3B9GzYUMA&e=1788780904|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-washington-nationals-vs-los-angeles-dodgers/2/playlist.m3u8?tk=5mc8a-ee9h8Zj3B9GzYUMA&e=1788780904|Referer=https://ondemand.st"
   }
 ]
