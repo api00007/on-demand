@@ -16,8 +16,8 @@
         "badge": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/f1/2026/italy/race/playlist.m3u8?tk=r28hAGdf5M0IhXeqjDz__g&e=1788698485|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-italian-grand-prix-qualifying/2/playlist.m3u8?tk=r28hAGdf5M0IhXeqjDz__g&e=1788698485|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/f1/2026/italy/race/playlist.m3u8?tk=O3iYlXDVEPu_rB6r18hWMA&e=1788716321|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-italian-grand-prix-qualifying/2/playlist.m3u8?tk=O3iYlXDVEPu_rB6r18hWMA&e=1788716321|Referer=https://ondemand.st"
   },
   {
     "matchId": "dl-moto-french-round-sportbike-race-1",
@@ -29,6 +29,86 @@
     "teams": {
       "home": {
         "name": "French Round: Sportbike Race 1",
+        "badge": ""
+      },
+      "away": {
+        "name": "",
+        "badge": ""
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "dl-moto-turkey-world-championship-mx2-race-1",
+    "title": "Turkey World Championship | MX2 | Race 1",
+    "league": "motor-sports",
+    "category": "motor-sports",
+    "date": 1788688800000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Turkey World Championship | MX2 | Race 1",
+        "badge": ""
+      },
+      "away": {
+        "name": "",
+        "badge": ""
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "dl-moto-turkey-world-championship-mxgp-race-1",
+    "title": "Turkey World Championship | MXGP | Race 1",
+    "league": "motor-sports",
+    "category": "motor-sports",
+    "date": 1788692400000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Turkey World Championship | MXGP | Race 1",
+        "badge": ""
+      },
+      "away": {
+        "name": "",
+        "badge": ""
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "dl-moto-turkey-world-championship-mx2-race-2",
+    "title": "Turkey World Championship | MX2 | Race 2",
+    "league": "motor-sports",
+    "category": "motor-sports",
+    "date": 1788699600000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Turkey World Championship | MX2 | Race 2",
+        "badge": ""
+      },
+      "away": {
+        "name": "",
+        "badge": ""
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "dl-moto-turkey-world-championship-mxgp-race-2",
+    "title": "Turkey World Championship | MXGP | Race 2",
+    "league": "motor-sports",
+    "category": "motor-sports",
+    "date": 1788703200000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Turkey World Championship | MXGP | Race 2",
         "badge": ""
       },
       "away": {
