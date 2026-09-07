@@ -4,7 +4,7 @@
     "title": "Fox Footy",
     "league": "AFL",
     "category": "afl",
-    "date": 1788751761183,
+    "date": 1788771926291,
     "status": "live",
     "teams": {
       "home": {
@@ -16,7 +16,47 @@
         "badge": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/247-fox-footy/playlist.m3u8?tk=AOauqJnZY7kETy5l6Kvv4w&e=1788794961|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/247-fox-footy/playlist.m3u8?tk=PpaHGDuccEHH0opXxeWa4A&e=1788815126|Referer=https://ondemand.st",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "afl/2026-09-11/fre-geel",
+    "title": "Fremantle vs. Geelong Cats",
+    "league": "AFL",
+    "category": "afl",
+    "date": 1789121400000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Fremantle",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/ob28r71712755235.png"
+      },
+      "away": {
+        "name": "Geelong Cats",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/duu5zi1659039634.png"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/afl/2026-09-11/fre-geel/playlist.m3u8?tk=8PJsnacz6m8cY-8Q8NHrTA&e=1788815127|Referer=https://ondemand.st",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "afl/2026-09-12/bl-adel",
+    "title": "Brisbane Lions vs. Adelaide Crows",
+    "league": "AFL",
+    "category": "afl",
+    "date": 1789205700000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Brisbane Lions",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/tvvxvp1474038810.png"
+      },
+      "away": {
+        "name": "Adelaide Crows",
+        "badge": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/afl/2026-09-12/bl-adel/playlist.m3u8?tk=8PJsnacz6m8cY-8Q8NHrTA&e=1788815127|Referer=https://ondemand.st",
     "sdUrl": ""
   }
 ]

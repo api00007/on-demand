@@ -4,7 +4,7 @@
     "title": "Fox League",
     "league": "Rugby",
     "category": "rugby",
-    "date": 1788751754382,
+    "date": 1788771917587,
     "status": "live",
     "teams": {
       "home": {
@@ -16,7 +16,87 @@
         "badge": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/247-fox-league/playlist.m3u8?tk=YuJCRtuGPwJXG7gGgMnWRQ&e=1788794954|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-fox-league/2/playlist.m3u8?tk=YuJCRtuGPwJXG7gGgMnWRQ&e=1788794954|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/247-fox-league/playlist.m3u8?tk=Pp_hKpQXTqEzGyluyHx-mw&e=1788815118|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-fox-league/2/playlist.m3u8?tk=Pp_hKpQXTqEzGyluyHx-mw&e=1788815118|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "nrl/2026-09-11/sou-new",
+    "title": "Rabbitohs vs. Knights",
+    "league": "NRL",
+    "category": "rugby",
+    "date": 1789120200000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Rabbitohs",
+        "badge": ""
+      },
+      "away": {
+        "name": "Knights",
+        "badge": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nrl/2026-09-11/sou-new/playlist.m3u8?tk=Pp_hKpQXTqEzGyluyHx-mw&e=1788815118|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-rabbitohs-vs-knights/2/playlist.m3u8?tk=Pp_hKpQXTqEzGyluyHx-mw&e=1788815118|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "nrl/2026-09-12/new-dol",
+    "title": "Warriors vs. Dolphins",
+    "league": "NRL",
+    "category": "rugby",
+    "date": 1789193100000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Warriors",
+        "badge": ""
+      },
+      "away": {
+        "name": "Dolphins",
+        "badge": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nrl/2026-09-12/new-dol/playlist.m3u8?tk=hZhC_UR3CmSZDQvf4UvuiA&e=1788815119|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-warriors-vs-dolphins/2/playlist.m3u8?tk=hZhC_UR3CmSZDQvf4UvuiA&e=1788815119|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "nrl/2026-09-12/cro-nor",
+    "title": "Sharks vs. Cowboys",
+    "league": "NRL",
+    "category": "rugby",
+    "date": 1789206600000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Sharks",
+        "badge": ""
+      },
+      "away": {
+        "name": "Cowboys",
+        "badge": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nrl/2026-09-12/cro-nor/playlist.m3u8?tk=3_J_m395doGhWLiGFCJNXg&e=1788815120|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-sharks-vs-cowboys/2/playlist.m3u8?tk=3_J_m395doGhWLiGFCJNXg&e=1788815120|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "nrl/2026-09-13/pen-syd",
+    "title": "Panthers vs. Roosters",
+    "league": "NRL",
+    "category": "rugby",
+    "date": 1789279500000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Panthers",
+        "badge": ""
+      },
+      "away": {
+        "name": "Roosters",
+        "badge": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nrl/2026-09-13/pen-syd/playlist.m3u8?tk=3_J_m395doGhWLiGFCJNXg&e=1788815120|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-panthers-vs-roosters/2/playlist.m3u8?tk=3_J_m395doGhWLiGFCJNXg&e=1788815120|Referer=https://ondemand.st"
   }
 ]
