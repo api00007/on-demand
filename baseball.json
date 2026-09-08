@@ -1,31 +1,11 @@
 [
   {
-    "matchId": "mlb/2026-09-07/min-det",
-    "title": "Minnesota Twins vs. Detroit Tigers",
-    "league": "MLB",
-    "category": "baseball",
-    "date": 1788808200000,
-    "status": "live",
-    "teams": {
-      "home": {
-        "name": "Minnesota Twins",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/9dib6o1554032173.png"
-      },
-      "away": {
-        "name": "Detroit Tigers",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/necd5v1521905719.png"
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mlb/2026-09-07/min-det/playlist.m3u8?tk=gIohrE7yWJFdDvcTDw1MBw&e=1788863850|Referer=https://ondemand.st",
-    "sdUrl": ""
-  },
-  {
     "matchId": "mlb/2026-09-07/wsh-sd",
     "title": "Washington Nationals vs. San Diego Padres",
     "league": "MLB",
     "category": "baseball",
     "date": 1788815400000,
-    "status": "live",
+    "status": "ended",
     "teams": {
       "home": {
         "name": "Washington Nationals",
@@ -36,7 +16,7 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/wpqrut1423694764.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mlb/2026-09-07/wsh-sd/playlist.m3u8?tk=5UmbvrX0zjo2G_aHiOghMg&e=1788863851|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mlb/2026-09-07/wsh-sd/playlist.m3u8?tk=phK9IkUboYfatSp1Re9LWw&e=1788872427|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -45,7 +25,7 @@
     "league": "MLB",
     "category": "baseball",
     "date": 1788826200000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "St. Louis Cardinals",
@@ -56,7 +36,7 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/uvyvyr1424003273.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mlb/2026-09-07/stl-sf/playlist.m3u8?tk=5UmbvrX0zjo2G_aHiOghMg&e=1788863851|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mlb/2026-09-07/stl-sf/playlist.m3u8?tk=phK9IkUboYfatSp1Re9LWw&e=1788872427|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -76,8 +56,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/wspusr1431538832.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mlb/2026-09-07/cin-lad/playlist.m3u8?tk=Tuy_Z4eFLWy-gZ9rJ1jUPA&e=1788863852|Referer=https://ondemand.st",
-    "sdUrl": ""
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mlb/2026-09-07/cin-lad/playlist.m3u8?tk=phK9IkUboYfatSp1Re9LWw&e=1788872427|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-cincinnati-reds-vs-los-angeles-dodgers/2/playlist.m3u8?tk=phK9IkUboYfatSp1Re9LWw&e=1788872427|Referer=https://ondemand.st"
   },
   {
     "matchId": "mlb/2026-09-07/tor-ath",
@@ -96,7 +76,7 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/f9zk3l1617527686.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mlb/2026-09-07/tor-ath/playlist.m3u8?tk=Tuy_Z4eFLWy-gZ9rJ1jUPA&e=1788863852|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mlb/2026-09-07/tor-ath/playlist.m3u8?tk=HJ5G5PJVRrwQd6P1sDtD5Q&e=1788872428|Referer=https://ondemand.st",
     "sdUrl": ""
   }
 ]
