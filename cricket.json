@@ -4,7 +4,7 @@
     "title": "Willow",
     "league": "Cricket",
     "category": "cricket",
-    "date": 1788911712795,
+    "date": 1788925216041,
     "status": "live",
     "teams": {
       "home": {
@@ -16,7 +16,7 @@
         "badge": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/247-willow/playlist.m3u8?tk=9OhduNENVZMi87ZszKMDxw&e=1788954913|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/247-willow/playlist.m3u8?tk=jekcV1DC9ON4Reg_C7vr1A&e=1788968418|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -24,7 +24,7 @@
     "title": "Fox Cricket",
     "league": "Cricket",
     "category": "cricket",
-    "date": 1788911712795,
+    "date": 1788925216041,
     "status": "live",
     "teams": {
       "home": {
@@ -36,16 +36,16 @@
         "badge": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/247-fox-cricket/playlist.m3u8?tk=aGs6igDyySNWBAed1BZ3hw&e=1788954914|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-fox-cricket/2/playlist.m3u8?tk=aGs6igDyySNWBAed1BZ3hw&e=1788954914|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/247-fox-cricket/playlist.m3u8?tk=jekcV1DC9ON4Reg_C7vr1A&e=1788968418|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-fox-cricket/2/playlist.m3u8?tk=jekcV1DC9ON4Reg_C7vr1A&e=1788968418|Referer=https://ondemand.st"
   },
   {
     "matchId": "dl-bangladesh-vs-uae",
     "title": "Bangladesh vs Uae",
     "league": "🏏 women's t20 asia cup 2026",
     "category": "cricket",
-    "date": 1788879600000,
-    "status": "live",
+    "date": 1788966000000,
+    "status": "upcoming",
     "teams": {
       "home": {
         "name": "Bangladesh",
@@ -57,6 +57,46 @@
       }
     },
     "hlsUrl": "https://messi.damitv.st/papi/tv/dlhd/346/playlist.m3u8|Referer=https://ondemand.st",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "dl-england-vs-pakistan-3rd-test-day-1",
+    "title": "England vs Pakistan — 3rd Test Day 1",
+    "league": "",
+    "category": "cricket",
+    "date": 1788948000000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "England",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/y5wcl81646775152.png"
+      },
+      "away": {
+        "name": "Pakistan — 3rd Test Day 1",
+        "badge": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/papi/tv/dlhd/346/playlist.m3u8|Referer=https://ondemand.st",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "dl-dublin-guardians-vs-belfast-wolves",
+    "title": "Dublin Guardians vs Belfast Wolves",
+    "league": "🏏 🇮🇪 european t20 premier league",
+    "category": "cricket",
+    "date": 1788957900000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Dublin Guardians",
+        "badge": ""
+      },
+      "away": {
+        "name": "Belfast Wolves",
+        "badge": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/papi/tv/dlhd/598/playlist.m3u8|Referer=https://ondemand.st",
     "sdUrl": ""
   }
 ]
