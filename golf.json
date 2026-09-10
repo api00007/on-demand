@@ -4,7 +4,7 @@
     "title": "Solheim Cup | Bernardus, Cromvoirt, Netherlands | 7 – 13 September 2026",
     "league": "Golf",
     "category": "golf",
-    "date": 1788937800000,
+    "date": 1789024200000,
     "status": "upcoming",
     "teams": {
       "home": {
@@ -24,8 +24,8 @@
     "title": "Women's College Golf Folds Of Honor Collegiate, Final Round",
     "league": "Golf",
     "category": "golf",
-    "date": 1788967800000,
-    "status": "live",
+    "date": 1789054200000,
+    "status": "upcoming",
     "teams": {
       "home": {
         "name": "Women's College Golf Folds Of Honor Collegiate, Final Round",
@@ -44,11 +44,51 @@
     "title": "College Golf Folds Of Honor Collegiate, Final Round",
     "league": "Golf",
     "category": "golf",
-    "date": 1788985800000,
-    "status": "live",
+    "date": 1789072200000,
+    "status": "upcoming",
     "teams": {
       "home": {
         "name": "College Golf Folds Of Honor Collegiate, Final Round",
+        "badge": ""
+      },
+      "away": {
+        "name": "",
+        "badge": ""
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "dl-golf-dp-world-tour-amgen-irish-open",
+    "title": "DP World Tour Amgen Irish Open",
+    "league": "Golf",
+    "category": "golf",
+    "date": 1789043400000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "DP World Tour Amgen Irish Open",
+        "badge": ""
+      },
+      "away": {
+        "name": "",
+        "badge": ""
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "dl-golf-solheim-cup-opening-ceremony",
+    "title": "Solheim Cup Opening Ceremony",
+    "league": "Golf",
+    "category": "golf",
+    "date": 1789050600000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Solheim Cup Opening Ceremony",
         "badge": ""
       },
       "away": {
