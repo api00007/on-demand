@@ -5,7 +5,7 @@
     "league": "Golf",
     "category": "golf",
     "date": 1789110600000,
-    "status": "live",
+    "status": "upcoming",
     "teams": {
       "home": {
         "name": "Solheim Cup | Bernardus, Cromvoirt, Netherlands | 7 – 13 September 2026",
@@ -49,6 +49,26 @@
     "teams": {
       "home": {
         "name": "DP World Tour Amgen Irish Open",
+        "badge": ""
+      },
+      "away": {
+        "name": "",
+        "badge": ""
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "dl-golf-amgen-irish-open",
+    "title": "Amgen Irish Open",
+    "league": "golf",
+    "category": "golf",
+    "date": 1789142400000,
+    "status": "live",
+    "teams": {
+      "home": {
+        "name": "Amgen Irish Open",
         "badge": ""
       },
       "away": {
