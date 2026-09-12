@@ -16,8 +16,8 @@
         "badge": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/f1/2026/spain/fp3/playlist.m3u8?tk=8jEf26_G1DWA9NjKaZvuDg&e=1789228705|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-spanish-grand-prix-practice-1/2/playlist.m3u8?tk=8jEf26_G1DWA9NjKaZvuDg&e=1789228705|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/f1/2026/spain/fp3/playlist.m3u8?tk=Z6O6oTpoqLZJlNI-ns7mhg&e=1789245234|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-spanish-grand-prix-practice-1/2/playlist.m3u8?tk=Z6O6oTpoqLZJlNI-ns7mhg&e=1789245234|Referer=https://ondemand.st"
   },
   {
     "matchId": "f1/2026/spain/qualifying",
@@ -36,8 +36,8 @@
         "badge": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/f1/2026/spain/qualifying/playlist.m3u8?tk=8jEf26_G1DWA9NjKaZvuDg&e=1789228705|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-spanish-grand-prix-practice-1/2/playlist.m3u8?tk=8jEf26_G1DWA9NjKaZvuDg&e=1789228705|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/f1/2026/spain/qualifying/playlist.m3u8?tk=Z6O6oTpoqLZJlNI-ns7mhg&e=1789245234|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-spanish-grand-prix-practice-2/2/playlist.m3u8?tk=Z6O6oTpoqLZJlNI-ns7mhg&e=1789245234|Referer=https://ondemand.st"
   },
   {
     "matchId": "f1/2026/spain/race",
@@ -56,48 +56,8 @@
         "badge": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/f1/2026/spain/race/playlist.m3u8?tk=B33Z49j8dZ-UMTD_EEt7MA&e=1789228706|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-spanish-grand-prix-race/2/playlist.m3u8?tk=B33Z49j8dZ-UMTD_EEt7MA&e=1789228706|Referer=https://ondemand.st"
-  },
-  {
-    "matchId": "dl-moto-motogp-round-14-san-marino-free-practice-1",
-    "title": "Motogp | Round 14 | San Marino Free Practice 1",
-    "league": "motor-sports",
-    "category": "motor-sports",
-    "date": 1789196400000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Motogp | Round 14 | San Marino Free Practice 1",
-        "badge": ""
-      },
-      "away": {
-        "name": "",
-        "badge": ""
-      }
-    },
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "dl-moto-motogp-round-14-san-marino-practice",
-    "title": "Motogp | Round 14 | San Marino Practice",
-    "league": "motor-sports",
-    "category": "motor-sports",
-    "date": 1789211700000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Motogp | Round 14 | San Marino Practice",
-        "badge": ""
-      },
-      "away": {
-        "name": "",
-        "badge": ""
-      }
-    },
-    "hlsUrl": "",
-    "sdUrl": ""
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/f1/2026/spain/race/playlist.m3u8?tk=6F6XL6Oe8Y-rvoR8Nhw-ug&e=1789245235|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-spanish-grand-prix-race/2/playlist.m3u8?tk=6F6XL6Oe8Y-rvoR8Nhw-ug&e=1789245235|Referer=https://ondemand.st"
   },
   {
     "matchId": "dl-moto-motogp-misano-moto-2-training-on-board-1",
@@ -105,7 +65,7 @@
     "league": "motor-sports",
     "category": "motor-sports",
     "date": 1789197600000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "Motogp Misano: Moto 2: Training On Board 1",
@@ -125,7 +85,7 @@
     "league": "motor-sports",
     "category": "motor-sports",
     "date": 1789200000000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "Motogp | Round 14 | San Marino Qualifying",

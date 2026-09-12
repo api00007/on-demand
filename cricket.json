@@ -4,7 +4,7 @@
     "title": "Willow",
     "league": "Cricket",
     "category": "cricket",
-    "date": 1789185461102,
+    "date": 1789201995349,
     "status": "live",
     "teams": {
       "home": {
@@ -16,7 +16,7 @@
         "badge": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/247-willow/playlist.m3u8?tk=uoPxAVcmz_lPX7otKmKu6Q&e=1789228662|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/247-willow/playlist.m3u8?tk=1mtWI_iU-7fsJOlsK7I4uQ&e=1789245196|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -24,7 +24,7 @@
     "title": "Fox Cricket",
     "league": "Cricket",
     "category": "cricket",
-    "date": 1789185461102,
+    "date": 1789201995349,
     "status": "live",
     "teams": {
       "home": {
@@ -36,47 +36,27 @@
         "badge": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/247-fox-cricket/playlist.m3u8?tk=As3m-54BeFZbiScy1x2jMg&e=1789228663|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-fox-cricket/2/playlist.m3u8?tk=As3m-54BeFZbiScy1x2jMg&e=1789228663|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/247-fox-cricket/playlist.m3u8?tk=1mtWI_iU-7fsJOlsK7I4uQ&e=1789245196|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-fox-cricket/2/playlist.m3u8?tk=1mtWI_iU-7fsJOlsK7I4uQ&e=1789245196|Referer=https://ondemand.st"
   },
   {
-    "matchId": "dl-england-vs-pakistan",
-    "title": "England vs Pakistan",
-    "league": "3rd test day 3",
+    "matchId": "3rd-test-england-vs-pakistan-28559",
+    "title": "3rd Test: England vs. Pakistan",
+    "league": "Cricket",
     "category": "cricket",
-    "date": 1789207200000,
+    "date": 1789204500000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "England",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/y5wcl81646775152.png"
+        "name": "3rd Test: England",
+        "badge": ""
       },
       "away": {
         "name": "Pakistan",
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/0iri471776184809.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/papi/tv/dlhd/346/playlist.m3u8|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-england-vs-pakistan/playlist.m3u8?tk=As3m-54BeFZbiScy1x2jMg&e=1789228663|Referer=https://ondemand.st"
-  },
-  {
-    "matchId": "dl-dublin-guardians-vs-edinburgh-castle-rockers",
-    "title": "Dublin Guardians vs Edinburgh Castle Rockers",
-    "league": "european t20 premier league",
-    "category": "cricket",
-    "date": 1789218000000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Dublin Guardians",
-        "badge": ""
-      },
-      "away": {
-        "name": "Edinburgh Castle Rockers",
-        "badge": ""
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/papi/tv/dlhd/598/playlist.m3u8|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/3rd-test-england-vs-pakistan-28559/playlist.m3u8?tk=2hYEJGm4UyDiKandQbR5xw&e=1789245197|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -98,6 +78,26 @@
     },
     "hlsUrl": "https://messi.damitv.st/papi/tv/dlhd/598/playlist.m3u8|Referer=https://ondemand.st",
     "sdUrl": ""
+  },
+  {
+    "matchId": "dl-england-vs-pakistan",
+    "title": "England vs Pakistan",
+    "league": "🏏 3rd test day 4",
+    "category": "cricket",
+    "date": 1789207200000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "England",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/y5wcl81646775152.png"
+      },
+      "away": {
+        "name": "Pakistan",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/0iri471776184809.png"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/papi/tv/dlhd/346/playlist.m3u8|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-england-vs-pakistan/playlist.m3u8?tk=8v1Nert9E2J5TCxbggGPyA&e=1789245198|Referer=https://ondemand.st"
   },
   {
     "matchId": "dl-dublin-guardians-vs-glasgow-cosmic",

@@ -5,70 +5,10 @@
     "league": "Golf",
     "category": "golf",
     "date": 1789197000000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "Solheim Cup | Bernardus, Cromvoirt, Netherlands | 7 – 13 September 2026",
-        "badge": ""
-      },
-      "away": {
-        "name": "",
-        "badge": ""
-      }
-    },
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "dl-golf-solheim-cup-day-1",
-    "title": "Solheim Cup Day 1",
-    "league": "Golf",
-    "category": "golf",
-    "date": 1789191000000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Solheim Cup Day 1",
-        "badge": ""
-      },
-      "away": {
-        "name": "",
-        "badge": ""
-      }
-    },
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "dl-golf-dp-world-tour-amgen-irish-open",
-    "title": "DP World Tour Amgen Irish Open",
-    "league": "Golf",
-    "category": "golf",
-    "date": 1789201800000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "DP World Tour Amgen Irish Open",
-        "badge": ""
-      },
-      "away": {
-        "name": "",
-        "badge": ""
-      }
-    },
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "dl-golf-amgen-irish-open",
-    "title": "Amgen Irish Open",
-    "league": "golf",
-    "category": "golf",
-    "date": 1789228800000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Amgen Irish Open",
         "badge": ""
       },
       "away": {
@@ -85,10 +25,30 @@
     "league": "Golf",
     "category": "golf",
     "date": 1789191000000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "Solheim Cup Day 2",
+        "badge": ""
+      },
+      "away": {
+        "name": "",
+        "badge": ""
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "dl-golf-dp-world-tour-amgen-irish-open",
+    "title": "DP World Tour Amgen Irish Open",
+    "league": "Golf",
+    "category": "golf",
+    "date": 1789216200000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "DP World Tour Amgen Irish Open",
         "badge": ""
       },
       "away": {
