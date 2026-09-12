@@ -4,7 +4,7 @@
     "title": "Fox League",
     "league": "Rugby",
     "category": "rugby",
-    "date": 1789217071315,
+    "date": 1789229178853,
     "status": "live",
     "teams": {
       "home": {
@@ -16,8 +16,8 @@
         "badge": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/247-fox-league/playlist.m3u8?tk=ucc5h2bJ5hfvjFZbeiQUyg&e=1789260272|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-fox-league/2/playlist.m3u8?tk=ucc5h2bJ5hfvjFZbeiQUyg&e=1789260272|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/247-fox-league/playlist.m3u8?tk=LPGZoHdsuhSy3vgjTV8xLw&e=1789272379|Referer=https://ondemand.st",
+    "sdUrl": ""
   },
   {
     "matchId": "nrl/2026-09-13/pen-syd",
@@ -36,27 +36,87 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/by299w1646347883.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nrl/2026-09-13/pen-syd/playlist.m3u8?tk=ucc5h2bJ5hfvjFZbeiQUyg&e=1789260272|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-panthers-vs-roosters/2/playlist.m3u8?tk=phujDgWDLGc0-riBZ9lNpQ&e=1789260273|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nrl/2026-09-13/pen-syd/playlist.m3u8?tk=3aNGZluBPyRJ4EW1eSrigQ&e=1789272380|Referer=https://ondemand.st",
+    "sdUrl": ""
   },
   {
-    "matchId": "sd-echo~japan-vs-usa-rugby-54079",
-    "title": "Japan Rugby vs USA Rugby",
+    "matchId": "sd-echo~harlequins-vs-northampton-saints-rugby-54725",
+    "title": "Harlequins vs Northampton Saints",
     "league": "rugby",
     "category": "rugby",
-    "date": 1789207500000,
+    "date": 1789227900000,
     "status": "live",
     "teams": {
       "home": {
-        "name": "Japan Rugby",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpLACADJBC8QWkCRAATQyER8QZnEb4EKTa1zBl4ReaJTAmtMI7GiIQA.webp"
+        "name": "Harlequins",
+        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773htbKbcAxozAp0kbsSwJ0IACYgmdcgwHNgYHvHFUJhBqzAa2uCEA.webp"
       },
       "away": {
-        "name": "USA Rugby",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkplHAiYbMCQhuIEiAAmhkIhC4TxmAQpM+KLmDLwi80faa0NoqXSA.webp"
+        "name": "Northampton Saints",
+        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773htbKbcAxozAp0kbsSwJ0IACYhs9cgwHNgYHvHFUJhBqzAa2uCEA.webp"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/echo/japan-vs-usa-rugby-54079/playlist.m3u8?tk=phujDgWDLGc0-riBZ9lNpQ&e=1789260273|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/echo/harlequins-vs-northampton-saints-rugby-54725/playlist.m3u8?tk=3aNGZluBPyRJ4EW1eSrigQ&e=1789272380|Referer=https://ondemand.st",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "sd-echo~leicester-tigers-vs-newcastle-red-bulls-rugby-54724",
+    "title": "Leicester Tigers vs Newcastle Red Bulls",
+    "league": "rugby",
+    "category": "rugby",
+    "date": 1789221600000,
+    "status": "live",
+    "teams": {
+      "home": {
+        "name": "Leicester Tigers",
+        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773htbKbcAxozAp0kbsSwJ0IACYh49cgwHNgYHvHFUJhBqzAa2uCEA.webp"
+      },
+      "away": {
+        "name": "Newcastle Red Bulls",
+        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773htbKbcAxozAp0kbsSwJ0IFCCogB9cgyVZgYHvHFUJhBqzCa2uCEA.webp"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/echo/leicester-tigers-vs-newcastle-red-bulls-rugby-54724/playlist.m3u8?tk=SKiFBzREIrWPWmXcJuVrag&e=1789272381|Referer=https://ondemand.st",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "sd-echo~gloucester-vs-sale-sharks-rugby-54723",
+    "title": "Gloucester vs Sale Sharks",
+    "league": "rugby",
+    "category": "rugby",
+    "date": 1789221600000,
+    "status": "live",
+    "teams": {
+      "home": {
+        "name": "Gloucester",
+        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773htbKbcAxozAp0kbsSwJ0IACYgSdcgwHNgYHvHFUJhBqzAa2uCEA.webp"
+      },
+      "away": {
+        "name": "Sale Sharks",
+        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773htbKbcAxozAp0kbsSwJ0IACZz65BgObAwPeOKoTCDVmHVtcEIA.webp"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/echo/gloucester-vs-sale-sharks-rugby-54723/playlist.m3u8?tk=SKiFBzREIrWPWmXcJuVrag&e=1789272381|Referer=https://ondemand.st",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "sd-echo~exeter-chiefs-vs-bristol-rugby-54722",
+    "title": "Exeter Chiefs vs Bristol",
+    "league": "rugby",
+    "category": "rugby",
+    "date": 1789221600000,
+    "status": "live",
+    "teams": {
+      "home": {
+        "name": "Exeter Chiefs",
+        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773htbKbcAxozAp0kbsSwJ0IACYgY9cgwHNgYHvHFUJhBqzAa2uCEA.webp"
+      },
+      "away": {
+        "name": "Bristol",
+        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773htbKbcAxozAp0kbsSwJ0IbCFF1yDAc2Bge8cVQmEGrMOra4IQA.webp"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/echo/exeter-chiefs-vs-bristol-rugby-54722/playlist.m3u8?tk=GUfs0L1G8aqo4spw6b0p8A&e=1789272382|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -76,87 +136,7 @@
         "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpm4gAJmHAkQAxKrUgI6kIiN8QFnDAIUmfFFzBl4ReaIdNaYJ2NEQgA.webp"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/echo/cronulla-sutherland-sharks-vs-north-queensland-game-3373252/playlist.m3u8?tk=phujDgWDLGc0-riBZ9lNpQ&e=1789260273|Referer=https://ondemand.st",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "sd-echo~leicester-tigers-vs-newcastle-red-bulls-rugby-54724",
-    "title": "Leicester Tigers vs Newcastle Red Bulls",
-    "league": "rugby",
-    "category": "rugby",
-    "date": 1789221600000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Leicester Tigers",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773htbKbcAxozAp0kbsSwJ0IACYh49cgwHNgYHvHFUJhBqzAa2uCEA.webp"
-      },
-      "away": {
-        "name": "Newcastle Red Bulls",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773htbKbcAxozAp0kbsSwJ0IFCCogB9cgyVZgYHvHFUJhBqzCa2uCEA.webp"
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/echo/leicester-tigers-vs-newcastle-red-bulls-rugby-54724/playlist.m3u8?tk=cmJ2hQmHjday1f75X-H2PQ&e=1789260274|Referer=https://ondemand.st",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "sd-echo~exeter-chiefs-vs-bristol-rugby-54722",
-    "title": "Exeter Chiefs vs Bristol",
-    "league": "rugby",
-    "category": "rugby",
-    "date": 1789221600000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Exeter Chiefs",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773htbKbcAxozAp0kbsSwJ0IACYgY9cgwHNgYHvHFUJhBqzAa2uCEA.webp"
-      },
-      "away": {
-        "name": "Bristol",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773htbKbcAxozAp0kbsSwJ0IbCFF1yDAc2Bge8cVQmEGrMOra4IQA.webp"
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/echo/exeter-chiefs-vs-bristol-rugby-54722/playlist.m3u8?tk=cmJ2hQmHjday1f75X-H2PQ&e=1789260274|Referer=https://ondemand.st",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "sd-echo~gloucester-vs-sale-sharks-rugby-54723",
-    "title": "Gloucester vs Sale Sharks",
-    "league": "rugby",
-    "category": "rugby",
-    "date": 1789221600000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Gloucester",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773htbKbcAxozAp0kbsSwJ0IACYgSdcgwHNgYHvHFUJhBqzAa2uCEA.webp"
-      },
-      "away": {
-        "name": "Sale Sharks",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773htbKbcAxozAp0kbsSwJ0IACZz65BgObAwPeOKoTCDVmHVtcEIA.webp"
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/echo/gloucester-vs-sale-sharks-rugby-54723/playlist.m3u8?tk=hVD-zzvDBRe4ieDPBeChkA&e=1789260275|Referer=https://ondemand.st",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "sd-echo~harlequins-vs-northampton-saints-rugby-54725",
-    "title": "Harlequins vs Northampton Saints",
-    "league": "rugby",
-    "category": "rugby",
-    "date": 1789227900000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Harlequins",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773htbKbcAxozAp0kbsSwJ0IACYgmdcgwHNgYHvHFUJhBqzAa2uCEA.webp"
-      },
-      "away": {
-        "name": "Northampton Saints",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773htbKbcAxozAp0kbsSwJ0IACYhs9cgwHNgYHvHFUJhBqzAa2uCEA.webp"
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/echo/harlequins-vs-northampton-saints-rugby-54725/playlist.m3u8?tk=EB8ndPjPn5hGsz-PvkddlA&e=1789260276|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/echo/cronulla-sutherland-sharks-vs-north-queensland-game-3373252/playlist.m3u8?tk=GUfs0L1G8aqo4spw6b0p8A&e=1789272382|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -176,7 +156,7 @@
         "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAmobCDgoEIbiBIgVhkIhC7cJ3QQpM+KLmDLwi80faa0wjsaIhA.webp"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/echo/south-africa-vs-new-zealand-rugby-53793/playlist.m3u8?tk=EB8ndPjPn5hGsz-PvkddlA&e=1789260276|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/echo/south-africa-vs-new-zealand-rugby-53793/playlist.m3u8?tk=EU2NNVMTL127BlwtAlmBBQ&e=1789272383|Referer=https://ondemand.st",
     "sdUrl": ""
   }
 ]
