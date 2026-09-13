@@ -1,62 +1,22 @@
 [
   {
-    "matchId": "247-fox-league",
-    "title": "Fox League",
-    "league": "Rugby",
-    "category": "rugby",
-    "date": 1789257138758,
-    "status": "live",
-    "teams": {
-      "home": {
-        "name": "Fox League",
-        "badge": ""
-      },
-      "away": {
-        "name": "",
-        "badge": ""
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/247-fox-league/playlist.m3u8?tk=RMtI9C2f_43ywKbomniEXA&e=1789300339|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-fox-league/2/playlist.m3u8?tk=RMtI9C2f_43ywKbomniEXA&e=1789300339|Referer=https://ondemand.st"
-  },
-  {
-    "matchId": "nrl/2026-09-13/pen-syd",
-    "title": "Panthers vs. Roosters",
-    "league": "NRL",
+    "matchId": "sd-admin~ppv-panthers-vs-roosters",
+    "title": "Penrith Panthers vs Sydney Roosters",
+    "league": "rugby",
     "category": "rugby",
     "date": 1789279500000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Panthers",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/zjh0jo1771495164.png"
+        "name": "Penrith Panthers",
+        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpiTBVIEDDWUQ3EH326QEEChAkjAE2MEKTPii5gy8IvNGOmtMM7GiIQA.webp"
       },
       "away": {
-        "name": "Roosters",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/by299w1646347883.png"
+        "name": "Sydney Roosters",
+        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyxgUuEOpRg+IbiAAmICIZCITukFbMEKTPii5gy8IvNGOmtMM7GiIQA.webp"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nrl/2026-09-13/pen-syd/playlist.m3u8?tk=RMtI9C2f_43ywKbomniEXA&e=1789300339|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-panthers-vs-roosters/2/playlist.m3u8?tk=RMtI9C2f_43ywKbomniEXA&e=1789300339|Referer=https://ondemand.st"
-  },
-  {
-    "matchId": "sd-echo~south-africa-vs-new-zealand-rugby-53793",
-    "title": "South Africa Rugby vs New Zealand Rugby",
-    "league": "rugby",
-    "category": "rugby",
-    "date": 1789246800000,
-    "status": "live",
-    "teams": {
-      "home": {
-        "name": "South Africa Rugby",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAMIEiG4g+IegBNN23IZDGUIA6YgEKTPii5gy8IvNEOmtME7GiIQA.webp"
-      },
-      "away": {
-        "name": "New Zealand Rugby",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAmobCDgoEIbiBIgVhkIhC7cJ3QQpM+KLmDLwi80faa0wjsaIhA.webp"
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/echo/south-africa-vs-new-zealand-rugby-53793/playlist.m3u8?tk=dPPJTBSJJS8fOeosfbW5GA&e=1789300340|Referer=https://ondemand.st",
-    "sdUrl": ""
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-panthers-vs-roosters/playlist.m3u8?tk=qeRLDF5dMQt8bI4d-xBwvw&e=1789314455|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-panthers-vs-roosters/2/playlist.m3u8?tk=qeRLDF5dMQt8bI4d-xBwvw&e=1789314455|Referer=https://ondemand.st"
   }
 ]

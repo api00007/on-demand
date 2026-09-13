@@ -1,122 +1,22 @@
 [
   {
-    "matchId": "noche-ufc-silva-vs-delgado-28560",
-    "title": "Noche UFC: Silva vs. Delgado",
-    "league": "UFC",
-    "category": "fight",
-    "date": 1789236000000,
-    "status": "live",
-    "teams": {
-      "home": {
-        "name": "Noche UFC: Silva",
-        "badge": ""
-      },
-      "away": {
-        "name": "Delgado",
-        "badge": ""
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/noche-ufc-silva-vs-delgado-28560/playlist.m3u8?tk=MWwXYa9rPC3qf96944GzMQ&e=1789300318|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-noche-ufc-silva-vs-delgado/2/playlist.m3u8?tk=MWwXYa9rPC3qf96944GzMQ&e=1789300318|Referer=https://ondemand.st"
-  },
-  {
-    "matchId": "garcia-vs-benn-28563",
-    "title": "Garcia vs. Benn",
-    "league": "Combat Sports",
+    "matchId": "sd-admin~ppv-garcia-vs-benn",
+    "title": "Ryan Garcia vs Conor Benn",
+    "league": "fight",
     "category": "fight",
     "date": 1789257600000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Garcia",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/41jzon1614284885.png"
-      },
-      "away": {
-        "name": "Benn",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/wy7f9d1787031852.png"
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/garcia-vs-benn-28563/playlist.m3u8?tk=MWwXYa9rPC3qf96944GzMQ&e=1789300318|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-garcia-vs-benn/2/playlist.m3u8?tk=MWwXYa9rPC3qf96944GzMQ&e=1789300318|Referer=https://ondemand.st"
-  },
-  {
-    "matchId": "aew/2026-09-12",
-    "title": "AEW Saturday Night Collision",
-    "league": "AEW",
-    "category": "fight",
-    "date": 1789257600000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "AEW Saturday Night Collision",
-        "badge": ""
-      },
-      "away": {
-        "name": "",
-        "badge": ""
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/aew/2026-09-12/playlist.m3u8?tk=J_8cUU7uPnoOudpne_0O2Q&e=1789300319|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-aew-saturday-night-collision/2/playlist.m3u8?tk=J_8cUU7uPnoOudpne_0O2Q&e=1789300319|Referer=https://ondemand.st"
-  },
-  {
-    "matchId": "sd-delta~live-event_toman-vs-dilshad-live-stream",
-    "title": "Toman vs Dilshad",
-    "league": "fight",
-    "category": "fight",
-    "date": 1789236000000,
     "status": "live",
     "teams": {
       "home": {
-        "name": "Robert Toman",
-        "badge": ""
+        "name": "Ryan Garcia",
+        "badge": "https://r2.thesportsdb.com/images/media/player/thumb/8rpssn1740002644.jpg"
       },
       "away": {
-        "name": "Mohammed Dilshad",
-        "badge": ""
+        "name": "Conor Benn",
+        "badge": "https://r2.thesportsdb.com/images/media/player/thumb/9k13c61706894585.jpg"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/delta/live-event_toman-vs-dilshad-live-stream/playlist.m3u8?tk=J_8cUU7uPnoOudpne_0O2Q&e=1789300319|Referer=https://ondemand.st",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "sd-delta~live-event_brandon-daord-vs-ndabezinhle-phiri-live-stream",
-    "title": "Brandon Daord vs Ndabezinhle Phiri",
-    "league": "fight",
-    "category": "fight",
-    "date": 1789232400000,
-    "status": "live",
-    "teams": {
-      "home": {
-        "name": "",
-        "badge": ""
-      },
-      "away": {
-        "name": "",
-        "badge": ""
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/delta/live-event_brandon-daord-vs-ndabezinhle-phiri-live-stream/playlist.m3u8?tk=6Oq9K91i24bUf1LtfCZGqw&e=1789300320|Referer=https://ondemand.st",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "sd-delta~live-event_mccann-vs-big-stacks-live-stream",
-    "title": "McCann vs Big Stacks",
-    "league": "fight",
-    "category": "fight",
-    "date": 1789232400000,
-    "status": "live",
-    "teams": {
-      "home": {
-        "name": "Jordan McCann",
-        "badge": ""
-      },
-      "away": {
-        "name": "Big Stacks",
-        "badge": ""
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/delta/live-event_mccann-vs-big-stacks-live-stream/playlist.m3u8?tk=zT2sQwUwa6lrxpnkPDTIGg&e=1789300321|Referer=https://ondemand.st",
-    "sdUrl": ""
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-garcia-vs-benn/playlist.m3u8?tk=sUbqQX6kOgU81T8xO-x6cg&e=1789314442|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-garcia-vs-benn/2/playlist.m3u8?tk=sUbqQX6kOgU81T8xO-x6cg&e=1789314442|Referer=https://ondemand.st"
   }
 ]
