@@ -1,11 +1,31 @@
 [
   {
-    "matchId": "sd-admin~ppv-panthers-vs-roosters",
+    "matchId": "247-fox-league",
+    "title": "Fox League",
+    "league": "Rugby",
+    "category": "rugby",
+    "date": 1789290876201,
+    "status": "live",
+    "teams": {
+      "home": {
+        "name": "Fox League",
+        "badge": ""
+      },
+      "away": {
+        "name": "",
+        "badge": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/247-fox-league/playlist.m3u8?tk=aXJVN-JXN3hrmslcY9alZQ&e=1789334076|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-fox-league/2/playlist.m3u8?tk=aXJVN-JXN3hrmslcY9alZQ&e=1789334076|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "sd-echo~penrith-panthers-vs-sydney-roosters-game-236363",
     "title": "Penrith Panthers vs Sydney Roosters",
     "league": "rugby",
     "category": "rugby",
     "date": 1789279500000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "Penrith Panthers",
@@ -16,7 +36,7 @@
         "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyxgUuEOpRg+IbiAAmICIZCITukFbMEKTPii5gy8IvNGOmtMM7GiIQA.webp"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-panthers-vs-roosters/playlist.m3u8?tk=qeRLDF5dMQt8bI4d-xBwvw&e=1789314455|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-panthers-vs-roosters/2/playlist.m3u8?tk=qeRLDF5dMQt8bI4d-xBwvw&e=1789314455|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/echo/penrith-panthers-vs-sydney-roosters-game-236363/playlist.m3u8?tk=PoZgxPDaW6d_hr8SweGFaA&e=1789334077|Referer=https://ondemand.st",
+    "sdUrl": ""
   }
 ]
