@@ -1,262 +1,202 @@
 [
   {
-    "matchId": "mlb/2026-09-13/sd-sf",
-    "title": "San Diego Padres vs. San Francisco Giants",
+    "matchId": "mlb/2026-09-14/chw-cle",
+    "title": "Chicago White Sox vs. Cleveland Guardians",
     "league": "MLB",
     "category": "baseball",
-    "date": 1789341600000,
-    "status": "live",
-    "teams": {
-      "home": {
-        "name": "San Diego Padres",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/ov3qi41778132254.png"
-      },
-      "away": {
-        "name": "San Francisco Giants",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/6wt1cn1617527530.png"
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mlb/2026-09-13/sd-sf/playlist.m3u8?tk=34CIv7F3rA_LzM7X98ZOZw&e=1789390512|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-san-diego-padres-vs-san-francisco-giants/2/playlist.m3u8?tk=34CIv7F3rA_LzM7X98ZOZw&e=1789390512|Referer=https://ondemand.st"
-  },
-  {
-    "matchId": "sd-golf~1195",
-    "title": "Arizona Diamondbacks vs Texas Rangers",
-    "league": "baseball",
-    "category": "baseball",
-    "date": 1789330200000,
-    "status": "live",
-    "teams": {
-      "home": {
-        "name": "Arizona Diamondbacks",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphCkQZAWEohuIPjpCIQIACYHjZ+AQpM+KLmDLwi80faa0wjsaIhA.webp"
-      },
-      "away": {
-        "name": "Texas Rangers",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpm6QQKMLwAM7ENxAlcekCZQhE+wxMIxgTPii5gy8IvNGOmtMM7GiIQA.webp"
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/1195/playlist.m3u8?tk=JDNhepQrfc7ylSo-hDhjHA&e=1789390513|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/1195/2/playlist.m3u8?tk=JDNhepQrfc7ylSo-hDhjHA&e=1789390513|Referer=https://ondemand.st"
-  },
-  {
-    "matchId": "sd-golf~1194",
-    "title": "Athletics vs Seattle Mariners",
-    "league": "baseball",
-    "category": "baseball",
-    "date": 1789329900000,
-    "status": "live",
-    "teams": {
-      "home": {
-        "name": "Athletics",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3hgUYACbUNIRNxB8QEEPp3GYBy3wIUm1rmDKr680SmBNaYR2NEQgA.webp"
-      },
-      "away": {
-        "name": "Seattle Mariners",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhCIUYECHUxQIbiBK49WkDFUnE8AhSZ8UXMGXhF5o+01phHY0RCA.webp"
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/1194/playlist.m3u8?tk=JDNhepQrfc7ylSo-hDhjHA&e=1789390513|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/1194/2/playlist.m3u8?tk=JDNhepQrfc7ylSo-hDhjHA&e=1789390513|Referer=https://ondemand.st"
-  },
-  {
-    "matchId": "sd-echo~cleveland-guardians-vs-chicago-white-sox-baseball-185834",
-    "title": "Cleveland Guardians vs Chicago White Sox",
-    "league": "baseball",
-    "category": "baseball",
     "date": 1789425600000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Cleveland Guardians",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDwwSMABN1CtCG4hNICCBggUh4yBLnTBCkz4ouYMmvrzRzprTCuxohBAA.webp"
-      },
-      "away": {
         "name": "Chicago White Sox",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphRhVSEKPogQ3Tfoi6QhmDrMQCFJnxRcwZeEXmjbTWmHtitQA.webp"
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/3zvzao1640964590.png"
+      },
+      "away": {
+        "name": "Cleveland Guardians",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/yyz5dh1554140884.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/echo/cleveland-guardians-vs-chicago-white-sox-baseball-185834/playlist.m3u8?tk=0kJgIdjwc3LRAejp7yC3RA&e=1789390514|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/1324/2/playlist.m3u8?tk=0kJgIdjwc3LRAejp7yC3RA&e=1789390514|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mlb/2026-09-14/chw-cle/playlist.m3u8?tk=HfpZW0kMPElRI1y5HEQL2Q&e=1789408552|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-chicago-white-sox-vs-cleveland-guardians/2/playlist.m3u8?tk=HfpZW0kMPElRI1y5HEQL2Q&e=1789408552|Referer=https://ondemand.st"
   },
   {
-    "matchId": "sd-echo~cincinnati-reds-vs-los-angeles-dodgers-baseball-185833",
-    "title": "Cincinnati Reds vs Los Angeles Dodgers",
-    "league": "baseball",
+    "matchId": "mlb/2026-09-14/lad-cin",
+    "title": "Los Angeles Dodgers vs. Cincinnati Reds",
+    "league": "MLB",
     "category": "baseball",
     "date": 1789425600000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Cincinnati Reds",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj7k4ZeNhDcQEEIh0l9IEycSMKTPii5gNReaJtNaYO2NEQgA.webp"
+        "name": "Los Angeles Dodgers",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/wspusr1431538832.png"
       },
       "away": {
-        "name": "Los Angeles Dodgers",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhCIsYMiGD5cIbiD4GQxnABMQKEBBAk9BCkz4ouG8vXmjnTWmA1jREEA.webp"
+        "name": "Cincinnati Reds",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/32uxn21778269451.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/echo/cincinnati-reds-vs-los-angeles-dodgers-baseball-185833/playlist.m3u8?tk=0kJgIdjwc3LRAejp7yC3RA&e=1789390514|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/1323/2/playlist.m3u8?tk=0kJgIdjwc3LRAejp7yC3RA&e=1789390514|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mlb/2026-09-14/lad-cin/playlist.m3u8?tk=1ehwGGvlKZFpwOp8y-6Oqw&e=1789408553|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-los-angeles-dodgers-vs-cincinnati-reds/2/playlist.m3u8?tk=1ehwGGvlKZFpwOp8y-6Oqw&e=1789408553|Referer=https://ondemand.st"
   },
   {
-    "matchId": "sd-echo~toronto-blue-jays-vs-detroit-tigers-baseball-185835",
-    "title": "Toronto Blue Jays vs Detroit Tigers",
-    "league": "baseball",
+    "matchId": "mlb/2026-09-14/det-tor",
+    "title": "Detroit Tigers vs. Toronto Blue Jays",
+    "league": "MLB",
     "category": "baseball",
     "date": 1789427220000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Toronto Blue Jays",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAmIFGCTAADCFpgQ3EGqN8QJXCDNqQxghSZ8UXMGXhF5o5032uxoiCA.webp"
+        "name": "Detroit Tigers",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/f9zk3l1617527686.png"
       },
       "away": {
-        "name": "Detroit Tigers",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAoxanABNKIbiBL6QEEDBCIcevmYIUmfNWzBl4ReaLVNaYJ2NEQgA.webp"
+        "name": "Toronto Blue Jays",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/9dib6o1554032173.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/echo/toronto-blue-jays-vs-detroit-tigers-baseball-185835/playlist.m3u8?tk=J8j2AiYo68H6x2vlvWxADQ&e=1789390515|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/1325/2/playlist.m3u8?tk=J8j2AiYo68H6x2vlvWxADQ&e=1789390515|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mlb/2026-09-14/det-tor/playlist.m3u8?tk=1ehwGGvlKZFpwOp8y-6Oqw&e=1789408553|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-detroit-tigers-vs-toronto-blue-jays/2/playlist.m3u8?tk=1ehwGGvlKZFpwOp8y-6Oqw&e=1789408553|Referer=https://ondemand.st"
   },
   {
-    "matchId": "sd-echo~new-york-mets-vs-baltimore-orioles-baseball-185836",
-    "title": "New York Mets vs Baltimore Orioles",
-    "league": "baseball",
+    "matchId": "mlb/2026-09-14/bal-nym",
+    "title": "Baltimore Orioles vs. New York Mets",
+    "league": "MLB",
     "category": "baseball",
     "date": 1789427400000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "New York Mets",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpixhw3cnG4htEEIm0kQemPrN8CFJha5gy8IvNEpgTWmDtjREIA.webp"
-      },
-      "away": {
         "name": "Baltimore Orioles",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphTRVfMABMwJENxAQQifTl18QMEFZAEKTPii47y9eaMdNaYHWNEQgA.webp"
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/rxqspq1431540337.png"
+      },
+      "away": {
+        "name": "New York Mets",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/ytywvu1431257088.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/echo/new-york-mets-vs-baltimore-orioles-baseball-185836/playlist.m3u8?tk=J8j2AiYo68H6x2vlvWxADQ&e=1789390515|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/1326/2/playlist.m3u8?tk=J8j2AiYo68H6x2vlvWxADQ&e=1789390515|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mlb/2026-09-14/bal-nym/playlist.m3u8?tk=4CoDerVqILudbztjpNso_w&e=1789408554|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-baltimore-orioles-vs-new-york-mets/2/playlist.m3u8?tk=4CoDerVqILudbztjpNso_w&e=1789408554|Referer=https://ondemand.st"
   },
   {
-    "matchId": "sd-echo~minnesota-twins-vs-new-york-yankees-baseball-185838",
-    "title": "Minnesota Twins vs New York Yankees",
-    "league": "baseball",
+    "matchId": "mlb/2026-09-14/atl-chc",
+    "title": "Atlanta Braves vs. Chicago Cubs",
+    "league": "MLB",
     "category": "baseball",
     "date": 1789429200000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Minnesota Twins",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyajaEEGQAmIbpty6QKEDH19DKAhSZ8UXMGXhF5ou01pgHY0RCA.webp"
-      },
-      "away": {
-        "name": "New York Yankees",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj5huYVavAgQ3EBFwhEBvjpCmAJiAsEKTPii5gy8IvNGOmtMM7GiIQA.webp"
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/echo/minnesota-twins-vs-new-york-yankees-baseball-185838/playlist.m3u8?tk=El1mFTeoMJiBQtShATS8-A&e=1789390516|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/1328/2/playlist.m3u8?tk=El1mFTeoMJiBQtShATS8-A&e=1789390516|Referer=https://ondemand.st"
-  },
-  {
-    "matchId": "sd-echo~chicago-cubs-vs-atlanta-braves-baseball-185837",
-    "title": "Chicago Cubs vs Atlanta Braves",
-    "league": "baseball",
-    "category": "baseball",
-    "date": 1789429200000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Chicago Cubs",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj5gQDUiBgg+IbiBK49IEyiOIzEwjGBM+KLmDLwi80Q6a0wTsaIhA.webp"
-      },
-      "away": {
         "name": "Atlanta Braves",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphTAkCEHxAATUiG479mkCYMGIIFDoIUmfVWzBl4ReaNVNaYJ2NEQgA.webp"
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/wxbe071521892391.png"
+      },
+      "away": {
+        "name": "Chicago Cubs",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/yjs76e1617811496.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/echo/chicago-cubs-vs-atlanta-braves-baseball-185837/playlist.m3u8?tk=hrpsBBg4UnDM-Nbu9fzJHQ&e=1789390517|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/1327/2/playlist.m3u8?tk=hrpsBBg4UnDM-Nbu9fzJHQ&e=1789390517|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mlb/2026-09-14/atl-chc/playlist.m3u8?tk=4CoDerVqILudbztjpNso_w&e=1789408554|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-atlanta-braves-vs-chicago-cubs/2/playlist.m3u8?tk=4CoDerVqILudbztjpNso_w&e=1789408554|Referer=https://ondemand.st"
   },
   {
-    "matchId": "sd-echo~stlouis-cardinals-vs-san-francisco-giants-baseball-185839",
-    "title": "St. Louis Cardinals vs San Francisco Giants",
-    "league": "baseball",
+    "matchId": "mlb/2026-09-14/nyy-min",
+    "title": "New York Yankees vs. Minnesota Twins",
+    "league": "MLB",
+    "category": "baseball",
+    "date": 1789429200000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "New York Yankees",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/necd5v1521905719.png"
+      },
+      "away": {
+        "name": "Minnesota Twins",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/wqwwxx1423478766.png"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mlb/2026-09-14/nyy-min/playlist.m3u8?tk=9hEmpptAPvu8Op-WhhWPXA&e=1789408555|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-new-york-yankees-vs-minnesota-twins/2/playlist.m3u8?tk=9hEmpptAPvu8Op-WhhWPXA&e=1789408555|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "mlb/2026-09-14/sf-stl",
+    "title": "San Francisco Giants vs. St. Louis Cardinals",
+    "league": "MLB",
     "category": "baseball",
     "date": 1789429500000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "St. Louis Cardinals",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpjIATMCjDrNObiAi59IGMZCIcfMwQpM+KLmDLwi80faa0wjsaIhA.webp"
+        "name": "San Francisco Giants",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/uvyvyr1424003273.png"
       },
       "away": {
-        "name": "San Francisco Giants",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyoATEPDC8UICCG4g+hkCYOIcOEroIUmfFFzBlN9eaIdNaYJ2NEQgA.webp"
+        "name": "St. Louis Cardinals",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/ov3qi41778132254.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/echo/stlouis-cardinals-vs-san-francisco-giants-baseball-185839/playlist.m3u8?tk=hrpsBBg4UnDM-Nbu9fzJHQ&e=1789390517|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/1329/2/playlist.m3u8?tk=hrpsBBg4UnDM-Nbu9fzJHQ&e=1789390517|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mlb/2026-09-14/sf-stl/playlist.m3u8?tk=9hEmpptAPvu8Op-WhhWPXA&e=1789408555|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-san-francisco-giants-vs-st-louis-cardinals/2/playlist.m3u8?tk=9hEmpptAPvu8Op-WhhWPXA&e=1789408555|Referer=https://ondemand.st"
   },
   {
-    "matchId": "sd-echo~colorado-rockies-vs-san-diego-padres-baseball-185840",
-    "title": "Colorado Rockies vs San Diego Padres",
-    "league": "baseball",
+    "matchId": "mlb/2026-09-14/sd-col",
+    "title": "San Diego Padres vs. Colorado Rockies",
+    "league": "MLB",
     "category": "baseball",
     "date": 1789432800000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Colorado Rockies",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphx8w3EABNgABkogNmkMb5aQMYyEQoQywjGBM+KLmDLwi80S6a0wbsVEIIA.webp"
+        "name": "San Diego Padres",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/r7q6ko1687608395.png"
       },
       "away": {
-        "name": "San Diego Padres",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAATMH0ghetfNrX6+IErhBGTiGAQpM+KLmDLwi80faa0wjsaIhA.webp"
+        "name": "Colorado Rockies",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/6wt1cn1617527530.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/echo/colorado-rockies-vs-san-diego-padres-baseball-185840/playlist.m3u8?tk=v3TPwwz_upwwWsfjx4v1gg&e=1789390518|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/1332/2/playlist.m3u8?tk=v3TPwwz_upwwWsfjx4v1gg&e=1789390518|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mlb/2026-09-14/sd-col/playlist.m3u8?tk=VUYPFNf5uwCcl8QNzM9W4g&e=1789408556|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-san-diego-padres-vs-colorado-rockies/2/playlist.m3u8?tk=VUYPFNf5uwCcl8QNzM9W4g&e=1789408556|Referer=https://ondemand.st"
   },
   {
-    "matchId": "sd-echo~los-angeles-angels-vs-seattle-mariners-baseball-185841",
-    "title": "Los Angeles Angels vs Seattle Mariners",
-    "league": "baseball",
+    "matchId": "mlb/2026-09-14/sea-laa",
+    "title": "Seattle Mariners vs. Los Angeles Angels",
+    "league": "MLB",
     "category": "baseball",
     "date": 1789436280000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Los Angeles Angels",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAm5PuTUgQ3EBBCIcJEHxN6zKghSZ8UXMGXhF5ou01pgHY0RCA.webp"
+        "name": "Seattle Mariners",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/vswsvx1432577476.png"
       },
       "away": {
-        "name": "Seattle Mariners",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhCIUYECHUxQIbiBK49WkDFUnE8AhSZ8UXMGXhF5o+01phHY0RCA.webp"
+        "name": "Los Angeles Angels",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/39x9ph1521903933.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/echo/los-angeles-angels-vs-seattle-mariners-baseball-185841/playlist.m3u8?tk=v3TPwwz_upwwWsfjx4v1gg&e=1789390518|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/1333/2/playlist.m3u8?tk=v3TPwwz_upwwWsfjx4v1gg&e=1789390518|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mlb/2026-09-14/sea-laa/playlist.m3u8?tk=O4m6pETNQzaqelch1AZ3Jw&e=1789408557|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-seattle-mariners-vs-los-angeles-angels/2/playlist.m3u8?tk=O4m6pETNQzaqelch1AZ3Jw&e=1789408557|Referer=https://ondemand.st"
   },
   {
-    "matchId": "sd-echo~arizona-diamondbacks-vs-miami-marlins-baseball-185842",
-    "title": "Arizona Diamondbacks vs Miami Marlins",
-    "league": "baseball",
+    "matchId": "mlb/2026-09-14/mia-ari",
+    "title": "Miami Marlins vs. Arizona Diamondbacks",
+    "league": "MLB",
     "category": "baseball",
     "date": 1789436400000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Arizona Diamondbacks",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphCkQZAWEohuIPjpCIQIACYHjZ+AQpM+KLmDLwi80faa0wjsaIhA.webp"
+        "name": "Miami Marlins",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/xe5wlo1713861863.png"
       },
       "away": {
-        "name": "Miami Marlins",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAwQfXLmAATBCG4gSICCG2rzBjWomEYwJnxRcwZeEXminTWmBdjREEA.webp"
+        "name": "Arizona Diamondbacks",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/0722fs1546001701.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/echo/arizona-diamondbacks-vs-miami-marlins-baseball-185842/playlist.m3u8?tk=DehrvJnDq3DX01kerA6nAw&e=1789390519|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/1334/2/playlist.m3u8?tk=DehrvJnDq3DX01kerA6nAw&e=1789390519|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mlb/2026-09-14/mia-ari/playlist.m3u8?tk=O4m6pETNQzaqelch1AZ3Jw&e=1789408557|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-miami-marlins-vs-arizona-diamondbacks/2/playlist.m3u8?tk=O4m6pETNQzaqelch1AZ3Jw&e=1789408557|Referer=https://ondemand.st"
   }
 ]

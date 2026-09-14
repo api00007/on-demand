@@ -4,7 +4,7 @@
     "title": "Fox League",
     "league": "Rugby",
     "category": "rugby",
-    "date": 1789347320023,
+    "date": 1789365361865,
     "status": "live",
     "teams": {
       "home": {
@@ -16,7 +16,47 @@
         "badge": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/247-fox-league/playlist.m3u8?tk=Nm9gAJOYauRPS1q0ha7TuQ&e=1789390520|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-fox-league/2/playlist.m3u8?tk=Nm9gAJOYauRPS1q0ha7TuQ&e=1789390520|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/247-fox-league/playlist.m3u8?tk=HD8pqZ7DzOrMVkOg1crT3Q&e=1789408564|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-fox-league/2/playlist.m3u8?tk=HD8pqZ7DzOrMVkOg1crT3Q&e=1789408564|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "nrl/2026-09-19/syd-cro",
+    "title": "Roosters vs. Sharks",
+    "league": "NRL",
+    "category": "rugby",
+    "date": 1789811400000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Roosters",
+        "badge": ""
+      },
+      "away": {
+        "name": "Sharks",
+        "badge": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nrl/2026-09-19/syd-cro/playlist.m3u8?tk=HD8pqZ7DzOrMVkOg1crT3Q&e=1789408564|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-roosters-vs-sharks/2/playlist.m3u8?tk=hlQAMpGAWtE9KIib6NHm-Q&e=1789408565|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "nrl/2026-09-20/new-new",
+    "title": "Warriors vs. Knights",
+    "league": "NRL",
+    "category": "rugby",
+    "date": 1789884300000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Warriors",
+        "badge": ""
+      },
+      "away": {
+        "name": "Knights",
+        "badge": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nrl/2026-09-20/new-new/playlist.m3u8?tk=hlQAMpGAWtE9KIib6NHm-Q&e=1789408565|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-warriors-vs-knights/2/playlist.m3u8?tk=hlQAMpGAWtE9KIib6NHm-Q&e=1789408565|Referer=https://ondemand.st"
   }
 ]
