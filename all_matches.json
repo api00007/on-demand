@@ -1,185 +1,5 @@
 [
   {
-    "matchId": "golazo/2026-09-17",
-    "title": "The Golazo Show",
-    "league": "Football",
-    "category": "football",
-    "date": 1789668000000,
-    "status": "live",
-    "teams": {
-      "home": {
-        "name": "The Golazo Show",
-        "badge": ""
-      },
-      "away": {
-        "name": "",
-        "badge": ""
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/golazo/2026-09-17/playlist.m3u8?tk=bzM8HsNyyYP9SMJTnBkfTw&e=1789722936|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-the-golazo-show/2/playlist.m3u8?tk=bzM8HsNyyYP9SMJTnBkfTw&e=1789722936|Referer=https://ondemand.st"
-  },
-  {
-    "matchId": "uel/2026-09-17/bes-olm",
-    "title": "Besiktas vs. Marseille",
-    "league": "Europa League",
-    "category": "football",
-    "date": 1789671600000,
-    "status": "live",
-    "teams": {
-      "home": {
-        "name": "Besiktas",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/svo05k1776827439.png"
-      },
-      "away": {
-        "name": "Marseille",
-        "badge": ""
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/uel/2026-09-17/bes-olm/playlist.m3u8?tk=bzM8HsNyyYP9SMJTnBkfTw&e=1789722936|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-besiktas-vs-marseille/2/playlist.m3u8?tk=bzM8HsNyyYP9SMJTnBkfTw&e=1789722936|Referer=https://ondemand.st"
-  },
-  {
-    "matchId": "uel/2026-09-17/cel-fer",
-    "title": "Celtic vs. Ferencvaros",
-    "league": "Europa League",
-    "category": "football",
-    "date": 1789671600000,
-    "status": "live",
-    "teams": {
-      "home": {
-        "name": "Celtic",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/3uv1641758780002.png"
-      },
-      "away": {
-        "name": "Ferencvaros",
-        "badge": ""
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/uel/2026-09-17/cel-fer/playlist.m3u8?tk=m74RTG-QBhDR9M6bLXaiGg&e=1789722937|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-celtic-vs-ferencvaros/2/playlist.m3u8?tk=m74RTG-QBhDR9M6bLXaiGg&e=1789722937|Referer=https://ondemand.st"
-  },
-  {
-    "matchId": "uel/2026-09-17/cry-lech",
-    "title": "Crystal Palace vs. Lech Poznan",
-    "league": "Europa League",
-    "category": "football",
-    "date": 1789671600000,
-    "status": "live",
-    "teams": {
-      "home": {
-        "name": "Crystal Palace",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/ia6i3m1656014992.png"
-      },
-      "away": {
-        "name": "Lech Poznan",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/8zfxyx1685597440.png"
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/uel/2026-09-17/cry-lech/playlist.m3u8?tk=m74RTG-QBhDR9M6bLXaiGg&e=1789722937|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-crystal-palace-vs-lech-poznan/2/playlist.m3u8?tk=m74RTG-QBhDR9M6bLXaiGg&e=1789722937|Referer=https://ondemand.st"
-  },
-  {
-    "matchId": "uel/2026-09-17/juv-nec",
-    "title": "Juventus vs. NEC Nijmegen",
-    "league": "Europa League",
-    "category": "football",
-    "date": 1789671600000,
-    "status": "live",
-    "teams": {
-      "home": {
-        "name": "Juventus",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/uxf0gr1742983727.png"
-      },
-      "away": {
-        "name": "NEC Nijmegen",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/t5qjle1701019868.png"
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/uel/2026-09-17/juv-nec/playlist.m3u8?tk=m74RTG-QBhDR9M6bLXaiGg&e=1789722937|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-juventus-vs-nec-nijmegen/2/playlist.m3u8?tk=m74RTG-QBhDR9M6bLXaiGg&e=1789722937|Referer=https://ondemand.st"
-  },
-  {
-    "matchId": "uel/2026-09-17/lil-tor",
-    "title": "Lillestrom vs. Torreense",
-    "league": "Europa League",
-    "category": "football",
-    "date": 1789671600000,
-    "status": "live",
-    "teams": {
-      "home": {
-        "name": "Lillestrom",
-        "badge": ""
-      },
-      "away": {
-        "name": "Torreense",
-        "badge": ""
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/uel/2026-09-17/lil-tor/playlist.m3u8?tk=x3NGcdQqnMpey7UyTL1omA&e=1789722938|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-lillestrom-vs-torreense/2/playlist.m3u8?tk=x3NGcdQqnMpey7UyTL1omA&e=1789722938|Referer=https://ondemand.st"
-  },
-  {
-    "matchId": "uel/2026-09-17/rso-bou",
-    "title": "Real Sociedad vs. AFC Bournemouth",
-    "league": "Europa League",
-    "category": "football",
-    "date": 1789671600000,
-    "status": "live",
-    "teams": {
-      "home": {
-        "name": "Real Sociedad",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/vptvpr1473502986.png"
-      },
-      "away": {
-        "name": "AFC Bournemouth",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/y08nak1534071116.png"
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/uel/2026-09-17/rso-bou/playlist.m3u8?tk=x3NGcdQqnMpey7UyTL1omA&e=1789722938|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-real-sociedad-vs-afc-bournemouth/2/playlist.m3u8?tk=x3NGcdQqnMpey7UyTL1omA&e=1789722938|Referer=https://ondemand.st"
-  },
-  {
-    "matchId": "uel/2026-09-17/plz-usg",
-    "title": "Viktoria Plzen vs. Union St.-Gilloise",
-    "league": "Europa League",
-    "category": "football",
-    "date": 1789671600000,
-    "status": "live",
-    "teams": {
-      "home": {
-        "name": "Viktoria Plzen",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/at8i2h1679265942.png"
-      },
-      "away": {
-        "name": "Union St.-Gilloise",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/ljszp41654601742.png"
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/uel/2026-09-17/plz-usg/playlist.m3u8?tk=atz4K84WjpsTzIuCigFEUA&e=1789722939|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-viktoria-plzen-vs-union-st-gilloise/2/playlist.m3u8?tk=atz4K84WjpsTzIuCigFEUA&e=1789722939|Referer=https://ondemand.st"
-  },
-  {
-    "matchId": "laliga/2026-09-17/mcf-vil",
-    "title": "Málaga vs. Villarreal",
-    "league": "La Liga",
-    "category": "football",
-    "date": 1789673400000,
-    "status": "live",
-    "teams": {
-      "home": {
-        "name": "Málaga",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/upqyvr1473502952.png"
-      },
-      "away": {
-        "name": "Villarreal",
-        "badge": ""
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/laliga/2026-09-17/mcf-vil/playlist.m3u8?tk=atz4K84WjpsTzIuCigFEUA&e=1789722939|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-m-laga-vs-villarreal/2/playlist.m3u8?tk=atz4K84WjpsTzIuCigFEUA&e=1789722939|Referer=https://ondemand.st"
-  },
-  {
     "matchId": "eredivisie/2026-09-18/gro-pec",
     "title": "FC Groningen vs. PEC Zwolle",
     "league": "Football",
@@ -196,8 +16,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/qpvqwy1473534822.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/eredivisie/2026-09-18/gro-pec/playlist.m3u8?tk=MDHJLDFt1xL9IXhqJA3qNA&e=1789722940|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-fc-groningen-vs-pec-zwolle/2/playlist.m3u8?tk=MDHJLDFt1xL9IXhqJA3qNA&e=1789722940|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/eredivisie/2026-09-18/gro-pec/playlist.m3u8?tk=IYWpkeXCxW1V2VO5du2epw&e=1789732680|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-fc-groningen-vs-pec-zwolle/2/playlist.m3u8?tk=IYWpkeXCxW1V2VO5du2epw&e=1789732680|Referer=https://ondemand.st"
   },
   {
     "matchId": "bundesliga/2026-09-18/bay-fcu",
@@ -216,8 +36,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/q0o5001599679795.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/bundesliga/2026-09-18/bay-fcu/playlist.m3u8?tk=MDHJLDFt1xL9IXhqJA3qNA&e=1789722940|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-bayern-munich-vs-1-fc-union-berlin/2/playlist.m3u8?tk=MDHJLDFt1xL9IXhqJA3qNA&e=1789722940|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/bundesliga/2026-09-18/bay-fcu/playlist.m3u8?tk=IYWpkeXCxW1V2VO5du2epw&e=1789732680|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-bayern-munich-vs-1-fc-union-berlin/2/playlist.m3u8?tk=IYWpkeXCxW1V2VO5du2epw&e=1789732680|Referer=https://ondemand.st"
   },
   {
     "matchId": "seriea/2026-09-18/mon-sas",
@@ -236,8 +56,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/xystvp1448806138.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/seriea/2026-09-18/mon-sas/playlist.m3u8?tk=JYQ_IBZVaRSL5v8S3lu2SA&e=1789722941|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-monza-vs-sassuolo/2/playlist.m3u8?tk=JYQ_IBZVaRSL5v8S3lu2SA&e=1789722941|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/seriea/2026-09-18/mon-sas/playlist.m3u8?tk=IYWpkeXCxW1V2VO5du2epw&e=1789732680|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-monza-vs-sassuolo/2/playlist.m3u8?tk=Y-nUrUQmxdVfvqlTRF4Sfw&e=1789732681|Referer=https://ondemand.st"
   },
   {
     "matchId": "ligue1/2026-09-18/mon-rcl",
@@ -256,8 +76,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/3pxoum1598797195.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/ligue1/2026-09-18/mon-rcl/playlist.m3u8?tk=JYQ_IBZVaRSL5v8S3lu2SA&e=1789722941|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-as-monaco-vs-lens/2/playlist.m3u8?tk=JYQ_IBZVaRSL5v8S3lu2SA&e=1789722941|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/ligue1/2026-09-18/mon-rcl/playlist.m3u8?tk=Y-nUrUQmxdVfvqlTRF4Sfw&e=1789732681|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-as-monaco-vs-lens/2/playlist.m3u8?tk=Y-nUrUQmxdVfvqlTRF4Sfw&e=1789732681|Referer=https://ondemand.st"
   },
   {
     "matchId": "belgian-pro-league/2026-09-18/gent-stl",
@@ -276,8 +96,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/0ynlvb1771130035.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/belgian-pro-league/2026-09-18/gent-stl/playlist.m3u8?tk=h2s8mMkGcAN9flCfVL9VUQ&e=1789722942|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-kaa-gent-vs-standard-liege/2/playlist.m3u8?tk=h2s8mMkGcAN9flCfVL9VUQ&e=1789722942|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/belgian-pro-league/2026-09-18/gent-stl/playlist.m3u8?tk=Y-nUrUQmxdVfvqlTRF4Sfw&e=1789732681|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-kaa-gent-vs-standard-liege/2/playlist.m3u8?tk=Y-nUrUQmxdVfvqlTRF4Sfw&e=1789732681|Referer=https://ondemand.st"
   },
   {
     "matchId": "laliga/2026-09-18/esp-elc",
@@ -296,8 +116,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/e4vaw51655594332.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/laliga/2026-09-18/esp-elc/playlist.m3u8?tk=h2s8mMkGcAN9flCfVL9VUQ&e=1789722942|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-espanyol-vs-elche/2/playlist.m3u8?tk=h2s8mMkGcAN9flCfVL9VUQ&e=1789722942|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/laliga/2026-09-18/esp-elc/playlist.m3u8?tk=MIZNjdpjykieDVelzeN86A&e=1789732682|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-espanyol-vs-elche/2/playlist.m3u8?tk=MIZNjdpjykieDVelzeN86A&e=1789732682|Referer=https://ondemand.st"
   },
   {
     "matchId": "pl/2026-09-18/bre-che",
@@ -316,8 +136,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/pbf4ul1782638263.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/pl/2026-09-18/bre-che/playlist.m3u8?tk=x_hGmYnbS39Qpl_gTVaQ9Q&e=1789722943|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-brentford-vs-chelsea/2/playlist.m3u8?tk=x_hGmYnbS39Qpl_gTVaQ9Q&e=1789722943|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/pl/2026-09-18/bre-che/playlist.m3u8?tk=MIZNjdpjykieDVelzeN86A&e=1789732682|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-brentford-vs-chelsea/2/playlist.m3u8?tk=MIZNjdpjykieDVelzeN86A&e=1789732682|Referer=https://ondemand.st"
   },
   {
     "matchId": "mls/2026-09-18/nyc-rbny",
@@ -336,7 +156,7 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/suytvy1473536462.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mls/2026-09-18/nyc-rbny/playlist.m3u8?tk=x_hGmYnbS39Qpl_gTVaQ9Q&e=1789722943|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mls/2026-09-18/nyc-rbny/playlist.m3u8?tk=UH1NupvpwR-YMe4vK1G0NQ&e=1789732683|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -356,8 +176,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/wcf2r51754018201.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/liga-mx/2026-09-18/pue-atl/playlist.m3u8?tk=x_hGmYnbS39Qpl_gTVaQ9Q&e=1789722943|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-puebla-vs-atlante/2/playlist.m3u8?tk=x_hGmYnbS39Qpl_gTVaQ9Q&e=1789722943|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/liga-mx/2026-09-18/pue-atl/playlist.m3u8?tk=UH1NupvpwR-YMe4vK1G0NQ&e=1789732683|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-puebla-vs-atlante/2/playlist.m3u8?tk=UH1NupvpwR-YMe4vK1G0NQ&e=1789732683|Referer=https://ondemand.st"
   },
   {
     "matchId": "liga-mx/2026-09-18/jua-uanl",
@@ -376,8 +196,8 @@
         "badge": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/liga-mx/2026-09-18/jua-uanl/playlist.m3u8?tk=JniUuFIxKPiiL_3_GyK8jQ&e=1789722944|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-fc-juarez-vs-tigres-uanl/2/playlist.m3u8?tk=JniUuFIxKPiiL_3_GyK8jQ&e=1789722944|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/liga-mx/2026-09-18/jua-uanl/playlist.m3u8?tk=MuJ-S4JWw7buJfinB6ORLA&e=1789732684|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-fc-juarez-vs-tigres-uanl/2/playlist.m3u8?tk=MuJ-S4JWw7buJfinB6ORLA&e=1789732684|Referer=https://ondemand.st"
   },
   {
     "matchId": "pl/2026-09-19/tot-avl",
@@ -396,8 +216,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/uwzw561787679026.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/pl/2026-09-19/tot-avl/playlist.m3u8?tk=JniUuFIxKPiiL_3_GyK8jQ&e=1789722944|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-tottenham-hotspur-vs-aston-villa/2/playlist.m3u8?tk=JniUuFIxKPiiL_3_GyK8jQ&e=1789722944|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/pl/2026-09-19/tot-avl/playlist.m3u8?tk=MuJ-S4JWw7buJfinB6ORLA&e=1789732684|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-tottenham-hotspur-vs-aston-villa/2/playlist.m3u8?tk=MuJ-S4JWw7buJfinB6ORLA&e=1789732684|Referer=https://ondemand.st"
   },
   {
     "matchId": "laliga/2026-09-19/osa-ray",
@@ -416,8 +236,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/nzhu941655595465.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/laliga/2026-09-19/osa-ray/playlist.m3u8?tk=-dFUPFWDIgLfEj0JZ9_e-A&e=1789722945|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-osasuna-vs-rayo-vallecano/2/playlist.m3u8?tk=-dFUPFWDIgLfEj0JZ9_e-A&e=1789722945|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/laliga/2026-09-19/osa-ray/playlist.m3u8?tk=LpmS1nTPJN_znCjjfbIlcQ&e=1789732685|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-osasuna-vs-rayo-vallecano/2/playlist.m3u8?tk=LpmS1nTPJN_znCjjfbIlcQ&e=1789732685|Referer=https://ondemand.st"
   },
   {
     "matchId": "seriea/2026-09-19/bol-tor",
@@ -436,8 +256,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/xxprty1448806802.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/seriea/2026-09-19/bol-tor/playlist.m3u8?tk=-dFUPFWDIgLfEj0JZ9_e-A&e=1789722945|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-bologna-vs-torino/2/playlist.m3u8?tk=-dFUPFWDIgLfEj0JZ9_e-A&e=1789722945|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/seriea/2026-09-19/bol-tor/playlist.m3u8?tk=LpmS1nTPJN_znCjjfbIlcQ&e=1789732685|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-bologna-vs-torino/2/playlist.m3u8?tk=LpmS1nTPJN_znCjjfbIlcQ&e=1789732685|Referer=https://ondemand.st"
   },
   {
     "matchId": "seriea/2026-09-19/udi-cag",
@@ -456,8 +276,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/wvsvxt1447534471.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/seriea/2026-09-19/udi-cag/playlist.m3u8?tk=AwULYKpq9ni52FxLwSBNag&e=1789722946|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-udinese-vs-cagliari/2/playlist.m3u8?tk=AwULYKpq9ni52FxLwSBNag&e=1789722946|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/seriea/2026-09-19/udi-cag/playlist.m3u8?tk=nT-TfhpvmaSvviHwrlC8nA&e=1789732686|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-udinese-vs-cagliari/2/playlist.m3u8?tk=nT-TfhpvmaSvviHwrlC8nA&e=1789732686|Referer=https://ondemand.st"
   },
   {
     "matchId": "allsvenskan/2026-09-19/bro-got",
@@ -476,8 +296,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/ywyxtp1429470529.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/allsvenskan/2026-09-19/bro-got/playlist.m3u8?tk=AwULYKpq9ni52FxLwSBNag&e=1789722946|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-if-brommapojkarna-vs-ifk-g-teborg/2/playlist.m3u8?tk=AwULYKpq9ni52FxLwSBNag&e=1789722946|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/allsvenskan/2026-09-19/bro-got/playlist.m3u8?tk=nT-TfhpvmaSvviHwrlC8nA&e=1789732686|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-if-brommapojkarna-vs-ifk-g-teborg/2/playlist.m3u8?tk=nT-TfhpvmaSvviHwrlC8nA&e=1789732686|Referer=https://ondemand.st"
   },
   {
     "matchId": "allsvenskan/2026-09-19/vas-mal",
@@ -496,8 +316,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/cdj8xq1786725999.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/allsvenskan/2026-09-19/vas-mal/playlist.m3u8?tk=nX5gGzbREqN177ZpENqeIA&e=1789722947|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-v-ster-s-sk-vs-malm-ff/2/playlist.m3u8?tk=nX5gGzbREqN177ZpENqeIA&e=1789722947|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/allsvenskan/2026-09-19/vas-mal/playlist.m3u8?tk=nT-TfhpvmaSvviHwrlC8nA&e=1789732686|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-v-ster-s-sk-vs-malm-ff/2/playlist.m3u8?tk=aVrkWcSFohu_tBnmcAoLHw&e=1789732687|Referer=https://ondemand.st"
   },
   {
     "matchId": "bundesliga/2026-09-19/bmg-m05",
@@ -516,8 +336,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/fhm9v51552134916.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/bundesliga/2026-09-19/bmg-m05/playlist.m3u8?tk=nX5gGzbREqN177ZpENqeIA&e=1789722947|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-borussia-m-nchengladbach-vs-mainz/2/playlist.m3u8?tk=nX5gGzbREqN177ZpENqeIA&e=1789722947|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/bundesliga/2026-09-19/bmg-m05/playlist.m3u8?tk=aVrkWcSFohu_tBnmcAoLHw&e=1789732687|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-borussia-m-nchengladbach-vs-mainz/2/playlist.m3u8?tk=aVrkWcSFohu_tBnmcAoLHw&e=1789732687|Referer=https://ondemand.st"
   },
   {
     "matchId": "bundesliga/2026-09-19/sge-scf",
@@ -536,8 +356,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/urwtup1473453288.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/bundesliga/2026-09-19/sge-scf/playlist.m3u8?tk=_5jLDCiFM5jhG7DiL3jAsw&e=1789722948|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-eintracht-frankfurt-vs-sc-freiburg/2/playlist.m3u8?tk=_5jLDCiFM5jhG7DiL3jAsw&e=1789722948|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/bundesliga/2026-09-19/sge-scf/playlist.m3u8?tk=aVrkWcSFohu_tBnmcAoLHw&e=1789732687|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-eintracht-frankfurt-vs-sc-freiburg/2/playlist.m3u8?tk=aVrkWcSFohu_tBnmcAoLHw&e=1789732687|Referer=https://ondemand.st"
   },
   {
     "matchId": "bundesliga/2026-09-19/hsv-koe",
@@ -556,8 +376,8 @@
         "badge": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/bundesliga/2026-09-19/hsv-koe/playlist.m3u8?tk=_5jLDCiFM5jhG7DiL3jAsw&e=1789722948|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-hamburg-sv-vs-fc-cologne/2/playlist.m3u8?tk=_5jLDCiFM5jhG7DiL3jAsw&e=1789722948|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/bundesliga/2026-09-19/hsv-koe/playlist.m3u8?tk=3WxhpeXPLpZ4TjNBg9rQXg&e=1789732688|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-hamburg-sv-vs-fc-cologne/2/playlist.m3u8?tk=3WxhpeXPLpZ4TjNBg9rQXg&e=1789732688|Referer=https://ondemand.st"
   },
   {
     "matchId": "bundesliga/2026-09-19/svw-fca",
@@ -576,8 +396,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/xqyyvq1473453233.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/bundesliga/2026-09-19/svw-fca/playlist.m3u8?tk=zWHUN58eFGV4hol9QNO61g&e=1789722949|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-werder-bremen-vs-fc-augsburg/2/playlist.m3u8?tk=zWHUN58eFGV4hol9QNO61g&e=1789722949|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/bundesliga/2026-09-19/svw-fca/playlist.m3u8?tk=3WxhpeXPLpZ4TjNBg9rQXg&e=1789732688|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-werder-bremen-vs-fc-augsburg/2/playlist.m3u8?tk=3WxhpeXPLpZ4TjNBg9rQXg&e=1789732688|Referer=https://ondemand.st"
   },
   {
     "matchId": "pl/2026-09-19/bha-ars",
@@ -596,8 +416,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/uyhbfe1612467038.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/pl/2026-09-19/bha-ars/playlist.m3u8?tk=zWHUN58eFGV4hol9QNO61g&e=1789722949|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-brighton-hove-albion-vs-arsenal/2/playlist.m3u8?tk=zWHUN58eFGV4hol9QNO61g&e=1789722949|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/pl/2026-09-19/bha-ars/playlist.m3u8?tk=-89W2tZRZHOiVmuQ0uRmhQ&e=1789732689|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-brighton-hove-albion-vs-arsenal/2/playlist.m3u8?tk=-89W2tZRZHOiVmuQ0uRmhQ&e=1789732689|Referer=https://ondemand.st"
   },
   {
     "matchId": "pl/2026-09-19/eve-ips",
@@ -616,8 +436,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/mdj1ey1634670785.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/pl/2026-09-19/eve-ips/playlist.m3u8?tk=zWHUN58eFGV4hol9QNO61g&e=1789722949|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-everton-vs-ipswich-town/2/playlist.m3u8?tk=eH5MW2a-n0uKffMDd8YTEg&e=1789722950|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/pl/2026-09-19/eve-ips/playlist.m3u8?tk=-89W2tZRZHOiVmuQ0uRmhQ&e=1789732689|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-everton-vs-ipswich-town/2/playlist.m3u8?tk=-89W2tZRZHOiVmuQ0uRmhQ&e=1789732689|Referer=https://ondemand.st"
   },
   {
     "matchId": "pl/2026-09-19/new-hul",
@@ -636,8 +456,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/fbqqda1601726113.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/pl/2026-09-19/new-hul/playlist.m3u8?tk=eH5MW2a-n0uKffMDd8YTEg&e=1789722950|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-newcastle-united-vs-hull-city/2/playlist.m3u8?tk=eH5MW2a-n0uKffMDd8YTEg&e=1789722950|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/pl/2026-09-19/new-hul/playlist.m3u8?tk=eADFwDZtDEhF0X7ZEl-KNw&e=1789732690|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-newcastle-united-vs-hull-city/2/playlist.m3u8?tk=eADFwDZtDEhF0X7ZEl-KNw&e=1789732690|Referer=https://ondemand.st"
   },
   {
     "matchId": "belgian-pro-league/2026-09-19/ohl-rll",
@@ -656,8 +476,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/n64osu1787378903.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/belgian-pro-league/2026-09-19/ohl-rll/playlist.m3u8?tk=eH5MW2a-n0uKffMDd8YTEg&e=1789722950|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-oh-leuven-vs-raal-la-louvi-re/2/playlist.m3u8?tk=eH5MW2a-n0uKffMDd8YTEg&e=1789722950|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/belgian-pro-league/2026-09-19/ohl-rll/playlist.m3u8?tk=eADFwDZtDEhF0X7ZEl-KNw&e=1789732690|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-oh-leuven-vs-raal-la-louvi-re/2/playlist.m3u8?tk=eADFwDZtDEhF0X7ZEl-KNw&e=1789732690|Referer=https://ondemand.st"
   },
   {
     "matchId": "efl-championship/2026-09-19/wxm-sou",
@@ -676,8 +496,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/ggqtd01621593274.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/efl-championship/2026-09-19/wxm-sou/playlist.m3u8?tk=9dScO8RczU_AW5w08XL9ZA&e=1789722951|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-wrexham-vs-southampton/2/playlist.m3u8?tk=9dScO8RczU_AW5w08XL9ZA&e=1789722951|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/efl-championship/2026-09-19/wxm-sou/playlist.m3u8?tk=P3olEihQI8ZagK7p6J4eYA&e=1789732691|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-wrexham-vs-southampton/2/playlist.m3u8?tk=P3olEihQI8ZagK7p6J4eYA&e=1789732691|Referer=https://ondemand.st"
   },
   {
     "matchId": "laliga/2026-09-19/ath-ala",
@@ -696,8 +516,8 @@
         "badge": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/laliga/2026-09-19/ath-ala/playlist.m3u8?tk=9dScO8RczU_AW5w08XL9ZA&e=1789722951|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-athletic-club-vs-alav-s/2/playlist.m3u8?tk=9dScO8RczU_AW5w08XL9ZA&e=1789722951|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/laliga/2026-09-19/ath-ala/playlist.m3u8?tk=P3olEihQI8ZagK7p6J4eYA&e=1789732691|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-athletic-club-vs-alav-s/2/playlist.m3u8?tk=P3olEihQI8ZagK7p6J4eYA&e=1789732691|Referer=https://ondemand.st"
   },
   {
     "matchId": "eredivisie/2026-09-19/ado-cam",
@@ -716,8 +536,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/b3rap31579463652.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/eredivisie/2026-09-19/ado-cam/playlist.m3u8?tk=_9tErPqV9Pd0EWxlvMecSA&e=1789722952|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-ado-den-haag-vs-sc-cambuur/2/playlist.m3u8?tk=_9tErPqV9Pd0EWxlvMecSA&e=1789722952|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/eredivisie/2026-09-19/ado-cam/playlist.m3u8?tk=O0ZLarChWjWc5BvI8O2Lag&e=1789732692|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-ado-den-haag-vs-sc-cambuur/2/playlist.m3u8?tk=O0ZLarChWjWc5BvI8O2Lag&e=1789732692|Referer=https://ondemand.st"
   },
   {
     "matchId": "ligue1/2026-09-19/par-str",
@@ -736,8 +556,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/z8s5ow1629235128.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/ligue1/2026-09-19/par-str/playlist.m3u8?tk=_9tErPqV9Pd0EWxlvMecSA&e=1789722952|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-paris-fc-vs-strasbourg/2/playlist.m3u8?tk=_9tErPqV9Pd0EWxlvMecSA&e=1789722952|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/ligue1/2026-09-19/par-str/playlist.m3u8?tk=O0ZLarChWjWc5BvI8O2Lag&e=1789732692|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-paris-fc-vs-strasbourg/2/playlist.m3u8?tk=O0ZLarChWjWc5BvI8O2Lag&e=1789732692|Referer=https://ondemand.st"
   },
   {
     "matchId": "allsvenskan/2026-09-19/org-sir",
@@ -756,8 +576,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/yryyvr1429976751.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/allsvenskan/2026-09-19/org-sir/playlist.m3u8?tk=9OOS1K5fUZc_jMLU9evbZA&e=1789722953|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-rgryte-is-vs-ik-sirius/2/playlist.m3u8?tk=9OOS1K5fUZc_jMLU9evbZA&e=1789722953|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/allsvenskan/2026-09-19/org-sir/playlist.m3u8?tk=AUaORjqE6VHOKZgO4_JH1A&e=1789732693|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-rgryte-is-vs-ik-sirius/2/playlist.m3u8?tk=AUaORjqE6VHOKZgO4_JH1A&e=1789732693|Referer=https://ondemand.st"
   },
   {
     "matchId": "seriea/2026-09-19/roma-int",
@@ -776,8 +596,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/ryhu6d1617113103.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/seriea/2026-09-19/roma-int/playlist.m3u8?tk=9OOS1K5fUZc_jMLU9evbZA&e=1789722953|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-as-roma-vs-inter-milan/2/playlist.m3u8?tk=9OOS1K5fUZc_jMLU9evbZA&e=1789722953|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/seriea/2026-09-19/roma-int/playlist.m3u8?tk=AUaORjqE6VHOKZgO4_JH1A&e=1789732693|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-as-roma-vs-inter-milan/2/playlist.m3u8?tk=AUaORjqE6VHOKZgO4_JH1A&e=1789732693|Referer=https://ondemand.st"
   },
   {
     "matchId": "belgian-pro-league/2026-09-19/cha-cbk",
@@ -796,8 +616,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/0v6uv41656017321.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/belgian-pro-league/2026-09-19/cha-cbk/playlist.m3u8?tk=BOHxr6ASkaX8jNaOYtwtyA&e=1789722954|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-royal-charleroi-sc-vs-cercle-brugge-ksv/2/playlist.m3u8?tk=BOHxr6ASkaX8jNaOYtwtyA&e=1789722954|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/belgian-pro-league/2026-09-19/cha-cbk/playlist.m3u8?tk=nxNvvtpV7h8zdf66atZnzw&e=1789732694|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-royal-charleroi-sc-vs-cercle-brugge-ksv/2/playlist.m3u8?tk=nxNvvtpV7h8zdf66atZnzw&e=1789732694|Referer=https://ondemand.st"
   },
   {
     "matchId": "laliga/2026-09-19/cel-rac",
@@ -816,8 +636,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/97kkiq1536575158.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/laliga/2026-09-19/cel-rac/playlist.m3u8?tk=BOHxr6ASkaX8jNaOYtwtyA&e=1789722954|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-celta-vigo-vs-racing-santander/2/playlist.m3u8?tk=BOHxr6ASkaX8jNaOYtwtyA&e=1789722954|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/laliga/2026-09-19/cel-rac/playlist.m3u8?tk=nxNvvtpV7h8zdf66atZnzw&e=1789732694|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-celta-vigo-vs-racing-santander/2/playlist.m3u8?tk=nxNvvtpV7h8zdf66atZnzw&e=1789732694|Referer=https://ondemand.st"
   },
   {
     "matchId": "bundesliga/2026-09-19/vfb-dor",
@@ -836,8 +656,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/tqo8ge1716960353.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/bundesliga/2026-09-19/vfb-dor/playlist.m3u8?tk=sPlCaW8-0MOBOTxmu0aFCQ&e=1789722955|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-vf-b-stuttgart-vs-borussia-dortmund/2/playlist.m3u8?tk=sPlCaW8-0MOBOTxmu0aFCQ&e=1789722955|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/bundesliga/2026-09-19/vfb-dor/playlist.m3u8?tk=nxNvvtpV7h8zdf66atZnzw&e=1789732694|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-vf-b-stuttgart-vs-borussia-dortmund/2/playlist.m3u8?tk=nxNvvtpV7h8zdf66atZnzw&e=1789732694|Referer=https://ondemand.st"
   },
   {
     "matchId": "pl/2026-09-19/nfo-cov",
@@ -856,8 +676,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/uxyqys1424033798.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/pl/2026-09-19/nfo-cov/playlist.m3u8?tk=sPlCaW8-0MOBOTxmu0aFCQ&e=1789722955|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-nottingham-forest-vs-coventry-city/2/playlist.m3u8?tk=sPlCaW8-0MOBOTxmu0aFCQ&e=1789722955|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/pl/2026-09-19/nfo-cov/playlist.m3u8?tk=BONfIPWlyCdCKcysyIqraQ&e=1789732695|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-nottingham-forest-vs-coventry-city/2/playlist.m3u8?tk=BONfIPWlyCdCKcysyIqraQ&e=1789732695|Referer=https://ondemand.st"
   },
   {
     "matchId": "eredivisie/2026-09-19/spa-hee",
@@ -876,8 +696,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/surtsx1473534841.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/eredivisie/2026-09-19/spa-hee/playlist.m3u8?tk=sPlCaW8-0MOBOTxmu0aFCQ&e=1789722955|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-sparta-rotterdam-vs-heerenveen/2/playlist.m3u8?tk=sPlCaW8-0MOBOTxmu0aFCQ&e=1789722955|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/eredivisie/2026-09-19/spa-hee/playlist.m3u8?tk=BONfIPWlyCdCKcysyIqraQ&e=1789732695|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-sparta-rotterdam-vs-heerenveen/2/playlist.m3u8?tk=BONfIPWlyCdCKcysyIqraQ&e=1789732695|Referer=https://ondemand.st"
   },
   {
     "matchId": "eredivisie/2026-09-19/aja-exc",
@@ -896,8 +716,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/bmbn9v1625172555.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/eredivisie/2026-09-19/aja-exc/playlist.m3u8?tk=MiBIaYxAym66Jbi44osGAg&e=1789722956|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-ajax-amsterdam-vs-excelsior/2/playlist.m3u8?tk=MiBIaYxAym66Jbi44osGAg&e=1789722956|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/eredivisie/2026-09-19/aja-exc/playlist.m3u8?tk=th-iXEozdUSbVXUu1bLmQQ&e=1789732696|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-ajax-amsterdam-vs-excelsior/2/playlist.m3u8?tk=th-iXEozdUSbVXUu1bLmQQ&e=1789732696|Referer=https://ondemand.st"
   },
   {
     "matchId": "seriea/2026-09-19/ven-laz",
@@ -916,8 +736,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/rwqyvs1448806608.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/seriea/2026-09-19/ven-laz/playlist.m3u8?tk=MiBIaYxAym66Jbi44osGAg&e=1789722956|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-venezia-vs-lazio/2/playlist.m3u8?tk=MiBIaYxAym66Jbi44osGAg&e=1789722956|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/seriea/2026-09-19/ven-laz/playlist.m3u8?tk=th-iXEozdUSbVXUu1bLmQQ&e=1789732696|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-venezia-vs-lazio/2/playlist.m3u8?tk=th-iXEozdUSbVXUu1bLmQQ&e=1789732696|Referer=https://ondemand.st"
   },
   {
     "matchId": "ligue1/2026-09-19/ang-try",
@@ -936,8 +756,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/sl5kzg1766617559.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/ligue1/2026-09-19/ang-try/playlist.m3u8?tk=cLYoSPdapUXBgSw0jld32A&e=1789722957|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-angers-vs-troyes/2/playlist.m3u8?tk=cLYoSPdapUXBgSw0jld32A&e=1789722957|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/ligue1/2026-09-19/ang-try/playlist.m3u8?tk=qEr-FI_MFCBF1h6KxCwwpQ&e=1789732697|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-angers-vs-troyes/2/playlist.m3u8?tk=qEr-FI_MFCBF1h6KxCwwpQ&e=1789732697|Referer=https://ondemand.st"
   },
   {
     "matchId": "ligue1/2026-09-19/mns-lor",
@@ -956,8 +776,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/sxsttw1473504748.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/ligue1/2026-09-19/mns-lor/playlist.m3u8?tk=cLYoSPdapUXBgSw0jld32A&e=1789722957|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-le-mans-vs-lorient/2/playlist.m3u8?tk=cLYoSPdapUXBgSw0jld32A&e=1789722957|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/ligue1/2026-09-19/mns-lor/playlist.m3u8?tk=qEr-FI_MFCBF1h6KxCwwpQ&e=1789732697|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-le-mans-vs-lorient/2/playlist.m3u8?tk=qEr-FI_MFCBF1h6KxCwwpQ&e=1789732697|Referer=https://ondemand.st"
   },
   {
     "matchId": "ligue1/2026-09-19/lyon-ren",
@@ -976,8 +796,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/ypturx1473504818.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/ligue1/2026-09-19/lyon-ren/playlist.m3u8?tk=bLL3SWorcfzsS4bAEzIYQg&e=1789722958|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-lyon-vs-stade-rennais/2/playlist.m3u8?tk=bLL3SWorcfzsS4bAEzIYQg&e=1789722958|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/ligue1/2026-09-19/lyon-ren/playlist.m3u8?tk=Md_ds49XyPiGhnHLztuVCQ&e=1789732698|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-lyon-vs-stade-rennais/2/playlist.m3u8?tk=Md_ds49XyPiGhnHLztuVCQ&e=1789732698|Referer=https://ondemand.st"
   },
   {
     "matchId": "ligue1/2026-09-19/tou-hac",
@@ -996,8 +816,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/aikowk1546475003.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/ligue1/2026-09-19/tou-hac/playlist.m3u8?tk=bLL3SWorcfzsS4bAEzIYQg&e=1789722958|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-toulouse-vs-le-havre-ac/2/playlist.m3u8?tk=bLL3SWorcfzsS4bAEzIYQg&e=1789722958|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/ligue1/2026-09-19/tou-hac/playlist.m3u8?tk=Md_ds49XyPiGhnHLztuVCQ&e=1789732698|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-toulouse-vs-le-havre-ac/2/playlist.m3u8?tk=Md_ds49XyPiGhnHLztuVCQ&e=1789732698|Referer=https://ondemand.st"
   },
   {
     "matchId": "belgian-pro-league/2026-09-19/and-zul",
@@ -1016,8 +836,8 @@
         "badge": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/belgian-pro-league/2026-09-19/and-zul/playlist.m3u8?tk=kaJZYq6pQ6PMG27U4fCY9A&e=1789722959|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-anderlecht-vs-zulte-waregem/2/playlist.m3u8?tk=kaJZYq6pQ6PMG27U4fCY9A&e=1789722959|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/belgian-pro-league/2026-09-19/and-zul/playlist.m3u8?tk=hVkWY0PEtZEyXzWuVXiA0w&e=1789732699|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-anderlecht-vs-zulte-waregem/2/playlist.m3u8?tk=hVkWY0PEtZEyXzWuVXiA0w&e=1789732699|Referer=https://ondemand.st"
   },
   {
     "matchId": "belgian-pro-league/2026-09-19/lom-kvm",
@@ -1036,8 +856,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/sxsxpt1447618693.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/belgian-pro-league/2026-09-19/lom-kvm/playlist.m3u8?tk=kaJZYq6pQ6PMG27U4fCY9A&e=1789722959|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-lommel-sk-vs-kv-mechelen/2/playlist.m3u8?tk=kaJZYq6pQ6PMG27U4fCY9A&e=1789722959|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/belgian-pro-league/2026-09-19/lom-kvm/playlist.m3u8?tk=hVkWY0PEtZEyXzWuVXiA0w&e=1789732699|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-lommel-sk-vs-kv-mechelen/2/playlist.m3u8?tk=hVkWY0PEtZEyXzWuVXiA0w&e=1789732699|Referer=https://ondemand.st"
   },
   {
     "matchId": "laliga/2026-09-19/sev-bar",
@@ -1056,8 +876,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/wq9sir1639406443.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/laliga/2026-09-19/sev-bar/playlist.m3u8?tk=pgZvLBIDnU9cLfKgeyKHMQ&e=1789722960|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-sevilla-vs-barcelona/2/playlist.m3u8?tk=pgZvLBIDnU9cLfKgeyKHMQ&e=1789722960|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/laliga/2026-09-19/sev-bar/playlist.m3u8?tk=3X6AqptBho-9g0dBrDEOkw&e=1789732700|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-sevilla-vs-barcelona/2/playlist.m3u8?tk=3X6AqptBho-9g0dBrDEOkw&e=1789732700|Referer=https://ondemand.st"
   },
   {
     "matchId": "eredivisie/2026-09-19/wil-for",
@@ -1076,8 +896,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/aqr7it1685596947.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/eredivisie/2026-09-19/wil-for/playlist.m3u8?tk=pgZvLBIDnU9cLfKgeyKHMQ&e=1789722960|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-willem-ii-vs-fortuna-sittard/2/playlist.m3u8?tk=pgZvLBIDnU9cLfKgeyKHMQ&e=1789722960|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/eredivisie/2026-09-19/wil-for/playlist.m3u8?tk=3X6AqptBho-9g0dBrDEOkw&e=1789732700|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-willem-ii-vs-fortuna-sittard/2/playlist.m3u8?tk=3X6AqptBho-9g0dBrDEOkw&e=1789732700|Referer=https://ondemand.st"
   },
   {
     "matchId": "liga-mx/2026-09-19/ats-unam",
@@ -1096,8 +916,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/o01nvl1695734937.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/liga-mx/2026-09-19/ats-unam/playlist.m3u8?tk=BueXZ7qsHFMa8J8WS3c7kQ&e=1789722961|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-atlas-vs-pumas-unam/2/playlist.m3u8?tk=BueXZ7qsHFMa8J8WS3c7kQ&e=1789722961|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/liga-mx/2026-09-19/ats-unam/playlist.m3u8?tk=zCaZD-WF4VDYfQaenSR17A&e=1789732701|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-atlas-vs-pumas-unam/2/playlist.m3u8?tk=zCaZD-WF4VDYfQaenSR17A&e=1789732701|Referer=https://ondemand.st"
   },
   {
     "matchId": "liga-mx/2026-09-19/asl-ncx",
@@ -1116,8 +936,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/tqdk9e1779772432.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/liga-mx/2026-09-19/asl-ncx/playlist.m3u8?tk=BueXZ7qsHFMa8J8WS3c7kQ&e=1789722961|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-atl-tico-de-san-luis-vs-necaxa/2/playlist.m3u8?tk=BueXZ7qsHFMa8J8WS3c7kQ&e=1789722961|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/liga-mx/2026-09-19/asl-ncx/playlist.m3u8?tk=zCaZD-WF4VDYfQaenSR17A&e=1789732701|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-atl-tico-de-san-luis-vs-necaxa/2/playlist.m3u8?tk=zCaZD-WF4VDYfQaenSR17A&e=1789732701|Referer=https://ondemand.st"
   },
   {
     "matchId": "mls/2026-09-19/mtl-clb",
@@ -1136,8 +956,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/dzs8cp1629059854.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mls/2026-09-19/mtl-clb/playlist.m3u8?tk=3bSZHcQYlALk8c3rlhrwZg&e=1789722962|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-cf-montr-al-vs-columbus-crew/2/playlist.m3u8?tk=3bSZHcQYlALk8c3rlhrwZg&e=1789722962|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mls/2026-09-19/mtl-clb/playlist.m3u8?tk=zCaZD-WF4VDYfQaenSR17A&e=1789732701|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-cf-montr-al-vs-columbus-crew/2/playlist.m3u8?tk=zCaZD-WF4VDYfQaenSR17A&e=1789732701|Referer=https://ondemand.st"
   },
   {
     "matchId": "mls/2026-09-19/dc-clt",
@@ -1156,7 +976,7 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/b6p4uz1595434047.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mls/2026-09-19/dc-clt/playlist.m3u8?tk=3bSZHcQYlALk8c3rlhrwZg&e=1789722962|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mls/2026-09-19/dc-clt/playlist.m3u8?tk=y8ylenkpw0OxDM1Ef_9noA&e=1789732702|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -1176,8 +996,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/qyppxw1423832326.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mls/2026-09-19/ne-orl/playlist.m3u8?tk=GZN9US4LFf4L0tvXOaCtXw&e=1789722963|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-new-england-revolution-vs-orlando-city-sc/2/playlist.m3u8?tk=GZN9US4LFf4L0tvXOaCtXw&e=1789722963|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mls/2026-09-19/ne-orl/playlist.m3u8?tk=y8ylenkpw0OxDM1Ef_9noA&e=1789732702|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-new-england-revolution-vs-orlando-city-sc/2/playlist.m3u8?tk=y8ylenkpw0OxDM1Ef_9noA&e=1789732702|Referer=https://ondemand.st"
   },
   {
     "matchId": "mls/2026-09-19/sj-lafc",
@@ -1196,8 +1016,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/7nbj2a1602103638.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mls/2026-09-19/sj-lafc/playlist.m3u8?tk=GZN9US4LFf4L0tvXOaCtXw&e=1789722963|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-san-jose-earthquakes-vs-lafc/2/playlist.m3u8?tk=GZN9US4LFf4L0tvXOaCtXw&e=1789722963|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mls/2026-09-19/sj-lafc/playlist.m3u8?tk=zc8IVpQ7T-__fXUPHeab7Q&e=1789732703|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-san-jose-earthquakes-vs-lafc/2/playlist.m3u8?tk=zc8IVpQ7T-__fXUPHeab7Q&e=1789732703|Referer=https://ondemand.st"
   },
   {
     "matchId": "mls/2026-09-19/dal-atx",
@@ -1216,8 +1036,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/a3dlg61595434277.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mls/2026-09-19/dal-atx/playlist.m3u8?tk=GZN9US4LFf4L0tvXOaCtXw&e=1789722963|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-fc-dallas-vs-austin-fc/2/playlist.m3u8?tk=63-oxM-LAdoIeu9arhxGFQ&e=1789722964|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mls/2026-09-19/dal-atx/playlist.m3u8?tk=zc8IVpQ7T-__fXUPHeab7Q&e=1789732703|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-fc-dallas-vs-austin-fc/2/playlist.m3u8?tk=zc8IVpQ7T-__fXUPHeab7Q&e=1789732703|Referer=https://ondemand.st"
   },
   {
     "matchId": "mls/2026-09-19/hou-cin",
@@ -1236,8 +1056,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/vvhsqc1707631046.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mls/2026-09-19/hou-cin/playlist.m3u8?tk=63-oxM-LAdoIeu9arhxGFQ&e=1789722964|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-houston-dynamo-fc-vs-fc-cincinnati/2/playlist.m3u8?tk=63-oxM-LAdoIeu9arhxGFQ&e=1789722964|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mls/2026-09-19/hou-cin/playlist.m3u8?tk=02_9aotEFSwCmnXQSYkqRg&e=1789732704|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-houston-dynamo-fc-vs-fc-cincinnati/2/playlist.m3u8?tk=02_9aotEFSwCmnXQSYkqRg&e=1789732704|Referer=https://ondemand.st"
   },
   {
     "matchId": "mls/2026-09-19/min-la",
@@ -1256,8 +1076,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/ysyysr1420227188.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mls/2026-09-19/min-la/playlist.m3u8?tk=yzmJ1bHl1z7hZNjjyFYTiQ&e=1789722965|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-minnesota-united-fc-vs-la-galaxy/2/playlist.m3u8?tk=yzmJ1bHl1z7hZNjjyFYTiQ&e=1789722965|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mls/2026-09-19/min-la/playlist.m3u8?tk=02_9aotEFSwCmnXQSYkqRg&e=1789732704|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-minnesota-united-fc-vs-la-galaxy/2/playlist.m3u8?tk=02_9aotEFSwCmnXQSYkqRg&e=1789732704|Referer=https://ondemand.st"
   },
   {
     "matchId": "mls/2026-09-19/skc-phi",
@@ -1276,8 +1096,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/gyznyo1602103682.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mls/2026-09-19/skc-phi/playlist.m3u8?tk=yzmJ1bHl1z7hZNjjyFYTiQ&e=1789722965|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-sporting-kansas-city-vs-philadelphia-union/2/playlist.m3u8?tk=yzmJ1bHl1z7hZNjjyFYTiQ&e=1789722965|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mls/2026-09-19/skc-phi/playlist.m3u8?tk=43TiAy4hWGzLVjZ-Rj_ilw&e=1789732705|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-sporting-kansas-city-vs-philadelphia-union/2/playlist.m3u8?tk=43TiAy4hWGzLVjZ-Rj_ilw&e=1789732705|Referer=https://ondemand.st"
   },
   {
     "matchId": "mls/2026-09-19/stl-tor",
@@ -1296,8 +1116,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/rsxyrr1473536512.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mls/2026-09-19/stl-tor/playlist.m3u8?tk=XZeriIlDF3u_1wBKblnbFA&e=1789722966|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-st-louis-city-sc-vs-toronto-fc/2/playlist.m3u8?tk=XZeriIlDF3u_1wBKblnbFA&e=1789722966|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mls/2026-09-19/stl-tor/playlist.m3u8?tk=43TiAy4hWGzLVjZ-Rj_ilw&e=1789732705|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-st-louis-city-sc-vs-toronto-fc/2/playlist.m3u8?tk=43TiAy4hWGzLVjZ-Rj_ilw&e=1789732705|Referer=https://ondemand.st"
   },
   {
     "matchId": "liga-mx/2026-09-19/mty-caz",
@@ -1316,8 +1136,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/wcd2yi1781543370.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/liga-mx/2026-09-19/mty-caz/playlist.m3u8?tk=XZeriIlDF3u_1wBKblnbFA&e=1789722966|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-monterrey-vs-cruz-azul/2/playlist.m3u8?tk=XZeriIlDF3u_1wBKblnbFA&e=1789722966|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/liga-mx/2026-09-19/mty-caz/playlist.m3u8?tk=Dkps619FdpHag9AO8ODjzQ&e=1789732706|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-monterrey-vs-cruz-azul/2/playlist.m3u8?tk=Dkps619FdpHag9AO8ODjzQ&e=1789732706|Referer=https://ondemand.st"
   },
   {
     "matchId": "mls/2026-09-19/col-sea",
@@ -1336,8 +1156,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/2dy5cx1706711036.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mls/2026-09-19/col-sea/playlist.m3u8?tk=JyaAPgsR7e6oYl9xLAqAPg&e=1789722967|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-colorado-rapids-vs-seattle-sounders-fc/2/playlist.m3u8?tk=JyaAPgsR7e6oYl9xLAqAPg&e=1789722967|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mls/2026-09-19/col-sea/playlist.m3u8?tk=Dkps619FdpHag9AO8ODjzQ&e=1789732706|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-colorado-rapids-vs-seattle-sounders-fc/2/playlist.m3u8?tk=Dkps619FdpHag9AO8ODjzQ&e=1789732706|Referer=https://ondemand.st"
   },
   {
     "matchId": "mls/2026-09-19/nsh-chi",
@@ -1356,8 +1176,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/8xuc781639493166.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mls/2026-09-19/nsh-chi/playlist.m3u8?tk=JyaAPgsR7e6oYl9xLAqAPg&e=1789722967|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-nashville-sc-vs-chicago-fire-fc/2/playlist.m3u8?tk=JyaAPgsR7e6oYl9xLAqAPg&e=1789722967|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mls/2026-09-19/nsh-chi/playlist.m3u8?tk=I0K-k7PGi9bTREyrRoMLsA&e=1789732707|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-nashville-sc-vs-chicago-fire-fc/2/playlist.m3u8?tk=I0K-k7PGi9bTREyrRoMLsA&e=1789732707|Referer=https://ondemand.st"
   },
   {
     "matchId": "mls/2026-09-19/rsl-van",
@@ -1376,8 +1196,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/tpwxpy1473536521.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mls/2026-09-19/rsl-van/playlist.m3u8?tk=dxSrLscbh_ODMRBfI7Jcqw&e=1789722968|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-real-salt-lake-vs-vancouver-whitecaps/2/playlist.m3u8?tk=dxSrLscbh_ODMRBfI7Jcqw&e=1789722968|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mls/2026-09-19/rsl-van/playlist.m3u8?tk=I0K-k7PGi9bTREyrRoMLsA&e=1789732707|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-real-salt-lake-vs-vancouver-whitecaps/2/playlist.m3u8?tk=I0K-k7PGi9bTREyrRoMLsA&e=1789732707|Referer=https://ondemand.st"
   },
   {
     "matchId": "mls/2026-09-19/por-atl",
@@ -1396,8 +1216,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/ej091x1602103070.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mls/2026-09-19/por-atl/playlist.m3u8?tk=dxSrLscbh_ODMRBfI7Jcqw&e=1789722968|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-portland-timbers-vs-atlanta-united-fc/2/playlist.m3u8?tk=dxSrLscbh_ODMRBfI7Jcqw&e=1789722968|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mls/2026-09-19/por-atl/playlist.m3u8?tk=TQeBs7Wv-DvCQEiV5xnQ4g&e=1789732708|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-portland-timbers-vs-atlanta-united-fc/2/playlist.m3u8?tk=TQeBs7Wv-DvCQEiV5xnQ4g&e=1789732708|Referer=https://ondemand.st"
   },
   {
     "matchId": "liga-mx/2026-09-19/ame-gdl",
@@ -1416,8 +1236,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/qt2hk81757606691.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/liga-mx/2026-09-19/ame-gdl/playlist.m3u8?tk=kRBZntY86Je8lJV5tV2WyA&e=1789722969|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-am-rica-vs-guadalajara/2/playlist.m3u8?tk=kRBZntY86Je8lJV5tV2WyA&e=1789722969|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/liga-mx/2026-09-19/ame-gdl/playlist.m3u8?tk=TQeBs7Wv-DvCQEiV5xnQ4g&e=1789732708|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-am-rica-vs-guadalajara/2/playlist.m3u8?tk=TQeBs7Wv-DvCQEiV5xnQ4g&e=1789732708|Referer=https://ondemand.st"
   },
   {
     "matchId": "eredivisie/2026-09-20/fey-utr",
@@ -1436,8 +1256,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/4d5kz21630019812.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/eredivisie/2026-09-20/fey-utr/playlist.m3u8?tk=kRBZntY86Je8lJV5tV2WyA&e=1789722969|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-feyenoord-rotterdam-vs-fc-utrecht/2/playlist.m3u8?tk=kRBZntY86Je8lJV5tV2WyA&e=1789722969|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/eredivisie/2026-09-20/fey-utr/playlist.m3u8?tk=8kdj_ZxqdREpB3d3T7EBBA&e=1789732709|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-feyenoord-rotterdam-vs-fc-utrecht/2/playlist.m3u8?tk=8kdj_ZxqdREpB3d3T7EBBA&e=1789732709|Referer=https://ondemand.st"
   },
   {
     "matchId": "seriea/2026-09-20/fio-nap",
@@ -1456,8 +1276,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/l8qyxv1742982541.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/seriea/2026-09-20/fio-nap/playlist.m3u8?tk=wE65Q6zTMUgXgBWvftN26w&e=1789722970|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-fiorentina-vs-napoli/2/playlist.m3u8?tk=wE65Q6zTMUgXgBWvftN26w&e=1789722970|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/seriea/2026-09-20/fio-nap/playlist.m3u8?tk=8kdj_ZxqdREpB3d3T7EBBA&e=1789732709|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-fiorentina-vs-napoli/2/playlist.m3u8?tk=8kdj_ZxqdREpB3d3T7EBBA&e=1789732709|Referer=https://ondemand.st"
   },
   {
     "matchId": "belgian-pro-league/2026-09-20/ant-usg",
@@ -1476,8 +1296,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/ljszp41654601742.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/belgian-pro-league/2026-09-20/ant-usg/playlist.m3u8?tk=wE65Q6zTMUgXgBWvftN26w&e=1789722970|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-antwerp-vs-union-st-gilloise/2/playlist.m3u8?tk=wE65Q6zTMUgXgBWvftN26w&e=1789722970|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/belgian-pro-league/2026-09-20/ant-usg/playlist.m3u8?tk=Nk7ev94er0Iwa1nZsyzIjA&e=1789732710|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-antwerp-vs-union-st-gilloise/2/playlist.m3u8?tk=Nk7ev94er0Iwa1nZsyzIjA&e=1789732710|Referer=https://ondemand.st"
   },
   {
     "matchId": "laliga/2026-09-20/get-mcf",
@@ -1496,8 +1316,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/upqyvr1473502952.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/laliga/2026-09-20/get-mcf/playlist.m3u8?tk=3f0anlryOT6vD0WKARnNdw&e=1789722971|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-getafe-vs-m-laga/2/playlist.m3u8?tk=3f0anlryOT6vD0WKARnNdw&e=1789722971|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/laliga/2026-09-20/get-mcf/playlist.m3u8?tk=Nk7ev94er0Iwa1nZsyzIjA&e=1789732710|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-getafe-vs-m-laga/2/playlist.m3u8?tk=Nk7ev94er0Iwa1nZsyzIjA&e=1789732710|Referer=https://ondemand.st"
   },
   {
     "matchId": "allsvenskan/2026-09-20/dju-elf",
@@ -1516,8 +1336,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/svqvqq1421957626.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/allsvenskan/2026-09-20/dju-elf/playlist.m3u8?tk=3f0anlryOT6vD0WKARnNdw&e=1789722971|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-djurg-rden-vs-if-elfsborg/2/playlist.m3u8?tk=3f0anlryOT6vD0WKARnNdw&e=1789722971|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/allsvenskan/2026-09-20/dju-elf/playlist.m3u8?tk=Nk7ev94er0Iwa1nZsyzIjA&e=1789732710|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-djurg-rden-vs-if-elfsborg/2/playlist.m3u8?tk=Nk7ev94er0Iwa1nZsyzIjA&e=1789732710|Referer=https://ondemand.st"
   },
   {
     "matchId": "allsvenskan/2026-09-20/hbk-aik",
@@ -1536,8 +1356,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/allsvenskan/2026-09-20/hbk-aik/playlist.m3u8?tk=3f0anlryOT6vD0WKARnNdw&e=1789722971|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-halmstads-bk-vs-aik/2/playlist.m3u8?tk=3f0anlryOT6vD0WKARnNdw&e=1789722971|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/allsvenskan/2026-09-20/hbk-aik/playlist.m3u8?tk=3DeocGoMsDvNq5bsJ1mLgg&e=1789732711|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-halmstads-bk-vs-aik/2/playlist.m3u8?tk=3DeocGoMsDvNq5bsJ1mLgg&e=1789732711|Referer=https://ondemand.st"
   },
   {
     "matchId": "allsvenskan/2026-09-20/kff-bkh",
@@ -1556,8 +1376,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/4mltnh1628558366.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/allsvenskan/2026-09-20/kff-bkh/playlist.m3u8?tk=XLLl2aoSqaiYrf_E9H3kLQ&e=1789722972|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-kalmar-ff-vs-bk-h-cken/2/playlist.m3u8?tk=XLLl2aoSqaiYrf_E9H3kLQ&e=1789722972|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/allsvenskan/2026-09-20/kff-bkh/playlist.m3u8?tk=3DeocGoMsDvNq5bsJ1mLgg&e=1789732711|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-kalmar-ff-vs-bk-h-cken/2/playlist.m3u8?tk=3DeocGoMsDvNq5bsJ1mLgg&e=1789732711|Referer=https://ondemand.st"
   },
   {
     "matchId": "eredivisie/2026-09-20/az-tel",
@@ -1576,8 +1396,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/xg1ss31579463659.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/eredivisie/2026-09-20/az-tel/playlist.m3u8?tk=XLLl2aoSqaiYrf_E9H3kLQ&e=1789722972|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-az-alkmaar-vs-telstar/2/playlist.m3u8?tk=XLLl2aoSqaiYrf_E9H3kLQ&e=1789722972|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/eredivisie/2026-09-20/az-tel/playlist.m3u8?tk=LkNdGNwGlLYfNHBZUavFdg&e=1789732712|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-az-alkmaar-vs-telstar/2/playlist.m3u8?tk=LkNdGNwGlLYfNHBZUavFdg&e=1789732712|Referer=https://ondemand.st"
   },
   {
     "matchId": "eredivisie/2026-09-20/twe-psv",
@@ -1596,8 +1416,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/dyh43c1630019790.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/eredivisie/2026-09-20/twe-psv/playlist.m3u8?tk=nOXNhUWL8DRx9ljvRxiiow&e=1789722973|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-fc-twente-vs-psv-eindhoven/2/playlist.m3u8?tk=nOXNhUWL8DRx9ljvRxiiow&e=1789722973|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/eredivisie/2026-09-20/twe-psv/playlist.m3u8?tk=LkNdGNwGlLYfNHBZUavFdg&e=1789732712|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-fc-twente-vs-psv-eindhoven/2/playlist.m3u8?tk=LkNdGNwGlLYfNHBZUavFdg&e=1789732712|Referer=https://ondemand.st"
   },
   {
     "matchId": "pl/2026-09-20/bou-liv",
@@ -1616,8 +1436,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/kfaher1737969724.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/pl/2026-09-20/bou-liv/playlist.m3u8?tk=nOXNhUWL8DRx9ljvRxiiow&e=1789722973|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-afc-bournemouth-vs-liverpool/2/playlist.m3u8?tk=nOXNhUWL8DRx9ljvRxiiow&e=1789722973|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/pl/2026-09-20/bou-liv/playlist.m3u8?tk=IZ8qcOp9YGa-Qba7aKHGCw&e=1789732713|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-afc-bournemouth-vs-liverpool/2/playlist.m3u8?tk=IZ8qcOp9YGa-Qba7aKHGCw&e=1789732713|Referer=https://ondemand.st"
   },
   {
     "matchId": "pl/2026-09-20/lee-cry",
@@ -1636,8 +1456,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/ia6i3m1656014992.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/pl/2026-09-20/lee-cry/playlist.m3u8?tk=W0vwQaQDPYdsCccTztw31A&e=1789722974|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-leeds-united-vs-crystal-palace/2/playlist.m3u8?tk=W0vwQaQDPYdsCccTztw31A&e=1789722974|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/pl/2026-09-20/lee-cry/playlist.m3u8?tk=IZ8qcOp9YGa-Qba7aKHGCw&e=1789732713|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-leeds-united-vs-crystal-palace/2/playlist.m3u8?tk=IZ8qcOp9YGa-Qba7aKHGCw&e=1789732713|Referer=https://ondemand.st"
   },
   {
     "matchId": "pl/2026-09-20/mci-sun",
@@ -1656,8 +1476,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/tprtus1448813498.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/pl/2026-09-20/mci-sun/playlist.m3u8?tk=W0vwQaQDPYdsCccTztw31A&e=1789722974|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-manchester-city-vs-sunderland/2/playlist.m3u8?tk=W0vwQaQDPYdsCccTztw31A&e=1789722974|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/pl/2026-09-20/mci-sun/playlist.m3u8?tk=qy4ptTP25Xy5iRfPO2dA_A&e=1789732714|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-manchester-city-vs-sunderland/2/playlist.m3u8?tk=qy4ptTP25Xy5iRfPO2dA_A&e=1789732714|Referer=https://ondemand.st"
   },
   {
     "matchId": "seriea/2026-09-20/fro-como",
@@ -1676,8 +1496,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/02x81t1627405841.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/seriea/2026-09-20/fro-como/playlist.m3u8?tk=Giiksa3joEYUzuKOpduSSQ&e=1789722975|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-frosinone-vs-como/2/playlist.m3u8?tk=Giiksa3joEYUzuKOpduSSQ&e=1789722975|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/seriea/2026-09-20/fro-como/playlist.m3u8?tk=qy4ptTP25Xy5iRfPO2dA_A&e=1789732714|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-frosinone-vs-como/2/playlist.m3u8?tk=qy4ptTP25Xy5iRfPO2dA_A&e=1789732714|Referer=https://ondemand.st"
   },
   {
     "matchId": "seriea/2026-09-20/par-gen",
@@ -1696,8 +1516,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/52s8dn1655553600.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/seriea/2026-09-20/par-gen/playlist.m3u8?tk=Giiksa3joEYUzuKOpduSSQ&e=1789722975|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-parma-vs-genoa/2/playlist.m3u8?tk=Giiksa3joEYUzuKOpduSSQ&e=1789722975|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/seriea/2026-09-20/par-gen/playlist.m3u8?tk=NHvEaQGzCMiVF4pC_TfJPA&e=1789732715|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-parma-vs-genoa/2/playlist.m3u8?tk=NHvEaQGzCMiVF4pC_TfJPA&e=1789732715|Referer=https://ondemand.st"
   },
   {
     "matchId": "ligue1/2026-09-20/aux-bre",
@@ -1716,8 +1536,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/z69be41598797026.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/ligue1/2026-09-20/aux-bre/playlist.m3u8?tk=33QjQWbn0F9WhFwuq4Wl5w&e=1789722976|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-aj-auxerre-vs-brest/2/playlist.m3u8?tk=33QjQWbn0F9WhFwuq4Wl5w&e=1789722976|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/ligue1/2026-09-20/aux-bre/playlist.m3u8?tk=NHvEaQGzCMiVF4pC_TfJPA&e=1789732715|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-aj-auxerre-vs-brest/2/playlist.m3u8?tk=NHvEaQGzCMiVF4pC_TfJPA&e=1789732715|Referer=https://ondemand.st"
   },
   {
     "matchId": "bundesliga/2026-09-20/b04-rbl",
@@ -1736,8 +1556,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/zjgapo1594244951.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/bundesliga/2026-09-20/b04-rbl/playlist.m3u8?tk=33QjQWbn0F9WhFwuq4Wl5w&e=1789722976|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-bayer-leverkusen-vs-rb-leipzig/2/playlist.m3u8?tk=33QjQWbn0F9WhFwuq4Wl5w&e=1789722976|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/bundesliga/2026-09-20/b04-rbl/playlist.m3u8?tk=KBj1Xw7KtsVqLzr9CKA1Cw&e=1789732716|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-bayer-leverkusen-vs-rb-leipzig/2/playlist.m3u8?tk=KBj1Xw7KtsVqLzr9CKA1Cw&e=1789732716|Referer=https://ondemand.st"
   },
   {
     "matchId": "belgian-pro-league/2026-09-20/stvv-kvcw",
@@ -1756,8 +1576,8 @@
         "badge": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/belgian-pro-league/2026-09-20/stvv-kvcw/playlist.m3u8?tk=NH7UKsIyzF_l-627FU6iqw&e=1789722977|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-sint-truidense-vs-kvc-westerlo/2/playlist.m3u8?tk=NH7UKsIyzF_l-627FU6iqw&e=1789722977|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/belgian-pro-league/2026-09-20/stvv-kvcw/playlist.m3u8?tk=KBj1Xw7KtsVqLzr9CKA1Cw&e=1789732716|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-sint-truidense-vs-kvc-westerlo/2/playlist.m3u8?tk=KBj1Xw7KtsVqLzr9CKA1Cw&e=1789732716|Referer=https://ondemand.st"
   },
   {
     "matchId": "laliga/2026-09-20/atm-rma",
@@ -1776,8 +1596,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/vwvwrw1473502969.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/laliga/2026-09-20/atm-rma/playlist.m3u8?tk=NH7UKsIyzF_l-627FU6iqw&e=1789722977|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/1485/2/playlist.m3u8?tk=NH7UKsIyzF_l-627FU6iqw&e=1789722977|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/laliga/2026-09-20/atm-rma/playlist.m3u8?tk=n7r8AOUJWwna28ABiT1-jg&e=1789732717|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/1485/2/playlist.m3u8?tk=n7r8AOUJWwna28ABiT1-jg&e=1789732717|Referer=https://ondemand.st"
   },
   {
     "matchId": "allsvenskan/2026-09-20/deg-ham",
@@ -1796,8 +1616,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/3kgg5b1592144695.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/allsvenskan/2026-09-20/deg-ham/playlist.m3u8?tk=2RrzbtXkCnJHyYU0xX0IOQ&e=1789722978|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-degerfors-if-vs-hammarby-if/2/playlist.m3u8?tk=2RrzbtXkCnJHyYU0xX0IOQ&e=1789722978|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/allsvenskan/2026-09-20/deg-ham/playlist.m3u8?tk=n7r8AOUJWwna28ABiT1-jg&e=1789732717|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-degerfors-if-vs-hammarby-if/2/playlist.m3u8?tk=n7r8AOUJWwna28ABiT1-jg&e=1789732717|Referer=https://ondemand.st"
   },
   {
     "matchId": "allsvenskan/2026-09-20/mja-gais",
@@ -1816,8 +1636,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/3pahks1639779139.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/allsvenskan/2026-09-20/mja-gais/playlist.m3u8?tk=2RrzbtXkCnJHyYU0xX0IOQ&e=1789722978|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-mj-llby-aif-vs-gais/2/playlist.m3u8?tk=2RrzbtXkCnJHyYU0xX0IOQ&e=1789722978|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/allsvenskan/2026-09-20/mja-gais/playlist.m3u8?tk=CUP66KAPjOg_ps-5ztOWTA&e=1789732718|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-mj-llby-aif-vs-gais/2/playlist.m3u8?tk=CUP66KAPjOg_ps-5ztOWTA&e=1789732718|Referer=https://ondemand.st"
   },
   {
     "matchId": "eredivisie/2026-09-20/nec-gae",
@@ -1836,8 +1656,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/3hq2cy1685597026.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/eredivisie/2026-09-20/nec-gae/playlist.m3u8?tk=N51U5nig9EelD9ICjCJZvA&e=1789722979|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-nec-nijmegen-vs-go-ahead-eagles/2/playlist.m3u8?tk=N51U5nig9EelD9ICjCJZvA&e=1789722979|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/eredivisie/2026-09-20/nec-gae/playlist.m3u8?tk=CUP66KAPjOg_ps-5ztOWTA&e=1789732718|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-nec-nijmegen-vs-go-ahead-eagles/2/playlist.m3u8?tk=CUP66KAPjOg_ps-5ztOWTA&e=1789732718|Referer=https://ondemand.st"
   },
   {
     "matchId": "ligue1/2026-09-20/nice-lill",
@@ -1856,8 +1676,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/2giize1534005340.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/ligue1/2026-09-20/nice-lill/playlist.m3u8?tk=N51U5nig9EelD9ICjCJZvA&e=1789722979|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-nice-vs-lille/2/playlist.m3u8?tk=N51U5nig9EelD9ICjCJZvA&e=1789722979|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/ligue1/2026-09-20/nice-lill/playlist.m3u8?tk=vE-_FkqBjue9Jwu5GWQZPQ&e=1789732719|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-nice-vs-lille/2/playlist.m3u8?tk=vE-_FkqBjue9Jwu5GWQZPQ&e=1789732719|Referer=https://ondemand.st"
   },
   {
     "matchId": "bundesliga/2026-09-20/s04-elv",
@@ -1876,8 +1696,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/z079go1677573926.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/bundesliga/2026-09-20/s04-elv/playlist.m3u8?tk=RWtPTEyT0HGu8UK5aYcCwQ&e=1789722980|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-schalke-04-vs-sv-elversberg/2/playlist.m3u8?tk=RWtPTEyT0HGu8UK5aYcCwQ&e=1789722980|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/bundesliga/2026-09-20/s04-elv/playlist.m3u8?tk=vE-_FkqBjue9Jwu5GWQZPQ&e=1789732719|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-schalke-04-vs-sv-elversberg/2/playlist.m3u8?tk=vE-_FkqBjue9Jwu5GWQZPQ&e=1789732719|Referer=https://ondemand.st"
   },
   {
     "matchId": "pl/2026-09-20/ful-mun",
@@ -1896,8 +1716,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/xzqdr11517660252.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/pl/2026-09-20/ful-mun/playlist.m3u8?tk=RWtPTEyT0HGu8UK5aYcCwQ&e=1789722980|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-fulham-vs-manchester-united/2/playlist.m3u8?tk=RWtPTEyT0HGu8UK5aYcCwQ&e=1789722980|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/pl/2026-09-20/ful-mun/playlist.m3u8?tk=0rgvWorcBaeFKUGvGLD0lA&e=1789732720|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-fulham-vs-manchester-united/2/playlist.m3u8?tk=0rgvWorcBaeFKUGvGLD0lA&e=1789732720|Referer=https://ondemand.st"
   },
   {
     "matchId": "seriea/2026-09-20/juv-ata",
@@ -1916,8 +1736,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/qix5ku1780561327.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/seriea/2026-09-20/juv-ata/playlist.m3u8?tk=RXON0dwqswIE4Q2am5wPKg&e=1789722981|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-juventus-vs-atalanta/2/playlist.m3u8?tk=RXON0dwqswIE4Q2am5wPKg&e=1789722981|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/seriea/2026-09-20/juv-ata/playlist.m3u8?tk=0rgvWorcBaeFKUGvGLD0lA&e=1789732720|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-juventus-vs-atalanta/2/playlist.m3u8?tk=0rgvWorcBaeFKUGvGLD0lA&e=1789732720|Referer=https://ondemand.st"
   },
   {
     "matchId": "laliga/2026-09-20/dep-bet",
@@ -1936,8 +1756,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/2oqulv1663245386.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/laliga/2026-09-20/dep-bet/playlist.m3u8?tk=RXON0dwqswIE4Q2am5wPKg&e=1789722981|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-deportivo-vs-real-betis/2/playlist.m3u8?tk=RXON0dwqswIE4Q2am5wPKg&e=1789722981|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/laliga/2026-09-20/dep-bet/playlist.m3u8?tk=CxCiRBOZFGG57JpSHaqLJQ&e=1789732721|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-deportivo-vs-real-betis/2/playlist.m3u8?tk=CxCiRBOZFGG57JpSHaqLJQ&e=1789732721|Referer=https://ondemand.st"
   },
   {
     "matchId": "laliga/2026-09-20/vil-lev",
@@ -1956,8 +1776,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/xwtxsx1473503739.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/laliga/2026-09-20/vil-lev/playlist.m3u8?tk=jQx43WMFiQ7N7TDNQEJonw&e=1789722982|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-villarreal-vs-levante/2/playlist.m3u8?tk=jQx43WMFiQ7N7TDNQEJonw&e=1789722982|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/laliga/2026-09-20/vil-lev/playlist.m3u8?tk=CxCiRBOZFGG57JpSHaqLJQ&e=1789732721|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-villarreal-vs-levante/2/playlist.m3u8?tk=CxCiRBOZFGG57JpSHaqLJQ&e=1789732721|Referer=https://ondemand.st"
   },
   {
     "matchId": "belgian-pro-league/2026-09-20/bru-genk",
@@ -1976,8 +1796,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/ijp86h1788968480.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/belgian-pro-league/2026-09-20/bru-genk/playlist.m3u8?tk=jQx43WMFiQ7N7TDNQEJonw&e=1789722982|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-club-brugge-vs-racing-genk/2/playlist.m3u8?tk=jQx43WMFiQ7N7TDNQEJonw&e=1789722982|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/belgian-pro-league/2026-09-20/bru-genk/playlist.m3u8?tk=CxCiRBOZFGG57JpSHaqLJQ&e=1789732721|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-club-brugge-vs-racing-genk/2/playlist.m3u8?tk=LkLLM-iYL1kAHax5eY_u-g&e=1789732722|Referer=https://ondemand.st"
   },
   {
     "matchId": "belgian-pro-league/2026-09-20/kvk-waa",
@@ -1996,8 +1816,8 @@
         "badge": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/belgian-pro-league/2026-09-20/kvk-waa/playlist.m3u8?tk=qnrNiXJS7kKmg0giDOD3-A&e=1789722983|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-kv-kortrijk-vs-waasland-beveren/2/playlist.m3u8?tk=qnrNiXJS7kKmg0giDOD3-A&e=1789722983|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/belgian-pro-league/2026-09-20/kvk-waa/playlist.m3u8?tk=LkLLM-iYL1kAHax5eY_u-g&e=1789732722|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-kv-kortrijk-vs-waasland-beveren/2/playlist.m3u8?tk=LkLLM-iYL1kAHax5eY_u-g&e=1789732722|Referer=https://ondemand.st"
   },
   {
     "matchId": "bundesliga/2026-09-20/scp-tsg",
@@ -2016,8 +1836,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/9hwvb21621593919.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/bundesliga/2026-09-20/scp-tsg/playlist.m3u8?tk=qnrNiXJS7kKmg0giDOD3-A&e=1789722983|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-sc-paderborn-07-vs-tsg-hoffenheim/2/playlist.m3u8?tk=qnrNiXJS7kKmg0giDOD3-A&e=1789722983|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/bundesliga/2026-09-20/scp-tsg/playlist.m3u8?tk=LkLLM-iYL1kAHax5eY_u-g&e=1789732722|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-sc-paderborn-07-vs-tsg-hoffenheim/2/playlist.m3u8?tk=LkLLM-iYL1kAHax5eY_u-g&e=1789732722|Referer=https://ondemand.st"
   },
   {
     "matchId": "seriea/2026-09-20/mil-lec",
@@ -2036,8 +1856,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/j4vznr1567365249.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/seriea/2026-09-20/mil-lec/playlist.m3u8?tk=BHA4F403URUrcuPUjoFuqw&e=1789722984|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-ac-milan-vs-lecce/2/playlist.m3u8?tk=BHA4F403URUrcuPUjoFuqw&e=1789722984|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/seriea/2026-09-20/mil-lec/playlist.m3u8?tk=EfIK85-DcBtMMonbijyIww&e=1789732723|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-ac-milan-vs-lecce/2/playlist.m3u8?tk=EfIK85-DcBtMMonbijyIww&e=1789732723|Referer=https://ondemand.st"
   },
   {
     "matchId": "ligue1/2026-09-20/olm-psg",
@@ -2056,8 +1876,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/rwqrrq1473504808.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/ligue1/2026-09-20/olm-psg/playlist.m3u8?tk=BHA4F403URUrcuPUjoFuqw&e=1789722984|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-marseille-vs-paris-saint-germain/2/playlist.m3u8?tk=BHA4F403URUrcuPUjoFuqw&e=1789722984|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/ligue1/2026-09-20/olm-psg/playlist.m3u8?tk=EfIK85-DcBtMMonbijyIww&e=1789732723|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-marseille-vs-paris-saint-germain/2/playlist.m3u8?tk=EfIK85-DcBtMMonbijyIww&e=1789732723|Referer=https://ondemand.st"
   },
   {
     "matchId": "laliga/2026-09-20/val-rso",
@@ -2076,8 +1896,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/vptvpr1473502986.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/laliga/2026-09-20/val-rso/playlist.m3u8?tk=BHA4F403URUrcuPUjoFuqw&e=1789722984|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-valencia-vs-real-sociedad/2/playlist.m3u8?tk=LsYlQJltmT_MnNSzh-8q5g&e=1789722985|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/laliga/2026-09-20/val-rso/playlist.m3u8?tk=wMln4jqHaOF8CuCNcGsSCA&e=1789732724|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-valencia-vs-real-sociedad/2/playlist.m3u8?tk=wMln4jqHaOF8CuCNcGsSCA&e=1789732724|Referer=https://ondemand.st"
   },
   {
     "matchId": "mls/2026-09-20/mia-sd",
@@ -2096,8 +1916,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/7ka2xd1734621068.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mls/2026-09-20/mia-sd/playlist.m3u8?tk=LsYlQJltmT_MnNSzh-8q5g&e=1789722985|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/1469/2/playlist.m3u8?tk=LsYlQJltmT_MnNSzh-8q5g&e=1789722985|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mls/2026-09-20/mia-sd/playlist.m3u8?tk=wMln4jqHaOF8CuCNcGsSCA&e=1789732724|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/1469/2/playlist.m3u8?tk=wMln4jqHaOF8CuCNcGsSCA&e=1789732724|Referer=https://ondemand.st"
   },
   {
     "matchId": "liga-mx/2026-09-20/pac-tij",
@@ -2116,8 +1936,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/b0mky81779772352.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/liga-mx/2026-09-20/pac-tij/playlist.m3u8?tk=LsYlQJltmT_MnNSzh-8q5g&e=1789722985|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-pachuca-vs-tijuana/2/playlist.m3u8?tk=LsYlQJltmT_MnNSzh-8q5g&e=1789722985|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/liga-mx/2026-09-20/pac-tij/playlist.m3u8?tk=15MJuPmqbjM32JrRAZmyBQ&e=1789732725|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-pachuca-vs-tijuana/2/playlist.m3u8?tk=15MJuPmqbjM32JrRAZmyBQ&e=1789732725|Referer=https://ondemand.st"
   },
   {
     "matchId": "liga-mx/2026-09-20/tol-san",
@@ -2136,8 +1956,8 @@
         "badge": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/liga-mx/2026-09-20/tol-san/playlist.m3u8?tk=k70wUXqz2GQY512k2u-eVA&e=1789722986|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-toluca-vs-santos/2/playlist.m3u8?tk=k70wUXqz2GQY512k2u-eVA&e=1789722986|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/liga-mx/2026-09-20/tol-san/playlist.m3u8?tk=15MJuPmqbjM32JrRAZmyBQ&e=1789732725|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-toluca-vs-santos/2/playlist.m3u8?tk=15MJuPmqbjM32JrRAZmyBQ&e=1789732725|Referer=https://ondemand.st"
   },
   {
     "matchId": "liga-mx/2026-09-20/qro-leo",
@@ -2156,75 +1976,15 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/pc9gro1752393439.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/liga-mx/2026-09-20/qro-leo/playlist.m3u8?tk=k70wUXqz2GQY512k2u-eVA&e=1789722986|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-quer-taro-vs-le-n/2/playlist.m3u8?tk=k70wUXqz2GQY512k2u-eVA&e=1789722986|Referer=https://ondemand.st"
-  },
-  {
-    "matchId": "sd-echo~malaga-vs-villarreal-football-1570390",
-    "title": "Malaga vs Villarreal",
-    "league": "football",
-    "category": "football",
-    "date": 1789673400000,
-    "status": "live",
-    "teams": {
-      "home": {
-        "name": "Malaga",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQhsIRNnrkGAY2bie8EVW4EurMGFz5zQA.webp"
-      },
-      "away": {
-        "name": "Villarreal",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQhsIRPHrkGAY2bie8EVW4EurMGFz5zQA.webp"
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/echo/malaga-vs-villarreal-football-1570390/playlist.m3u8?tk=RRazsefq8sfUxAvm9hXuWg&e=1789722987|Referer=https://ondemand.st",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "sd-echo~goals-show-game-1888922",
-    "title": "⚽ ⚽ ⚽ Goals Show ⚽ ⚽ ⚽",
-    "league": "football",
-    "category": "football",
-    "date": 1789671600000,
-    "status": "live",
-    "teams": {
-      "home": {
-        "name": "",
-        "badge": ""
-      },
-      "away": {
-        "name": "",
-        "badge": ""
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/echo/goals-show-game-1888922/playlist.m3u8?tk=RRazsefq8sfUxAvm9hXuWg&e=1789722987|Referer=https://ondemand.st",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "sd-golf~1373",
-    "title": "Manchester City vs Norwich City",
-    "league": "football",
-    "category": "football",
-    "date": 1789669800000,
-    "status": "live",
-    "teams": {
-      "home": {
-        "name": "Manchester City",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAmYPrDBqsYFCG4gIIFSD6HjuCyX0EKTPii5gy8IvNGOmtMM7GiIQA.webp"
-      },
-      "away": {
-        "name": "Norwich City",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphgL58MEjYhuIACYg+IFMZAkdICPssEKTPii5gyG+vNGOmtMM7GiIQA.webp"
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/1373/playlist.m3u8?tk=1M-teypUKn4yOBVS5vs2dQ&e=1789722988|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/1373/2/playlist.m3u8?tk=1M-teypUKn4yOBVS5vs2dQ&e=1789722988|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/liga-mx/2026-09-20/qro-leo/playlist.m3u8?tk=Udc7qcNExB8PswaiKaupWA&e=1789732726|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-quer-taro-vs-le-n/2/playlist.m3u8?tk=Udc7qcNExB8PswaiKaupWA&e=1789732726|Referer=https://ondemand.st"
   },
   {
     "matchId": "247-willow",
     "title": "Willow",
     "league": "Cricket",
     "category": "cricket",
-    "date": 1789679788640,
+    "date": 1789689526683,
     "status": "live",
     "teams": {
       "home": {
@@ -2236,7 +1996,7 @@
         "badge": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/247-willow/playlist.m3u8?tk=SMNsHstLBEvhu-xwyDpnaA&e=1789722989|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/247-willow/playlist.m3u8?tk=CDRsP3ig8d6isvlBuSllrQ&e=1789732727|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -2244,7 +2004,7 @@
     "title": "Fox Cricket",
     "league": "Cricket",
     "category": "cricket",
-    "date": 1789679788640,
+    "date": 1789689526683,
     "status": "live",
     "teams": {
       "home": {
@@ -2256,28 +2016,8 @@
         "badge": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/247-fox-cricket/playlist.m3u8?tk=SMNsHstLBEvhu-xwyDpnaA&e=1789722989|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-fox-cricket/2/playlist.m3u8?tk=SMNsHstLBEvhu-xwyDpnaA&e=1789722989|Referer=https://ondemand.st"
-  },
-  {
-    "matchId": "sd-echo~england-vs-sri-lanka-second-t20-international-cricket-hundred-1",
-    "title": "England Cricket vs Sri Lanka Cricket",
-    "league": "cricket",
-    "category": "cricket",
-    "date": 1789666200000,
-    "status": "live",
-    "teams": {
-      "home": {
-        "name": "England Cricket",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphQgyA2mBDbuIACYgI+kHxNqQukrgIUmfFFzBl4ReaIdNNTsaIhA.webp"
-      },
-      "away": {
-        "name": "Sri Lanka Cricket",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxQhRAEzC8+IGCG4h1ICIZA6dJfSFXwCFJnxRcwZeEXminTWmBdjREEA.webp"
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/echo/england-vs-sri-lanka-second-t20-international-cricket-hundred-1/playlist.m3u8?tk=xKN0z3tLWGQGzlEhFtYHTg&e=1789722990|Referer=https://ondemand.st",
-    "sdUrl": ""
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/247-fox-cricket/playlist.m3u8?tk=CDRsP3ig8d6isvlBuSllrQ&e=1789732727|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-fox-cricket/2/playlist.m3u8?tk=CDRsP3ig8d6isvlBuSllrQ&e=1789732727|Referer=https://ondemand.st"
   },
   {
     "matchId": "wnba/2026-09-17/con-atl",
@@ -2285,7 +2025,7 @@
     "league": "WNBA",
     "category": "basketball",
     "date": 1789687800000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "Connecticut Sun",
@@ -2296,8 +2036,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/p4xzce1552679905.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/wnba/2026-09-17/con-atl/playlist.m3u8?tk=gpcVlsPLjLdt8rq1orAcsQ&e=1789722991|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-connecticut-sun-vs-atlanta-dream/2/playlist.m3u8?tk=gpcVlsPLjLdt8rq1orAcsQ&e=1789722991|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/wnba/2026-09-17/con-atl/playlist.m3u8?tk=tZfgIiZ9eamACo5DtLUKpQ&e=1789732728|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-connecticut-sun-vs-atlanta-dream/2/playlist.m3u8?tk=tZfgIiZ9eamACo5DtLUKpQ&e=1789732728|Referer=https://ondemand.st"
   },
   {
     "matchId": "wnba/2026-09-17/wsh-chi",
@@ -2316,8 +2056,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/2n9gep1552586413.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/wnba/2026-09-17/wsh-chi/playlist.m3u8?tk=gpcVlsPLjLdt8rq1orAcsQ&e=1789722991|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-washington-mystics-vs-chicago-sky/2/playlist.m3u8?tk=gpcVlsPLjLdt8rq1orAcsQ&e=1789722991|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/wnba/2026-09-17/wsh-chi/playlist.m3u8?tk=tZfgIiZ9eamACo5DtLUKpQ&e=1789732728|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-washington-mystics-vs-chicago-sky/2/playlist.m3u8?tk=tZfgIiZ9eamACo5DtLUKpQ&e=1789732728|Referer=https://ondemand.st"
   },
   {
     "matchId": "wnba/2026-09-17/la-dal",
@@ -2336,8 +2076,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/j70g2o1624031498.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/wnba/2026-09-17/la-dal/playlist.m3u8?tk=ghkA1FqycsmGh9Nnc-4JKQ&e=1789722992|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-los-angeles-sparks-vs-dallas-wings/2/playlist.m3u8?tk=ghkA1FqycsmGh9Nnc-4JKQ&e=1789722992|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/wnba/2026-09-17/la-dal/playlist.m3u8?tk=3NWnLshDl-UJB6zQazrqPQ&e=1789732729|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-los-angeles-sparks-vs-dallas-wings/2/playlist.m3u8?tk=3NWnLshDl-UJB6zQazrqPQ&e=1789732729|Referer=https://ondemand.st"
   },
   {
     "matchId": "wnba/2026-09-17/phx-por",
@@ -2356,8 +2096,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/bcjbjy1767191655.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/wnba/2026-09-17/phx-por/playlist.m3u8?tk=ghkA1FqycsmGh9Nnc-4JKQ&e=1789722992|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-phoenix-mercury-vs-portland-fire/2/playlist.m3u8?tk=ghkA1FqycsmGh9Nnc-4JKQ&e=1789722992|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/wnba/2026-09-17/phx-por/playlist.m3u8?tk=3NWnLshDl-UJB6zQazrqPQ&e=1789732729|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-phoenix-mercury-vs-portland-fire/2/playlist.m3u8?tk=3NWnLshDl-UJB6zQazrqPQ&e=1789732729|Referer=https://ondemand.st"
   },
   {
     "matchId": "wnba/2026-09-17/lv-sea",
@@ -2376,15 +2116,15 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/jnvk6x1741462255.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/wnba/2026-09-17/lv-sea/playlist.m3u8?tk=6iwAMs1r6EROTpknuoMN1A&e=1789722993|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-las-vegas-aces-vs-seattle-storm/2/playlist.m3u8?tk=6iwAMs1r6EROTpknuoMN1A&e=1789722993|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/wnba/2026-09-17/lv-sea/playlist.m3u8?tk=x56MDT76je7cO8cHGC5ZPg&e=1789732730|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-las-vegas-aces-vs-seattle-storm/2/playlist.m3u8?tk=x56MDT76je7cO8cHGC5ZPg&e=1789732730|Referer=https://ondemand.st"
   },
   {
     "matchId": "nfl-network",
     "title": "NFL Network",
     "league": "NFL",
     "category": "american-football",
-    "date": 1789679793683,
+    "date": 1789689524702,
     "status": "live",
     "teams": {
       "home": {
@@ -2396,8 +2136,8 @@
         "badge": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl-network/playlist.m3u8?tk=8hzkLreOAgMl7DC4LcoPvg&e=1789722994|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-nfl-network/2/playlist.m3u8?tk=8hzkLreOAgMl7DC4LcoPvg&e=1789722994|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl-network/playlist.m3u8?tk=x56MDT76je7cO8cHGC5ZPg&e=1789732730|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-nfl-network/2/playlist.m3u8?tk=x56MDT76je7cO8cHGC5ZPg&e=1789732730|Referer=https://ondemand.st"
   },
   {
     "matchId": "nfl/2026-09-17/det-buf",
@@ -2416,8 +2156,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/lgsgkr1546168257.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-09-17/det-buf/playlist.m3u8?tk=8hzkLreOAgMl7DC4LcoPvg&e=1789722994|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-detroit-lions-at-buffalo-bills/2/playlist.m3u8?tk=8hzkLreOAgMl7DC4LcoPvg&e=1789722994|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-09-17/det-buf/playlist.m3u8?tk=hQZ2dpfQDa1fahcuEoDp9w&e=1789732731|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-detroit-lions-at-buffalo-bills/2/playlist.m3u8?tk=hQZ2dpfQDa1fahcuEoDp9w&e=1789732731|Referer=https://ondemand.st"
   },
   {
     "matchId": "cfb/2026-09-18/mia-wake",
@@ -2436,8 +2176,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/0kqdcr1564336226.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-09-18/mia-wake/playlist.m3u8?tk=9JQE6KmCKPpAcUjPrl5b0A&e=1789722995|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-miami-hurricanes-at-wake-forest-demon-deacons/2/playlist.m3u8?tk=9JQE6KmCKPpAcUjPrl5b0A&e=1789722995|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-09-18/mia-wake/playlist.m3u8?tk=hQZ2dpfQDa1fahcuEoDp9w&e=1789732731|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-miami-hurricanes-at-wake-forest-demon-deacons/2/playlist.m3u8?tk=hQZ2dpfQDa1fahcuEoDp9w&e=1789732731|Referer=https://ondemand.st"
   },
   {
     "matchId": "cfl/2026-09-18/mtl-ham",
@@ -2456,8 +2196,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/a6pbbp1628555426.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfl/2026-09-18/mtl-ham/playlist.m3u8?tk=9JQE6KmCKPpAcUjPrl5b0A&e=1789722995|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-montreal-alouettes-at-hamilton-tiger-cats/2/playlist.m3u8?tk=Mx_SGXBXHHWs7Ey8SYvnkg&e=1789722996|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfl/2026-09-18/mtl-ham/playlist.m3u8?tk=mMMM-TyOrv8Rj9rboNdfOw&e=1789732732|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-montreal-alouettes-at-hamilton-tiger-cats/2/playlist.m3u8?tk=mMMM-TyOrv8Rj9rboNdfOw&e=1789732732|Referer=https://ondemand.st"
   },
   {
     "matchId": "cfl/2026-09-19/edm-tor",
@@ -2476,8 +2216,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/5icq721630952022.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfl/2026-09-19/edm-tor/playlist.m3u8?tk=Mx_SGXBXHHWs7Ey8SYvnkg&e=1789722996|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-edmonton-elks-at-toronto-argonauts/2/playlist.m3u8?tk=Mx_SGXBXHHWs7Ey8SYvnkg&e=1789722996|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfl/2026-09-19/edm-tor/playlist.m3u8?tk=mMMM-TyOrv8Rj9rboNdfOw&e=1789732732|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-edmonton-elks-at-toronto-argonauts/2/playlist.m3u8?tk=mMMM-TyOrv8Rj9rboNdfOw&e=1789732732|Referer=https://ondemand.st"
   },
   {
     "matchId": "cfl/2026-09-19/ott-cgy",
@@ -2496,8 +2236,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/k8wjz71546002654.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfl/2026-09-19/ott-cgy/playlist.m3u8?tk=NAlDD0rBwF16VCRae2Vz9g&e=1789722997|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-ottawa-red-blacks-at-calgary-stampeders/2/playlist.m3u8?tk=NAlDD0rBwF16VCRae2Vz9g&e=1789722997|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfl/2026-09-19/ott-cgy/playlist.m3u8?tk=rmS-sr1PZagN7peW0uLwMg&e=1789732733|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-ottawa-red-blacks-at-calgary-stampeders/2/playlist.m3u8?tk=rmS-sr1PZagN7peW0uLwMg&e=1789732733|Referer=https://ondemand.st"
   },
   {
     "matchId": "nfl-redzone-28792",
@@ -2516,8 +2256,8 @@
         "badge": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl-redzone-28792/playlist.m3u8?tk=NAlDD0rBwF16VCRae2Vz9g&e=1789722997|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-nfl-red-zone/2/playlist.m3u8?tk=NAlDD0rBwF16VCRae2Vz9g&e=1789722997|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl-redzone-28792/playlist.m3u8?tk=rmS-sr1PZagN7peW0uLwMg&e=1789732733|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-nfl-red-zone/2/playlist.m3u8?tk=rmS-sr1PZagN7peW0uLwMg&e=1789732733|Referer=https://ondemand.st"
   },
   {
     "matchId": "nfl/2026-09-20/car-atl",
@@ -2536,8 +2276,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/kbqini1784716157.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-09-20/car-atl/playlist.m3u8?tk=qfVNpmzSYKK_i5LWdUfmTw&e=1789722998|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-carolina-panthers-at-atlanta-falcons/2/playlist.m3u8?tk=qfVNpmzSYKK_i5LWdUfmTw&e=1789722998|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-09-20/car-atl/playlist.m3u8?tk=D-jHADmBnt9nCZm6ogT8tw&e=1789732734|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-carolina-panthers-at-atlanta-falcons/2/playlist.m3u8?tk=D-jHADmBnt9nCZm6ogT8tw&e=1789732734|Referer=https://ondemand.st"
   },
   {
     "matchId": "nfl/2026-09-20/min-chi",
@@ -2556,8 +2296,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/nyp3ev1784722510.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-09-20/min-chi/playlist.m3u8?tk=qfVNpmzSYKK_i5LWdUfmTw&e=1789722998|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-minnesota-vikings-at-chicago-bears/2/playlist.m3u8?tk=qfVNpmzSYKK_i5LWdUfmTw&e=1789722998|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-09-20/min-chi/playlist.m3u8?tk=D-jHADmBnt9nCZm6ogT8tw&e=1789732734|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-minnesota-vikings-at-chicago-bears/2/playlist.m3u8?tk=D-jHADmBnt9nCZm6ogT8tw&e=1789732734|Referer=https://ondemand.st"
   },
   {
     "matchId": "nfl/2026-09-20/phi-ten",
@@ -2576,8 +2316,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/pnpybf1515852421.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-09-20/phi-ten/playlist.m3u8?tk=JwczlTjLmmTdrW1KCe9r1w&e=1789722999|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-philadelphia-eagles-at-tennessee-titans/2/playlist.m3u8?tk=JwczlTjLmmTdrW1KCe9r1w&e=1789722999|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-09-20/phi-ten/playlist.m3u8?tk=2luuiibJrMgBe8_vm0TFOg&e=1789732735|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-philadelphia-eagles-at-tennessee-titans/2/playlist.m3u8?tk=2luuiibJrMgBe8_vm0TFOg&e=1789732735|Referer=https://ondemand.st"
   },
   {
     "matchId": "nfl/2026-09-20/pit-ne",
@@ -2596,8 +2336,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/2975411515853129.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-09-20/pit-ne/playlist.m3u8?tk=JwczlTjLmmTdrW1KCe9r1w&e=1789722999|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-pittsburgh-steelers-at-new-england-patriots/2/playlist.m3u8?tk=JwczlTjLmmTdrW1KCe9r1w&e=1789722999|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-09-20/pit-ne/playlist.m3u8?tk=2luuiibJrMgBe8_vm0TFOg&e=1789732735|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-pittsburgh-steelers-at-new-england-patriots/2/playlist.m3u8?tk=2luuiibJrMgBe8_vm0TFOg&e=1789732735|Referer=https://ondemand.st"
   },
   {
     "matchId": "nfl/2026-09-20/gb-nyj",
@@ -2616,8 +2356,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/uwbfw01784719173.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-09-20/gb-nyj/playlist.m3u8?tk=tk7phQ0uyDTeytyKlBnBSA&e=1789723000|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-green-bay-packers-at-new-york-jets/2/playlist.m3u8?tk=tk7phQ0uyDTeytyKlBnBSA&e=1789723000|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-09-20/gb-nyj/playlist.m3u8?tk=jP8WbKbtxEg3oG_srGCFzg&e=1789732736|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-green-bay-packers-at-new-york-jets/2/playlist.m3u8?tk=jP8WbKbtxEg3oG_srGCFzg&e=1789732736|Referer=https://ondemand.st"
   },
   {
     "matchId": "nfl/2026-09-20/cle-tb",
@@ -2636,8 +2376,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/g7qhkz1784717593.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-09-20/cle-tb/playlist.m3u8?tk=tk7phQ0uyDTeytyKlBnBSA&e=1789723000|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-cleveland-browns-at-tampa-bay-buccaneers/2/playlist.m3u8?tk=tk7phQ0uyDTeytyKlBnBSA&e=1789723000|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-09-20/cle-tb/playlist.m3u8?tk=jP8WbKbtxEg3oG_srGCFzg&e=1789732736|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-cleveland-browns-at-tampa-bay-buccaneers/2/playlist.m3u8?tk=jP8WbKbtxEg3oG_srGCFzg&e=1789732736|Referer=https://ondemand.st"
   },
   {
     "matchId": "nfl/2026-09-20/no-bal",
@@ -2656,8 +2396,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/nd46c71537821337.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-09-20/no-bal/playlist.m3u8?tk=OMk_XRADWcwLo65VNJzpYQ&e=1789723001|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-new-orleans-saints-at-baltimore-ravens/2/playlist.m3u8?tk=OMk_XRADWcwLo65VNJzpYQ&e=1789723001|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-09-20/no-bal/playlist.m3u8?tk=9GOgaWyoYI90frE1caaJ7A&e=1789732737|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-new-orleans-saints-at-baltimore-ravens/2/playlist.m3u8?tk=9GOgaWyoYI90frE1caaJ7A&e=1789732737|Referer=https://ondemand.st"
   },
   {
     "matchId": "nfl/2026-09-20/cin-hou",
@@ -2676,8 +2416,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/h1ce8y1784717263.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-09-20/cin-hou/playlist.m3u8?tk=OMk_XRADWcwLo65VNJzpYQ&e=1789723001|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-cincinnati-bengals-at-houston-texans/2/playlist.m3u8?tk=OMk_XRADWcwLo65VNJzpYQ&e=1789723001|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-09-20/cin-hou/playlist.m3u8?tk=9GOgaWyoYI90frE1caaJ7A&e=1789732737|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-cincinnati-bengals-at-houston-texans/2/playlist.m3u8?tk=9GOgaWyoYI90frE1caaJ7A&e=1789732737|Referer=https://ondemand.st"
   },
   {
     "matchId": "nfl/2026-09-20/jax-den",
@@ -2696,8 +2436,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/0mrsd41546427902.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-09-20/jax-den/playlist.m3u8?tk=ifsRoOImHfY7LbmPtUOvBg&e=1789723002|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-jacksonville-jaguars-at-denver-broncos/2/playlist.m3u8?tk=ifsRoOImHfY7LbmPtUOvBg&e=1789723002|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-09-20/jax-den/playlist.m3u8?tk=QzoAF8jOMVp8RJ7cdlxiuQ&e=1789732738|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-jacksonville-jaguars-at-denver-broncos/2/playlist.m3u8?tk=QzoAF8jOMVp8RJ7cdlxiuQ&e=1789732738|Referer=https://ondemand.st"
   },
   {
     "matchId": "nfl/2026-09-20/lv-lac",
@@ -2716,8 +2456,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/4t8xtk1784721179.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-09-20/lv-lac/playlist.m3u8?tk=ifsRoOImHfY7LbmPtUOvBg&e=1789723002|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-las-vegas-raiders-at-los-angeles-chargers/2/playlist.m3u8?tk=ifsRoOImHfY7LbmPtUOvBg&e=1789723002|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-09-20/lv-lac/playlist.m3u8?tk=QzoAF8jOMVp8RJ7cdlxiuQ&e=1789732738|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-las-vegas-raiders-at-los-angeles-chargers/2/playlist.m3u8?tk=QzoAF8jOMVp8RJ7cdlxiuQ&e=1789732738|Referer=https://ondemand.st"
   },
   {
     "matchId": "nfl/2026-09-20/wsh-dal",
@@ -2736,8 +2476,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/rn0c7v1643826119.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-09-20/wsh-dal/playlist.m3u8?tk=zp09s6OZ13TiHaHa-D-8Jw&e=1789723003|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-washington-commanders-at-dallas-cowboys/2/playlist.m3u8?tk=zp09s6OZ13TiHaHa-D-8Jw&e=1789723003|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-09-20/wsh-dal/playlist.m3u8?tk=g5oRXsh62Be41_U_cWoYEw&e=1789732739|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-washington-commanders-at-dallas-cowboys/2/playlist.m3u8?tk=g5oRXsh62Be41_U_cWoYEw&e=1789732739|Referer=https://ondemand.st"
   },
   {
     "matchId": "nfl/2026-09-20/sea-ari",
@@ -2756,8 +2496,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/1t84c51784752684.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-09-20/sea-ari/playlist.m3u8?tk=zp09s6OZ13TiHaHa-D-8Jw&e=1789723003|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-seattle-seahawks-at-arizona-cardinals/2/playlist.m3u8?tk=zp09s6OZ13TiHaHa-D-8Jw&e=1789723003|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-09-20/sea-ari/playlist.m3u8?tk=g5oRXsh62Be41_U_cWoYEw&e=1789732739|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-seattle-seahawks-at-arizona-cardinals/2/playlist.m3u8?tk=g5oRXsh62Be41_U_cWoYEw&e=1789732739|Referer=https://ondemand.st"
   },
   {
     "matchId": "nfl/2026-09-20/mia-sf",
@@ -2776,8 +2516,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/e803xt1784722221.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-09-20/mia-sf/playlist.m3u8?tk=FIUwVmjbQdUjo48wNN36kQ&e=1789723004|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-miami-dolphins-at-san-francisco-49-ers/2/playlist.m3u8?tk=FIUwVmjbQdUjo48wNN36kQ&e=1789723004|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-09-20/mia-sf/playlist.m3u8?tk=-5llXoHTTOxuLccYtecSrw&e=1789732740|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-miami-dolphins-at-san-francisco-49-ers/2/playlist.m3u8?tk=-5llXoHTTOxuLccYtecSrw&e=1789732740|Referer=https://ondemand.st"
   },
   {
     "matchId": "nfl/2026-09-20/ind-kc",
@@ -2796,8 +2536,8 @@
         "badge": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-09-20/ind-kc/playlist.m3u8?tk=FIUwVmjbQdUjo48wNN36kQ&e=1789723004|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-indianapolis-colts-at-kansas-city-chiefs/2/playlist.m3u8?tk=FIUwVmjbQdUjo48wNN36kQ&e=1789723004|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-09-20/ind-kc/playlist.m3u8?tk=-5llXoHTTOxuLccYtecSrw&e=1789732740|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-indianapolis-colts-at-kansas-city-chiefs/2/playlist.m3u8?tk=-5llXoHTTOxuLccYtecSrw&e=1789732740|Referer=https://ondemand.st"
   },
   {
     "matchId": "nfl/2026-09-21/nyg-lar",
@@ -2816,28 +2556,8 @@
         "badge": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-09-21/nyg-lar/playlist.m3u8?tk=GZtgbjKfRQ1MbeMj13D-_w&e=1789723005|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-new-york-giants-at-los-angeles-rams/2/playlist.m3u8?tk=GZtgbjKfRQ1MbeMj13D-_w&e=1789723005|Referer=https://ondemand.st"
-  },
-  {
-    "matchId": "sd-echo~vs-american-football-23487",
-    "title": "vs",
-    "league": "american-football",
-    "category": "american-football",
-    "date": 1789686000000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "",
-        "badge": ""
-      },
-      "away": {
-        "name": "",
-        "badge": ""
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/echo/vs-american-football-23487/playlist.m3u8?tk=GZtgbjKfRQ1MbeMj13D-_w&e=1789723005|Referer=https://ondemand.st",
-    "sdUrl": ""
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-09-21/nyg-lar/playlist.m3u8?tk=p4bBwc-a1LztdCuW3T4FzA&e=1789732741|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-new-york-giants-at-los-angeles-rams/2/playlist.m3u8?tk=p4bBwc-a1LztdCuW3T4FzA&e=1789732741|Referer=https://ondemand.st"
   },
   {
     "matchId": "sd-delta~live_cfb_pittsburgh-syracuse-live-streaming-587786976",
@@ -2845,7 +2565,7 @@
     "league": "american-football",
     "category": "american-football",
     "date": 1789687800000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "Pittsburgh",
@@ -2856,8 +2576,28 @@
         "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAMwMHTAkQMEChDcQ2gCYgIIRIlN8juAhSZ8UXLeXrzRzprTBaxoiCA.webp"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/delta/live_cfb_pittsburgh-syracuse-live-streaming-587786976/playlist.m3u8?tk=LeU_IdMC-teIGpMHYHM6yA&e=1789723006|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/1374/2/playlist.m3u8?tk=LeU_IdMC-teIGpMHYHM6yA&e=1789723006|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/delta/live_cfb_pittsburgh-syracuse-live-streaming-587786976/playlist.m3u8?tk=p4bBwc-a1LztdCuW3T4FzA&e=1789732741|Referer=https://ondemand.st",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "sd-delta~live_cfb_concord-mountain-lions-charleston-golden-eagles-live-streaming-587786544",
+    "title": "Concord Mountain Lions vs Charleston Golden Eagles",
+    "league": "american-football",
+    "category": "american-football",
+    "date": 1789686000000,
+    "status": "live",
+    "teams": {
+      "home": {
+        "name": "",
+        "badge": ""
+      },
+      "away": {
+        "name": "",
+        "badge": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/delta/live_cfb_concord-mountain-lions-charleston-golden-eagles-live-streaming-587786544/playlist.m3u8?tk=B43tniNiJgmK8ZVys890wA&e=1789732742|Referer=https://ondemand.st",
+    "sdUrl": ""
   },
   {
     "matchId": "sd-golf~1425",
@@ -2876,8 +2616,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/ch23x41583875031.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/1425/playlist.m3u8?tk=LeU_IdMC-teIGpMHYHM6yA&e=1789723006|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/1425/2/playlist.m3u8?tk=LeU_IdMC-teIGpMHYHM6yA&e=1789723006|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/1425/playlist.m3u8?tk=B43tniNiJgmK8ZVys890wA&e=1789732742|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/1425/2/playlist.m3u8?tk=B43tniNiJgmK8ZVys890wA&e=1789732742|Referer=https://ondemand.st"
   },
   {
     "matchId": "sd-golf~1426",
@@ -2896,8 +2636,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/50r3hm1763623720.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/1426/playlist.m3u8?tk=EXo1zmJcXVtVlugEIqcCJA&e=1789723007|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/1426/2/playlist.m3u8?tk=EXo1zmJcXVtVlugEIqcCJA&e=1789723007|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/1426/playlist.m3u8?tk=bDovgVZPIS-ZS3xU2iMKYg&e=1789732743|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/1426/2/playlist.m3u8?tk=bDovgVZPIS-ZS3xU2iMKYg&e=1789732743|Referer=https://ondemand.st"
   },
   {
     "matchId": "tna/2026-09-17",
@@ -2916,8 +2656,8 @@
         "badge": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/tna/2026-09-17/playlist.m3u8?tk=bg6AClZI0944EO89KJoivw&e=1789723008|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-tna-impact/2/playlist.m3u8?tk=bg6AClZI0944EO89KJoivw&e=1789723008|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/tna/2026-09-17/playlist.m3u8?tk=bDRfC3QEI6e2naH1h_nk3g&e=1789732744|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-tna-impact/2/playlist.m3u8?tk=bDRfC3QEI6e2naH1h_nk3g&e=1789732744|Referer=https://ondemand.st"
   },
   {
     "matchId": "wwe/2026-09-18",
@@ -2936,8 +2676,8 @@
         "badge": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/wwe/2026-09-18/playlist.m3u8?tk=bg6AClZI0944EO89KJoivw&e=1789723008|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-wwe-friday-night-smackdown/2/playlist.m3u8?tk=bg6AClZI0944EO89KJoivw&e=1789723008|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/wwe/2026-09-18/playlist.m3u8?tk=bDRfC3QEI6e2naH1h_nk3g&e=1789732744|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-wwe-friday-night-smackdown/2/playlist.m3u8?tk=bDRfC3QEI6e2naH1h_nk3g&e=1789732744|Referer=https://ondemand.st"
   },
   {
     "matchId": "aew/2026-09-19",
@@ -2956,28 +2696,8 @@
         "badge": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/aew/2026-09-19/playlist.m3u8?tk=I5blD5PD2O6MNqi8O7pcvA&e=1789723009|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-aew-saturday-night-collision/2/playlist.m3u8?tk=I5blD5PD2O6MNqi8O7pcvA&e=1789723009|Referer=https://ondemand.st"
-  },
-  {
-    "matchId": "mlb/2026-09-17/sd-col",
-    "title": "San Diego Padres vs. Colorado Rockies",
-    "league": "MLB",
-    "category": "baseball",
-    "date": 1789672200000,
-    "status": "live",
-    "teams": {
-      "home": {
-        "name": "San Diego Padres",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/r7q6ko1687608395.png"
-      },
-      "away": {
-        "name": "Colorado Rockies",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/6wt1cn1617527530.png"
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mlb/2026-09-17/sd-col/playlist.m3u8?tk=KUtWwmFBuoHMfA0B2g81Xw&e=1789723010|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-san-diego-padres-vs-colorado-rockies/2/playlist.m3u8?tk=KUtWwmFBuoHMfA0B2g81Xw&e=1789723010|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/aew/2026-09-19/playlist.m3u8?tk=AuQKTnYPG1_lSKeyuIchWQ&e=1789732745|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-aew-saturday-night-collision/2/playlist.m3u8?tk=AuQKTnYPG1_lSKeyuIchWQ&e=1789732745|Referer=https://ondemand.st"
   },
   {
     "matchId": "mlb/2026-09-17/phi-nym",
@@ -2985,7 +2705,7 @@
     "league": "MLB",
     "category": "baseball",
     "date": 1789686900000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "Philadelphia Phillies",
@@ -2996,8 +2716,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/3xrldf1617528682.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mlb/2026-09-17/phi-nym/playlist.m3u8?tk=y01XXj1tdFIJIZrupSihtA&e=1789723011|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-philadelphia-phillies-vs-new-york-mets/2/playlist.m3u8?tk=y01XXj1tdFIJIZrupSihtA&e=1789723011|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mlb/2026-09-17/phi-nym/playlist.m3u8?tk=Vz3OhibxCfDBe-ieRA35TQ&e=1789732746|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-philadelphia-phillies-vs-new-york-mets/2/playlist.m3u8?tk=Vz3OhibxCfDBe-ieRA35TQ&e=1789732746|Referer=https://ondemand.st"
   },
   {
     "matchId": "mlb/2026-09-17/kc-hou",
@@ -3005,7 +2725,7 @@
     "league": "MLB",
     "category": "baseball",
     "date": 1789686900000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "Kansas City Royals",
@@ -3016,8 +2736,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/ii3rz81554031260.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mlb/2026-09-17/kc-hou/playlist.m3u8?tk=y01XXj1tdFIJIZrupSihtA&e=1789723011|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-kansas-city-royals-vs-houston-astros/2/playlist.m3u8?tk=y01XXj1tdFIJIZrupSihtA&e=1789723011|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mlb/2026-09-17/kc-hou/playlist.m3u8?tk=6uI1Xycra9DEXF6y2nwi0g&e=1789732747|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-kansas-city-royals-vs-houston-astros/2/playlist.m3u8?tk=6uI1Xycra9DEXF6y2nwi0g&e=1789732747|Referer=https://ondemand.st"
   },
   {
     "matchId": "mlb/2026-09-17/det-chw",
@@ -3025,7 +2745,7 @@
     "league": "MLB",
     "category": "baseball",
     "date": 1789688400000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "Detroit Tigers",
@@ -3036,8 +2756,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/9dib6o1554032173.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mlb/2026-09-17/det-chw/playlist.m3u8?tk=wHrmbSELttSdL7zCJPdjVw&e=1789723012|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-detroit-tigers-vs-chicago-white-sox/2/playlist.m3u8?tk=wHrmbSELttSdL7zCJPdjVw&e=1789723012|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mlb/2026-09-17/det-chw/playlist.m3u8?tk=6uI1Xycra9DEXF6y2nwi0g&e=1789732747|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-detroit-tigers-vs-chicago-white-sox/2/playlist.m3u8?tk=6uI1Xycra9DEXF6y2nwi0g&e=1789732747|Referer=https://ondemand.st"
   },
   {
     "matchId": "mlb/2026-09-17/bos-tex",
@@ -3056,8 +2776,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/stpsus1425120215.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mlb/2026-09-17/bos-tex/playlist.m3u8?tk=wHrmbSELttSdL7zCJPdjVw&e=1789723012|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-boston-red-sox-vs-texas-rangers/2/playlist.m3u8?tk=0r0QobCmp1W1hFzpXZKGxA&e=1789723013|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mlb/2026-09-17/bos-tex/playlist.m3u8?tk=6No6QX2h7o_ZC_tycM4h8w&e=1789732748|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-boston-red-sox-vs-texas-rangers/2/playlist.m3u8?tk=6No6QX2h7o_ZC_tycM4h8w&e=1789732748|Referer=https://ondemand.st"
   },
   {
     "matchId": "mlb/2026-09-17/min-laa",
@@ -3076,11 +2796,31 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/necd5v1521905719.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mlb/2026-09-17/min-laa/playlist.m3u8?tk=0r0QobCmp1W1hFzpXZKGxA&e=1789723013|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-minnesota-twins-vs-los-angeles-angels/2/playlist.m3u8?tk=0r0QobCmp1W1hFzpXZKGxA&e=1789723013|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mlb/2026-09-17/min-laa/playlist.m3u8?tk=6No6QX2h7o_ZC_tycM4h8w&e=1789732748|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-minnesota-twins-vs-los-angeles-angels/2/playlist.m3u8?tk=6No6QX2h7o_ZC_tycM4h8w&e=1789732748|Referer=https://ondemand.st"
   },
   {
-    "matchId": "sd-golf~1384",
+    "matchId": "sd-foxtrot~padres-v-rockies-401816980",
+    "title": "Colorado Rockies vs San Diego Padres",
+    "league": "baseball",
+    "category": "baseball",
+    "date": 1789672200000,
+    "status": "live",
+    "teams": {
+      "home": {
+        "name": "Colorado Rockies",
+        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphx8w3EABNgABkogNmkMb5aQMYyEQoQywjGBM+KLmDLwi80S6a0wbsVEIIA.webp"
+      },
+      "away": {
+        "name": "San Diego Padres",
+        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAATMH0ghetfNrX6+IErhBGTiGAQpM+KLmDLwi80faa0wjsaIhA.webp"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/foxtrot/padres-v-rockies-401816980/playlist.m3u8?tk=J2MfeFVO5eoypNYYv3MELg&e=1789732749|Referer=https://ondemand.st",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "sd-foxtrot~athletics-v-rays-401816973",
     "title": "Tampa Bay Rays vs Athletics",
     "league": "baseball",
     "category": "baseball",
@@ -3096,11 +2836,11 @@
         "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3hgUYACbUNIRNxB8QEEPp3GYBy3wIUm1rmDKr680SmBNaYR2NEQgA.webp"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/1384/playlist.m3u8?tk=z-YW4D5t9xg3s7KbuvAczg&e=1789723014|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/1384/2/playlist.m3u8?tk=z-YW4D5t9xg3s7KbuvAczg&e=1789723014|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/foxtrot/athletics-v-rays-401816973/playlist.m3u8?tk=J2MfeFVO5eoypNYYv3MELg&e=1789732749|Referer=https://ondemand.st",
+    "sdUrl": ""
   },
   {
-    "matchId": "sd-golf~1383",
+    "matchId": "sd-foxtrot~dodgers-v-reds-401816974",
     "title": "Cincinnati Reds vs Los Angeles Dodgers",
     "league": "baseball",
     "category": "baseball",
@@ -3116,11 +2856,11 @@
         "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhCIsYMiGD5cIbiD4GQxnABMQKEBBAk9BCkz4ouG8vXmjnTWmA1jREEA.webp"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/1383/playlist.m3u8?tk=z-YW4D5t9xg3s7KbuvAczg&e=1789723014|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/1383/2/playlist.m3u8?tk=z-YW4D5t9xg3s7KbuvAczg&e=1789723014|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/foxtrot/dodgers-v-reds-401816974/playlist.m3u8?tk=J2MfeFVO5eoypNYYv3MELg&e=1789732749|Referer=https://ondemand.st",
+    "sdUrl": ""
   },
   {
-    "matchId": "sd-golf~1382",
+    "matchId": "sd-foxtrot~brewers-v-pirates-401816975",
     "title": "Pittsburgh Pirates vs Milwaukee Brewers",
     "league": "baseball",
     "category": "baseball",
@@ -3136,11 +2876,11 @@
         "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAwQIYAAZQuHiG4gSIFIZB8zpgyfgEKTPii5gy8IvNGOmtMM7GiIQA.webp"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/1382/playlist.m3u8?tk=zDIuWFA7_MALstlmp2O6uQ&e=1789723015|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/1382/2/playlist.m3u8?tk=zDIuWFA7_MALstlmp2O6uQ&e=1789723015|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/foxtrot/brewers-v-pirates-401816975/playlist.m3u8?tk=jvjGy9E9wBmvmxf_xxRYcg&e=1789732750|Referer=https://ondemand.st",
+    "sdUrl": ""
   },
   {
-    "matchId": "sd-echo~pittsburgh-pirates-vs-kansas-city-royals-baseball-186589",
+    "matchId": "sd-golf~1413",
     "title": "Pittsburgh Pirates vs Kansas City Royals",
     "league": "baseball",
     "category": "baseball",
@@ -3156,11 +2896,11 @@
         "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxTsQ8akhDbuIEnpAQQMdSF04AJsYIUmfVWzBkN9eaNVNaYJ2NEQgA.webp"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/echo/pittsburgh-pirates-vs-kansas-city-royals-baseball-186589/playlist.m3u8?tk=zDIuWFA7_MALstlmp2O6uQ&e=1789723015|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/1413/2/playlist.m3u8?tk=zDIuWFA7_MALstlmp2O6uQ&e=1789723015|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/1413/playlist.m3u8?tk=jvjGy9E9wBmvmxf_xxRYcg&e=1789732750|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/1413/2/playlist.m3u8?tk=jvjGy9E9wBmvmxf_xxRYcg&e=1789732750|Referer=https://ondemand.st"
   },
   {
-    "matchId": "sd-echo~cincinnati-reds-vs-chicago-cubs-baseball-186588",
+    "matchId": "sd-golf~1412",
     "title": "Cincinnati Reds vs Chicago Cubs",
     "league": "baseball",
     "category": "baseball",
@@ -3176,11 +2916,11 @@
         "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj5gQDUiBgg+IbiBK49IEyiOIzEwjGBM+KLmDLwi80Q6a0wTsaIhA.webp"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/echo/cincinnati-reds-vs-chicago-cubs-baseball-186588/playlist.m3u8?tk=7vuLATDIysAbXHo3mxoNbg&e=1789723016|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/1412/2/playlist.m3u8?tk=7vuLATDIysAbXHo3mxoNbg&e=1789723016|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/1412/playlist.m3u8?tk=K8wfSpwrD3yRQUfoactYZQ&e=1789732751|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/1412/2/playlist.m3u8?tk=K8wfSpwrD3yRQUfoactYZQ&e=1789732751|Referer=https://ondemand.st"
   },
   {
-    "matchId": "sd-echo~baltimore-orioles-vs-milwaukee-brewers-baseball-186590",
+    "matchId": "sd-golf~1414",
     "title": "Baltimore Orioles vs Milwaukee Brewers",
     "league": "baseball",
     "category": "baseball",
@@ -3196,11 +2936,11 @@
         "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAwQIYAAZQuHiG4gSIFIZB8zpgyfgEKTPii5gy8IvNGOmtMM7GiIQA.webp"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/echo/baltimore-orioles-vs-milwaukee-brewers-baseball-186590/playlist.m3u8?tk=7vuLATDIysAbXHo3mxoNbg&e=1789723016|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/1414/2/playlist.m3u8?tk=7vuLATDIysAbXHo3mxoNbg&e=1789723016|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/1414/playlist.m3u8?tk=K8wfSpwrD3yRQUfoactYZQ&e=1789732751|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/1414/2/playlist.m3u8?tk=K8wfSpwrD3yRQUfoactYZQ&e=1789732751|Referer=https://ondemand.st"
   },
   {
-    "matchId": "sd-echo~tampa-bay-rays-vs-boston-red-sox-baseball-186592",
+    "matchId": "sd-golf~1416",
     "title": "Tampa Bay Rays vs Boston Red Sox",
     "league": "baseball",
     "category": "baseball",
@@ -3216,11 +2956,11 @@
         "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnjQ4qsom4gIuECRDacMPduWEYwJnxRcwmovNG2mtMPbGiIQA.webp"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/echo/tampa-bay-rays-vs-boston-red-sox-baseball-186592/playlist.m3u8?tk=ppZy-40KX4SAswZgjVJODw&e=1789723017|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/1416/2/playlist.m3u8?tk=ppZy-40KX4SAswZgjVJODw&e=1789723017|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/1416/playlist.m3u8?tk=0WuLy-n2XmIq_7Kax6Jy4w&e=1789732752|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/1416/2/playlist.m3u8?tk=0WuLy-n2XmIq_7Kax6Jy4w&e=1789732752|Referer=https://ondemand.st"
   },
   {
-    "matchId": "sd-echo~cleveland-guardians-vs-athletics-baseball-186591",
+    "matchId": "sd-golf~1415",
     "title": "Cleveland Guardians vs Athletics",
     "league": "baseball",
     "category": "baseball",
@@ -3236,11 +2976,11 @@
         "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3hgUYACbUNIRNxB8QEEPp3GYBy3wIUm1rmDKr680SmBNaYR2NEQgA.webp"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/echo/cleveland-guardians-vs-athletics-baseball-186591/playlist.m3u8?tk=ppZy-40KX4SAswZgjVJODw&e=1789723017|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/1415/2/playlist.m3u8?tk=ppZy-40KX4SAswZgjVJODw&e=1789723017|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/1415/playlist.m3u8?tk=0WuLy-n2XmIq_7Kax6Jy4w&e=1789732752|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/1415/2/playlist.m3u8?tk=0WuLy-n2XmIq_7Kax6Jy4w&e=1789732752|Referer=https://ondemand.st"
   },
   {
-    "matchId": "sd-echo~new-york-mets-vs-philadelphia-phillies-baseball-186593",
+    "matchId": "sd-golf~1417",
     "title": "New York Mets vs Philadelphia Phillies",
     "league": "baseball",
     "category": "baseball",
@@ -3256,11 +2996,11 @@
         "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDww4eWDEATENxC79fECVwhzu84wpM+KLmDJr680faa0wjsaIhA.webp"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/echo/new-york-mets-vs-philadelphia-phillies-baseball-186593/playlist.m3u8?tk=ZA7He9on3W4c3su1XDCfCw&e=1789723018|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/1417/2/playlist.m3u8?tk=ZA7He9on3W4c3su1XDCfCw&e=1789723018|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/1417/playlist.m3u8?tk=3Jm8NtvIL98PubcBFM4NTg&e=1789732753|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/1417/2/playlist.m3u8?tk=3Jm8NtvIL98PubcBFM4NTg&e=1789732753|Referer=https://ondemand.st"
   },
   {
-    "matchId": "sd-echo~chicago-white-sox-vs-detroit-tigers-baseball-186594",
+    "matchId": "sd-golf~1418",
     "title": "Chicago White Sox vs Detroit Tigers",
     "league": "baseball",
     "category": "baseball",
@@ -3276,8 +3016,8 @@
         "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAoxanABNKIbiBL6QEEDBCIcevmYIUmfNWzBl4ReaLVNaYJ2NEQgA.webp"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/echo/chicago-white-sox-vs-detroit-tigers-baseball-186594/playlist.m3u8?tk=ZA7He9on3W4c3su1XDCfCw&e=1789723018|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/1418/2/playlist.m3u8?tk=ZA7He9on3W4c3su1XDCfCw&e=1789723018|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/1418/playlist.m3u8?tk=3Jm8NtvIL98PubcBFM4NTg&e=1789732753|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/1418/2/playlist.m3u8?tk=3Jm8NtvIL98PubcBFM4NTg&e=1789732753|Referer=https://ondemand.st"
   },
   {
     "matchId": "sd-golf~1463",
@@ -3296,8 +3036,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/f9zk3l1617527686.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/1463/playlist.m3u8?tk=hQOehRXfDUOgwfWbp3L7Vg&e=1789723019|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/1463/2/playlist.m3u8?tk=hQOehRXfDUOgwfWbp3L7Vg&e=1789723019|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/1463/playlist.m3u8?tk=HH3nMI6grFk33BR8e2RMfg&e=1789732754|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/1463/2/playlist.m3u8?tk=HH3nMI6grFk33BR8e2RMfg&e=1789732754|Referer=https://ondemand.st"
   },
   {
     "matchId": "sd-golf~1465",
@@ -3316,8 +3056,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/yjs76e1617811496.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/1465/playlist.m3u8?tk=hQOehRXfDUOgwfWbp3L7Vg&e=1789723019|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/1465/2/playlist.m3u8?tk=hQOehRXfDUOgwfWbp3L7Vg&e=1789723019|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/1465/playlist.m3u8?tk=HH3nMI6grFk33BR8e2RMfg&e=1789732754|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/1465/2/playlist.m3u8?tk=HH3nMI6grFk33BR8e2RMfg&e=1789732754|Referer=https://ondemand.st"
   },
   {
     "matchId": "sd-golf~1464",
@@ -3336,8 +3076,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/39x9ph1521903933.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/1464/playlist.m3u8?tk=T_n6PrTQG4eW_HJZ_Uco3g&e=1789723020|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/1464/2/playlist.m3u8?tk=T_n6PrTQG4eW_HJZ_Uco3g&e=1789723020|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/1464/playlist.m3u8?tk=n0v-_wjhtBu5UK1e4oMkiA&e=1789732755|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/1464/2/playlist.m3u8?tk=n0v-_wjhtBu5UK1e4oMkiA&e=1789732755|Referer=https://ondemand.st"
   },
   {
     "matchId": "sd-golf~1466",
@@ -3356,8 +3096,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/wpqrut1423694764.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/1466/playlist.m3u8?tk=T_n6PrTQG4eW_HJZ_Uco3g&e=1789723020|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/1466/2/playlist.m3u8?tk=T_n6PrTQG4eW_HJZ_Uco3g&e=1789723020|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/1466/playlist.m3u8?tk=n0v-_wjhtBu5UK1e4oMkiA&e=1789732755|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/1466/2/playlist.m3u8?tk=n0v-_wjhtBu5UK1e4oMkiA&e=1789732755|Referer=https://ondemand.st"
   },
   {
     "matchId": "sd-golf~1467",
@@ -3376,8 +3116,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/necd5v1521905719.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/1467/playlist.m3u8?tk=YScQ4Y9PVLXl4Z8d0nVe4A&e=1789723021|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/1467/2/playlist.m3u8?tk=YScQ4Y9PVLXl4Z8d0nVe4A&e=1789723021|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/1467/playlist.m3u8?tk=n0v-_wjhtBu5UK1e4oMkiA&e=1789732755|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/1467/2/playlist.m3u8?tk=n0v-_wjhtBu5UK1e4oMkiA&e=1789732755|Referer=https://ondemand.st"
   },
   {
     "matchId": "sd-golf~1469",
@@ -3396,8 +3136,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/0722fs1546001701.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/1469/playlist.m3u8?tk=YScQ4Y9PVLXl4Z8d0nVe4A&e=1789723021|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/1469/2/playlist.m3u8?tk=YScQ4Y9PVLXl4Z8d0nVe4A&e=1789723021|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/1469/playlist.m3u8?tk=zb07NxLJ9FAt7lgD3h2d9g&e=1789732756|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/1469/2/playlist.m3u8?tk=zb07NxLJ9FAt7lgD3h2d9g&e=1789732756|Referer=https://ondemand.st"
   },
   {
     "matchId": "sd-golf~1468",
@@ -3416,8 +3156,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/wqwwxx1423478766.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/1468/playlist.m3u8?tk=YScQ4Y9PVLXl4Z8d0nVe4A&e=1789723021|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/1468/2/playlist.m3u8?tk=YScQ4Y9PVLXl4Z8d0nVe4A&e=1789723021|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/1468/playlist.m3u8?tk=zb07NxLJ9FAt7lgD3h2d9g&e=1789732756|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/1468/2/playlist.m3u8?tk=zb07NxLJ9FAt7lgD3h2d9g&e=1789732756|Referer=https://ondemand.st"
   },
   {
     "matchId": "sd-golf~1470",
@@ -3436,135 +3176,15 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/ov3qi41778132254.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/1470/playlist.m3u8?tk=2u1zxf3rHmU-lfbc5Cnwwg&e=1789723022|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/1470/2/playlist.m3u8?tk=2u1zxf3rHmU-lfbc5Cnwwg&e=1789723022|Referer=https://ondemand.st"
-  },
-  {
-    "matchId": "sd-echo~krefeld-pinguine-vs-bremerhaven-hockey-433614",
-    "title": "Krefeld Pinguine vs Bremerhaven",
-    "league": "hockey",
-    "category": "hockey",
-    "date": 1789752600000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Krefeld Pinguine",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1QKWwAAzcwKdJG7EsCdCCohs8+uQYBjZsDA94kqlMINWYbW1wQgA.webp"
-      },
-      "away": {
-        "name": "Bremerhaven",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1QKWwAAzcwKdJG7EsCdCCogIIbPXIMAxs2Bge8SVSmEGrMDra4IQA.webp"
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/echo/krefeld-pinguine-vs-bremerhaven-hockey-433614/playlist.m3u8?tk=LaafWv3doShaY1FS3NOgSA&e=1789723023|Referer=https://ondemand.st",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "sd-echo~kolner-vs-grizzly-wolfsburg-hockey-433615",
-    "title": "Kolner vs Grizzly Wolfsburg",
-    "league": "hockey",
-    "category": "hockey",
-    "date": 1789752600000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Kolner",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1QKWwAAzcwKdJG7EsCdCCohsIEnXIMAxs2Bge8SVSmEGrMDra4IQA.webp"
-      },
-      "away": {
-        "name": "Grizzly Wolfsburg",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1QKWwAAzcwKdJG7EsCdCCogIIcXXIMAxs2Bge8SVSmEGrMDra4IQA.webp"
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/echo/kolner-vs-grizzly-wolfsburg-hockey-433615/playlist.m3u8?tk=LaafWv3doShaY1FS3NOgSA&e=1789723023|Referer=https://ondemand.st",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "sd-echo~schwenninger-vs-frankfurt-lowen-hockey-433611",
-    "title": "Schwenninger vs Frankfurt Lowen",
-    "league": "hockey",
-    "category": "hockey",
-    "date": 1789752600000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Schwenninger",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1QKWwAAzcwKdJG7EsCdCCohsi+uQYBjZsDA94kqlMINWYbW1wQgA.webp"
-      },
-      "away": {
-        "name": "Frankfurt Lowen",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1QKWwAAzcwKdJG7EsCdCCogAJvPrkGAY2bAwPeJKpTCDVmB1tcEIA.webp"
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/echo/schwenninger-vs-frankfurt-lowen-hockey-433611/playlist.m3u8?tk=ml4-26VpJEOlBIM-pekaCQ&e=1789723024|Referer=https://ondemand.st",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "sd-echo~munchen-vs-adler-mannheim-hockey-433613",
-    "title": "EHC Red Bull München vs Adler Mannheim",
-    "league": "hockey",
-    "category": "hockey",
-    "date": 1789752600000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "EHC Red Bull München",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAw6YFKtIhE3EABMdIPiAgGQJIyGsEKTPii5gy8IvNGOmtMM7GiIQA.webp"
-      },
-      "away": {
-        "name": "Adler Mannheim",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyZh2IGCAAm-ENxB9tIRBBAkNIS-ogEKTPii5gy8IvNGOmtMM7GiIQA.webp"
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/echo/munchen-vs-adler-mannheim-hockey-433613/playlist.m3u8?tk=ml4-26VpJEOlBIM-pekaCQ&e=1789723024|Referer=https://ondemand.st",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "sd-echo~iserlohn-roosters-vs-erc-ingolstadt-hockey-433612",
-    "title": "Iserlohn Roosters vs ERC Ingolstadt",
-    "league": "hockey",
-    "category": "hockey",
-    "date": 1789752600000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Iserlohn Roosters",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpJB8w3dQoghuIACYhEfENoMkTIczAIUmfFFzBl4ReaIdNaYJ2NEQgA.webp"
-      },
-      "away": {
-        "name": "ERC Ingolstadt",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxIhRKMKpRqQ3EABMQiPiAgGdOExMIxgTPii6by9eervNgYTWNEQgA.webp"
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/echo/iserlohn-roosters-vs-erc-ingolstadt-hockey-433612/playlist.m3u8?tk=Z3DN9Dd9ncjRagCiWivKtA&e=1789723025|Referer=https://ondemand.st",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "sd-echo~nurnberg-ice-tigers-vs-augsburger-panther-hockey-433610",
-    "title": "Nürnberg Ice Tigers vs Augsburger Panther",
-    "league": "hockey",
-    "category": "hockey",
-    "date": 1789752600000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Nürnberg Ice Tigers",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphSwwSHiBS4Q3EABMQiPiAgGQJC6dwEKTPii5gy8IvNGOmtMM7GiIQA.webp"
-      },
-      "away": {
-        "name": "Augsburger Panther",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwGEQpSmxDcQAExCI+ICHpAkQMEEcYUmfFFzBl4ReaIdNaYJ2NEQgA.webp"
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/echo/nurnberg-ice-tigers-vs-augsburger-panther-hockey-433610/playlist.m3u8?tk=Z3DN9Dd9ncjRagCiWivKtA&e=1789723025|Referer=https://ondemand.st",
-    "sdUrl": ""
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/1470/playlist.m3u8?tk=SIgOoDmj5jBN7INEBVutJw&e=1789732757|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/1470/2/playlist.m3u8?tk=SIgOoDmj5jBN7INEBVutJw&e=1789732757|Referer=https://ondemand.st"
   },
   {
     "matchId": "247-fox-league",
     "title": "Fox League",
     "league": "Rugby",
     "category": "rugby",
-    "date": 1789679826181,
+    "date": 1789689558306,
     "status": "live",
     "teams": {
       "home": {
@@ -3576,8 +3196,8 @@
         "badge": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/247-fox-league/playlist.m3u8?tk=4KD9iWjqIIQyRbu81Kv9cA&e=1789723026|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-fox-league/2/playlist.m3u8?tk=4KD9iWjqIIQyRbu81Kv9cA&e=1789723026|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/247-fox-league/playlist.m3u8?tk=JTtBkjuPuQFpLZOQxZ-bsA&e=1789732758|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-fox-league/2/playlist.m3u8?tk=JTtBkjuPuQFpLZOQxZ-bsA&e=1789732758|Referer=https://ondemand.st"
   },
   {
     "matchId": "nrl/2026-09-19/syd-cro",
@@ -3596,8 +3216,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/qn3n5r1552073088.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nrl/2026-09-19/syd-cro/playlist.m3u8?tk=spGmtSKBSVatKJu3tX5MoA&e=1789723027|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-roosters-vs-sharks/2/playlist.m3u8?tk=spGmtSKBSVatKJu3tX5MoA&e=1789723027|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nrl/2026-09-19/syd-cro/playlist.m3u8?tk=eS7wiVld_yOnfEfadj3Pjw&e=1789732759|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-roosters-vs-sharks/2/playlist.m3u8?tk=eS7wiVld_yOnfEfadj3Pjw&e=1789732759|Referer=https://ondemand.st"
   },
   {
     "matchId": "nrl/2026-09-20/new-new",
@@ -3616,8 +3236,128 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/aes2o51646347790.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nrl/2026-09-20/new-new/playlist.m3u8?tk=spGmtSKBSVatKJu3tX5MoA&e=1789723027|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-warriors-vs-knights/2/playlist.m3u8?tk=spGmtSKBSVatKJu3tX5MoA&e=1789723027|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nrl/2026-09-20/new-new/playlist.m3u8?tk=eS7wiVld_yOnfEfadj3Pjw&e=1789732759|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-warriors-vs-knights/2/playlist.m3u8?tk=eS7wiVld_yOnfEfadj3Pjw&e=1789732759|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "motogp/2026/austria/practice-1",
+    "title": "Austria - Practice 1",
+    "league": "Motorsports",
+    "category": "motor-sports",
+    "date": 1789714800000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Austria - Practice 1",
+        "badge": ""
+      },
+      "away": {
+        "name": "",
+        "badge": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/motogp/2026/austria/practice-1/playlist.m3u8?tk=YMBwXntMvh4fgKUrhe3hVg&e=1789732760|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-austria-practice-1/2/playlist.m3u8?tk=YMBwXntMvh4fgKUrhe3hVg&e=1789732760|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "motogp/2026/austria/practice",
+    "title": "Austria - Practice",
+    "league": "Motorsports",
+    "category": "motor-sports",
+    "date": 1789730100000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Austria - Practice",
+        "badge": ""
+      },
+      "away": {
+        "name": "",
+        "badge": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/motogp/2026/austria/practice/playlist.m3u8?tk=VCM-EkP_92S1qZnl7rI-2w&e=1789732761|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-austria-practice/2/playlist.m3u8?tk=VCM-EkP_92S1qZnl7rI-2w&e=1789732761|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "motogp/2026/austria/practice-2",
+    "title": "Austria - Practice 2",
+    "league": "Motorsports",
+    "category": "motor-sports",
+    "date": 1789799400000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Austria - Practice 2",
+        "badge": ""
+      },
+      "away": {
+        "name": "",
+        "badge": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/motogp/2026/austria/practice-2/playlist.m3u8?tk=VCM-EkP_92S1qZnl7rI-2w&e=1789732761|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-austria-practice/2/playlist.m3u8?tk=VCM-EkP_92S1qZnl7rI-2w&e=1789732761|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "motogp/2026/austria/qualifying",
+    "title": "Austria - Qualifying",
+    "league": "Motorsports",
+    "category": "motor-sports",
+    "date": 1789804800000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Austria - Qualifying",
+        "badge": ""
+      },
+      "away": {
+        "name": "",
+        "badge": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/motogp/2026/austria/qualifying/playlist.m3u8?tk=cYlwSHL2IXQvw18H0aM5kg&e=1789732762|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-austria-qualifying/2/playlist.m3u8?tk=cYlwSHL2IXQvw18H0aM5kg&e=1789732762|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "motogp/2026/austria/sprint",
+    "title": "Austria - Sprint",
+    "league": "Motorsports",
+    "category": "motor-sports",
+    "date": 1789821900000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Austria - Sprint",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/d5s74e1632477384.png"
+      },
+      "away": {
+        "name": "",
+        "badge": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/motogp/2026/austria/sprint/playlist.m3u8?tk=cYlwSHL2IXQvw18H0aM5kg&e=1789732762|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-austria-sprint/2/playlist.m3u8?tk=cYlwSHL2IXQvw18H0aM5kg&e=1789732762|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "motogp/2026/austria/race",
+    "title": "Austria - Race",
+    "league": "Motorsports",
+    "category": "motor-sports",
+    "date": 1789891200000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Austria - Race",
+        "badge": ""
+      },
+      "away": {
+        "name": "",
+        "badge": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/motogp/2026/austria/race/playlist.m3u8?tk=fyQwfg6tRkwy2hw-Gk-7hg&e=1789732763|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-austria-race/2/playlist.m3u8?tk=fyQwfg6tRkwy2hw-Gk-7hg&e=1789732763|Referer=https://ondemand.st"
   },
   {
     "matchId": "f1/2026/azerbaijan/fp1",
@@ -3636,8 +3376,8 @@
         "badge": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/f1/2026/azerbaijan/fp1/playlist.m3u8?tk=wZoCzdtdhg3c13OSYUfTJg&e=1789723028|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-azerbaijan-grand-prix-practice-1/2/playlist.m3u8?tk=wZoCzdtdhg3c13OSYUfTJg&e=1789723028|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/f1/2026/azerbaijan/fp1/playlist.m3u8?tk=fyQwfg6tRkwy2hw-Gk-7hg&e=1789732763|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-azerbaijan-grand-prix-practice-1/2/playlist.m3u8?tk=fyQwfg6tRkwy2hw-Gk-7hg&e=1789732763|Referer=https://ondemand.st"
   },
   {
     "matchId": "f1/2026/azerbaijan/fp2",
@@ -3656,8 +3396,8 @@
         "badge": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/f1/2026/azerbaijan/fp2/playlist.m3u8?tk=6_qxG-Yo79dqbVaB2r5b-w&e=1789723029|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-azerbaijan-grand-prix-practice-2/2/playlist.m3u8?tk=6_qxG-Yo79dqbVaB2r5b-w&e=1789723029|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/f1/2026/azerbaijan/fp2/playlist.m3u8?tk=uNJ2cDQ4sdDt9BVAH21apw&e=1789732764|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-azerbaijan-grand-prix-practice-1/2/playlist.m3u8?tk=uNJ2cDQ4sdDt9BVAH21apw&e=1789732764|Referer=https://ondemand.st"
   },
   {
     "matchId": "f1/2026/azerbaijan/fp3",
@@ -3676,8 +3416,8 @@
         "badge": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/f1/2026/azerbaijan/fp3/playlist.m3u8?tk=6_qxG-Yo79dqbVaB2r5b-w&e=1789723029|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-azerbaijan-grand-prix-practice-1/2/playlist.m3u8?tk=VJ85g9nOdX6n_CYvmUJ4EA&e=1789723030|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/f1/2026/azerbaijan/fp3/playlist.m3u8?tk=uNJ2cDQ4sdDt9BVAH21apw&e=1789732764|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-azerbaijan-grand-prix-practice-1/2/playlist.m3u8?tk=uNJ2cDQ4sdDt9BVAH21apw&e=1789732764|Referer=https://ondemand.st"
   },
   {
     "matchId": "f1/2026/azerbaijan/qualifying",
@@ -3696,8 +3436,8 @@
         "badge": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/f1/2026/azerbaijan/qualifying/playlist.m3u8?tk=VJ85g9nOdX6n_CYvmUJ4EA&e=1789723030|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-azerbaijan-grand-prix-practice-1/2/playlist.m3u8?tk=VJ85g9nOdX6n_CYvmUJ4EA&e=1789723030|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/f1/2026/azerbaijan/qualifying/playlist.m3u8?tk=DdB_2RxxNvmzUBk-79U88Q&e=1789732765|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-azerbaijan-grand-prix-practice-1/2/playlist.m3u8?tk=DdB_2RxxNvmzUBk-79U88Q&e=1789732765|Referer=https://ondemand.st"
   },
   {
     "matchId": "f1/2026/azerbaijan/race",
@@ -3716,8 +3456,8 @@
         "badge": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/f1/2026/azerbaijan/race/playlist.m3u8?tk=OZLcdWf4Bk7TFdMYAgiphQ&e=1789723031|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-azerbaijan-grand-prix-practice-2/2/playlist.m3u8?tk=OZLcdWf4Bk7TFdMYAgiphQ&e=1789723031|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/f1/2026/azerbaijan/race/playlist.m3u8?tk=DdB_2RxxNvmzUBk-79U88Q&e=1789732765|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-azerbaijan-grand-prix-practice-1/2/playlist.m3u8?tk=DdB_2RxxNvmzUBk-79U88Q&e=1789732765|Referer=https://ondemand.st"
   },
   {
     "matchId": "world-series-of-darts-finals---day-2-afternoon-28911",
@@ -3736,8 +3476,8 @@
         "badge": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/world-series-of-darts-finals---day-2-afternoon-28911/playlist.m3u8?tk=euU0EEUCH0Z51GFfeHg-Cw&e=1789723032|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-world-series-of-darts-finals-day-2-afternoon/2/playlist.m3u8?tk=euU0EEUCH0Z51GFfeHg-Cw&e=1789723032|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/world-series-of-darts-finals---day-2-afternoon-28911/playlist.m3u8?tk=u6m0OLCW0zqkUWJ5KVbIsA&e=1789732767|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-world-series-of-darts-finals-day-2-afternoon/2/playlist.m3u8?tk=u6m0OLCW0zqkUWJ5KVbIsA&e=1789732767|Referer=https://ondemand.st"
   },
   {
     "matchId": "world-series-of-darts-finals---day-2-evening-28912",
@@ -3756,15 +3496,15 @@
         "badge": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/world-series-of-darts-finals---day-2-evening-28912/playlist.m3u8?tk=aOj6ZYGndx-1D4Art9670Q&e=1789723033|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-world-series-of-darts-finals-day-2-afternoon/2/playlist.m3u8?tk=aOj6ZYGndx-1D4Art9670Q&e=1789723033|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/world-series-of-darts-finals---day-2-evening-28912/playlist.m3u8?tk=u6m0OLCW0zqkUWJ5KVbIsA&e=1789732767|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-world-series-of-darts-finals-day-2-afternoon/2/playlist.m3u8?tk=u6m0OLCW0zqkUWJ5KVbIsA&e=1789732767|Referer=https://ondemand.st"
   },
   {
     "matchId": "247-fox-footy",
     "title": "Fox Footy",
     "league": "AFL",
     "category": "afl",
-    "date": 1789679834718,
+    "date": 1789689569220,
     "status": "live",
     "teams": {
       "home": {
@@ -3776,7 +3516,7 @@
         "badge": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/247-fox-footy/playlist.m3u8?tk=f8yGscTgm5R37s4vvtUZhA&e=1789723035|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/247-fox-footy/playlist.m3u8?tk=OR4bszKgLJ-w9jndWE7kcA&e=1789732769|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -3796,7 +3536,7 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/hw34ii1647870691.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/afl/2026-09-18/syd-fre/playlist.m3u8?tk=f8yGscTgm5R37s4vvtUZhA&e=1789723035|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/afl/2026-09-18/syd-fre/playlist.m3u8?tk=oD2E8KEzGb9Xg4MAk0Q8iQ&e=1789732770|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -3816,7 +3556,7 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/tvvxvp1474038810.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/afl/2026-09-19/haw-bl/playlist.m3u8?tk=AFp9t93suy_jduFWPxVXyQ&e=1789723036|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/afl/2026-09-19/haw-bl/playlist.m3u8?tk=oD2E8KEzGb9Xg4MAk0Q8iQ&e=1789732770|Referer=https://ondemand.st",
     "sdUrl": ""
   }
 ]
