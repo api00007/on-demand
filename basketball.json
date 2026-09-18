@@ -1,71 +1,11 @@
 [
   {
-    "matchId": "wnba/2026-09-17/con-atl",
-    "title": "Connecticut Sun vs. Atlanta Dream",
-    "league": "WNBA",
-    "category": "basketball",
-    "date": 1789687800000,
-    "status": "live",
-    "teams": {
-      "home": {
-        "name": "Connecticut Sun",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/wtqjpk1702757695.png"
-      },
-      "away": {
-        "name": "Atlanta Dream",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/p4xzce1552679905.png"
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/wnba/2026-09-17/con-atl/playlist.m3u8?tk=tZfgIiZ9eamACo5DtLUKpQ&e=1789732728|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-connecticut-sun-vs-atlanta-dream/2/playlist.m3u8?tk=tZfgIiZ9eamACo5DtLUKpQ&e=1789732728|Referer=https://ondemand.st"
-  },
-  {
-    "matchId": "wnba/2026-09-17/wsh-chi",
-    "title": "Washington Mystics vs. Chicago Sky",
-    "league": "WNBA",
-    "category": "basketball",
-    "date": 1789689600000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Washington Mystics",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/h4e2t21552585926.png"
-      },
-      "away": {
-        "name": "Chicago Sky",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/2n9gep1552586413.png"
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/wnba/2026-09-17/wsh-chi/playlist.m3u8?tk=tZfgIiZ9eamACo5DtLUKpQ&e=1789732728|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-washington-mystics-vs-chicago-sky/2/playlist.m3u8?tk=tZfgIiZ9eamACo5DtLUKpQ&e=1789732728|Referer=https://ondemand.st"
-  },
-  {
-    "matchId": "wnba/2026-09-17/la-dal",
-    "title": "Los Angeles Sparks vs. Dallas Wings",
-    "league": "WNBA",
-    "category": "basketball",
-    "date": 1789689600000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Los Angeles Sparks",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/vg11pw1552585970.png"
-      },
-      "away": {
-        "name": "Dallas Wings",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/j70g2o1624031498.png"
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/wnba/2026-09-17/la-dal/playlist.m3u8?tk=3NWnLshDl-UJB6zQazrqPQ&e=1789732729|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-los-angeles-sparks-vs-dallas-wings/2/playlist.m3u8?tk=3NWnLshDl-UJB6zQazrqPQ&e=1789732729|Referer=https://ondemand.st"
-  },
-  {
     "matchId": "wnba/2026-09-17/phx-por",
     "title": "Phoenix Mercury vs. Portland Fire",
     "league": "WNBA",
     "category": "basketball",
     "date": 1789696800000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "Phoenix Mercury",
@@ -76,8 +16,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/bcjbjy1767191655.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/wnba/2026-09-17/phx-por/playlist.m3u8?tk=3NWnLshDl-UJB6zQazrqPQ&e=1789732729|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-phoenix-mercury-vs-portland-fire/2/playlist.m3u8?tk=3NWnLshDl-UJB6zQazrqPQ&e=1789732729|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/wnba/2026-09-17/phx-por/playlist.m3u8?tk=lo-OuPTQX1sWilBpaGqLlA&e=1789748950|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-phoenix-mercury-vs-portland-fire/2/playlist.m3u8?tk=lo-OuPTQX1sWilBpaGqLlA&e=1789748950|Referer=https://ondemand.st"
   },
   {
     "matchId": "wnba/2026-09-17/lv-sea",
@@ -85,7 +25,7 @@
     "league": "WNBA",
     "category": "basketball",
     "date": 1789696800000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "Las Vegas Aces",
@@ -96,7 +36,67 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/jnvk6x1741462255.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/wnba/2026-09-17/lv-sea/playlist.m3u8?tk=x56MDT76je7cO8cHGC5ZPg&e=1789732730|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-las-vegas-aces-vs-seattle-storm/2/playlist.m3u8?tk=x56MDT76je7cO8cHGC5ZPg&e=1789732730|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/wnba/2026-09-17/lv-sea/playlist.m3u8?tk=2QSXuYg31QS6PGWHpL47QA&e=1789748951|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-las-vegas-aces-vs-seattle-storm/2/playlist.m3u8?tk=2QSXuYg31QS6PGWHpL47QA&e=1789748951|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "wnba/2026-09-18/ind-tor",
+    "title": "Indiana Fever vs. Toronto Tempo",
+    "league": "WNBA",
+    "category": "basketball",
+    "date": 1789774200000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Indiana Fever",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/hoqyza1778258347.png"
+      },
+      "away": {
+        "name": "Toronto Tempo",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/9xp4y31552586027.png"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/wnba/2026-09-18/ind-tor/playlist.m3u8?tk=2QSXuYg31QS6PGWHpL47QA&e=1789748951|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-indiana-fever-vs-toronto-tempo/2/playlist.m3u8?tk=2QSXuYg31QS6PGWHpL47QA&e=1789748951|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "wnba/2026-09-18/ny-min",
+    "title": "New York Liberty vs. Minnesota Lynx",
+    "league": "WNBA",
+    "category": "basketball",
+    "date": 1789774200000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "New York Liberty",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/rzyqoj1552586193.png"
+      },
+      "away": {
+        "name": "Minnesota Lynx",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/s3y5hx1702757871.png"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/wnba/2026-09-18/ny-min/playlist.m3u8?tk=D2hY5FAWXPul1G85FufBBA&e=1789748952|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-new-york-liberty-vs-minnesota-lynx/2/playlist.m3u8?tk=D2hY5FAWXPul1G85FufBBA&e=1789748952|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "wnba/2026-09-18/por-gs",
+    "title": "Portland Fire vs. Golden State Valkyries",
+    "league": "WNBA",
+    "category": "basketball",
+    "date": 1789783200000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Portland Fire",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/24p2fj1738315525.png"
+      },
+      "away": {
+        "name": "Golden State Valkyries",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/0wqbhm1752599825.png"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/wnba/2026-09-18/por-gs/playlist.m3u8?tk=D2hY5FAWXPul1G85FufBBA&e=1789748952|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-portland-fire-vs-golden-state-valkyries/2/playlist.m3u8?tk=D2hY5FAWXPul1G85FufBBA&e=1789748952|Referer=https://ondemand.st"
   }
 ]
