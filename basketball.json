@@ -1,5 +1,25 @@
 [
   {
+    "matchId": "nbl/2026-09-19/per-pnx",
+    "title": "Perth Wildcats vs. South East Melbourne Phoenix",
+    "league": "Basketball",
+    "category": "basketball",
+    "date": 1789817400000,
+    "status": "live",
+    "teams": {
+      "home": {
+        "name": "Perth Wildcats",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/7gkvnd1755701286.png"
+      },
+      "away": {
+        "name": "South East Melbourne Phoenix",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/73xo0d1755702709.png"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nbl/2026-09-19/per-pnx/playlist.m3u8?tk=5JeJdgtb_HrNtQeq5IEbPQ&e=1789868700|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-perth-wildcats-vs-south-east-melbourne-phoenix/2/playlist.m3u8?tk=5JeJdgtb_HrNtQeq5IEbPQ&e=1789868700|Referer=https://ondemand.st"
+  },
+  {
     "matchId": "wnba/2026-09-19/phx-dal",
     "title": "Phoenix Mercury vs. Dallas Wings",
     "league": "WNBA",
@@ -16,8 +36,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/bcjbjy1767191655.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/wnba/2026-09-19/phx-dal/playlist.m3u8?tk=VaUrOFusgBIYoluHY3t6Ow&e=1789852474|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-phoenix-mercury-vs-dallas-wings/2/playlist.m3u8?tk=VaUrOFusgBIYoluHY3t6Ow&e=1789852474|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/wnba/2026-09-19/phx-dal/playlist.m3u8?tk=5JeJdgtb_HrNtQeq5IEbPQ&e=1789868700|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-phoenix-mercury-vs-dallas-wings/2/playlist.m3u8?tk=5JeJdgtb_HrNtQeq5IEbPQ&e=1789868700|Referer=https://ondemand.st"
   },
   {
     "matchId": "wnba/2026-09-19/chi-atl",
@@ -36,8 +56,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/h4e2t21552585926.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/wnba/2026-09-19/chi-atl/playlist.m3u8?tk=BX3tzUYq2rFPezbcLHqEjg&e=1789852475|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-chicago-sky-vs-atlanta-dream/2/playlist.m3u8?tk=BX3tzUYq2rFPezbcLHqEjg&e=1789852475|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/wnba/2026-09-19/chi-atl/playlist.m3u8?tk=vZUPziI-2FpQ21VHTnJ5IA&e=1789868701|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-chicago-sky-vs-atlanta-dream/2/playlist.m3u8?tk=vZUPziI-2FpQ21VHTnJ5IA&e=1789868701|Referer=https://ondemand.st"
   },
   {
     "matchId": "wnba/2026-09-19/sea-gs",
@@ -56,7 +76,47 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/ygz07x1624031566.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/wnba/2026-09-19/sea-gs/playlist.m3u8?tk=BX3tzUYq2rFPezbcLHqEjg&e=1789852475|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-seattle-storm-vs-golden-state-valkyries/2/playlist.m3u8?tk=BX3tzUYq2rFPezbcLHqEjg&e=1789852475|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/wnba/2026-09-19/sea-gs/playlist.m3u8?tk=vZUPziI-2FpQ21VHTnJ5IA&e=1789868701|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-seattle-storm-vs-golden-state-valkyries/2/playlist.m3u8?tk=vZUPziI-2FpQ21VHTnJ5IA&e=1789868701|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "nbl/2026-09-20/nzl-hwk",
+    "title": "New Zealand Breakers vs. Illawarra Hawks",
+    "league": "Basketball",
+    "category": "basketball",
+    "date": 1789880400000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "New Zealand Breakers",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/83088b1725978587.png"
+      },
+      "away": {
+        "name": "Illawarra Hawks",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/juj7y91725980615.png"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nbl/2026-09-20/nzl-hwk/playlist.m3u8?tk=UYHgCmr-3QgQUpc1Kmq1iQ&e=1789868702|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-new-zealand-breakers-vs-illawarra-hawks/2/playlist.m3u8?tk=UYHgCmr-3QgQUpc1Kmq1iQ&e=1789868702|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "nbl/2026-09-20/syd-cns",
+    "title": "Sydney Kings vs. Cairns Taipans",
+    "league": "Basketball",
+    "category": "basketball",
+    "date": 1789887600000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Sydney Kings",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/gsfe5x1550073324.png"
+      },
+      "away": {
+        "name": "Cairns Taipans",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/v2c1wc1550073460.png"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nbl/2026-09-20/syd-cns/playlist.m3u8?tk=UYHgCmr-3QgQUpc1Kmq1iQ&e=1789868702|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-sydney-kings-vs-cairns-taipans/2/playlist.m3u8?tk=UYHgCmr-3QgQUpc1Kmq1iQ&e=1789868702|Referer=https://ondemand.st"
   }
 ]
