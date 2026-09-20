@@ -5,7 +5,7 @@
     "league": "NHL",
     "category": "hockey",
     "date": 1789858800000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "Montreal Canadiens",
@@ -16,8 +16,28 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/mxig4p1570129307.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-09-19/mtl-tor/playlist.m3u8?tk=n2xoG4zOBtIhthq5wiAnmg&e=1789901079|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-montreal-canadiens-vs-toronto-maple-leafs/2/playlist.m3u8?tk=n2xoG4zOBtIhthq5wiAnmg&e=1789901079|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-09-19/mtl-tor/playlist.m3u8?tk=tnczD0Bww2psBaxW70BBnA&e=1789908492|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-montreal-canadiens-vs-toronto-maple-leafs/2/playlist.m3u8?tk=tnczD0Bww2psBaxW70BBnA&e=1789908492|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "nhl/2026-09-19/dal-stl",
+    "title": "Dallas Stars vs. St. Louis Blues",
+    "league": "NHL",
+    "category": "hockey",
+    "date": 1789858800000,
+    "status": "live",
+    "teams": {
+      "home": {
+        "name": "Dallas Stars",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/rsqtwx1422053715.png"
+      },
+      "away": {
+        "name": "St. Louis Blues",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/qrvywq1422042125.png"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-09-19/dal-stl/playlist.m3u8?tk=tnczD0Bww2psBaxW70BBnA&e=1789908492|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-dallas-stars-vs-st-louis-blues/2/playlist.m3u8?tk=tnczD0Bww2psBaxW70BBnA&e=1789908492|Referer=https://ondemand.st"
   },
   {
     "matchId": "nhl/2026-09-19/chi-min",
@@ -25,7 +45,7 @@
     "league": "NHL",
     "category": "hockey",
     "date": 1789862400000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "Chicago Blackhawks",
@@ -36,8 +56,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/tuwyvr1422041801.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-09-19/chi-min/playlist.m3u8?tk=X3daclA-OW-sUk7GYuB9yA&e=1789901080|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-chicago-blackhawks-vs-minnesota-wild/2/playlist.m3u8?tk=X3daclA-OW-sUk7GYuB9yA&e=1789901080|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-09-19/chi-min/playlist.m3u8?tk=bqyNSjkeFxwQ-KAdqz6fJw&e=1789908493|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-chicago-blackhawks-vs-minnesota-wild/2/playlist.m3u8?tk=bqyNSjkeFxwQ-KAdqz6fJw&e=1789908493|Referer=https://ondemand.st"
   },
   {
     "matchId": "nhl/2026-09-19/vgk-la",
@@ -56,8 +76,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/7fd4521619536689.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-09-19/vgk-la/playlist.m3u8?tk=SqCvy1MRsX-5k0Lg-b7iZw&e=1789901081|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-vegas-golden-knights-vs-los-angeles-kings/2/playlist.m3u8?tk=SqCvy1MRsX-5k0Lg-b7iZw&e=1789901081|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-09-19/vgk-la/playlist.m3u8?tk=bqyNSjkeFxwQ-KAdqz6fJw&e=1789908493|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-vegas-golden-knights-vs-los-angeles-kings/2/playlist.m3u8?tk=bqyNSjkeFxwQ-KAdqz6fJw&e=1789908493|Referer=https://ondemand.st"
   },
   {
     "matchId": "nhl/2026-09-19/van-sea",
@@ -76,48 +96,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/xqxxpw1421875519.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-09-19/van-sea/playlist.m3u8?tk=SqCvy1MRsX-5k0Lg-b7iZw&e=1789901081|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-vancouver-canucks-vs-seattle-kraken/2/playlist.m3u8?tk=SqCvy1MRsX-5k0Lg-b7iZw&e=1789901081|Referer=https://ondemand.st"
-  },
-  {
-    "matchId": "sd-delta~live_ncaa-women_mercyhurst-lakers-rensselaer-engineers-live-streaming-623887920",
-    "title": "Mercyhurst Lakers vs Rensselaer Engineers",
-    "league": "hockey",
-    "category": "hockey",
-    "date": 1789837200000,
-    "status": "live",
-    "teams": {
-      "home": {
-        "name": "",
-        "badge": ""
-      },
-      "away": {
-        "name": "",
-        "badge": ""
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/delta/live_ncaa-women_mercyhurst-lakers-rensselaer-engineers-live-streaming-623887920/playlist.m3u8?tk=DyhSUcB3ZFlGm5NUmfynXQ&e=1789901082|Referer=https://ondemand.st",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "sd-delta~live_nhl-preseason_blues-stars-live-streaming-610735680",
-    "title": "St. Louis Blues vs Dallas Stars",
-    "league": "hockey",
-    "category": "hockey",
-    "date": 1789858800000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "St. Louis Blues",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpizlu0PmBAhuICLgMwQJEIj47jBCkz4ouYMvCLzRdprTAOxoiEA.webp"
-      },
-      "away": {
-        "name": "Dallas Stars",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpm7UAJmBRg+YbiD0RcRmCEM49OZYRjAmfFFzBl4ReaIdNaYJ2NEQgA.webp"
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/delta/live_nhl-preseason_blues-stars-live-streaming-610735680/playlist.m3u8?tk=DyhSUcB3ZFlGm5NUmfynXQ&e=1789901082|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/1461/2/playlist.m3u8?tk=DyhSUcB3ZFlGm5NUmfynXQ&e=1789901082|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-09-19/van-sea/playlist.m3u8?tk=F21M6Y7zN5Sj-OSUOdoSsg&e=1789908494|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-vancouver-canucks-vs-seattle-kraken/2/playlist.m3u8?tk=F21M6Y7zN5Sj-OSUOdoSsg&e=1789908494|Referer=https://ondemand.st"
   },
   {
     "matchId": "sd-delta~live_nhl-preseason_oilers-jets-live-streaming-610736544",
@@ -125,7 +105,7 @@
     "league": "hockey",
     "category": "hockey",
     "date": 1789862400000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "Edmonton Oilers",
@@ -136,8 +116,8 @@
         "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyxgB+EClDYQ3ECRAQQfXCESIAJrt0EKTPlrZgy8IvNFamtMM7GiIQA.webp"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/delta/live_nhl-preseason_oilers-jets-live-streaming-610736544/playlist.m3u8?tk=T6AVwRLE2mf46Xn9ZjWCBw&e=1789901083|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/1486/2/playlist.m3u8?tk=T6AVwRLE2mf46Xn9ZjWCBw&e=1789901083|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/delta/live_nhl-preseason_oilers-jets-live-streaming-610736544/playlist.m3u8?tk=F21M6Y7zN5Sj-OSUOdoSsg&e=1789908494|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/1486/2/playlist.m3u8?tk=F21M6Y7zN5Sj-OSUOdoSsg&e=1789908494|Referer=https://ondemand.st"
   },
   {
     "matchId": "sd-golf~1490",
@@ -156,8 +136,8 @@
         "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3C98IDSRDdtIACa6UILYgN9dEAhSZ8UXMGXhF5ou01pgHY0RCA.webp"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/1490/playlist.m3u8?tk=T6AVwRLE2mf46Xn9ZjWCBw&e=1789901083|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/1490/2/playlist.m3u8?tk=T6AVwRLE2mf46Xn9ZjWCBw&e=1789901083|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/1490/playlist.m3u8?tk=JVCy8ST1JrVJHJJzpaEf2A&e=1789908495|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/1490/2/playlist.m3u8?tk=JVCy8ST1JrVJHJJzpaEf2A&e=1789908495|Referer=https://ondemand.st"
   },
   {
     "matchId": "sd-golf~1491",
@@ -176,8 +156,8 @@
         "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphRhRKEHxDat3ECRAQQAExB6NiGCCvGCFJnxRc15evPXAmtMGrGiIQA.webp"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/1491/playlist.m3u8?tk=IWpzxa1DCadbePk1xgfiVg&e=1789901084|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/1491/2/playlist.m3u8?tk=IWpzxa1DCadbePk1xgfiVg&e=1789901084|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/1491/playlist.m3u8?tk=JVCy8ST1JrVJHJJzpaEf2A&e=1789908495|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/1491/2/playlist.m3u8?tk=JVCy8ST1JrVJHJJzpaEf2A&e=1789908495|Referer=https://ondemand.st"
   },
   {
     "matchId": "sd-golf~1493",
@@ -196,8 +176,8 @@
         "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpLB8w3MCjAATTSG4gIuYzBAljKEKZAEKTPii5gy8IvNGOmtMM7GiIQA.webp"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/1493/playlist.m3u8?tk=IWpzxa1DCadbePk1xgfiVg&e=1789901084|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/1493/2/playlist.m3u8?tk=IWpzxa1DCadbePk1xgfiVg&e=1789901084|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/1493/playlist.m3u8?tk=GJbxt8D0KPWghwW_r-17sw&e=1789908496|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/1493/2/playlist.m3u8?tk=GJbxt8D0KPWghwW_r-17sw&e=1789908496|Referer=https://ondemand.st"
   },
   {
     "matchId": "sd-golf~1492",
@@ -216,8 +196,8 @@
         "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhApVzHuu4htAExCIQqkHxAQQMECVwEKTPii5gy8IvNGOmtMM7GiIQA.webp"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/1492/playlist.m3u8?tk=VmTsGCQ4DX_WZ1F0ZgmDEQ&e=1789901085|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/1492/2/playlist.m3u8?tk=VmTsGCQ4DX_WZ1F0ZgmDEQ&e=1789901085|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/1492/playlist.m3u8?tk=GJbxt8D0KPWghwW_r-17sw&e=1789908496|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/1492/2/playlist.m3u8?tk=GJbxt8D0KPWghwW_r-17sw&e=1789908496|Referer=https://ondemand.st"
   },
   {
     "matchId": "sd-golf~1495",
@@ -236,8 +216,8 @@
         "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAmIGCAGh4YECG4gSICJtwhEOI3uWEYwJnxRcwZHfXminTWmBdjREEA.webp"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/1495/playlist.m3u8?tk=VmTsGCQ4DX_WZ1F0ZgmDEQ&e=1789901085|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/1495/2/playlist.m3u8?tk=VmTsGCQ4DX_WZ1F0ZgmDEQ&e=1789901085|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/1495/playlist.m3u8?tk=GJbxt8D0KPWghwW_r-17sw&e=1789908496|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/1495/2/playlist.m3u8?tk=GJbxt8D0KPWghwW_r-17sw&e=1789908496|Referer=https://ondemand.st"
   },
   {
     "matchId": "sd-golf~1494",
@@ -256,12 +236,12 @@
         "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj4hRoebxzcQqiCAAmhkChAwQic-AIUmfFFzBl4ReaIdNaYJ2NEQgA.webp"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/1494/playlist.m3u8?tk=6rqWk8VgAh1GV2L3AyosXQ&e=1789901086|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/1494/2/playlist.m3u8?tk=6rqWk8VgAh1GV2L3AyosXQ&e=1789901086|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/1494/playlist.m3u8?tk=63RXKgQ6Ubes6lytQuTDGg&e=1789908497|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/1494/2/playlist.m3u8?tk=63RXKgQ6Ubes6lytQuTDGg&e=1789908497|Referer=https://ondemand.st"
   },
   {
     "matchId": "sd-golf~1524",
-    "title": "Calgary Flames - Seattle Kraken",
+    "title": "Calgary Flames vs Seattle Kraken",
     "league": "hockey",
     "category": "hockey",
     "date": 1789948800000,
@@ -269,14 +249,14 @@
     "teams": {
       "home": {
         "name": "Calgary Flames",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/v8vkk11619536610.png"
+        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAmIcCuAAGbSG56Qa-ShAkQiNUZAwCFJnxRcwZeEXmjHTWmGdjREIA.webp"
       },
       "away": {
         "name": "Seattle Kraken",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/zsx49m1595775836.png"
+        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpiTkQICCBRsQ3ECS36QfY0fWIAJgQpM+2tmDLwi80dqa0wjsaIhA.webp"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/1524/playlist.m3u8?tk=6rqWk8VgAh1GV2L3AyosXQ&e=1789901086|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/1524/2/playlist.m3u8?tk=6rqWk8VgAh1GV2L3AyosXQ&e=1789901086|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/1524/playlist.m3u8?tk=63RXKgQ6Ubes6lytQuTDGg&e=1789908497|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/1524/2/playlist.m3u8?tk=63RXKgQ6Ubes6lytQuTDGg&e=1789908497|Referer=https://ondemand.st"
   }
 ]
