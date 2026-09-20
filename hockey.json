@@ -1,262 +1,142 @@
 [
   {
-    "matchId": "nhl/2026-09-19/mtl-tor",
-    "title": "Montreal Canadiens vs. Toronto Maple Leafs",
+    "matchId": "nhl/2026-09-20/nyi-nj",
+    "title": "New York Islanders vs. New Jersey Devils",
     "league": "NHL",
-    "category": "hockey",
-    "date": 1789858800000,
-    "status": "live",
-    "teams": {
-      "home": {
-        "name": "Montreal Canadiens",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/stpryx1421791753.png"
-      },
-      "away": {
-        "name": "Toronto Maple Leafs",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/mxig4p1570129307.png"
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-09-19/mtl-tor/playlist.m3u8?tk=tnczD0Bww2psBaxW70BBnA&e=1789908492|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-montreal-canadiens-vs-toronto-maple-leafs/2/playlist.m3u8?tk=tnczD0Bww2psBaxW70BBnA&e=1789908492|Referer=https://ondemand.st"
-  },
-  {
-    "matchId": "nhl/2026-09-19/dal-stl",
-    "title": "Dallas Stars vs. St. Louis Blues",
-    "league": "NHL",
-    "category": "hockey",
-    "date": 1789858800000,
-    "status": "live",
-    "teams": {
-      "home": {
-        "name": "Dallas Stars",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/rsqtwx1422053715.png"
-      },
-      "away": {
-        "name": "St. Louis Blues",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/qrvywq1422042125.png"
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-09-19/dal-stl/playlist.m3u8?tk=tnczD0Bww2psBaxW70BBnA&e=1789908492|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-dallas-stars-vs-st-louis-blues/2/playlist.m3u8?tk=tnczD0Bww2psBaxW70BBnA&e=1789908492|Referer=https://ondemand.st"
-  },
-  {
-    "matchId": "nhl/2026-09-19/chi-min",
-    "title": "Chicago Blackhawks vs. Minnesota Wild",
-    "league": "NHL",
-    "category": "hockey",
-    "date": 1789862400000,
-    "status": "live",
-    "teams": {
-      "home": {
-        "name": "Chicago Blackhawks",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/swtsxs1422042685.png"
-      },
-      "away": {
-        "name": "Minnesota Wild",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/tuwyvr1422041801.png"
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-09-19/chi-min/playlist.m3u8?tk=bqyNSjkeFxwQ-KAdqz6fJw&e=1789908493|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-chicago-blackhawks-vs-minnesota-wild/2/playlist.m3u8?tk=bqyNSjkeFxwQ-KAdqz6fJw&e=1789908493|Referer=https://ondemand.st"
-  },
-  {
-    "matchId": "nhl/2026-09-19/vgk-la",
-    "title": "Vegas Golden Knights vs. Los Angeles Kings",
-    "league": "NHL",
-    "category": "hockey",
-    "date": 1789866000000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Vegas Golden Knights",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/w408rg1719220748.png"
-      },
-      "away": {
-        "name": "Los Angeles Kings",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/7fd4521619536689.png"
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-09-19/vgk-la/playlist.m3u8?tk=bqyNSjkeFxwQ-KAdqz6fJw&e=1789908493|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-vegas-golden-knights-vs-los-angeles-kings/2/playlist.m3u8?tk=bqyNSjkeFxwQ-KAdqz6fJw&e=1789908493|Referer=https://ondemand.st"
-  },
-  {
-    "matchId": "nhl/2026-09-19/van-sea",
-    "title": "Vancouver Canucks vs. Seattle Kraken",
-    "league": "NHL",
-    "category": "hockey",
-    "date": 1789866000000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Vancouver Canucks",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/zsx49m1595775836.png"
-      },
-      "away": {
-        "name": "Seattle Kraken",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/xqxxpw1421875519.png"
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-09-19/van-sea/playlist.m3u8?tk=F21M6Y7zN5Sj-OSUOdoSsg&e=1789908494|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-vancouver-canucks-vs-seattle-kraken/2/playlist.m3u8?tk=F21M6Y7zN5Sj-OSUOdoSsg&e=1789908494|Referer=https://ondemand.st"
-  },
-  {
-    "matchId": "sd-delta~live_nhl-preseason_oilers-jets-live-streaming-610736544",
-    "title": "Edmonton Oilers vs Winnipeg Jets",
-    "league": "hockey",
-    "category": "hockey",
-    "date": 1789862400000,
-    "status": "live",
-    "teams": {
-      "home": {
-        "name": "Edmonton Oilers",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpjLhw8MCjB8Q3EBFy6QAEyMh9hkAQpM+KLmDIb680faa0wjsaIhA.webp"
-      },
-      "away": {
-        "name": "Winnipeg Jets",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyxgB+EClDYQ3ECRAQQfXCESIAJrt0EKTPlrZgy8IvNFamtMM7GiIQA.webp"
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/delta/live_nhl-preseason_oilers-jets-live-streaming-610736544/playlist.m3u8?tk=F21M6Y7zN5Sj-OSUOdoSsg&e=1789908494|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/1486/2/playlist.m3u8?tk=F21M6Y7zN5Sj-OSUOdoSsg&e=1789908494|Referer=https://ondemand.st"
-  },
-  {
-    "matchId": "sd-golf~1490",
-    "title": "New Jersey Devils vs New York Islanders",
-    "league": "hockey",
     "category": "hockey",
     "date": 1789923600000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "New Jersey Devils",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpiQgoWcgBNYIbiE26QKECRCIDfNSBgEKTPii5gy8IvNGOmtMM7GiIQA.webp"
+        "name": "New York Islanders",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/z4rsvp1619536740.png"
       },
       "away": {
-        "name": "New York Islanders",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3C98IDSRDdtIACa6UILYgN9dEAhSZ8UXMGXhF5ou01pgHY0RCA.webp"
+        "name": "New Jersey Devils",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/hqn8511619536714.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/1490/playlist.m3u8?tk=JVCy8ST1JrVJHJJzpaEf2A&e=1789908495|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/1490/2/playlist.m3u8?tk=JVCy8ST1JrVJHJJzpaEf2A&e=1789908495|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-09-20/nyi-nj/playlist.m3u8?tk=vf9hpruXq2bzyzpMjoCemQ&e=1789926660|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-new-york-islanders-vs-new-jersey-devils/2/playlist.m3u8?tk=vf9hpruXq2bzyzpMjoCemQ&e=1789926660|Referer=https://ondemand.st"
   },
   {
-    "matchId": "sd-golf~1491",
-    "title": "Anaheim Ducks vs San Jose Sharks",
-    "league": "hockey",
+    "matchId": "nhl/2026-09-20/sj-ana",
+    "title": "San Jose Sharks vs. Anaheim Ducks",
+    "league": "NHL",
     "category": "hockey",
     "date": 1789934400000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Anaheim Ducks",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhC8IIdQBMQZddxB9VIFDoMhEhk5oIUmfFFzBl4ReaIdNaYJ2NEQgA.webp"
-      },
-      "away": {
         "name": "San Jose Sharks",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphRhRKEHxDat3ECRAQQAExB6NiGCCvGCFJnxRc15evPXAmtMGrGiIQA.webp"
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/1d465t1719573796.png"
+      },
+      "away": {
+        "name": "Anaheim Ducks",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/yui7871546193006.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/1491/playlist.m3u8?tk=JVCy8ST1JrVJHJJzpaEf2A&e=1789908495|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/1491/2/playlist.m3u8?tk=JVCy8ST1JrVJHJJzpaEf2A&e=1789908495|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-09-20/sj-ana/playlist.m3u8?tk=kIUaq54hbswImRKpO39wFg&e=1789926661|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-san-jose-sharks-vs-anaheim-ducks/2/playlist.m3u8?tk=kIUaq54hbswImRKpO39wFg&e=1789926661|Referer=https://ondemand.st"
   },
   {
-    "matchId": "sd-golf~1493",
-    "title": "Tampa Bay Lightning vs Nashville Predators",
-    "league": "hockey",
+    "matchId": "nhl/2026-09-20/wsh-bos",
+    "title": "Washington Capitals vs. Boston Bruins",
+    "league": "NHL",
     "category": "hockey",
     "date": 1789938000000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Tampa Bay Lightning",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnhg+YFOTIQQ3EDpx6+IFLpDmcjCkz4ouYMqvrzRdprTAOxoiEA.webp"
-      },
-      "away": {
-        "name": "Nashville Predators",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpLB8w3MCjAATTSG4gIuYzBAljKEKZAEKTPii5gy8IvNGOmtMM7GiIQA.webp"
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/1493/playlist.m3u8?tk=GJbxt8D0KPWghwW_r-17sw&e=1789908496|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/1493/2/playlist.m3u8?tk=GJbxt8D0KPWghwW_r-17sw&e=1789908496|Referer=https://ondemand.st"
-  },
-  {
-    "matchId": "sd-golf~1492",
-    "title": "Boston Bruins vs Washington Capitals",
-    "league": "hockey",
-    "category": "hockey",
-    "date": 1789938000000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Boston Bruins",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxzdsIDQBNSIbiD64QMI4cQ4zBCkz4ouYMvCLzRtprTD2xoiEA.webp"
-      },
-      "away": {
         "name": "Washington Capitals",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhApVzHuu4htAExCIQqkHxAQQMECVwEKTPii5gy8IvNGOmtMM7GiIQA.webp"
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/b1r86e1720023232.png"
+      },
+      "away": {
+        "name": "Boston Bruins",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/99ca9a1638974052.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/1492/playlist.m3u8?tk=GJbxt8D0KPWghwW_r-17sw&e=1789908496|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/1492/2/playlist.m3u8?tk=GJbxt8D0KPWghwW_r-17sw&e=1789908496|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-09-20/wsh-bos/playlist.m3u8?tk=Ld8Utf5NIYoW-7Si_E4JxA&e=1789926662|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-washington-capitals-vs-boston-bruins/2/playlist.m3u8?tk=Ld8Utf5NIYoW-7Si_E4JxA&e=1789926662|Referer=https://ondemand.st"
   },
   {
-    "matchId": "sd-golf~1495",
-    "title": "Florida Panthers vs Carolina Hurricanes",
-    "league": "hockey",
+    "matchId": "nhl/2026-09-20/nsh-tb",
+    "title": "Nashville Predators vs. Tampa Bay Lightning",
+    "league": "NHL",
+    "category": "hockey",
+    "date": 1789938000000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Nashville Predators",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/swysut1421791822.png"
+      },
+      "away": {
+        "name": "Tampa Bay Lightning",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/twqyvy1422052908.png"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-09-20/nsh-tb/playlist.m3u8?tk=Ld8Utf5NIYoW-7Si_E4JxA&e=1789926662|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-nashville-predators-vs-tampa-bay-lightning/2/playlist.m3u8?tk=Ld8Utf5NIYoW-7Si_E4JxA&e=1789926662|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "nhl/2026-09-20/uta-col",
+    "title": "Utah Mammoth vs. Colorado Avalanche",
+    "league": "NHL",
     "category": "hockey",
     "date": 1789945200000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Florida Panthers",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDhuRdUhDdtIEiAgg+u-apw4YBCkz4ouYMvCLzRdprTAOxoiEA.webp"
-      },
-      "away": {
-        "name": "Carolina Hurricanes",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAmIGCAGh4YECG4gSICJtwhEOI3uWEYwJnxRcwZHfXminTWmBdjREEA.webp"
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/1495/playlist.m3u8?tk=GJbxt8D0KPWghwW_r-17sw&e=1789908496|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/1495/2/playlist.m3u8?tk=GJbxt8D0KPWghwW_r-17sw&e=1789908496|Referer=https://ondemand.st"
-  },
-  {
-    "matchId": "sd-golf~1494",
-    "title": "Colorado Avalanche vs Utah Mammoth",
-    "league": "hockey",
-    "category": "hockey",
-    "date": 1789945200000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Colorado Avalanche",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj5huYMlE0huICLh2G+IRCRDHGFJnxRcN5evNG2mtMBrGiIQA.webp"
-      },
-      "away": {
         "name": "Utah Mammoth",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj4hRoebxzcQqiCAAmhkChAwQic-AIUmfFFzBl4ReaIdNaYJ2NEQgA.webp"
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/wqutut1421173572.png"
+      },
+      "away": {
+        "name": "Colorado Avalanche",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/w5m2ab1746690303.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/1494/playlist.m3u8?tk=63RXKgQ6Ubes6lytQuTDGg&e=1789908497|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/1494/2/playlist.m3u8?tk=63RXKgQ6Ubes6lytQuTDGg&e=1789908497|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-09-20/uta-col/playlist.m3u8?tk=Z5m86FiAThU4es65HUE1Ow&e=1789926663|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-utah-mammoth-vs-colorado-avalanche/2/playlist.m3u8?tk=Z5m86FiAThU4es65HUE1Ow&e=1789926663|Referer=https://ondemand.st"
   },
   {
-    "matchId": "sd-golf~1524",
-    "title": "Calgary Flames vs Seattle Kraken",
-    "league": "hockey",
+    "matchId": "nhl/2026-09-20/car-fla",
+    "title": "Carolina Hurricanes vs. Florida Panthers",
+    "league": "NHL",
+    "category": "hockey",
+    "date": 1789945200000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Carolina Hurricanes",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/8qtaz11547158220.png"
+      },
+      "away": {
+        "name": "Florida Panthers",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/v07m3x1547232585.png"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-09-20/car-fla/playlist.m3u8?tk=Z5m86FiAThU4es65HUE1Ow&e=1789926663|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-carolina-hurricanes-vs-florida-panthers/2/playlist.m3u8?tk=Z5m86FiAThU4es65HUE1Ow&e=1789926663|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "nhl/2026-09-20/sea-cgy",
+    "title": "Seattle Kraken vs. Calgary Flames",
+    "league": "NHL",
     "category": "hockey",
     "date": 1789948800000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Calgary Flames",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAmIcCuAAGbSG56Qa-ShAkQiNUZAwCFJnxRcwZeEXmjHTWmGdjREIA.webp"
+        "name": "Seattle Kraken",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/v8vkk11619536610.png"
       },
       "away": {
-        "name": "Seattle Kraken",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpiTkQICCBRsQ3ECS36QfY0fWIAJgQpM+2tmDLwi80dqa0wjsaIhA.webp"
+        "name": "Calgary Flames",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/zsx49m1595775836.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/1524/playlist.m3u8?tk=63RXKgQ6Ubes6lytQuTDGg&e=1789908497|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/1524/2/playlist.m3u8?tk=63RXKgQ6Ubes6lytQuTDGg&e=1789908497|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-09-20/sea-cgy/playlist.m3u8?tk=qZKmYtEOsG2cozsjD92QrA&e=1789926664|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-seattle-kraken-vs-calgary-flames/2/playlist.m3u8?tk=qZKmYtEOsG2cozsjD92QrA&e=1789926664|Referer=https://ondemand.st"
   }
 ]
