@@ -1,31 +1,11 @@
 [
   {
-    "matchId": "wnba/2026-09-20/por-la",
-    "title": "Portland Fire vs. Los Angeles Sparks",
-    "league": "WNBA",
-    "category": "basketball",
-    "date": 1789945200000,
-    "status": "live",
-    "teams": {
-      "home": {
-        "name": "Portland Fire",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/j70g2o1624031498.png"
-      },
-      "away": {
-        "name": "Los Angeles Sparks",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/0wqbhm1752599825.png"
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/wnba/2026-09-20/por-la/playlist.m3u8?tk=aTJolDcITNWDo_LD7sT4bg&e=1789991726|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-portland-fire-vs-los-angeles-sparks/2/playlist.m3u8?tk=aTJolDcITNWDo_LD7sT4bg&e=1789991726|Referer=https://ondemand.st"
-  },
-  {
     "matchId": "wnba/2026-09-20/sea-lv",
     "title": "Seattle Storm vs. Las Vegas Aces",
     "league": "WNBA",
     "category": "basketball",
     "date": 1789952400000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "Seattle Storm",
@@ -36,8 +16,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/ygz07x1624031566.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/wnba/2026-09-20/sea-lv/playlist.m3u8?tk=aTJolDcITNWDo_LD7sT4bg&e=1789991726|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-seattle-storm-vs-las-vegas-aces/2/playlist.m3u8?tk=88FJjzt91MUmEWj9IYJAhg&e=1789991727|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/wnba/2026-09-20/sea-lv/playlist.m3u8?tk=FR5NLxHi8Bp5fShlsxTLsA&e=1790006261|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-seattle-storm-vs-las-vegas-aces/2/playlist.m3u8?tk=OvHNBvDyIVs-30_uVuPbYQ&e=1790006262|Referer=https://ondemand.st"
   },
   {
     "matchId": "nbl/2026-09-21/tas-pnx",
@@ -56,47 +36,7 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/73xo0d1755702709.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nbl/2026-09-21/tas-pnx/playlist.m3u8?tk=88FJjzt91MUmEWj9IYJAhg&e=1789991727|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-tasmania-jack-jumpers-vs-south-east-melbourne-phoenix/2/playlist.m3u8?tk=88FJjzt91MUmEWj9IYJAhg&e=1789991727|Referer=https://ondemand.st"
-  },
-  {
-    "matchId": "sd-delta~live_wnba_fever-mystics-live-streaming-589237200",
-    "title": "Indiana Fever vs Washington Mystics",
-    "league": "basketball",
-    "category": "basketball",
-    "date": 1789934400000,
-    "status": "live",
-    "teams": {
-      "home": {
-        "name": "Indiana Fever",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAow4GCCgoQibiBIHcRkCAAmITTj4EKTG1zBl4ReaJTAmtME7GiIQA.webp"
-      },
-      "away": {
-        "name": "Washington Mystics",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkulzB8IFP0EwQ3ECX25DIEABMQEXSHgEKTPprZgy8IvNGamtMM7GiIQA.webp"
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/delta/live_wnba_fever-mystics-live-streaming-589237200/playlist.m3u8?tk=88FJjzt91MUmEWj9IYJAhg&e=1789991727|Referer=https://ondemand.st",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "sd-delta~live_wnba_tempo-liberty-live-streaming-589236768",
-    "title": "Toronto Tempo vs New York Liberty",
-    "league": "basketball",
-    "category": "basketball",
-    "date": 1789930800000,
-    "status": "live",
-    "teams": {
-      "home": {
-        "name": "Toronto Tempo",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxCUw3MCjBIeIbiD4GQxnCWMhEEAwQpM+KLmDLwi80Q6a0wTsaIhA.webp"
-      },
-      "away": {
-        "name": "New York Liberty",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpkTwwKEKPAgQ3EHxAxc+zSZ0GJhGMCZ8UXMGTX15o+01phHY0RCA.webp"
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/delta/live_wnba_tempo-liberty-live-streaming-589236768/playlist.m3u8?tk=KEtoJuP2fMCm2yW96nz4Ew&e=1789991728|Referer=https://ondemand.st",
-    "sdUrl": ""
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nbl/2026-09-21/tas-pnx/playlist.m3u8?tk=OvHNBvDyIVs-30_uVuPbYQ&e=1790006262|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-tasmania-jack-jumpers-vs-south-east-melbourne-phoenix/2/playlist.m3u8?tk=OvHNBvDyIVs-30_uVuPbYQ&e=1790006262|Referer=https://ondemand.st"
   }
 ]
