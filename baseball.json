@@ -1,162 +1,82 @@
 [
   {
-    "matchId": "sd-admin~ppv-milwaukee-brewers-vs-baltimore-orioles",
-    "title": "Baltimore Orioles vs Milwaukee Brewers",
-    "league": "baseball",
-    "category": "baseball",
-    "date": 1789946400000,
-    "status": "live",
-    "teams": {
-      "home": {
-        "name": "Baltimore Orioles",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphTRVfMABMwJENxAQQifTl18QMEFZAEKTPii47y9eaMdNaYHWNEQgA.webp"
-      },
-      "away": {
-        "name": "Milwaukee Brewers",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAwQIYAAZQuHiG4gSIFIZB8zpgyfgEKTPii5gy8IvNGOmtMM7GiIQA.webp"
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-milwaukee-brewers-vs-baltimore-orioles/playlist.m3u8?tk=Rtjcrx7wstImtKtVtUU9PQ&e=1790006265|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-milwaukee-brewers-vs-baltimore-orioles/2/playlist.m3u8?tk=Rtjcrx7wstImtKtVtUU9PQ&e=1790006265|Referer=https://ondemand.st"
-  },
-  {
-    "matchId": "sd-delta~live_mls_inter-miami-san-diego-live-streaming-539348976",
-    "title": "San Diego Padres vs Miami Marlins",
-    "league": "baseball",
-    "category": "baseball",
-    "date": 1789935000000,
-    "status": "live",
-    "teams": {
-      "home": {
-        "name": "San Diego Padres",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAATMH0ghetfNrX6+IErhBGTiGAQpM+KLmDLwi80faa0wjsaIhA.webp"
-      },
-      "away": {
-        "name": "Miami Marlins",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAwQfXLmAATBCG4gSICCG2rzBjWomEYwJnxRcwZeEXminTWmBdjREEA.webp"
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/delta/live_mls_inter-miami-san-diego-live-streaming-539348976/playlist.m3u8?tk=Rtjcrx7wstImtKtVtUU9PQ&e=1790006265|Referer=https://ondemand.st",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "sd-foxtrot~giants-v-dodgers-401817026",
-    "title": "Los Angeles Dodgers vs San Francisco Giants",
-    "league": "baseball",
-    "category": "baseball",
-    "date": 1789935000000,
-    "status": "live",
-    "teams": {
-      "home": {
-        "name": "Los Angeles Dodgers",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhCIsYMiGD5cIbiD4GQxnABMQKEBBAk9BCkz4ouG8vXmjnTWmA1jREEA.webp"
-      },
-      "away": {
-        "name": "San Francisco Giants",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyoATEPDC8UICCG4g+hkCYOIcOEroIUmfFFzBlN9eaIdNaYJ2NEQgA.webp"
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/foxtrot/giants-v-dodgers-401817026/playlist.m3u8?tk=kthBBEXq8TpbSKA05JQ9LA&e=1790006266|Referer=https://ondemand.st",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "sd-foxtrot~yankees-v-diamondbacks-401817025",
-    "title": "Arizona Diamondbacks vs New York Yankees",
-    "league": "baseball",
-    "category": "baseball",
-    "date": 1789935000000,
-    "status": "live",
-    "teams": {
-      "home": {
-        "name": "Arizona Diamondbacks",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphCkQZAWEohuIPjpCIQIACYHjZ+AQpM+KLmDLwi80faa0wjsaIhA.webp"
-      },
-      "away": {
-        "name": "New York Yankees",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj5huYVavAgQ3EBFwhEBvjpCmAJiAsEKTPii5gy8IvNGOmtMM7GiIQA.webp"
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/foxtrot/yankees-v-diamondbacks-401817025/playlist.m3u8?tk=kthBBEXq8TpbSKA05JQ9LA&e=1790006266|Referer=https://ondemand.st",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "sd-foxtrot~twins-v-angels-401817024",
-    "title": "Los Angeles Angels vs Minnesota Twins",
-    "league": "baseball",
-    "category": "baseball",
-    "date": 1789934820000,
-    "status": "live",
-    "teams": {
-      "home": {
-        "name": "Los Angeles Angels",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAm5PuTUgQ3EBBCIcJEHxN6zKghSZ8UXMGXhF5ou01pgHY0RCA.webp"
-      },
-      "away": {
-        "name": "Minnesota Twins",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyajaEEGQAmIbpty6QKEDH19DKAhSZ8UXMGXhF5ou01pgHY0RCA.webp"
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/foxtrot/twins-v-angels-401817024/playlist.m3u8?tk=DDzUop5DOLsVHdB8jVlluQ&e=1790006267|Referer=https://ondemand.st",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "sd-delta~live_mlb_orioles-blue-jays-live-streaming-594465264",
-    "title": "Baltimore Orioles vs Toronto Blue Jays",
-    "league": "baseball",
+    "matchId": "mlb/2026-09-21/tor-bal",
+    "title": "Toronto Blue Jays vs. Baltimore Orioles",
+    "league": "MLB",
     "category": "baseball",
     "date": 1790030100000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Baltimore Orioles",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphTRVfMABMwJENxAQQifTl18QMEFZAEKTPii47y9eaMdNaYHWNEQgA.webp"
+        "name": "Toronto Blue Jays",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/ytywvu1431257088.png"
       },
       "away": {
-        "name": "Toronto Blue Jays",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAmIFGCTAADCFpgQ3EGqN8QJXCDNqQxghSZ8UXMGXhF5o5032uxoiCA.webp"
+        "name": "Baltimore Orioles",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/f9zk3l1617527686.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/delta/live_mlb_orioles-blue-jays-live-streaming-594465264/playlist.m3u8?tk=DDzUop5DOLsVHdB8jVlluQ&e=1790006267|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/1609/2/playlist.m3u8?tk=DDzUop5DOLsVHdB8jVlluQ&e=1790006267|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mlb/2026-09-21/tor-bal/playlist.m3u8?tk=njUn1bgc19UGp9aXk-NXEw&e=1790027468|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-toronto-blue-jays-vs-baltimore-orioles/2/playlist.m3u8?tk=njUn1bgc19UGp9aXk-NXEw&e=1790027468|Referer=https://ondemand.st"
   },
   {
-    "matchId": "sd-delta~live_mlb_tigers-nationals-live-streaming-594465696",
-    "title": "Detroit Tigers vs Washington Nationals",
-    "league": "baseball",
+    "matchId": "mlb/2026-09-21/wsh-det",
+    "title": "Washington Nationals vs. Detroit Tigers",
+    "league": "MLB",
     "category": "baseball",
     "date": 1790030400000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Detroit Tigers",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAoxanABNKIbiBL6QEEDBCIcevmYIUmfNWzBl4ReaLVNaYJ2NEQgA.webp"
+        "name": "Washington Nationals",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/9dib6o1554032173.png"
       },
       "away": {
-        "name": "Washington Nationals",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj6ww3amQghuIbTkQATECj0g+IYxAIUmfFFzBl4ReaIdNaYJ2NEQgA.webp"
+        "name": "Detroit Tigers",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/wpqrut1423694764.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/delta/live_mlb_tigers-nationals-live-streaming-594465696/playlist.m3u8?tk=R_sPZXa_kDxuodzexYc_Gw&e=1790006268|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/1610/2/playlist.m3u8?tk=R_sPZXa_kDxuodzexYc_Gw&e=1790006268|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mlb/2026-09-21/wsh-det/playlist.m3u8?tk=CK7K9MIJleC5hxDhnCoSfg&e=1790027469|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-washington-nationals-vs-detroit-tigers/2/playlist.m3u8?tk=CK7K9MIJleC5hxDhnCoSfg&e=1790027469|Referer=https://ondemand.st"
   },
   {
-    "matchId": "sd-delta~live_mlb_giants-twins-live-streaming-594466128",
-    "title": "San Francisco Giants vs Minnesota Twins",
-    "league": "baseball",
+    "matchId": "mlb/2026-09-21/min-sf",
+    "title": "Minnesota Twins vs. San Francisco Giants",
+    "league": "MLB",
     "category": "baseball",
     "date": 1790041500000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "San Francisco Giants",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyoATEPDC8UICCG4g+hkCYOIcOEroIUmfFFzBlN9eaIdNaYJ2NEQgA.webp"
+        "name": "Minnesota Twins",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/ov3qi41778132254.png"
       },
       "away": {
-        "name": "Minnesota Twins",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyajaEEGQAmIbpty6QKEDH19DKAhSZ8UXMGXhF5ou01pgHY0RCA.webp"
+        "name": "San Francisco Giants",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/necd5v1521905719.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/delta/live_mlb_giants-twins-live-streaming-594466128/playlist.m3u8?tk=R_sPZXa_kDxuodzexYc_Gw&e=1790006268|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/1611/2/playlist.m3u8?tk=R_sPZXa_kDxuodzexYc_Gw&e=1790006268|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mlb/2026-09-21/min-sf/playlist.m3u8?tk=-0kb5zPq5PZ2ECgpoeib-Q&e=1790027470|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-minnesota-twins-vs-san-francisco-giants/2/playlist.m3u8?tk=-0kb5zPq5PZ2ECgpoeib-Q&e=1790027470|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "sd-golf~1612",
+    "title": "New York Yankees vs Tampa Bay Rays",
+    "league": "baseball",
+    "category": "baseball",
+    "date": 1790096700000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "New York Yankees",
+        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj5huYVavAgQ3EBFwhEBvjpCmAJiAsEKTPii5gy8IvNGOmtMM7GiIQA.webp"
+      },
+      "away": {
+        "name": "Tampa Bay Rays",
+        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzDtoUFJBDcQJXSAggYIRDoAmuEwQpM+KLmDLwi80faa0wjsaIhA.webp"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/1612/playlist.m3u8?tk=-0kb5zPq5PZ2ECgpoeib-Q&e=1790027470|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/1612/2/playlist.m3u8?tk=-0kb5zPq5PZ2ECgpoeib-Q&e=1790027470|Referer=https://ondemand.st"
   }
 ]

@@ -1,63 +1,123 @@
 [
   {
-    "matchId": "sd-admin~ppv-seattle-kraken-vs-calgary-flames",
-    "title": "Calgary Flames vs Seattle Kraken",
-    "league": "hockey",
-    "category": "hockey",
-    "date": 1789948800000,
-    "status": "live",
-    "teams": {
-      "home": {
-        "name": "Calgary Flames",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAmIcCuAAGbSG56Qa-ShAkQiNUZAwCFJnxRcwZeEXmjHTWmGdjREIA.webp"
-      },
-      "away": {
-        "name": "Seattle Kraken",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpiTkQICCBRsQ3ECS36QfY0fWIAJgQpM+2tmDLwi80dqa0wjsaIhA.webp"
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-seattle-kraken-vs-calgary-flames/playlist.m3u8?tk=Zcagmt1RRwVVAl-L71U1kw&e=1790006269|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-seattle-kraken-vs-calgary-flames/2/playlist.m3u8?tk=Zcagmt1RRwVVAl-L71U1kw&e=1790006269|Referer=https://ondemand.st"
-  },
-  {
-    "matchId": "sd-delta~live_nhl-preseason_canadiens-senators-live-streaming-610949088",
-    "title": "Montreal Canadiens vs Ottawa Senators",
-    "league": "hockey",
+    "matchId": "nhl/2026-09-21/phi-wsh",
+    "title": "Philadelphia Flyers vs. Washington Capitals",
+    "league": "NHL",
     "category": "hockey",
     "date": 1790031600000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Montreal Canadiens",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnjQ4WMCjAgQ3EBFy6QfECiMmSIeAQpM+KLmDKr680Q6a0wTsaIhA.webp"
+        "name": "Philadelphia Flyers",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/99ca9a1638974052.png"
       },
       "away": {
-        "name": "Ottawa Senators",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkulxFE3MBpQhuIACY6Q2kiEQGT2xhSZ8UXMGXhF5ou01pgHY0RCA.webp"
+        "name": "Washington Capitals",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/qxxppp1421794965.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/delta/live_nhl-preseason_canadiens-senators-live-streaming-610949088/playlist.m3u8?tk=D3QeboajxW-JOpZHA3PJbQ&e=1790006270|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/1529/2/playlist.m3u8?tk=D3QeboajxW-JOpZHA3PJbQ&e=1790006270|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-09-21/phi-wsh/playlist.m3u8?tk=jSWCwNKlfssZ2JUrfNZ9Ng&e=1790027471|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-philadelphia-flyers-vs-washington-capitals/2/playlist.m3u8?tk=jSWCwNKlfssZ2JUrfNZ9Ng&e=1790027471|Referer=https://ondemand.st"
   },
   {
-    "matchId": "sd-delta~live_nhl-preseason_devils-rangers-live-streaming-610949520",
-    "title": "New Jersey Devils vs New York Rangers",
-    "league": "hockey",
+    "matchId": "nhl/2026-09-21/buf-pit",
+    "title": "Buffalo Sabres vs. Pittsburgh Penguins",
+    "league": "NHL",
     "category": "hockey",
     "date": 1790031600000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "New Jersey Devils",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpiQgoWcgBNYIbiE26QKECRCIDfNSBgEKTPii5gy8IvNGOmtMM7GiIQA.webp"
+        "name": "Buffalo Sabres",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/dsj3on1546192477.png"
       },
       "away": {
+        "name": "Pittsburgh Penguins",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/3m3jhp1619536655.png"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-09-21/buf-pit/playlist.m3u8?tk=jSWCwNKlfssZ2JUrfNZ9Ng&e=1790027471|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-buffalo-sabres-vs-pittsburgh-penguins/2/playlist.m3u8?tk=jSWCwNKlfssZ2JUrfNZ9Ng&e=1790027471|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "nhl/2026-09-21/nyr-nj",
+    "title": "New York Rangers vs. New Jersey Devils",
+    "league": "NHL",
+    "category": "hockey",
+    "date": 1790031600000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
         "name": "New York Rangers",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpIS5gTcNxBa+IACYhEEECRDGDuvQQpM+KLmDLwi80faa0wjsaIhA.webp"
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/z4rsvp1619536740.png"
+      },
+      "away": {
+        "name": "New Jersey Devils",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/hqn8511619536714.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/delta/live_nhl-preseason_devils-rangers-live-streaming-610949520/playlist.m3u8?tk=D3QeboajxW-JOpZHA3PJbQ&e=1790006270|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/1528/2/playlist.m3u8?tk=D3QeboajxW-JOpZHA3PJbQ&e=1790006270|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-09-21/nyr-nj/playlist.m3u8?tk=zqk8a0KCyk7_RX5pg_tnQQ&e=1790027472|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-new-york-rangers-vs-new-jersey-devils/2/playlist.m3u8?tk=zqk8a0KCyk7_RX5pg_tnQQ&e=1790027472|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "nhl/2026-09-21/ott-mtl",
+    "title": "Ottawa Senators vs. Montreal Canadiens",
+    "league": "NHL",
+    "category": "hockey",
+    "date": 1790031600000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Ottawa Senators",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/stpryx1421791753.png"
+      },
+      "away": {
+        "name": "Montreal Canadiens",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/2tc1qy1619536592.png"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-09-21/ott-mtl/playlist.m3u8?tk=zqk8a0KCyk7_RX5pg_tnQQ&e=1790027472|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-ottawa-senators-vs-montreal-canadiens/2/playlist.m3u8?tk=-gies5MRl-NewPJuLEUNHA&e=1790027473|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "nhl/2026-09-21/min-chi",
+    "title": "Minnesota Wild vs. Chicago Blackhawks",
+    "league": "NHL",
+    "category": "hockey",
+    "date": 1790035200000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Minnesota Wild",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/swtsxs1422042685.png"
+      },
+      "away": {
+        "name": "Chicago Blackhawks",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/tuwyvr1422041801.png"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-09-21/min-chi/playlist.m3u8?tk=-gies5MRl-NewPJuLEUNHA&e=1790027473|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-minnesota-wild-vs-chicago-blackhawks/2/playlist.m3u8?tk=-gies5MRl-NewPJuLEUNHA&e=1790027473|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "nhl/2026-09-21/stl-dal",
+    "title": "St. Louis Blues vs. Dallas Stars",
+    "league": "NHL",
+    "category": "hockey",
+    "date": 1790035200000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "St. Louis Blues",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/qrvywq1422042125.png"
+      },
+      "away": {
+        "name": "Dallas Stars",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/rsqtwx1422053715.png"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-09-21/stl-dal/playlist.m3u8?tk=Oe7kwLfRZQua5dcOwsCLEw&e=1790027474|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-st-louis-blues-vs-dallas-stars/2/playlist.m3u8?tk=Oe7kwLfRZQua5dcOwsCLEw&e=1790027474|Referer=https://ondemand.st"
   },
   {
     "matchId": "sd-delta~live_nhl-preseason_blue-jackets-red-wings-live-streaming-610948656",
@@ -76,88 +136,8 @@
         "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhC9EOelT6qQJEBBAATXftMwQFmAQpM+KLmDLwi80faa0wjsaIhA.webp"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/delta/live_nhl-preseason_blue-jackets-red-wings-live-streaming-610948656/playlist.m3u8?tk=EeutV0p7OKZ8o__Z8kapUA&e=1790006271|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/1527/2/playlist.m3u8?tk=EeutV0p7OKZ8o__Z8kapUA&e=1790006271|Referer=https://ondemand.st"
-  },
-  {
-    "matchId": "sd-delta~live_nhl-preseason_penguins-sabres-live-streaming-610949952",
-    "title": "Pittsburgh Penguins vs Buffalo Sabres",
-    "league": "hockey",
-    "category": "hockey",
-    "date": 1790031600000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Pittsburgh Penguins",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyi0kIFsHwhuIEiAggAJjpApcBkHysEKTPii5gy8IvNGOmtMM7GiIQA.webp"
-      },
-      "away": {
-        "name": "Buffalo Sabres",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhC1QtJKFghuIACY6QKECVX7zp5YRjAmfFFzBl4ReaIdNaYJ2NEQgA.webp"
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/delta/live_nhl-preseason_penguins-sabres-live-streaming-610949952/playlist.m3u8?tk=EeutV0p7OKZ8o__Z8kapUA&e=1790006271|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/1526/2/playlist.m3u8?tk=EeutV0p7OKZ8o__Z8kapUA&e=1790006271|Referer=https://ondemand.st"
-  },
-  {
-    "matchId": "sd-delta~live_nhl-preseason_capitals-flyers-live-streaming-610950384",
-    "title": "Washington Capitals vs Philadelphia Flyers",
-    "league": "hockey",
-    "category": "hockey",
-    "date": 1790031600000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Washington Capitals",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhApVzHuu4htAExCIQqkHxAQQMECVwEKTPii5gy8IvNGOmtMM7GiIQA.webp"
-      },
-      "away": {
-        "name": "Philadelphia Flyers",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpm5hw4OJpDcQEXNpB8QKXcZAATEMsIxgTPii5gy8IvNGOmtMM7GiIQA.webp"
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/delta/live_nhl-preseason_capitals-flyers-live-streaming-610950384/playlist.m3u8?tk=Vv7neNX8DNPs2WrMV-5Izw&e=1790006272|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/1525/2/playlist.m3u8?tk=Vv7neNX8DNPs2WrMV-5Izw&e=1790006272|Referer=https://ondemand.st"
-  },
-  {
-    "matchId": "sd-delta~live_nhl-preseason_stars-blues-live-streaming-610951248",
-    "title": "Dallas Stars vs St. Louis Blues",
-    "league": "hockey",
-    "category": "hockey",
-    "date": 1790035200000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Dallas Stars",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpm7UAJmBRg+YbiD0RcRmCEM49OZYRjAmfFFzBl4ReaIdNaYJ2NEQgA.webp"
-      },
-      "away": {
-        "name": "St. Louis Blues",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpizlu0PmBAhuICLgMwQJEIj47jBCkz4ouYMvCLzRdprTAOxoiEA.webp"
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/delta/live_nhl-preseason_stars-blues-live-streaming-610951248/playlist.m3u8?tk=Vv7neNX8DNPs2WrMV-5Izw&e=1790006272|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/1560/2/playlist.m3u8?tk=Vv7neNX8DNPs2WrMV-5Izw&e=1790006272|Referer=https://ondemand.st"
-  },
-  {
-    "matchId": "sd-delta~live_nhl-preseason_blackhawks-wild-live-streaming-610950816",
-    "title": "Chicago Blackhawks vs Minnesota Wild",
-    "league": "hockey",
-    "category": "hockey",
-    "date": 1790035200000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Chicago Blackhawks",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpLBk+YFGAAm2ENxARcRmAb0hzJiYRjAmfFF1Xl680Q6a0wqsaIhA.webp"
-      },
-      "away": {
-        "name": "Minnesota Wild",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnhg+NMOETcQEXPpi79AExBnlhGMCZ8UXMGVX15ou01pgHY0RCA.webp"
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/delta/live_nhl-preseason_blackhawks-wild-live-streaming-610950816/playlist.m3u8?tk=zDspwns8zNmcgFJ7mctmFA&e=1790006273|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/1559/2/playlist.m3u8?tk=zDspwns8zNmcgFJ7mctmFA&e=1790006273|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/delta/live_nhl-preseason_blue-jackets-red-wings-live-streaming-610948656/playlist.m3u8?tk=Oe7kwLfRZQua5dcOwsCLEw&e=1790027474|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/1527/2/playlist.m3u8?tk=Oe7kwLfRZQua5dcOwsCLEw&e=1790027474|Referer=https://ondemand.st"
   },
   {
     "matchId": "sd-delta~live_nhl-preseason_jets-avalanche-live-streaming-610951680",
@@ -176,7 +156,7 @@
         "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj5huYMlE0huICLh2G+IRCRDHGFJnxRcN5evNG2mtMBrGiIQA.webp"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/delta/live_nhl-preseason_jets-avalanche-live-streaming-610951680/playlist.m3u8?tk=zDspwns8zNmcgFJ7mctmFA&e=1790006273|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/1558/2/playlist.m3u8?tk=zDspwns8zNmcgFJ7mctmFA&e=1790006273|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/delta/live_nhl-preseason_jets-avalanche-live-streaming-610951680/playlist.m3u8?tk=4Qnm7t8BmZnAiDNaTmpwww&e=1790027475|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/1558/2/playlist.m3u8?tk=4Qnm7t8BmZnAiDNaTmpwww&e=1790027475|Referer=https://ondemand.st"
   }
 ]
