@@ -1,1 +1,502 @@
-[]
+[
+  {
+    "matchId": "nfl-network",
+    "title": "NFL Network",
+    "league": "NFL",
+    "category": "american-football",
+    "date": 1790256075267,
+    "status": "live",
+    "teams": {
+      "home": {
+        "name": "NFL Network",
+        "badge": ""
+      },
+      "away": {
+        "name": "",
+        "badge": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl-network/playlist.m3u8?tk=-2a1Ziuaqqaxp4ZXkhMMYw&e=1790299275|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-nfl-network/2/playlist.m3u8?tk=-2a1Ziuaqqaxp4ZXkhMMYw&e=1790299275|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "nfl/2026-09-24/atl-gb",
+    "title": "Atlanta Falcons at Green Bay Packers",
+    "league": "NFL",
+    "category": "american-football",
+    "date": 1790295300000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Atlanta Falcons",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/uwbfw01784719173.png"
+      },
+      "away": {
+        "name": "Green Bay Packers",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/9ucfd41784714178.png"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-09-24/atl-gb/playlist.m3u8?tk=-2a1Ziuaqqaxp4ZXkhMMYw&e=1790299275|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-atlanta-falcons-at-green-bay-packers/2/playlist.m3u8?tk=-2a1Ziuaqqaxp4ZXkhMMYw&e=1790299275|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "cfl/2026-09-25/tor-wpg",
+    "title": "Toronto Argonauts at Winnipeg Blue Bombers",
+    "league": "American Football",
+    "category": "american-football",
+    "date": 1790380800000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Toronto Argonauts",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/4bo4wj1561667273.png"
+      },
+      "away": {
+        "name": "Winnipeg Blue Bombers",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/5a57ou1628555372.png"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfl/2026-09-25/tor-wpg/playlist.m3u8?tk=Y2EujWTImXqy6m9-5rCCog&e=1790299276|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-toronto-argonauts-at-winnipeg-blue-bombers/2/playlist.m3u8?tk=Y2EujWTImXqy6m9-5rCCog&e=1790299276|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "cfl/2026-09-25/ssk-bc",
+    "title": "Saskatchewan Roughriders at BC Lions",
+    "league": "American Football",
+    "category": "american-football",
+    "date": 1790389800000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Saskatchewan Roughriders",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/ysxssy1424732039.png"
+      },
+      "away": {
+        "name": "BC Lions",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/xrdull1630952245.png"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfl/2026-09-25/ssk-bc/playlist.m3u8?tk=Y2EujWTImXqy6m9-5rCCog&e=1790299276|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-saskatchewan-roughriders-at-bc-lions/2/playlist.m3u8?tk=Y2EujWTImXqy6m9-5rCCog&e=1790299276|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "cfl/2026-09-26/cgy-ott",
+    "title": "Calgary Stampeders at Ottawa RedBlacks",
+    "league": "American Football",
+    "category": "american-football",
+    "date": 1790449200000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Calgary Stampeders",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/k8wjz71546002654.png"
+      },
+      "away": {
+        "name": "Ottawa RedBlacks",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/lksemj1565196917.png"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfl/2026-09-26/cgy-ott/playlist.m3u8?tk=8GzDvaPLfSPD5HXkKvnz8w&e=1790299277|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-calgary-stampeders-at-ottawa-red-blacks/2/playlist.m3u8?tk=8GzDvaPLfSPD5HXkKvnz8w&e=1790299277|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "cfl/2026-09-26/ham-edm",
+    "title": "Hamilton Tiger-Cats at Edmonton Elks",
+    "league": "American Football",
+    "category": "american-football",
+    "date": 1790463600000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Hamilton Tiger-Cats",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/5icq721630952022.png"
+      },
+      "away": {
+        "name": "Edmonton Elks",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/qtwsuq1424727420.png"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfl/2026-09-26/ham-edm/playlist.m3u8?tk=8GzDvaPLfSPD5HXkKvnz8w&e=1790299277|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-hamilton-tiger-cats-at-edmonton-elks/2/playlist.m3u8?tk=8GzDvaPLfSPD5HXkKvnz8w&e=1790299277|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "nfl/2026-09-27/lac-buf",
+    "title": "Los Angeles Chargers at Buffalo Bills",
+    "league": "NFL",
+    "category": "american-football",
+    "date": 1790528400000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Los Angeles Chargers",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/j4r1tn1784714823.png"
+      },
+      "away": {
+        "name": "Buffalo Bills",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/wmi40u1784721460.png"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-09-27/lac-buf/playlist.m3u8?tk=MPSk-vwKPCNVUny6n0yV3Q&e=1790299278|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-los-angeles-chargers-at-buffalo-bills/2/playlist.m3u8?tk=MPSk-vwKPCNVUny6n0yV3Q&e=1790299278|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "nfl/2026-09-27/car-cle",
+    "title": "Carolina Panthers at Cleveland Browns",
+    "league": "NFL",
+    "category": "american-football",
+    "date": 1790528400000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Carolina Panthers",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/g7qhkz1784717593.png"
+      },
+      "away": {
+        "name": "Cleveland Browns",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/kbqini1784716157.png"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-09-27/car-cle/playlist.m3u8?tk=MPSk-vwKPCNVUny6n0yV3Q&e=1790299278|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-carolina-panthers-at-cleveland-browns/2/playlist.m3u8?tk=MPSk-vwKPCNVUny6n0yV3Q&e=1790299278|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "nfl/2026-09-27/nyj-det",
+    "title": "New York Jets at Detroit Lions",
+    "league": "NFL",
+    "category": "american-football",
+    "date": 1790528400000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "New York Jets",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/lgsgkr1546168257.png"
+      },
+      "away": {
+        "name": "Detroit Lions",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/6bnwoc1784751677.png"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-09-27/nyj-det/playlist.m3u8?tk=MPSk-vwKPCNVUny6n0yV3Q&e=1790299278|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-new-york-jets-at-detroit-lions/2/playlist.m3u8?tk=MPSk-vwKPCNVUny6n0yV3Q&e=1790299278|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "nfl/2026-09-27/hou-ind",
+    "title": "Houston Texans at Indianapolis Colts",
+    "league": "NFL",
+    "category": "american-football",
+    "date": 1790528400000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Houston Texans",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/im99lm1784720368.png"
+      },
+      "away": {
+        "name": "Indianapolis Colts",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/o71ce41784719551.png"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-09-27/hou-ind/playlist.m3u8?tk=BNtCg1BGfCFJdfZkfEZ8DA&e=1790299279|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-houston-texans-at-indianapolis-colts/2/playlist.m3u8?tk=BNtCg1BGfCFJdfZkfEZ8DA&e=1790299279|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "nfl/2026-09-27/kc-mia",
+    "title": "Kansas City Chiefs at Miami Dolphins",
+    "league": "NFL",
+    "category": "american-football",
+    "date": 1790528400000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Kansas City Chiefs",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/e803xt1784722221.png"
+      },
+      "away": {
+        "name": "Miami Dolphins",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/n58gp51784720929.png"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-09-27/kc-mia/playlist.m3u8?tk=BNtCg1BGfCFJdfZkfEZ8DA&e=1790299279|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-kansas-city-chiefs-at-miami-dolphins/2/playlist.m3u8?tk=BNtCg1BGfCFJdfZkfEZ8DA&e=1790299279|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "nfl/2026-09-27/ten-nyg",
+    "title": "Tennessee Titans at New York Giants",
+    "league": "NFL",
+    "category": "american-football",
+    "date": 1790528400000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Tennessee Titans",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/i9muak1784751331.png"
+      },
+      "away": {
+        "name": "New York Giants",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/3td0f41779180767.png"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-09-27/ten-nyg/playlist.m3u8?tk=vDXBBppctzj8N8mkH22TYw&e=1790299280|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-tennessee-titans-at-new-york-giants/2/playlist.m3u8?tk=vDXBBppctzj8N8mkH22TYw&e=1790299280|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "nfl/2026-09-27/cin-pit",
+    "title": "Cincinnati Bengals at Pittsburgh Steelers",
+    "league": "NFL",
+    "category": "american-football",
+    "date": 1790528400000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Cincinnati Bengals",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/2975411515853129.png"
+      },
+      "away": {
+        "name": "Pittsburgh Steelers",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/h1ce8y1784717263.png"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-09-27/cin-pit/playlist.m3u8?tk=vDXBBppctzj8N8mkH22TYw&e=1790299280|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-cincinnati-bengals-at-pittsburgh-steelers/2/playlist.m3u8?tk=vDXBBppctzj8N8mkH22TYw&e=1790299280|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "nfl/2026-09-27/sea-wsh",
+    "title": "Seattle Seahawks at Washington Commanders",
+    "league": "NFL",
+    "category": "american-football",
+    "date": 1790528400000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Seattle Seahawks",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/rn0c7v1643826119.png"
+      },
+      "away": {
+        "name": "Washington Commanders",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/1t84c51784752684.png"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-09-27/sea-wsh/playlist.m3u8?tk=vDXBBppctzj8N8mkH22TYw&e=1790299280|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-seattle-seahawks-at-washington-commanders/2/playlist.m3u8?tk=vDXBBppctzj8N8mkH22TYw&e=1790299280|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "nfl/2026-09-27/ne-jax",
+    "title": "New England Patriots at Jacksonville Jaguars",
+    "league": "NFL",
+    "category": "american-football",
+    "date": 1790528400000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "New England Patriots",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/0mrsd41546427902.png"
+      },
+      "away": {
+        "name": "Jacksonville Jaguars",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/xtwxyt1421431860.png"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-09-27/ne-jax/playlist.m3u8?tk=PovZks0SuWCNqgenyiJaeA&e=1790299281|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-new-england-patriots-at-jacksonville-jaguars/2/playlist.m3u8?tk=PovZks0SuWCNqgenyiJaeA&e=1790299281|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "nfl/2026-09-27/ari-sf",
+    "title": "Arizona Cardinals at San Francisco 49ers",
+    "league": "NFL",
+    "category": "american-football",
+    "date": 1790539500000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Arizona Cardinals",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/bqbtg61539537328.png"
+      },
+      "away": {
+        "name": "San Francisco 49ers",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/i1g1wg1784712239.png"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-09-27/ari-sf/playlist.m3u8?tk=PovZks0SuWCNqgenyiJaeA&e=1790299281|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-arizona-cardinals-at-san-francisco-49-ers/2/playlist.m3u8?tk=PovZks0SuWCNqgenyiJaeA&e=1790299281|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "nfl/2026-09-27/min-tb",
+    "title": "Minnesota Vikings at Tampa Bay Buccaneers",
+    "league": "NFL",
+    "category": "american-football",
+    "date": 1790539500000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Minnesota Vikings",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/2dfpdl1537820969.png"
+      },
+      "away": {
+        "name": "Tampa Bay Buccaneers",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/nyp3ev1784722510.png"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-09-27/min-tb/playlist.m3u8?tk=ToouIbbBbxWmQd9VgyK85Q&e=1790299282|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-minnesota-vikings-at-tampa-bay-buccaneers/2/playlist.m3u8?tk=ToouIbbBbxWmQd9VgyK85Q&e=1790299282|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "nfl/2026-09-27/bal-dal",
+    "title": "Baltimore Ravens at Dallas Cowboys",
+    "league": "NFL",
+    "category": "american-football",
+    "date": 1790540700000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Baltimore Ravens",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/76ew3c1784718447.png"
+      },
+      "away": {
+        "name": "Dallas Cowboys",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/einz3p1546172463.png"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-09-27/bal-dal/playlist.m3u8?tk=ToouIbbBbxWmQd9VgyK85Q&e=1790299282|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-baltimore-ravens-at-dallas-cowboys/2/playlist.m3u8?tk=ToouIbbBbxWmQd9VgyK85Q&e=1790299282|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "nfl/2026-09-27/lv-no",
+    "title": "Las Vegas Raiders at New Orleans Saints",
+    "league": "NFL",
+    "category": "american-football",
+    "date": 1790540700000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Las Vegas Raiders",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/nd46c71537821337.png"
+      },
+      "away": {
+        "name": "New Orleans Saints",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/4t8xtk1784721179.png"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-09-27/lv-no/playlist.m3u8?tk=2NxVKVtzgjFYJIi-p0koxg&e=1790299283|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-las-vegas-raiders-at-new-orleans-saints/2/playlist.m3u8?tk=2NxVKVtzgjFYJIi-p0koxg&e=1790299283|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "nfl/2026-09-27/lar-den",
+    "title": "Los Angeles Rams at Denver Broncos",
+    "league": "NFL",
+    "category": "american-football",
+    "date": 1790554800000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Los Angeles Rams",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/ojw15x1784721865.png"
+      },
+      "away": {
+        "name": "Denver Broncos",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/zy3m9v1784718707.png"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-09-27/lar-den/playlist.m3u8?tk=2NxVKVtzgjFYJIi-p0koxg&e=1790299283|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-los-angeles-rams-at-denver-broncos/2/playlist.m3u8?tk=2NxVKVtzgjFYJIi-p0koxg&e=1790299283|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "nfl/2026-09-28/phi-chi",
+    "title": "Philadelphia Eagles at Chicago Bears",
+    "league": "NFL",
+    "category": "american-football",
+    "date": 1790640900000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Philadelphia Eagles",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/pnpybf1515852421.png"
+      },
+      "away": {
+        "name": "Chicago Bears",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/0m51zd1784716955.png"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-09-28/phi-chi/playlist.m3u8?tk=2NxVKVtzgjFYJIi-p0koxg&e=1790299283|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-philadelphia-eagles-at-chicago-bears/2/playlist.m3u8?tk=2NxVKVtzgjFYJIi-p0koxg&e=1790299283|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "sd-delta~live_cfb_coastal-carolina-liberty-flames-live-streaming-587870784",
+    "title": "Coastal Carolina vs Liberty",
+    "league": "american-football",
+    "category": "american-football",
+    "date": 1790292600000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Coastal Carolina",
+        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphghaSdmCRg+IbiBIgAJiAhrzh3WeWEYwJnxRcwZeEXminTWmBdjREEA.webp"
+      },
+      "away": {
+        "name": "Liberty",
+        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpiS4QAE35hRibiBIaQEEIkTqQenMsIxgTPii7by9eaMdNaYbWNEQgA.webp"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/delta/live_cfb_coastal-carolina-liberty-flames-live-streaming-587870784/playlist.m3u8?tk=ruMs-cVOojPJv6lGvnJmMA&e=1790299284|Referer=https://ondemand.st",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "sd-golf~1641",
+    "title": "Temple vs Army",
+    "league": "american-football",
+    "category": "american-football",
+    "date": 1790366400000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Temple",
+        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhB8wKYAAZ1sMHxDcQAExAQQiHIZghrZvgQpN7XMGXhF5ojU1phXY0QggA.webp"
+      },
+      "away": {
+        "name": "Army",
+        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhC0wYJCBIgYwACYhuIPiFMxTuEBC2GrBCkz4ouYMvCLzRzpmtdjREEA.webp"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/1641/playlist.m3u8?tk=ruMs-cVOojPJv6lGvnJmMA&e=1790299284|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/1641/2/playlist.m3u8?tk=ruMs-cVOojPJv6lGvnJmMA&e=1790299284|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "sd-golf~1670",
+    "title": "UAB vs Navy",
+    "league": "american-football",
+    "category": "american-football",
+    "date": 1790377200000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "UAB",
+        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyi15SECkohuIEiAAmICCESIjITToIUmfLWzBl4ReaK1NaYJ2NEQgA.webp"
+      },
+      "away": {
+        "name": "Navy",
+        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphQgUYsGCRgSIbiF0ATEBBCJExxPrWEYwJn3Vsd5evNHqmtTaKl0gA.webp"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/1670/playlist.m3u8?tk=zPGs0K11fpjaKft9jEjAHA&e=1790299285|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/1670/2/playlist.m3u8?tk=zPGs0K11fpjaKft9jEjAHA&e=1790299285|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "sd-golf~1669",
+    "title": "Rutgers vs Howard",
+    "league": "american-football",
+    "category": "american-football",
+    "date": 1790377200000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Rutgers",
+        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhBkAJmwSac3VSDUgIIRIgMGjjCkz4ouYMvCLzRtprTD2xoiEA.webp"
+      },
+      "away": {
+        "name": "Howard",
+        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh1atwAE2bAwIbiBIh1ICCEQGjIfbgIUmfFFzBl4ReaIdNaYJ2NEQgA.webp"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/1669/playlist.m3u8?tk=zPGs0K11fpjaKft9jEjAHA&e=1790299285|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/1669/2/playlist.m3u8?tk=zPGs0K11fpjaKft9jEjAHA&e=1790299285|Referer=https://ondemand.st"
+  }
+]
