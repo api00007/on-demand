@@ -16,8 +16,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/b1r86e1720023232.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-09-25/bos-wsh/playlist.m3u8?tk=TIg_gITCNrUkMoV5g2s67g&e=1790385732|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-boston-bruins-vs-washington-capitals/2/playlist.m3u8?tk=TIg_gITCNrUkMoV5g2s67g&e=1790385732|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-09-25/bos-wsh/playlist.m3u8?tk=12Z_3bIOfmPtndOp4NVazA&e=1790403535|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-boston-bruins-vs-washington-capitals/2/playlist.m3u8?tk=12Z_3bIOfmPtndOp4NVazA&e=1790403535|Referer=https://ondemand.st"
   },
   {
     "matchId": "nhl/2026-09-25/nyr-nyi",
@@ -36,8 +36,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/z4rsvp1619536740.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-09-25/nyr-nyi/playlist.m3u8?tk=TIg_gITCNrUkMoV5g2s67g&e=1790385732|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-new-york-rangers-vs-new-york-islanders/2/playlist.m3u8?tk=TIg_gITCNrUkMoV5g2s67g&e=1790385732|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-09-25/nyr-nyi/playlist.m3u8?tk=ust7XjSpQLZGLIInAqK8-A&e=1790403536|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-new-york-rangers-vs-new-york-islanders/2/playlist.m3u8?tk=ust7XjSpQLZGLIInAqK8-A&e=1790403536|Referer=https://ondemand.st"
   },
   {
     "matchId": "nhl/2026-09-25/dal-min",
@@ -56,8 +56,68 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/swtsxs1422042685.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-09-25/dal-min/playlist.m3u8?tk=9NOGuyPzjsEoCDmQu6j2mw&e=1790385733|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-dallas-stars-vs-minnesota-wild/2/playlist.m3u8?tk=9NOGuyPzjsEoCDmQu6j2mw&e=1790385733|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-09-25/dal-min/playlist.m3u8?tk=ust7XjSpQLZGLIInAqK8-A&e=1790403536|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-dallas-stars-vs-minnesota-wild/2/playlist.m3u8?tk=ust7XjSpQLZGLIInAqK8-A&e=1790403536|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "sd-delta~live_ncaa-women_merrimack-warriors-lindenwood-lady-lions-live-streaming-653305824",
+    "title": "Merrimack Warriors vs Lindenwood Lady Lions",
+    "league": "hockey",
+    "category": "hockey",
+    "date": 1790359200000,
+    "status": "live",
+    "teams": {
+      "home": {
+        "name": "",
+        "badge": ""
+      },
+      "away": {
+        "name": "",
+        "badge": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/delta/live_ncaa-women_merrimack-warriors-lindenwood-lady-lions-live-streaming-653305824/playlist.m3u8?tk=ust7XjSpQLZGLIInAqK8-A&e=1790403536|Referer=https://ondemand.st",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "sd-delta~live_ncaa-women_franklin-pierce-ravens-union-dutchwomen-live-streaming-653305392",
+    "title": "Franklin Pierce Ravens vs Union Dutchwomen",
+    "league": "hockey",
+    "category": "hockey",
+    "date": 1790359200000,
+    "status": "live",
+    "teams": {
+      "home": {
+        "name": "",
+        "badge": ""
+      },
+      "away": {
+        "name": "",
+        "badge": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/delta/live_ncaa-women_franklin-pierce-ravens-union-dutchwomen-live-streaming-653305392/playlist.m3u8?tk=s3GIe4Av1zR9rJK5IdnkDg&e=1790403537|Referer=https://ondemand.st",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "sd-delta~live_ncaa-women_minnesota-state-mavericks-rensselaer-engineers-live-streaming-653304960",
+    "title": "Minnesota State Mavericks vs Rensselaer Engineers",
+    "league": "hockey",
+    "category": "hockey",
+    "date": 1790352000000,
+    "status": "live",
+    "teams": {
+      "home": {
+        "name": "",
+        "badge": ""
+      },
+      "away": {
+        "name": "",
+        "badge": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/delta/live_ncaa-women_minnesota-state-mavericks-rensselaer-engineers-live-streaming-653304960/playlist.m3u8?tk=s3GIe4Av1zR9rJK5IdnkDg&e=1790403537|Referer=https://ondemand.st",
+    "sdUrl": ""
   },
   {
     "matchId": "sd-delta~live_nhl-preseason_avalanche-jets-live-streaming-653228928",
@@ -76,7 +136,7 @@
         "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyxgB+EClDYQ3ECRAQQfXCESIAJrt0EKTPlrZgy8IvNFamtMM7GiIQA.webp"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/delta/live_nhl-preseason_avalanche-jets-live-streaming-653228928/playlist.m3u8?tk=9NOGuyPzjsEoCDmQu6j2mw&e=1790385733|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/delta/live_nhl-preseason_avalanche-jets-live-streaming-653228928/playlist.m3u8?tk=RtZ5UpMhLNr49QQiNcHAXg&e=1790403538|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -96,8 +156,8 @@
         "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAmIGCAGh4YECG4gSICJtwhEOI3uWEYwJnxRcwZHfXminTWmBdjREEA.webp"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/1750/playlist.m3u8?tk=Q143UO4L1OdFQU4zbkGshQ&e=1790385734|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/1750/2/playlist.m3u8?tk=Q143UO4L1OdFQU4zbkGshQ&e=1790385734|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/1750/playlist.m3u8?tk=RtZ5UpMhLNr49QQiNcHAXg&e=1790403538|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/1750/2/playlist.m3u8?tk=RtZ5UpMhLNr49QQiNcHAXg&e=1790403538|Referer=https://ondemand.st"
   },
   {
     "matchId": "sd-golf~1749",
@@ -116,8 +176,8 @@
         "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyi0kIFsHwhuIEiAggAJjpApcBkHysEKTPii5gy8IvNGOmtMM7GiIQA.webp"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/1749/playlist.m3u8?tk=Q143UO4L1OdFQU4zbkGshQ&e=1790385734|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/1749/2/playlist.m3u8?tk=Q143UO4L1OdFQU4zbkGshQ&e=1790385734|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/1749/playlist.m3u8?tk=RgfTEXS7waUDBf_-zSZWnA&e=1790403539|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/1749/2/playlist.m3u8?tk=RgfTEXS7waUDBf_-zSZWnA&e=1790403539|Referer=https://ondemand.st"
   },
   {
     "matchId": "sd-golf~1751",
@@ -136,8 +196,8 @@
         "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhC8IIdQBMQZddxB9VIFDoMhEhk5oIUmfFFzBl4ReaIdNaYJ2NEQgA.webp"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/1751/playlist.m3u8?tk=Q143UO4L1OdFQU4zbkGshQ&e=1790385734|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/1751/2/playlist.m3u8?tk=Q143UO4L1OdFQU4zbkGshQ&e=1790385734|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/1751/playlist.m3u8?tk=RgfTEXS7waUDBf_-zSZWnA&e=1790403539|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/1751/2/playlist.m3u8?tk=RgfTEXS7waUDBf_-zSZWnA&e=1790403539|Referer=https://ondemand.st"
   },
   {
     "matchId": "sd-golf~1753",
@@ -156,8 +216,8 @@
         "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj5huYMlE0huICLh2G+IRCRDHGFJnxRcN5evNG2mtMBrGiIQA.webp"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/1753/playlist.m3u8?tk=gE1goH463w2iQpo0hXSNzw&e=1790385735|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/1753/2/playlist.m3u8?tk=gE1goH463w2iQpo0hXSNzw&e=1790385735|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/1753/playlist.m3u8?tk=RgfTEXS7waUDBf_-zSZWnA&e=1790403539|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/1753/2/playlist.m3u8?tk=RgfTEXS7waUDBf_-zSZWnA&e=1790403539|Referer=https://ondemand.st"
   },
   {
     "matchId": "sd-golf~1752",
@@ -176,8 +236,8 @@
         "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhApVzHuu4htAExCIQqkHxAQQMECVwEKTPii5gy8IvNGOmtMM7GiIQA.webp"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/1752/playlist.m3u8?tk=gE1goH463w2iQpo0hXSNzw&e=1790385735|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/1752/2/playlist.m3u8?tk=gE1goH463w2iQpo0hXSNzw&e=1790385735|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/1752/playlist.m3u8?tk=S-cTo3D4dKIvYs4tQS44gw&e=1790403540|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/1752/2/playlist.m3u8?tk=S-cTo3D4dKIvYs4tQS44gw&e=1790403540|Referer=https://ondemand.st"
   },
   {
     "matchId": "sd-golf~1754",
@@ -196,8 +256,8 @@
         "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnhg+YFOTIQQ3EDpx6+IFLpDmcjCkz4ouYMqvrzRdprTAOxoiEA.webp"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/1754/playlist.m3u8?tk=NkFf-HM8W3QNePKopIIqcg&e=1790385736|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/1754/2/playlist.m3u8?tk=NkFf-HM8W3QNePKopIIqcg&e=1790385736|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/1754/playlist.m3u8?tk=S-cTo3D4dKIvYs4tQS44gw&e=1790403540|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/1754/2/playlist.m3u8?tk=S-cTo3D4dKIvYs4tQS44gw&e=1790403540|Referer=https://ondemand.st"
   },
   {
     "matchId": "sd-golf~1759",
@@ -216,8 +276,8 @@
         "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpiTkQICCBRsQ3ECS36QfY0fWIAJgQpM+2tmDLwi80dqa0wjsaIhA.webp"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/1759/playlist.m3u8?tk=NkFf-HM8W3QNePKopIIqcg&e=1790385736|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/1759/2/playlist.m3u8?tk=NkFf-HM8W3QNePKopIIqcg&e=1790385736|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/1759/playlist.m3u8?tk=p69lO4tpRL5kQPtsCzffJw&e=1790403541|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/1759/2/playlist.m3u8?tk=p69lO4tpRL5kQPtsCzffJw&e=1790403541|Referer=https://ondemand.st"
   },
   {
     "matchId": "sd-golf~1757",
@@ -236,8 +296,8 @@
         "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkulxFE3MBpQhuIACY6Q2kiEQGT2xhSZ8UXMGXhF5ou01pgHY0RCA.webp"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/1757/playlist.m3u8?tk=969YCOs0i3Qdd_CfLshTqg&e=1790385737|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/1757/2/playlist.m3u8?tk=969YCOs0i3Qdd_CfLshTqg&e=1790385737|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/1757/playlist.m3u8?tk=p69lO4tpRL5kQPtsCzffJw&e=1790403541|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/1757/2/playlist.m3u8?tk=p69lO4tpRL5kQPtsCzffJw&e=1790403541|Referer=https://ondemand.st"
   },
   {
     "matchId": "sd-golf~1756",
@@ -256,8 +316,8 @@
         "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnjkU0PpBDcQEXNpB8QKfSRCJlhGMCZ8UXMGVX15o+01phHY0RCA.webp"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/1756/playlist.m3u8?tk=969YCOs0i3Qdd_CfLshTqg&e=1790385737|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/1756/2/playlist.m3u8?tk=969YCOs0i3Qdd_CfLshTqg&e=1790385737|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/1756/playlist.m3u8?tk=0RVlGX3DE8knZYIhZAvpLA&e=1790403542|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/1756/2/playlist.m3u8?tk=0RVlGX3DE8knZYIhZAvpLA&e=1790403542|Referer=https://ondemand.st"
   },
   {
     "matchId": "sd-golf~1755",
@@ -276,8 +336,8 @@
         "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpizlu0PmBAhuICLgMwQJEIj47jBCkz4ouYMvCLzRdprTAOxoiEA.webp"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/1755/playlist.m3u8?tk=969YCOs0i3Qdd_CfLshTqg&e=1790385737|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/1755/2/playlist.m3u8?tk=969YCOs0i3Qdd_CfLshTqg&e=1790385737|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/1755/playlist.m3u8?tk=0RVlGX3DE8knZYIhZAvpLA&e=1790403542|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/1755/2/playlist.m3u8?tk=0RVlGX3DE8knZYIhZAvpLA&e=1790403542|Referer=https://ondemand.st"
   },
   {
     "matchId": "sd-golf~1760",
@@ -296,8 +356,8 @@
         "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpiQgoWcgBNYIbiE26QKECRCIDfNSBgEKTPii5gy8IvNGOmtMM7GiIQA.webp"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/1760/playlist.m3u8?tk=6iyjXtr0scCsCsNfUqh2Kg&e=1790385738|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/1760/2/playlist.m3u8?tk=6iyjXtr0scCsCsNfUqh2Kg&e=1790385738|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/1760/playlist.m3u8?tk=WOcivImT21cH_0P2uJLuHA&e=1790403543|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/1760/2/playlist.m3u8?tk=WOcivImT21cH_0P2uJLuHA&e=1790403543|Referer=https://ondemand.st"
   },
   {
     "matchId": "sd-golf~1779",
@@ -316,7 +376,27 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/v8vkk11619536610.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/1779/playlist.m3u8?tk=6iyjXtr0scCsCsNfUqh2Kg&e=1790385738|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/1779/2/playlist.m3u8?tk=6iyjXtr0scCsCsNfUqh2Kg&e=1790385738|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/1779/playlist.m3u8?tk=WOcivImT21cH_0P2uJLuHA&e=1790403543|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/1779/2/playlist.m3u8?tk=WOcivImT21cH_0P2uJLuHA&e=1790403543|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "sd-golf~1780",
+    "title": "Vegas Golden Knights - San Jose Sharks",
+    "league": "hockey",
+    "category": "hockey",
+    "date": 1790474400000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Vegas Golden Knights",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/7fd4521619536689.png"
+      },
+      "away": {
+        "name": "San Jose Sharks",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/yui7871546193006.png"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/1780/playlist.m3u8?tk=Xgx3erjvs1fRnyoj_31oqg&e=1790403544|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/1780/2/playlist.m3u8?tk=Xgx3erjvs1fRnyoj_31oqg&e=1790403544|Referer=https://ondemand.st"
   }
 ]
