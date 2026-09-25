@@ -16,8 +16,8 @@
         "badge": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/wwe/2026-09-25/playlist.m3u8?tk=fFXWtWcpM3tqzbYbj3NRRA&e=1790403518|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-wwe-friday-night-smackdown/2/playlist.m3u8?tk=fFXWtWcpM3tqzbYbj3NRRA&e=1790403518|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/wwe/2026-09-25/playlist.m3u8?tk=R-rQmwpBwvlvb-txb_4d7A&e=1790416990|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-wwe-friday-night-smackdown/2/playlist.m3u8?tk=R-rQmwpBwvlvb-txb_4d7A&e=1790416990|Referer=https://ondemand.st"
   },
   {
     "matchId": "aew/2026-09-26",
@@ -36,7 +36,27 @@
         "badge": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/aew/2026-09-26/playlist.m3u8?tk=fFXWtWcpM3tqzbYbj3NRRA&e=1790403518|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-aew-saturday-night-collision/2/playlist.m3u8?tk=fFXWtWcpM3tqzbYbj3NRRA&e=1790403518|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/aew/2026-09-26/playlist.m3u8?tk=OLCROq6y-bMGnGKu922-Ww&e=1790416991|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-aew-saturday-night-collision/2/playlist.m3u8?tk=OLCROq6y-bMGnGKu922-Ww&e=1790416991|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "sd-delta~live-event_ufc-fight-night-rosas-jr-vs-barcelos-live-stream",
+    "title": "UFC Fight Night 289 Rosas Jr. vs Barcelos",
+    "league": "fight",
+    "category": "fight",
+    "date": 1790452800000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "UFC Fight Night 289 Rosas Jr.",
+        "badge": ""
+      },
+      "away": {
+        "name": "Barcelos",
+        "badge": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/delta/live-event_ufc-fight-night-rosas-jr-vs-barcelos-live-stream/playlist.m3u8?tk=OLCROq6y-bMGnGKu922-Ww&e=1790416991|Referer=https://ondemand.st",
+    "sdUrl": ""
   }
 ]
