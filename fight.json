@@ -1,25 +1,5 @@
 [
   {
-    "matchId": "wwe/2026-09-25",
-    "title": "WWE Friday Night Smackdown",
-    "league": "WWE",
-    "category": "fight",
-    "date": 1790380800000,
-    "status": "live",
-    "teams": {
-      "home": {
-        "name": "WWE Friday Night Smackdown",
-        "badge": ""
-      },
-      "away": {
-        "name": "",
-        "badge": ""
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/wwe/2026-09-25/playlist.m3u8?tk=zxUHSZ_EdO5DdKIenwtVng&e=1790428545|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-wwe-friday-night-smackdown/2/playlist.m3u8?tk=zxUHSZ_EdO5DdKIenwtVng&e=1790428545|Referer=https://ondemand.st"
-  },
-  {
     "matchId": "aew/2026-09-26",
     "title": "AEW Saturday Night Collision",
     "league": "AEW",
@@ -36,8 +16,108 @@
         "badge": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/aew/2026-09-26/playlist.m3u8?tk=zxUHSZ_EdO5DdKIenwtVng&e=1790428545|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-aew-saturday-night-collision/2/playlist.m3u8?tk=zxUHSZ_EdO5DdKIenwtVng&e=1790428545|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/aew/2026-09-26/playlist.m3u8?tk=8hayXCQ3-Cayr5K_M_olUA&e=1790449998|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-aew-saturday-night-collision/2/playlist.m3u8?tk=8hayXCQ3-Cayr5K_M_olUA&e=1790449998|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "sd-delta~live-event_mma-mexico-9-live-stream",
+    "title": "MMA Mexico 9",
+    "league": "fight",
+    "category": "fight",
+    "date": 1790388000000,
+    "status": "live",
+    "teams": {
+      "home": {
+        "name": "",
+        "badge": ""
+      },
+      "away": {
+        "name": "",
+        "badge": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/delta/live-event_mma-mexico-9-live-stream/playlist.m3u8?tk=coWLbwmNDGHRFYkk7Q7pqw&e=1790449999|Referer=https://ondemand.st",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "sd-golf~1805",
+    "title": "Oktagon 94 Eckerlin vs Kozma",
+    "league": "fight",
+    "category": "fight",
+    "date": 1790438400000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Oktagon 94 Eckerlin",
+        "badge": ""
+      },
+      "away": {
+        "name": "Kozma",
+        "badge": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/1805/playlist.m3u8?tk=coWLbwmNDGHRFYkk7Q7pqw&e=1790449999|Referer=https://ondemand.st",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "sd-golf~1804",
+    "title": "Sojar Boy - Scorpion",
+    "league": "fight",
+    "category": "fight",
+    "date": 1790445600000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Sojar Boy",
+        "badge": ""
+      },
+      "away": {
+        "name": "Scorpion",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/f40n001615642293.png"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/1804/playlist.m3u8?tk=EOanpbAcnhOJcpwrw2F3MA&e=1790450000|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/1804/2/playlist.m3u8?tk=EOanpbAcnhOJcpwrw2F3MA&e=1790450000|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "sd-delta~live-event_johnny-fisher-vs-michael-pirotton-live-stream",
+    "title": "Johnny Fisher vs Michael Pirotton",
+    "league": "fight",
+    "category": "fight",
+    "date": 1790445600000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Johnny Fisher",
+        "badge": "https://r2.thesportsdb.com/images/media/player/thumb/j755je1750669627.jpg"
+      },
+      "away": {
+        "name": "Michael Pirotton",
+        "badge": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/delta/live-event_johnny-fisher-vs-michael-pirotton-live-stream/playlist.m3u8?tk=EOanpbAcnhOJcpwrw2F3MA&e=1790450000|Referer=https://ondemand.st",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "sd-delta~live-event_liam-davies-vs-nathaniel-collins-live-stream",
+    "title": "Liam Davies vs Nathaniel Collins",
+    "league": "fight",
+    "category": "fight",
+    "date": 1790445600000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Liam Davies",
+        "badge": ""
+      },
+      "away": {
+        "name": "Nathaniel Collins",
+        "badge": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/delta/live-event_liam-davies-vs-nathaniel-collins-live-stream/playlist.m3u8?tk=kyMGOFew7Jrok6PphIhu3w&e=1790450001|Referer=https://ondemand.st",
+    "sdUrl": ""
   },
   {
     "matchId": "sd-delta~live-event_ufc-fight-night-rosas-jr-vs-barcelos-live-stream",
@@ -56,7 +136,47 @@
         "badge": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/delta/live-event_ufc-fight-night-rosas-jr-vs-barcelos-live-stream/playlist.m3u8?tk=wWXzfaV78mnr5W-2t6mDMg&e=1790428546|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/delta/live-event_ufc-fight-night-rosas-jr-vs-barcelos-live-stream/playlist.m3u8?tk=kyMGOFew7Jrok6PphIhu3w&e=1790450001|Referer=https://ondemand.st",
     "sdUrl": ""
+  },
+  {
+    "matchId": "sd-golf~1801",
+    "title": "Henry Cejudo vs Javon Walton",
+    "league": "fight",
+    "category": "fight",
+    "date": 1790460000000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Henry Cejudo",
+        "badge": "https://r2.thesportsdb.com/images/media/player/thumb/t2a5es1596823825.jpg"
+      },
+      "away": {
+        "name": "Javon Walton",
+        "badge": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/1801/playlist.m3u8?tk=Tylwlz9Cw6SAMleR-Z23qA&e=1790450002|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/1801/2/playlist.m3u8?tk=Tylwlz9Cw6SAMleR-Z23qA&e=1790450002|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "sd-golf~1802",
+    "title": "All Out",
+    "league": "fight",
+    "category": "fight",
+    "date": 1790467200000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "",
+        "badge": ""
+      },
+      "away": {
+        "name": "",
+        "badge": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/1802/playlist.m3u8?tk=Tylwlz9Cw6SAMleR-Z23qA&e=1790450002|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/1802/2/playlist.m3u8?tk=Tylwlz9Cw6SAMleR-Z23qA&e=1790450002|Referer=https://ondemand.st"
   }
 ]
