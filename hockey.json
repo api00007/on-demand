@@ -1,51 +1,11 @@
 [
   {
-    "matchId": "nhl/2026-09-26/pit-buf",
-    "title": "Pittsburgh Penguins vs. Buffalo Sabres",
-    "league": "NHL",
-    "category": "hockey",
-    "date": 1790449200000,
-    "status": "live",
-    "teams": {
-      "home": {
-        "name": "Pittsburgh Penguins",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/3m3jhp1619536655.png"
-      },
-      "away": {
-        "name": "Buffalo Sabres",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/dsj3on1546192477.png"
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-09-26/pit-buf/playlist.m3u8?tk=4FR79W67dCLHHyWNZyNW5A&e=1790494623|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-pittsburgh-penguins-vs-buffalo-sabres/2/playlist.m3u8?tk=4FR79W67dCLHHyWNZyNW5A&e=1790494623|Referer=https://ondemand.st"
-  },
-  {
-    "matchId": "nhl/2026-09-26/car-nsh",
-    "title": "Carolina Hurricanes vs. Nashville Predators",
-    "league": "NHL",
-    "category": "hockey",
-    "date": 1790449200000,
-    "status": "live",
-    "teams": {
-      "home": {
-        "name": "Carolina Hurricanes",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/twqyvy1422052908.png"
-      },
-      "away": {
-        "name": "Nashville Predators",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/v07m3x1547232585.png"
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-09-26/car-nsh/playlist.m3u8?tk=4FR79W67dCLHHyWNZyNW5A&e=1790494623|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-carolina-hurricanes-vs-nashville-predators/2/playlist.m3u8?tk=4FR79W67dCLHHyWNZyNW5A&e=1790494623|Referer=https://ondemand.st"
-  },
-  {
     "matchId": "nhl/2026-09-26/ana-la",
     "title": "Anaheim Ducks vs. Los Angeles Kings",
     "league": "NHL",
     "category": "hockey",
     "date": 1790452800000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "Anaheim Ducks",
@@ -56,8 +16,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/1d465t1719573796.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-09-26/ana-la/playlist.m3u8?tk=4FR79W67dCLHHyWNZyNW5A&e=1790494623|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-anaheim-ducks-vs-los-angeles-kings/2/playlist.m3u8?tk=4FR79W67dCLHHyWNZyNW5A&e=1790494623|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-09-26/ana-la/playlist.m3u8?tk=WvGsbN36vwQW_CEMwecaVQ&e=1790504963|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-anaheim-ducks-vs-los-angeles-kings/2/playlist.m3u8?tk=WvGsbN36vwQW_CEMwecaVQ&e=1790504963|Referer=https://ondemand.st"
   },
   {
     "matchId": "nhl/2026-09-26/wsh-phi",
@@ -65,7 +25,7 @@
     "league": "NHL",
     "category": "hockey",
     "date": 1790456400000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "Washington Capitals",
@@ -76,8 +36,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/99ca9a1638974052.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-09-26/wsh-phi/playlist.m3u8?tk=ITqgdO_vz078wlCPg4l5TA&e=1790494624|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-washington-capitals-vs-philadelphia-flyers/2/playlist.m3u8?tk=ITqgdO_vz078wlCPg4l5TA&e=1790494624|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-09-26/wsh-phi/playlist.m3u8?tk=WvGsbN36vwQW_CEMwecaVQ&e=1790504963|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-washington-capitals-vs-philadelphia-flyers/2/playlist.m3u8?tk=WvGsbN36vwQW_CEMwecaVQ&e=1790504963|Referer=https://ondemand.st"
   },
   {
     "matchId": "nhl/2026-09-26/col-uta",
@@ -85,7 +45,7 @@
     "league": "NHL",
     "category": "hockey",
     "date": 1790456400000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "Colorado Avalanche",
@@ -96,8 +56,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/wqutut1421173572.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-09-26/col-uta/playlist.m3u8?tk=ITqgdO_vz078wlCPg4l5TA&e=1790494624|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-colorado-avalanche-vs-utah-mammoth/2/playlist.m3u8?tk=ITqgdO_vz078wlCPg4l5TA&e=1790494624|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-09-26/col-uta/playlist.m3u8?tk=vJ17neR8nF80EAaFnCSnDQ&e=1790504964|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-colorado-avalanche-vs-utah-mammoth/2/playlist.m3u8?tk=vJ17neR8nF80EAaFnCSnDQ&e=1790504964|Referer=https://ondemand.st"
   },
   {
     "matchId": "nhl/2026-09-26/tb-fla",
@@ -105,7 +65,7 @@
     "league": "NHL",
     "category": "hockey",
     "date": 1790460000000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "Tampa Bay Lightning",
@@ -116,8 +76,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/swysut1421791822.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-09-26/tb-fla/playlist.m3u8?tk=z2ixs3EtLzKlXLU9cLkHog&e=1790494625|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-tampa-bay-lightning-vs-florida-panthers/2/playlist.m3u8?tk=z2ixs3EtLzKlXLU9cLkHog&e=1790494625|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-09-26/tb-fla/playlist.m3u8?tk=vJ17neR8nF80EAaFnCSnDQ&e=1790504964|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-tampa-bay-lightning-vs-florida-panthers/2/playlist.m3u8?tk=vJ17neR8nF80EAaFnCSnDQ&e=1790504964|Referer=https://ondemand.st"
   },
   {
     "matchId": "nhl/2026-09-26/cbj-det",
@@ -136,8 +96,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/ssytwt1421792535.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-09-26/cbj-det/playlist.m3u8?tk=z2ixs3EtLzKlXLU9cLkHog&e=1790494625|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-columbus-blue-jackets-vs-detroit-red-wings/2/playlist.m3u8?tk=z2ixs3EtLzKlXLU9cLkHog&e=1790494625|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-09-26/cbj-det/playlist.m3u8?tk=z5Om33zpQQnT2-dBIpC1AA&e=1790504965|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-columbus-blue-jackets-vs-detroit-red-wings/2/playlist.m3u8?tk=z5Om33zpQQnT2-dBIpC1AA&e=1790504965|Referer=https://ondemand.st"
   },
   {
     "matchId": "nhl/2026-09-26/sea-van",
@@ -156,8 +116,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/zsx49m1595775836.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-09-26/sea-van/playlist.m3u8?tk=X2da5uxiDUPFBSbvLJPjHw&e=1790494626|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-seattle-kraken-vs-vancouver-canucks/2/playlist.m3u8?tk=X2da5uxiDUPFBSbvLJPjHw&e=1790494626|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-09-26/sea-van/playlist.m3u8?tk=z5Om33zpQQnT2-dBIpC1AA&e=1790504965|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-seattle-kraken-vs-vancouver-canucks/2/playlist.m3u8?tk=z5Om33zpQQnT2-dBIpC1AA&e=1790504965|Referer=https://ondemand.st"
   },
   {
     "matchId": "nhl/2026-09-26/ott-mtl",
@@ -176,8 +136,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/2tc1qy1619536592.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-09-26/ott-mtl/playlist.m3u8?tk=X2da5uxiDUPFBSbvLJPjHw&e=1790494626|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-ottawa-senators-vs-montreal-canadiens/2/playlist.m3u8?tk=X2da5uxiDUPFBSbvLJPjHw&e=1790494626|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-09-26/ott-mtl/playlist.m3u8?tk=z5Om33zpQQnT2-dBIpC1AA&e=1790504965|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-ottawa-senators-vs-montreal-canadiens/2/playlist.m3u8?tk=z5Om33zpQQnT2-dBIpC1AA&e=1790504965|Referer=https://ondemand.st"
   },
   {
     "matchId": "nhl/2026-09-26/stl-chi",
@@ -196,8 +156,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/tuwyvr1422041801.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-09-26/stl-chi/playlist.m3u8?tk=bbYFydkv9osl3PjwIKKYgw&e=1790494627|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-st-louis-blues-vs-chicago-blackhawks/2/playlist.m3u8?tk=bbYFydkv9osl3PjwIKKYgw&e=1790494627|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-09-26/stl-chi/playlist.m3u8?tk=lvi_BKgws8cdkKqCpe9WGg&e=1790504966|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-st-louis-blues-vs-chicago-blackhawks/2/playlist.m3u8?tk=lvi_BKgws8cdkKqCpe9WGg&e=1790504966|Referer=https://ondemand.st"
   },
   {
     "matchId": "nhl/2026-09-26/nj-nyi",
@@ -216,8 +176,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/ts2nhq1763454676.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-09-26/nj-nyi/playlist.m3u8?tk=bbYFydkv9osl3PjwIKKYgw&e=1790494627|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-new-jersey-devils-vs-new-york-islanders/2/playlist.m3u8?tk=bbYFydkv9osl3PjwIKKYgw&e=1790494627|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-09-26/nj-nyi/playlist.m3u8?tk=lvi_BKgws8cdkKqCpe9WGg&e=1790504966|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-new-jersey-devils-vs-new-york-islanders/2/playlist.m3u8?tk=lvi_BKgws8cdkKqCpe9WGg&e=1790504966|Referer=https://ondemand.st"
   },
   {
     "matchId": "nhl/2026-09-26/sj-vgk",
@@ -236,8 +196,48 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/yui7871546193006.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-09-26/sj-vgk/playlist.m3u8?tk=8TLiJkCG7revGyBSf_lWAQ&e=1790494628|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-san-jose-sharks-vs-vegas-golden-knights/2/playlist.m3u8?tk=8TLiJkCG7revGyBSf_lWAQ&e=1790494628|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-09-26/sj-vgk/playlist.m3u8?tk=DILH1EZ6hrGVgIkFpUdczg&e=1790504967|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-san-jose-sharks-vs-vegas-golden-knights/2/playlist.m3u8?tk=DILH1EZ6hrGVgIkFpUdczg&e=1790504967|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "sd-delta~live_ncaa-women_minnesota-duluth-bulldogs-mercyhurst-lakers-live-streaming-653411232",
+    "title": "Minnesota Duluth Bulldogs vs Mercyhurst Lakers",
+    "league": "hockey",
+    "category": "hockey",
+    "date": 1790452800000,
+    "status": "live",
+    "teams": {
+      "home": {
+        "name": "",
+        "badge": ""
+      },
+      "away": {
+        "name": "",
+        "badge": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/delta/live_ncaa-women_minnesota-duluth-bulldogs-mercyhurst-lakers-live-streaming-653411232/playlist.m3u8?tk=DILH1EZ6hrGVgIkFpUdczg&e=1790504967|Referer=https://ondemand.st",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "sd-delta~live_ncaa-women_boston-terriers-liu-sharks-live-streaming-653410800",
+    "title": "Boston Terriers vs LIU Sharks",
+    "league": "hockey",
+    "category": "hockey",
+    "date": 1790452800000,
+    "status": "live",
+    "teams": {
+      "home": {
+        "name": "",
+        "badge": ""
+      },
+      "away": {
+        "name": "",
+        "badge": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/delta/live_ncaa-women_boston-terriers-liu-sharks-live-streaming-653410800/playlist.m3u8?tk=klkpfPtHPjwLx96TojX-1A&e=1790504968|Referer=https://ondemand.st",
+    "sdUrl": ""
   },
   {
     "matchId": "sd-delta~live_ncaa-women_syracuse-orange-stonehill-skyhawks-live-streaming-653410368",
@@ -256,7 +256,7 @@
         "badge": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/delta/live_ncaa-women_syracuse-orange-stonehill-skyhawks-live-streaming-653410368/playlist.m3u8?tk=8TLiJkCG7revGyBSf_lWAQ&e=1790494628|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/delta/live_ncaa-women_syracuse-orange-stonehill-skyhawks-live-streaming-653410368/playlist.m3u8?tk=mgYQucCWv41YyvCJ2b2WCg&e=1790504969|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -276,7 +276,7 @@
         "badge": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/delta/live_ncaa-women_st-cloud-state-connecticut-huskies-live-streaming-653409936/playlist.m3u8?tk=v29wDmrfw1qTFiWhDoFPaQ&e=1790494629|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/delta/live_ncaa-women_st-cloud-state-connecticut-huskies-live-streaming-653409936/playlist.m3u8?tk=mgYQucCWv41YyvCJ2b2WCg&e=1790504969|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -296,7 +296,7 @@
         "badge": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/delta/live_ncaa-women_saint-lawrence-saints-wisconsin-badgers-live-streaming-653409504/playlist.m3u8?tk=v29wDmrfw1qTFiWhDoFPaQ&e=1790494629|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/delta/live_ncaa-women_saint-lawrence-saints-wisconsin-badgers-live-streaming-653409504/playlist.m3u8?tk=LH0zhr1_6DcGvIFM6d_OXw&e=1790504970|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -316,7 +316,7 @@
         "badge": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/delta/live_ncaa-women_robert-morris-lady-colonials-post-eagles-live-streaming-653409072/playlist.m3u8?tk=Ci5Vpyk9eBnzRsrsoFBWAA&e=1790494630|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/delta/live_ncaa-women_robert-morris-lady-colonials-post-eagles-live-streaming-653409072/playlist.m3u8?tk=LH0zhr1_6DcGvIFM6d_OXw&e=1790504970|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -336,7 +336,7 @@
         "badge": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/delta/live_ncaa-women_providence-friars-sacred-heart-pioneers-live-streaming-653408640/playlist.m3u8?tk=Ci5Vpyk9eBnzRsrsoFBWAA&e=1790494630|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/delta/live_ncaa-women_providence-friars-sacred-heart-pioneers-live-streaming-653408640/playlist.m3u8?tk=KyyXA5Z6VtzO_dMZv2xiCg&e=1790504971|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -356,7 +356,7 @@
         "badge": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/delta/live_ncaa-women_minnesota-state-mavericks-rensselaer-engineers-live-streaming-653408208/playlist.m3u8?tk=rJFk_O_RTApjDFWfhORSPg&e=1790494631|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/delta/live_ncaa-women_minnesota-state-mavericks-rensselaer-engineers-live-streaming-653408208/playlist.m3u8?tk=KyyXA5Z6VtzO_dMZv2xiCg&e=1790504971|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -376,28 +376,48 @@
         "badge": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/delta/live_ncaa-women_maine-black-bears-quinnipiac-bobcats-live-streaming-653407776/playlist.m3u8?tk=rJFk_O_RTApjDFWfhORSPg&e=1790494631|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/delta/live_ncaa-women_maine-black-bears-quinnipiac-bobcats-live-streaming-653407776/playlist.m3u8?tk=oGAHFh_2ZDPgxbZ038tEUg&e=1790504972|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
-    "matchId": "sd-delta~live_ncaa-women_clarkson-golden-knights-rit-tigers-live-streaming-653407344",
-    "title": "Clarkson Golden Knights vs RIT Tigers",
+    "matchId": "sd-golf~1750",
+    "title": "Nashville Predators vs Carolina Hurricanes",
     "league": "hockey",
     "category": "hockey",
     "date": 1790449200000,
     "status": "live",
     "teams": {
       "home": {
-        "name": "",
-        "badge": ""
+        "name": "Nashville Predators",
+        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpLB8w3MCjAATTSG4gIuYzBAljKEKZAEKTPii5gy8IvNGOmtMM7GiIQA.webp"
       },
       "away": {
-        "name": "",
-        "badge": ""
+        "name": "Carolina Hurricanes",
+        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAmIGCAGh4YECG4gSICJtwhEOI3uWEYwJnxRcwZHfXminTWmBdjREEA.webp"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/delta/live_ncaa-women_clarkson-golden-knights-rit-tigers-live-streaming-653407344/playlist.m3u8?tk=BMv05Q8M66SJ4EPHd7hY3g&e=1790494632|Referer=https://ondemand.st",
-    "sdUrl": ""
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/1750/playlist.m3u8?tk=oGAHFh_2ZDPgxbZ038tEUg&e=1790504972|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/1750/2/playlist.m3u8?tk=oGAHFh_2ZDPgxbZ038tEUg&e=1790504972|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "sd-golf~1749",
+    "title": "Buffalo Sabres vs Pittsburgh Penguins",
+    "league": "hockey",
+    "category": "hockey",
+    "date": 1790449200000,
+    "status": "live",
+    "teams": {
+      "home": {
+        "name": "Buffalo Sabres",
+        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhC1QtJKFghuIACY6QKECVX7zp5YRjAmfFFzBl4ReaIdNaYJ2NEQgA.webp"
+      },
+      "away": {
+        "name": "Pittsburgh Penguins",
+        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyi0kIFsHwhuIEiAggAJjpApcBkHysEKTPii5gy8IvNGOmtMM7GiIQA.webp"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/1749/playlist.m3u8?tk=4zjX0siZ5oSHGpeMAEi9xA&e=1790504973|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/1749/2/playlist.m3u8?tk=4zjX0siZ5oSHGpeMAEi9xA&e=1790504973|Referer=https://ondemand.st"
   },
   {
     "matchId": "sd-delta~live_ncaa-women_franklin-pierce-ravens-union-dutchwomen-live-streaming-653406048",
@@ -416,67 +436,7 @@
         "badge": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/delta/live_ncaa-women_franklin-pierce-ravens-union-dutchwomen-live-streaming-653406048/playlist.m3u8?tk=oM_Gw81kOLMwtoVGE5rjcw&e=1790494633|Referer=https://ondemand.st",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "sd-delta~live_ncaa-women_saint-thomas-tommies-new-hampshire-wildcats-live-streaming-653406912",
-    "title": "Saint Thomas Tommies vs New Hampshire Wildcats",
-    "league": "hockey",
-    "category": "hockey",
-    "date": 1790445600000,
-    "status": "live",
-    "teams": {
-      "home": {
-        "name": "",
-        "badge": ""
-      },
-      "away": {
-        "name": "",
-        "badge": ""
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/delta/live_ncaa-women_saint-thomas-tommies-new-hampshire-wildcats-live-streaming-653406912/playlist.m3u8?tk=oM_Gw81kOLMwtoVGE5rjcw&e=1790494633|Referer=https://ondemand.st",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "sd-delta~live_ncaa-women_holy-cross-crusaders-delaware-blue-hens-live-streaming-653406480",
-    "title": "Holy Cross Crusaders vs Delaware Blue Hens",
-    "league": "hockey",
-    "category": "hockey",
-    "date": 1790445600000,
-    "status": "live",
-    "teams": {
-      "home": {
-        "name": "",
-        "badge": ""
-      },
-      "away": {
-        "name": "",
-        "badge": ""
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/delta/live_ncaa-women_holy-cross-crusaders-delaware-blue-hens-live-streaming-653406480/playlist.m3u8?tk=oM_Gw81kOLMwtoVGE5rjcw&e=1790494633|Referer=https://ondemand.st",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "sd-delta~live_ncaa-women_assumption-greyhounds-saint-michaels-purple-knights-live-streaming-653405616",
-    "title": "Assumption Greyhounds vs Saint Michaels Purple Knights",
-    "league": "hockey",
-    "category": "hockey",
-    "date": 1790443800000,
-    "status": "live",
-    "teams": {
-      "home": {
-        "name": "",
-        "badge": ""
-      },
-      "away": {
-        "name": "",
-        "badge": ""
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/delta/live_ncaa-women_assumption-greyhounds-saint-michaels-purple-knights-live-streaming-653405616/playlist.m3u8?tk=1wyKbL1Hbr7muy1lf7vyDQ&e=1790494634|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/delta/live_ncaa-women_franklin-pierce-ravens-union-dutchwomen-live-streaming-653406048/playlist.m3u8?tk=4zjX0siZ5oSHGpeMAEi9xA&e=1790504973|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -496,7 +456,7 @@
         "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAmIcCuAAGbSG56Qa-ShAkQiNUZAwCFJnxRcwZeEXmjHTWmGdjREIA.webp"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/delta/live_nhl-preseason_oilers-flames-live-streaming-653326560/playlist.m3u8?tk=1wyKbL1Hbr7muy1lf7vyDQ&e=1790494634|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/delta/live_nhl-preseason_oilers-flames-live-streaming-653326560/playlist.m3u8?tk=Ym03NFLC5TGx2VGuZ2mdZw&e=1790504974|Referer=https://ondemand.st",
     "sdUrl": ""
   }
 ]
