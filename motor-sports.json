@@ -5,7 +5,7 @@
     "league": "Motorsports",
     "category": "motor-sports",
     "date": 1790420400000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "Azerbaijan Grand Prix - Race",
@@ -16,7 +16,27 @@
         "badge": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/f1/2026/azerbaijan/race/playlist.m3u8?tk=Hr9GqSRHG6r_t6u1TI3Mng&e=1790450028|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/f1/2026/azerbaijan/race/playlist.m3u8?tk=RjfUNe8zeqIVgVAlMr-00A&e=1790469944|Referer=https://ondemand.st",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "smx-final",
+    "title": "Ridgedale (Final)",
+    "league": "Motorsports",
+    "category": "motor-sports",
+    "date": 1790442000000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Ridgedale (Final)",
+        "badge": ""
+      },
+      "away": {
+        "name": "",
+        "badge": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/smx-final/playlist.m3u8?tk=Gs1Pt6yqmDcOrk7wmhq3aA&e=1790469945|Referer=https://ondemand.st",
     "sdUrl": ""
   }
 ]
