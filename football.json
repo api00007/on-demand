@@ -1,5 +1,105 @@
 [
   {
+    "matchId": "uefa-nations-league/2026-09-27/ltu-aze",
+    "title": "Lithuania vs. Azerbaijan",
+    "league": "Football",
+    "category": "football",
+    "date": 1790514000000,
+    "status": "live",
+    "teams": {
+      "home": {
+        "name": "Lithuania",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/ukapsd1689197167.png"
+      },
+      "away": {
+        "name": "Azerbaijan",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/kr6lkz1552856315.png"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/uefa-nations-league/2026-09-27/ltu-aze/playlist.m3u8?tk=-m1FQosFoLr7r52cY2vq6g&e=1790559397|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-lithuania-vs-azerbaijan/2/playlist.m3u8?tk=-m1FQosFoLr7r52cY2vq6g&e=1790559397|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "uefa-nations-league/2026-09-27/aut-kos",
+    "title": "Austria vs. Kosovo",
+    "league": "Football",
+    "category": "football",
+    "date": 1790524800000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Austria",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/874p631628721400.png"
+      },
+      "away": {
+        "name": "Kosovo",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/i3wq751730304457.png"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/uefa-nations-league/2026-09-27/aut-kos/playlist.m3u8?tk=-m1FQosFoLr7r52cY2vq6g&e=1790559397|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-austria-vs-kosovo/2/playlist.m3u8?tk=-m1FQosFoLr7r52cY2vq6g&e=1790559397|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "uefa-nations-league/2026-09-27/den-wal",
+    "title": "Denmark vs. Wales",
+    "league": "Football",
+    "category": "football",
+    "date": 1790524800000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Denmark",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/e13arj1717365623.png"
+      },
+      "away": {
+        "name": "Wales",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/pdayn21591983222.png"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/uefa-nations-league/2026-09-27/den-wal/playlist.m3u8?tk=TfdGFPPsknzfRHevNrN15A&e=1790559398|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-denmark-vs-wales/2/playlist.m3u8?tk=TfdGFPPsknzfRHevNrN15A&e=1790559398|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "uefa-nations-league/2026-09-27/gib-and",
+    "title": "Gibraltar vs. Andorra",
+    "league": "Football",
+    "category": "football",
+    "date": 1790524800000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Gibraltar",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/l5eevk1655237355.png"
+      },
+      "away": {
+        "name": "Andorra",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/l5qspn1552847356.png"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/uefa-nations-league/2026-09-27/gib-and/playlist.m3u8?tk=TfdGFPPsknzfRHevNrN15A&e=1790559398|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-gibraltar-vs-andorra/2/playlist.m3u8?tk=TfdGFPPsknzfRHevNrN15A&e=1790559398|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "uefa-nations-league/2026-09-27/srb-ned",
+    "title": "Serbia vs. Netherlands",
+    "league": "Football",
+    "category": "football",
+    "date": 1790524800000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Serbia",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/oxvynb1689195538.png"
+      },
+      "away": {
+        "name": "Netherlands",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/1p0hr41593787110.png"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/uefa-nations-league/2026-09-27/srb-ned/playlist.m3u8?tk=o_pxu9EZG2XAl2FZCo4W6Q&e=1790559399|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-serbia-vs-netherlands/2/playlist.m3u8?tk=o_pxu9EZG2XAl2FZCo4W6Q&e=1790559399|Referer=https://ondemand.st"
+  },
+  {
     "matchId": "liga-mx/2026-09-27/unam-asl",
     "title": "Pumas UNAM vs. Atlético de San Luis",
     "league": "Football",
@@ -16,8 +116,68 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/9kgjme1593448412.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/liga-mx/2026-09-27/unam-asl/playlist.m3u8?tk=DDZkksFQzYsekx5fhfXnLg&e=1790538235|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-pumas-unam-vs-atl-tico-de-san-luis/2/playlist.m3u8?tk=DDZkksFQzYsekx5fhfXnLg&e=1790538235|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/liga-mx/2026-09-27/unam-asl/playlist.m3u8?tk=o_pxu9EZG2XAl2FZCo4W6Q&e=1790559399|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-pumas-unam-vs-atl-tico-de-san-luis/2/playlist.m3u8?tk=o_pxu9EZG2XAl2FZCo4W6Q&e=1790559399|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "uefa-nations-league/2026-09-27/ger-gre",
+    "title": "Germany vs. Greece",
+    "league": "Football",
+    "category": "football",
+    "date": 1790534700000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Germany",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/1xysi51726167152.png"
+      },
+      "away": {
+        "name": "Greece",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/xtxtts1455465601.png"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/uefa-nations-league/2026-09-27/ger-gre/playlist.m3u8?tk=oREMlyo_7BH1fpPgskVwww&e=1790559400|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-germany-vs-greece/2/playlist.m3u8?tk=oREMlyo_7BH1fpPgskVwww&e=1790559400|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "uefa-nations-league/2026-09-27/isr-irl",
+    "title": "Israel vs. Republic of Ireland",
+    "league": "Football",
+    "category": "football",
+    "date": 1790534700000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Israel",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/me4lfd1515700405.png"
+      },
+      "away": {
+        "name": "Republic of Ireland",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/3vq2cl1679073105.png"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/uefa-nations-league/2026-09-27/isr-irl/playlist.m3u8?tk=oREMlyo_7BH1fpPgskVwww&e=1790559400|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-israel-vs-republic-of-ireland/2/playlist.m3u8?tk=oREMlyo_7BH1fpPgskVwww&e=1790559400|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "uefa-nations-league/2026-09-27/nor-por",
+    "title": "Norway vs. Portugal",
+    "league": "Football",
+    "category": "football",
+    "date": 1790534700000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Norway",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/gyfn811591973155.png"
+      },
+      "away": {
+        "name": "Portugal",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/swqvpy1455466083.png"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/uefa-nations-league/2026-09-27/nor-por/playlist.m3u8?tk=oREMlyo_7BH1fpPgskVwww&e=1790559400|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-norway-vs-portugal/2/playlist.m3u8?tk=oREMlyo_7BH1fpPgskVwww&e=1790559400|Referer=https://ondemand.st"
   },
   {
     "matchId": "mls/2026-09-27/clb-mia",
@@ -36,8 +196,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/m4it3e1602103647.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mls/2026-09-27/clb-mia/playlist.m3u8?tk=cZIK1hdHgCIbC78m48QZ7w&e=1790538236|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-columbus-crew-vs-inter-miami-cf/2/playlist.m3u8?tk=cZIK1hdHgCIbC78m48QZ7w&e=1790538236|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mls/2026-09-27/clb-mia/playlist.m3u8?tk=U5dxI5xq74XonmGy0wDZwA&e=1790559401|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-columbus-crew-vs-inter-miami-cf/2/playlist.m3u8?tk=U5dxI5xq74XonmGy0wDZwA&e=1790559401|Referer=https://ondemand.st"
   },
   {
     "matchId": "liga-mx/2026-09-27/leo-jua",
@@ -56,8 +216,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/b4oy071567446336.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/liga-mx/2026-09-27/leo-jua/playlist.m3u8?tk=cZIK1hdHgCIbC78m48QZ7w&e=1790538236|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-le-n-vs-fc-juarez/2/playlist.m3u8?tk=cZIK1hdHgCIbC78m48QZ7w&e=1790538236|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/liga-mx/2026-09-27/leo-jua/playlist.m3u8?tk=U5dxI5xq74XonmGy0wDZwA&e=1790559401|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-le-n-vs-fc-juarez/2/playlist.m3u8?tk=U5dxI5xq74XonmGy0wDZwA&e=1790559401|Referer=https://ondemand.st"
   },
   {
     "matchId": "liga-mx/2026-09-27/ncx-ame",
@@ -76,348 +236,8 @@
         "badge": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/liga-mx/2026-09-27/ncx-ame/playlist.m3u8?tk=cZIK1hdHgCIbC78m48QZ7w&e=1790538236|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-necaxa-vs-am-rica/2/playlist.m3u8?tk=cZIK1hdHgCIbC78m48QZ7w&e=1790538236|Referer=https://ondemand.st"
-  },
-  {
-    "matchId": "sd-delta~live_mls_san-jose-portland-live-streaming-539410320",
-    "title": "San Jose Earthquakes vs Portland Timbers",
-    "league": "football",
-    "category": "football",
-    "date": 1790476200000,
-    "status": "live",
-    "teams": {
-      "home": {
-        "name": "San Jose Earthquakes",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnApq3MBoghuIbThgg+IE7sPaQBCkz4ouYMvCLzRdprTAOxoiEA.webp"
-      },
-      "away": {
-        "name": "Portland Timbers",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkploAGNiEQxgSENxAkDIPiBRHEhwygIUmfFFzBl4ReaIdNaYJ2NEQgA.webp"
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/delta/live_mls_san-jose-portland-live-streaming-539410320/playlist.m3u8?tk=ptIFVg7hAiwUTc7xMIGDQw&e=1790538237|Referer=https://ondemand.st",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "sd-delta~live_mls_vancouver-dc-united-live-streaming-539410752",
-    "title": "Vancouver Whitecaps vs DC United",
-    "league": "football",
-    "category": "football",
-    "date": 1790476200000,
-    "status": "live",
-    "teams": {
-      "home": {
-        "name": "Vancouver Whitecaps",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpNhg+YcHBQhuICCD4hEJIyAAmIEzgmEYwJnxRcwZeEXminTWmBdjREEA.webp"
-      },
-      "away": {
-        "name": "DC United",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpjJ8wAE3IpIIbiAgh1IPvsO4zMECgIUmfFFzBl4ReaIdNaYJ2NEQgA.webp"
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/delta/live_mls_vancouver-dc-united-live-streaming-539410752/playlist.m3u8?tk=ptIFVg7hAiwUTc7xMIGDQw&e=1790538237|Referer=https://ondemand.st",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "sd-delta~live_mls_la-galaxy-colorado-live-streaming-539409888",
-    "title": "LA Galaxy vs Colorado Rapids",
-    "league": "football",
-    "category": "football",
-    "date": 1790476200000,
-    "status": "live",
-    "teams": {
-      "home": {
-        "name": "LA Galaxy",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphTlVq+NhDcQEXCBj6cfbSDMgCFJnxRcwZTfXmjbTWmHtjREIA.webp"
-      },
-      "away": {
-        "name": "Colorado Rapids",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpjJw4qsABMQ3EBBB8QiEkZDb9uxhSZ8UXMGXhF5ou01pgHY0RCA.webp"
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/delta/live_mls_la-galaxy-colorado-live-streaming-539409888/playlist.m3u8?tk=LF9ise5DVjenwCvWP_Ba4w&e=1790538238|Referer=https://ondemand.st",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "sd-foxtrot~new-england-revolution-v-real-salt-lake-761840",
-    "title": "Real Salt Lake vs New England Revolution",
-    "league": "football",
-    "category": "football",
-    "date": 1790472600000,
-    "status": "live",
-    "teams": {
-      "home": {
-        "name": "Real Salt Lake",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAMwNUmBhgAEx4huIEkZA6QEEJcsxcuAhSZ8UXMGXhF5o501phXY0QggA.webp"
-      },
-      "away": {
-        "name": "New England Revolution",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDcwosD1zAwqkABMQiFCAggTibqaMEKTPii7ry9eaMdNaYdWNEQgA.webp"
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/foxtrot/new-england-revolution-v-real-salt-lake-761840/playlist.m3u8?tk=LF9ise5DVjenwCvWP_Ba4w&e=1790538238|Referer=https://ondemand.st",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "sd-foxtrot~sporting-kansas-city-v-houston-dynamo-fc-761836",
-    "title": "Houston Dynamo vs Sporting Kansas City",
-    "league": "football",
-    "category": "football",
-    "date": 1790469000000,
-    "status": "live",
-    "teams": {
-      "home": {
-        "name": "Houston Dynamo",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphRgAJmCQgUdMNxD6+IGCCNqQifYhK4CFJnx1swZeEXmidTWmBdjREEA.webp"
-      },
-      "away": {
-        "name": "Sporting Kansas City",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpLDcwZOOD4huICCG2ISIRABMQxmHoIUmfFF3Xl680Q6a0w6saIhA.webp"
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/foxtrot/sporting-kansas-city-v-houston-dynamo-fc-761836/playlist.m3u8?tk=LF9ise5DVjenwCvWP_Ba4w&e=1790538238|Referer=https://ondemand.st",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "sd-foxtrot~san-diego-fc-v-austin-fc-761839",
-    "title": "Austin FC vs San Diego FC",
-    "league": "football",
-    "category": "football",
-    "date": 1790469000000,
-    "status": "live",
-    "teams": {
-      "home": {
-        "name": "Austin FC",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh24ha9MPxAATEKpIgUIAxDUhTOPiD4EKTG1zBl4ReaJTAmtME7GiIQA.webp"
-      },
-      "away": {
-        "name": "San Diego FC",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhACADD1xgQdEN1UhEEEABNcekDFMgQBCkz4ouYMvCLzRTprTAuxoiCA.webp"
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/foxtrot/san-diego-fc-v-austin-fc-761839/playlist.m3u8?tk=TS-mG8likwC9v_dLwCI4Yw&e=1790538239|Referer=https://ondemand.st",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "sd-foxtrot~toronto-fc-v-nashville-sc-761838",
-    "title": "Nashville SC vs Toronto FC",
-    "league": "football",
-    "category": "football",
-    "date": 1790469000000,
-    "status": "live",
-    "teams": {
-      "home": {
-        "name": "Nashville SC",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpiTBCWMH0gg+IbiAAmIGLj3GQiE0cYUmfFFzBl4ReaIdNaYJ2NEQgA.webp"
-      },
-      "away": {
-        "name": "Toronto FC",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpizlwKajm4gIIPiEQkDIACYgj2xhSZ8UXMGXhF5ou01pgHY0RCA.webp"
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/foxtrot/toronto-fc-v-nashville-sc-761838/playlist.m3u8?tk=TS-mG8likwC9v_dLwCI4Yw&e=1790538239|Referer=https://ondemand.st",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "sd-foxtrot~minnesota-united-fc-v-seattle-sounders-fc-761837",
-    "title": "Seattle Sounders vs Minnesota United",
-    "league": "football",
-    "category": "football",
-    "date": 1790469000000,
-    "status": "live",
-    "teams": {
-      "home": {
-        "name": "Seattle Sounders",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkulx0wKEKPhgQIbiD4gYIACYG9F44hMEKTPii5gy2+vNGOmtMM7GiIQA.webp"
-      },
-      "away": {
-        "name": "Minnesota United",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAmwMCBUg+kEBBDc9IFLiMkQifYngEKTPii5gy8IvNGOmtMM7GiIQA.webp"
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/foxtrot/minnesota-united-fc-v-seattle-sounders-fc-761837/playlist.m3u8?tk=kfBWmTo8V4xO6jipfbi8dQ&e=1790538240|Referer=https://ondemand.st",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "sd-foxtrot~lafc-v-fc-dallas-761835",
-    "title": "FC Dallas vs Los Angeles FC",
-    "league": "football",
-    "category": "football",
-    "date": 1790469000000,
-    "status": "live",
-    "teams": {
-      "home": {
-        "name": "FC Dallas",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAmYcChDgNIbiBUgYuXYZCI9WvgQpMrXMGXhF5olMCa0wDsaIhA.webp"
-      },
-      "away": {
-        "name": "Los Angeles FC",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhACm8pLh4huIACYgYuHYZCIDiEAQpM+KLmDLwi80faa0wjsaIhA.webp"
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/foxtrot/lafc-v-fc-dallas-761835/playlist.m3u8?tk=kfBWmTo8V4xO6jipfbi8dQ&e=1790538240|Referer=https://ondemand.st",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "sd-hotel~lithuania-vs-azerbaijan-uefa-nations-league-1790514000",
-    "title": "Lithuania vs Azerbaijan",
-    "league": "football",
-    "category": "football",
-    "date": 1790514000000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Lithuania",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkplEAGHrAR0Q3EABMQhlDpDG+Jg3wIUmVrmDLwi80SmBNaYB2NEQgA.webp"
-      },
-      "away": {
-        "name": "Azerbaijan",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAM2EABNgYYGqQhuIEkdwgzxjSESHlhGMCZ8UXMGXhF5o501phXY0QggA.webp"
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/hotel/lithuania-vs-azerbaijan-uefa-nations-league-1790514000/playlist.m3u8?tk=AxXmU8noCo_iroVMgo-HtQ&e=1790538241|Referer=https://ondemand.st",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "sd-hotel~gibraltar-vs-andorra-uefa-nations-league-1790524800",
-    "title": "Gibraltar vs Andorra",
-    "league": "football",
-    "category": "football",
-    "date": 1790524800000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Gibraltar",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzAhR6sABNgABhDcQmtcZyI+IRCTUEKTPii5gy8IvNEOmtME7GiIQA.webp"
-      },
-      "away": {
-        "name": "Andorra",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzAgy3cjGD4Q3NfpwgQEEHxCISIACYEKTPii5gy8IvNGOmtMM7GiIQA.webp"
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/hotel/gibraltar-vs-andorra-uefa-nations-league-1790524800/playlist.m3u8?tk=AxXmU8noCo_iroVMgo-HtQ&e=1790538241|Referer=https://ondemand.st",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "sd-hotel~austria-vs-kosovo-uefa-nations-league-1790524800",
-    "title": "Austria vs Kosovo",
-    "league": "football",
-    "category": "football",
-    "date": 1790524800000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Austria",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhCq+IKDBAATEIm47cqkOpwGIILTAIUmfFFzBl4ReaIdNaYJ2NEQgA.webp"
-      },
-      "away": {
-        "name": "Kosovo",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxQh4YPmG4g+IEiG27EMNSBMQQF-XwIUmNrmDLr680SmBNaYJ2NEQgA.webp"
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/hotel/austria-vs-kosovo-uefa-nations-league-1790524800/playlist.m3u8?tk=AxXmU8noCo_iroVMgo-HtQ&e=1790538241|Referer=https://ondemand.st",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "sd-hotel~denmark-vs-wales-uefa-nations-league-1790524800",
-    "title": "Denmark vs Wales",
-    "league": "football",
-    "category": "football",
-    "date": 1790524800000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Denmark",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxIhuIWt2zAkakHz0HEAExCrTOeAQpM+KLmDLwi80faa0wjsaIhA.webp"
-      },
-      "away": {
-        "name": "Wales",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphhjuYFMHy4Q3ECRApdhkKcQ4LBCkz6a2YMvCLzRmprTAOxoiEA.webp"
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/hotel/denmark-vs-wales-uefa-nations-league-1790524800/playlist.m3u8?tk=Yis-WJ7elm8PWqqHH_ZPwA&e=1790538242|Referer=https://ondemand.st",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "sd-hotel~serbia-vs-netherlands-uefa-nations-league-1790524800",
-    "title": "Serbia vs Netherlands",
-    "league": "football",
-    "category": "football",
-    "date": 1790524800000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Serbia",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyrgAJmBTAmObiDUhDKEHuMkQ5xCAIUmfLWzBl4ReaK1NaYJ2NEQgA.webp"
-      },
-      "away": {
-        "name": "Netherlands",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDdYIGKGwgIqkCRAoQiPiDOnuemAQpM+KLmDLwi80Q6a0wTsaIhA.webp"
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/hotel/serbia-vs-netherlands-uefa-nations-league-1790524800/playlist.m3u8?tk=Yis-WJ7elm8PWqqHH_ZPwA&e=1790538242|Referer=https://ondemand.st",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "sd-hotel~israel-vs-republic-of-ireland-uefa-nations-league-1790534700",
-    "title": "Israel vs Ireland",
-    "league": "football",
-    "category": "football",
-    "date": 1790534700000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Israel",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAksNIh6YYABM6IbiBK79IPiBim155YRjAmfFFzBl4ReaIdNaYJ2NEQgA.webp"
-      },
-      "away": {
-        "name": "Ireland",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDwwAEzDdczYGBDb1IPiBQgYx1QfMhlhGMCZ8UXMGTX15ol01pg3YqIQQA.webp"
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/hotel/israel-vs-republic-of-ireland-uefa-nations-league-1790534700/playlist.m3u8?tk=E4uSRAVvlB1GzJ1gDTk0kQ&e=1790538243|Referer=https://ondemand.st",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "sd-hotel~norway-vs-portugal-uefa-nations-league-1790534700",
-    "title": "Norway vs Portugal",
-    "league": "football",
-    "category": "football",
-    "date": 1790534700000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Norway",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhz5gUwACbB8IXdxD6SIFAeMg+IRIZDLCMbf3VswZeEXmj1TWmBdjREEA.webp"
-      },
-      "away": {
-        "name": "Portugal",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnhg+YbmAAmsMChDcQEECRNGQWiyBghb8AhSZ8UXMGVX15ol01pg3YqIQQA.webp"
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/hotel/norway-vs-portugal-uefa-nations-league-1790534700/playlist.m3u8?tk=E4uSRAVvlB1GzJ1gDTk0kQ&e=1790538243|Referer=https://ondemand.st",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "sd-hotel~germany-vs-greece-uefa-nations-league-1790534700",
-    "title": "Germany vs Greece",
-    "league": "football",
-    "category": "football",
-    "date": 1790534700000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Germany",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDcw4FAnYgSqkH1wgAJnpMHuO3AQpM+KLmDLwi80faa0wjsaIhA.webp"
-      },
-      "away": {
-        "name": "Greece",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnBRVNENxAQQJXdpAATfcZiaCFJnxRcwZeEXmibTWmDtjREIA.webp"
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/hotel/germany-vs-greece-uefa-nations-league-1790534700/playlist.m3u8?tk=E4uSRAVvlB1GzJ1gDTk0kQ&e=1790538243|Referer=https://ondemand.st",
-    "sdUrl": ""
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/liga-mx/2026-09-27/ncx-ame/playlist.m3u8?tk=kK-UEIC0VBMEXDbk-cj2sw&e=1790559402|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-necaxa-vs-am-rica/2/playlist.m3u8?tk=kK-UEIC0VBMEXDbk-cj2sw&e=1790559402|Referer=https://ondemand.st"
   },
   {
     "matchId": "sd-admin~ppv-le-n-vs-fc-juarez",
@@ -436,7 +256,7 @@
         "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxz0qKEDBB8Q3ECRAATbSAimjIRIkMEKTPii5gy8IvNGOmtMM7GiIQA.webp"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-le-n-vs-fc-juarez/playlist.m3u8?tk=UBEpqUY3UFyrHB-eAZOT-Q&e=1790538244|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-le-n-vs-fc-juarez/2/playlist.m3u8?tk=UBEpqUY3UFyrHB-eAZOT-Q&e=1790538244|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-le-n-vs-fc-juarez/playlist.m3u8?tk=kK-UEIC0VBMEXDbk-cj2sw&e=1790559402|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-le-n-vs-fc-juarez/2/playlist.m3u8?tk=kK-UEIC0VBMEXDbk-cj2sw&e=1790559402|Referer=https://ondemand.st"
   }
 ]
