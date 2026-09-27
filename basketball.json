@@ -5,7 +5,7 @@
     "league": "Basketball",
     "category": "basketball",
     "date": 1790488800000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "Adelaide 36ers",
@@ -16,8 +16,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/v2c1wc1550073460.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nbl/2026-09-27/adl-cns/playlist.m3u8?tk=xiw2WC9e9FkyyccceTOJyA&e=1790514523|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-adelaide-36-ers-vs-cairns-taipans/2/playlist.m3u8?tk=xiw2WC9e9FkyyccceTOJyA&e=1790514523|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nbl/2026-09-27/adl-cns/playlist.m3u8?tk=2BOZ_Q_wqnVi7vpmqEm_xw&e=1790538246|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-adelaide-36-ers-vs-cairns-taipans/2/playlist.m3u8?tk=2BOZ_Q_wqnVi7vpmqEm_xw&e=1790538246|Referer=https://ondemand.st"
   },
   {
     "matchId": "nbl/2026-09-27/syd-hwk",
@@ -36,7 +36,87 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/juj7y91725980615.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nbl/2026-09-27/syd-hwk/playlist.m3u8?tk=xiw2WC9e9FkyyccceTOJyA&e=1790514523|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-sydney-kings-vs-illawarra-hawks/2/playlist.m3u8?tk=xiw2WC9e9FkyyccceTOJyA&e=1790514523|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nbl/2026-09-27/syd-hwk/playlist.m3u8?tk=2BOZ_Q_wqnVi7vpmqEm_xw&e=1790538246|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-sydney-kings-vs-illawarra-hawks/2/playlist.m3u8?tk=2BOZ_Q_wqnVi7vpmqEm_xw&e=1790538246|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "wnba/2026-09-27/ny-min",
+    "title": "New York Liberty vs. Minnesota Lynx",
+    "league": "WNBA",
+    "category": "basketball",
+    "date": 1790532000000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "New York Liberty",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/s3y5hx1702757871.png"
+      },
+      "away": {
+        "name": "Minnesota Lynx",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/rzyqoj1552586193.png"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/wnba/2026-09-27/ny-min/playlist.m3u8?tk=eTV7V0qYRIyu71BDqishWQ&e=1790538247|Referer=https://ondemand.st",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "wnba/2026-09-27/ind-lv",
+    "title": "Indiana Fever vs. Las Vegas Aces",
+    "league": "WNBA",
+    "category": "basketball",
+    "date": 1790539200000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Indiana Fever",
+        "badge": ""
+      },
+      "away": {
+        "name": "Las Vegas Aces",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/jnvk6x1741462255.png"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/wnba/2026-09-27/ind-lv/playlist.m3u8?tk=eTV7V0qYRIyu71BDqishWQ&e=1790538247|Referer=https://ondemand.st",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "wnba/2026-09-27/wsh-atl",
+    "title": "Washington Mystics vs. Atlanta Dream",
+    "league": "WNBA",
+    "category": "basketball",
+    "date": 1790550000000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Washington Mystics",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/2n9gep1552586413.png"
+      },
+      "away": {
+        "name": "Atlanta Dream",
+        "badge": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/wnba/2026-09-27/wsh-atl/playlist.m3u8?tk=gHf9uo-tGIz4IFPDOEJodQ&e=1790538248|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-washington-mystics-vs-atlanta-dream/2/playlist.m3u8?tk=gHf9uo-tGIz4IFPDOEJodQ&e=1790538248|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "wnba/2026-09-27/dal-gs",
+    "title": "Dallas Wings vs. Golden State Valkyries",
+    "league": "WNBA",
+    "category": "basketball",
+    "date": 1790557200000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Dallas Wings",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/vg11pw1552585970.png"
+      },
+      "away": {
+        "name": "Golden State Valkyries",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/24p2fj1738315525.png"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/wnba/2026-09-27/dal-gs/playlist.m3u8?tk=gHf9uo-tGIz4IFPDOEJodQ&e=1790538248|Referer=https://ondemand.st",
+    "sdUrl": ""
   }
 ]
