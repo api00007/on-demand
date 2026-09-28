@@ -1,83 +1,63 @@
 [
   {
-    "matchId": "mls/2026-09-27/clb-mia",
-    "title": "Columbus Crew vs. Inter Miami CF",
+    "matchId": "mls/2026-09-30/rbny-stl",
+    "title": "Red Bull New York vs. St. Louis CITY SC",
     "league": "MLS",
+    "category": "football",
+    "date": 1790811000000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Red Bull New York",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/suytvy1473536462.png"
+      },
+      "away": {
+        "name": "St. Louis CITY SC",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/22wanp1674118724.png"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mls/2026-09-30/rbny-stl/playlist.m3u8?tk=p5I_Ufr90xabhP8tUFKNCw&e=1790619863|Referer=https://ondemand.st",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "mls/2026-10-01/sea-skc",
+    "title": "Seattle Sounders FC vs. Sporting Kansas City",
+    "league": "MLS",
+    "category": "football",
+    "date": 1790904600000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Seattle Sounders FC",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/7em1q51580480820.png"
+      },
+      "away": {
+        "name": "Sporting Kansas City",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/tqupxw1473536504.png"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mls/2026-10-01/sea-skc/playlist.m3u8?tk=RetxAeEq6ba_7alfSZBgow&e=1790619864|Referer=https://ondemand.st",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "sd-delta~live_mls_columbus-inter-miami-live-streaming-539451792",
+    "title": "Columbus Crew vs Inter Miami",
+    "league": "football",
     "category": "football",
     "date": 1790550000000,
     "status": "live",
     "teams": {
       "home": {
         "name": "Columbus Crew",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/dzs8cp1629059854.png"
+        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyhIEIEM1ghuIACa4QKEDBAkjGsyAgEKTPii5gy8IvNGOmtMM7GiIQA.webp"
       },
       "away": {
-        "name": "Inter Miami CF",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/m4it3e1602103647.png"
+        "name": "Inter Miami",
+        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAksJD0UkELRIhuIACYgYuHYc37VIPgQpMrXMGXhF5olMCa0wDsaIhA.webp"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mls/2026-09-27/clb-mia/playlist.m3u8?tk=vAriCqeF5JRaJL1TFiS6zw&e=1790598108|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-columbus-crew-vs-inter-miami-cf/2/playlist.m3u8?tk=vAriCqeF5JRaJL1TFiS6zw&e=1790598108|Referer=https://ondemand.st"
-  },
-  {
-    "matchId": "liga-mx/2026-09-27/leo-jua",
-    "title": "León vs. FC Juarez",
-    "league": "Football",
-    "category": "football",
-    "date": 1790557200000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "León",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/pc9gro1752393439.png"
-      },
-      "away": {
-        "name": "FC Juarez",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/b4oy071567446336.png"
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/liga-mx/2026-09-27/leo-jua/playlist.m3u8?tk=xC_NqpjfS4bWhS1RGXjsZw&e=1790598109|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-le-n-vs-fc-juarez/2/playlist.m3u8?tk=xC_NqpjfS4bWhS1RGXjsZw&e=1790598109|Referer=https://ondemand.st"
-  },
-  {
-    "matchId": "liga-mx/2026-09-27/ncx-ame",
-    "title": "Necaxa vs. América",
-    "league": "Football",
-    "category": "football",
-    "date": 1790564400000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Necaxa",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/tqdk9e1779772432.png"
-      },
-      "away": {
-        "name": "América",
-        "badge": ""
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/liga-mx/2026-09-27/ncx-ame/playlist.m3u8?tk=xC_NqpjfS4bWhS1RGXjsZw&e=1790598109|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-necaxa-vs-am-rica/2/playlist.m3u8?tk=xC_NqpjfS4bWhS1RGXjsZw&e=1790598109|Referer=https://ondemand.st"
-  },
-  {
-    "matchId": "sd-admin~ppv-le-n-vs-fc-juarez",
-    "title": "León vs Juárez",
-    "league": "football",
-    "category": "football",
-    "date": 1790557200000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "León",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphjMQKftkohuIPiBK4QiFMZAQzKAhSZ8NbMGXhF5ojU1phHY0RCA.webp"
-      },
-      "away": {
-        "name": "Juárez",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxz0qKEDBB8Q3ECRAATbSAimjIRIkMEKTPii5gy8IvNGOmtMM7GiIQA.webp"
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-le-n-vs-fc-juarez/playlist.m3u8?tk=xC_NqpjfS4bWhS1RGXjsZw&e=1790598109|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-le-n-vs-fc-juarez/2/playlist.m3u8?tk=xC_NqpjfS4bWhS1RGXjsZw&e=1790598109|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/delta/live_mls_columbus-inter-miami-live-streaming-539451792/playlist.m3u8?tk=RetxAeEq6ba_7alfSZBgow&e=1790619864|Referer=https://ondemand.st",
+    "sdUrl": ""
   },
   {
     "matchId": "sd-hotel~latvia-vs-cyprus-uefa-nations-league-1790611200",
@@ -96,7 +76,7 @@
         "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhz4h4CYGDAgQAExDcQJHSBQhVZnaphGCFJnxRcwZdfXminTWltFS6QA.webp"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/hotel/latvia-vs-cyprus-uefa-nations-league-1790611200/playlist.m3u8?tk=u6gElX6Wwfegn8qMhW3BJA&e=1790598110|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/hotel/latvia-vs-cyprus-uefa-nations-league-1790611200/playlist.m3u8?tk=xfdnL2XVFXPftV372c0ykg&e=1790619865|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -116,7 +96,7 @@
         "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhygowfchpAhuIEntzaDKQwBMQ8AhSZ8UXMGXhF5ou01pgHY0RCA.webp"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/hotel/armenia-vs-montenegro-uefa-nations-league-1790611200/playlist.m3u8?tk=u6gElX6Wwfegn8qMhW3BJA&e=1790598110|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/hotel/armenia-vs-montenegro-uefa-nations-league-1790611200/playlist.m3u8?tk=xfdnL2XVFXPftV372c0ykg&e=1790619865|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -136,7 +116,7 @@
         "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAMIRABN+uUiG4gSIFHqMgzOPiaOEYwJnxRcwZeEXmjHTWmGdjREIA.webp"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/hotel/georgia-vs-ukraine-uefa-nations-league-1790611200/playlist.m3u8?tk=sjIG7ZnI-eE3tarrEKnHVQ&e=1790598111|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/hotel/georgia-vs-ukraine-uefa-nations-league-1790611200/playlist.m3u8?tk=xfdnL2XVFXPftV372c0ykg&e=1790619865|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -156,7 +136,7 @@
         "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgAxiH4gQ9cg0XNxPeCKrcCXVmDC58FoA.webp"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/hotel/t-rkiye-vs-italy-uefa-nations-league-1790621100/playlist.m3u8?tk=sjIG7ZnI-eE3tarrEKnHVQ&e=1790598111|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/hotel/t-rkiye-vs-italy-uefa-nations-league-1790621100/playlist.m3u8?tk=QhTjhkeseqUdx9J6SVlu4Q&e=1790619866|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -176,7 +156,7 @@
         "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj7RuYdfEghuICCBIG9IACYhEunDAIUmfFFzBkt9eaIdNaYJ2NEQgA.webp"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/hotel/romania-vs-bosnia-herzegovina-uefa-nations-league-1790621100/playlist.m3u8?tk=6EaDNR6uNYFQClkX8F2nGg&e=1790598112|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/hotel/romania-vs-bosnia-herzegovina-uefa-nations-league-1790621100/playlist.m3u8?tk=QhTjhkeseqUdx9J6SVlu4Q&e=1790619866|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -196,7 +176,7 @@
         "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpOgATauBQhuICCBL7dIVcZAwQfYwQpM+KLmDLwi80faa0wjsaIhA.webp"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/hotel/sweden-vs-poland-uefa-nations-league-1790621100/playlist.m3u8?tk=6EaDNR6uNYFQClkX8F2nGg&e=1790598112|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/hotel/sweden-vs-poland-uefa-nations-league-1790621100/playlist.m3u8?tk=bsK40aYrP1jQjjgLzncwGA&e=1790619867|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -216,7 +196,7 @@
         "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxTFerFJBDcQfbbpCIAJiBIGdKAhSZ9VbMGXhF5o1U1pgHY0RCA.webp"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/hotel/northern-ireland-vs-hungary-uefa-nations-league-1790621100/playlist.m3u8?tk=6EaDNR6uNYFQClkX8F2nGg&e=1790598112|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/hotel/northern-ireland-vs-hungary-uefa-nations-league-1790621100/playlist.m3u8?tk=bsK40aYrP1jQjjgLzncwGA&e=1790619867|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -236,7 +216,7 @@
         "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh1FIwIEGSQ8Q3EHw2G9KQyYi6CFJnxRcwZeEXmjbTWmHtjREIA.webp"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/hotel/belgium-vs-france-uefa-nations-league-1790621100/playlist.m3u8?tk=pSPy9oaJIzcgWWrXkSL_1g&e=1790598113|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/hotel/belgium-vs-france-uefa-nations-league-1790621100/playlist.m3u8?tk=bsK40aYrP1jQjjgLzncwGA&e=1790619867|Referer=https://ondemand.st",
     "sdUrl": ""
   }
 ]

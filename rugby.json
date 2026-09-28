@@ -4,7 +4,7 @@
     "title": "Fox League",
     "league": "Rugby",
     "category": "rugby",
-    "date": 1790554926290,
+    "date": 1790576689230,
     "status": "live",
     "teams": {
       "home": {
@@ -16,7 +16,27 @@
         "badge": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/247-fox-league/playlist.m3u8?tk=KvL89MGRGiRDhrAxc6kHjA&e=1790598126|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-fox-league/2/playlist.m3u8?tk=KvL89MGRGiRDhrAxc6kHjA&e=1790598126|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/247-fox-league/playlist.m3u8?tk=qrA26GWE6zZ97uGogc2GwA&e=1790619889|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-fox-league/2/playlist.m3u8?tk=qrA26GWE6zZ97uGogc2GwA&e=1790619889|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "nrl/2026-10-04/syd-new",
+    "title": "Roosters vs. Knights",
+    "league": "NRL",
+    "category": "rugby",
+    "date": 1791102600000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Roosters",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/by299w1646347883.png"
+      },
+      "away": {
+        "name": "Knights",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/tvhwlu1705155653.png"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nrl/2026-10-04/syd-new/playlist.m3u8?tk=qrA26GWE6zZ97uGogc2GwA&e=1790619889|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-roosters-vs-knights/2/playlist.m3u8?tk=qrA26GWE6zZ97uGogc2GwA&e=1790619889|Referer=https://ondemand.st"
   }
 ]
