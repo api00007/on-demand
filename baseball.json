@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "matchId": "sd-delta~live_mlb-playoffs_yankees-red-sox-live-streaming-662160528",
+    "title": "New York Yankees vs Boston Red Sox",
+    "league": "baseball",
+    "category": "baseball",
+    "date": 1790672400000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "New York Yankees",
+        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiE3fkWBhR6SEJGj46EFRDZ65BgGNmonvElUhhBqzBhc+E0A.webp"
+      },
+      "away": {
+        "name": "Boston Red Sox",
+        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiE3fkWBhR6SEJGj46ENnrkGAY2aie8SVSGEGrMGFz4jQA.webp"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/delta/live_mlb-playoffs_yankees-red-sox-live-streaming-662160528/playlist.m3u8?tk=7oOtuRbm09ExfpOvGxElAw&e=1790651013|Referer=https://ondemand.st",
+    "sdUrl": ""
+  }
+]
