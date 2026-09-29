@@ -1,62 +1,102 @@
 [
   {
-    "matchId": "sd-delta~live_mlb-playoffs_braves-phillies-live-streaming-662160096",
-    "title": "Atlanta Braves vs Philadelphia Phillies",
-    "league": "baseball",
+    "matchId": "mlb/2026-09-29/phi-atl",
+    "title": "Philadelphia Phillies vs. Atlanta Braves",
+    "league": "MLB",
     "category": "baseball",
     "date": 1790704800000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Atlanta Braves",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphTAkCEHxAATUiG479mkCYMGIIFDoIUmfVWzBl4ReaNVNaYJ2NEQgA.webp"
+        "name": "Philadelphia Phillies",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/yjs76e1617811496.png"
       },
       "away": {
-        "name": "Philadelphia Phillies",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDww4eWDEATENxC79fECVwhzu84wpM+KLmDJr680faa0wjsaIhA.webp"
+        "name": "Atlanta Braves",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/3xrldf1617528682.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/delta/live_mlb-playoffs_braves-phillies-live-streaming-662160096/playlist.m3u8?tk=b8ozOZbibVWgZU0-T1SNxg&e=1790688812|Referer=https://ondemand.st",
-    "sdUrl": ""
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mlb/2026-09-29/phi-atl/playlist.m3u8?tk=HGaLjYa_GPeUhuaRLWFHcQ&e=1790712055|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-philadelphia-phillies-vs-atlanta-braves/2/playlist.m3u8?tk=HGaLjYa_GPeUhuaRLWFHcQ&e=1790712055|Referer=https://ondemand.st"
   },
   {
-    "matchId": "sd-delta~live_mlb-playoffs_astros-white-sox-live-streaming-663787872",
-    "title": "Houston Astros vs Chicago White Sox",
-    "league": "baseball",
+    "matchId": "mlb/2026-09-29/chw-hou",
+    "title": "Chicago White Sox vs. Houston Astros",
+    "league": "MLB",
     "category": "baseball",
     "date": 1790715600000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Houston Astros",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAksPZgBKfmBAhuIErh3aQKEIn3b4BCkz4a2YMvCLzRGprTAOxoiEA.webp"
+        "name": "Chicago White Sox",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/miwigx1521893583.png"
       },
       "away": {
-        "name": "Chicago White Sox",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphRhVSEKPogQ3Tfoi6QhmDrMQCFJnxRcwZeEXmjbTWmHtitQA.webp"
+        "name": "Houston Astros",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/yyz5dh1554140884.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/delta/live_mlb-playoffs_astros-white-sox-live-streaming-663787872/playlist.m3u8?tk=b8ozOZbibVWgZU0-T1SNxg&e=1790688812|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mlb/2026-09-29/chw-hou/playlist.m3u8?tk=4FCSfNOvp2xfm9ds4aRbhg&e=1790712056|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-chicago-white-sox-vs-houston-astros/2/playlist.m3u8?tk=4FCSfNOvp2xfm9ds4aRbhg&e=1790712056|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "mlb/2026-09-29/bos-nyy",
+    "title": "Boston Red Sox vs. New York Yankees",
+    "league": "MLB",
+    "category": "baseball",
+    "date": 1790726400000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Boston Red Sox",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/wqwwxx1423478766.png"
+      },
+      "away": {
+        "name": "New York Yankees",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/stpsus1425120215.png"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mlb/2026-09-29/bos-nyy/playlist.m3u8?tk=4FCSfNOvp2xfm9ds4aRbhg&e=1790712056|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
-    "matchId": "sd-delta~live_mlb-playoffs_padres-cubs-live-streaming-663779664",
-    "title": "San Diego Padres vs Chicago Cubs",
-    "league": "baseball",
+    "matchId": "mlb/2026-09-29/chc-sd",
+    "title": "Chicago Cubs vs. San Diego Padres",
+    "league": "MLB",
     "category": "baseball",
     "date": 1790733600000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "San Diego Padres",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAATMH0ghetfNrX6+IErhBGTiGAQpM+KLmDLwi80faa0wjsaIhA.webp"
+        "name": "Chicago Cubs",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/6wt1cn1617527530.png"
       },
       "away": {
-        "name": "Chicago Cubs",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj5gQDUiBgg+IbiBK49IEyiOIzEwjGBM+KLmDLwi80Q6a0wTsaIhA.webp"
+        "name": "San Diego Padres",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/wxbe071521892391.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/delta/live_mlb-playoffs_padres-cubs-live-streaming-663779664/playlist.m3u8?tk=o97Z7w6LDnlb4vuGNSxgOQ&e=1790688813|Referer=https://ondemand.st",
-    "sdUrl": ""
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mlb/2026-09-29/chc-sd/playlist.m3u8?tk=W0BoxNDIIJAH3xro8NGykQ&e=1790712057|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-chicago-cubs-vs-san-diego-padres/2/playlist.m3u8?tk=W0BoxNDIIJAH3xro8NGykQ&e=1790712057|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "sd-golf~1825",
+    "title": "New York Yankees - Boston Red Sox",
+    "league": "baseball",
+    "category": "baseball",
+    "date": 1790791200000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "New York Yankees",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/wqwwxx1423478766.png"
+      },
+      "away": {
+        "name": "Boston Red Sox",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/stpsus1425120215.png"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/1825/playlist.m3u8?tk=W0BoxNDIIJAH3xro8NGykQ&e=1790712057|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/1825/2/playlist.m3u8?tk=W0BoxNDIIJAH3xro8NGykQ&e=1790712057|Referer=https://ondemand.st"
   }
 ]
