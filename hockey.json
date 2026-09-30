@@ -1,162 +1,62 @@
 [
   {
-    "matchId": "nhl/2026-09-29/mtl-tor",
-    "title": "Montreal Canadiens vs. Toronto Maple Leafs",
+    "matchId": "nhl/2026-09-30/pit-phi",
+    "title": "Pittsburgh Penguins vs. Philadelphia Flyers",
     "league": "NHL",
     "category": "hockey",
-    "date": 1790722800000,
-    "status": "live",
+    "date": 1790811000000,
+    "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Montreal Canadiens",
+        "name": "Pittsburgh Penguins",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/qxxppp1421794965.png"
+      },
+      "away": {
+        "name": "Philadelphia Flyers",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/dsj3on1546192477.png"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-09-30/pit-phi/playlist.m3u8?tk=ZltAJWTU1__WigctEs07BA&e=1790792501|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-pittsburgh-penguins-vs-philadelphia-flyers/2/playlist.m3u8?tk=ZltAJWTU1__WigctEs07BA&e=1790792501|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "nhl/2026-09-30/nyi-tor",
+    "title": "New York Islanders vs. Toronto Maple Leafs",
+    "league": "NHL",
+    "category": "hockey",
+    "date": 1790811000000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "New York Islanders",
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/mxig4p1570129307.png"
       },
       "away": {
         "name": "Toronto Maple Leafs",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/stpryx1421791753.png"
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/hqn8511619536714.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-09-29/mtl-tor/playlist.m3u8?tk=F_btojjXI_QRWFHwdHc7Ig&e=1790770006|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-montreal-canadiens-vs-toronto-maple-leafs/2/playlist.m3u8?tk=F_btojjXI_QRWFHwdHc7Ig&e=1790770006|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-09-30/nyi-tor/playlist.m3u8?tk=ZltAJWTU1__WigctEs07BA&e=1790792501|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-new-york-islanders-vs-toronto-maple-leafs/2/playlist.m3u8?tk=ZltAJWTU1__WigctEs07BA&e=1790792501|Referer=https://ondemand.st"
   },
   {
-    "matchId": "nhl/2026-09-29/nyr-bos",
-    "title": "New York Rangers vs. Boston Bruins",
+    "matchId": "nhl/2026-09-30/la-col",
+    "title": "Los Angeles Kings vs. Colorado Avalanche",
     "league": "NHL",
-    "category": "hockey",
-    "date": 1790726400000,
-    "status": "live",
-    "teams": {
-      "home": {
-        "name": "New York Rangers",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/b1r86e1720023232.png"
-      },
-      "away": {
-        "name": "Boston Bruins",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/ts2nhq1763454676.png"
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-09-29/nyr-bos/playlist.m3u8?tk=F_btojjXI_QRWFHwdHc7Ig&e=1790770006|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-new-york-rangers-vs-boston-bruins/2/playlist.m3u8?tk=F_btojjXI_QRWFHwdHc7Ig&e=1790770006|Referer=https://ondemand.st"
-  },
-  {
-    "matchId": "nhl/2026-09-29/van-edm",
-    "title": "Vancouver Canucks vs. Edmonton Oilers",
-    "league": "NHL",
-    "category": "hockey",
-    "date": 1790733600000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Vancouver Canucks",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/uxxsyw1421618428.png"
-      },
-      "away": {
-        "name": "Edmonton Oilers",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/xqxxpw1421875519.png"
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-09-29/van-edm/playlist.m3u8?tk=3-YBfn5ONbG7b8QOJqTx7g&e=1790770007|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-vancouver-canucks-vs-edmonton-oilers/2/playlist.m3u8?tk=3-YBfn5ONbG7b8QOJqTx7g&e=1790770007|Referer=https://ondemand.st"
-  },
-  {
-    "matchId": "nhl/2026-09-29/chi-vgk",
-    "title": "Chicago Blackhawks vs. Vegas Golden Knights",
-    "league": "NHL",
-    "category": "hockey",
-    "date": 1790735400000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Chicago Blackhawks",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/7fd4521619536689.png"
-      },
-      "away": {
-        "name": "Vegas Golden Knights",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/tuwyvr1422041801.png"
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-09-29/chi-vgk/playlist.m3u8?tk=3-YBfn5ONbG7b8QOJqTx7g&e=1790770007|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-chicago-blackhawks-vs-vegas-golden-knights/2/playlist.m3u8?tk=3-YBfn5ONbG7b8QOJqTx7g&e=1790770007|Referer=https://ondemand.st"
-  },
-  {
-    "matchId": "sd-admin~ppv-florida-panthers-vs-carolina-hurricanes",
-    "title": "Carolina Hurricanes vs Florida Panthers",
-    "league": "hockey",
-    "category": "hockey",
-    "date": 1790715600000,
-    "status": "live",
-    "teams": {
-      "home": {
-        "name": "Carolina Hurricanes",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAmIGCAGh4YECG4gSICJtwhEOI3uWEYwJnxRcwZHfXminTWmBdjREEA.webp"
-      },
-      "away": {
-        "name": "Florida Panthers",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDhuRdUhDdtIEiAgg+u-apw4YBCkz4ouYMvCLzRdprTAOxoiEA.webp"
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-florida-panthers-vs-carolina-hurricanes/playlist.m3u8?tk=yKx0aEFYXwRFT8zyQXQOhw&e=1790770008|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-florida-panthers-vs-carolina-hurricanes/2/playlist.m3u8?tk=yKx0aEFYXwRFT8zyQXQOhw&e=1790770008|Referer=https://ondemand.st"
-  },
-  {
-    "matchId": "sd-golf~1854",
-    "title": "Toronto Maple Leafs vs New York Islanders",
-    "league": "hockey",
-    "category": "hockey",
-    "date": 1790811000000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Toronto Maple Leafs",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAksLAhOfEFBghuIEiA3bdOFCETa+BCk0tcwZeEXmiUwJrTD2xoiEA.webp"
-      },
-      "away": {
-        "name": "New York Islanders",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3C98IDSRDdtIACa6UILYgN9dEAhSZ8UXMGXhF5ou01pgHY0RCA.webp"
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/1854/playlist.m3u8?tk=yKx0aEFYXwRFT8zyQXQOhw&e=1790770008|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/1854/2/playlist.m3u8?tk=yKx0aEFYXwRFT8zyQXQOhw&e=1790770008|Referer=https://ondemand.st"
-  },
-  {
-    "matchId": "sd-golf~1853",
-    "title": "Philadelphia Flyers vs Pittsburgh Penguins",
-    "league": "hockey",
-    "category": "hockey",
-    "date": 1790811000000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Philadelphia Flyers",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpm5hw4OJpDcQEXNpB8QKXcZAATEMsIxgTPii5gy8IvNGOmtMM7GiIQA.webp"
-      },
-      "away": {
-        "name": "Pittsburgh Penguins",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyi0kIFsHwhuIEiAggAJjpApcBkHysEKTPii5gy8IvNGOmtMM7GiIQA.webp"
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/1853/playlist.m3u8?tk=yKx0aEFYXwRFT8zyQXQOhw&e=1790770008|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/1853/2/playlist.m3u8?tk=yKx0aEFYXwRFT8zyQXQOhw&e=1790770008|Referer=https://ondemand.st"
-  },
-  {
-    "matchId": "sd-golf~1855",
-    "title": "Colorado Avalanche - Los Angeles Kings",
-    "league": "hockey",
     "category": "hockey",
     "date": 1790820000000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Colorado Avalanche",
+        "name": "Los Angeles Kings",
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/wqutut1421173572.png"
       },
       "away": {
-        "name": "Los Angeles Kings",
+        "name": "Colorado Avalanche",
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/w408rg1719220748.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/1855/playlist.m3u8?tk=VL_X-ltvoOQqbH_SaMJDBA&e=1790770009|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/1855/2/playlist.m3u8?tk=VL_X-ltvoOQqbH_SaMJDBA&e=1790770009|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-09-30/la-col/playlist.m3u8?tk=37EcXY21d4K6Y0B5lHTVAQ&e=1790792502|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-los-angeles-kings-vs-colorado-avalanche/2/playlist.m3u8?tk=37EcXY21d4K6Y0B5lHTVAQ&e=1790792502|Referer=https://ondemand.st"
   }
 ]
