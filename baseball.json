@@ -4,7 +4,7 @@
     "title": "Philadelphia Phillies vs. Atlanta Braves",
     "league": "MLB",
     "category": "baseball",
-    "date": 1790877600000,
+    "date": 1790899200000,
     "status": "upcoming",
     "teams": {
       "home": {
@@ -16,13 +16,53 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/3xrldf1617528682.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mlb/2026-10-01/phi-atl/playlist.m3u8?tk=b_AHg3CuYIRxKUkWs50ukw&e=1790886565|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/1930/2/playlist.m3u8?tk=b_AHg3CuYIRxKUkWs50ukw&e=1790886565|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mlb/2026-10-01/phi-atl/playlist.m3u8?tk=Aj3-zHOUxgd1g-p3VQI2mA&e=1790913952|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-philadelphia-phillies-vs-atlanta-braves/2/playlist.m3u8?tk=Aj3-zHOUxgd1g-p3VQI2mA&e=1790913952|Referer=https://ondemand.st"
   },
   {
-    "matchId": "mlb/2026-10-01/bos-nyy",
-    "title": "Boston Red Sox vs. New York Yankees",
-    "league": "MLB",
+    "matchId": "sd-delta~live_mlb-playoffs_astros-white-sox-live-streaming-665034192",
+    "title": "Houston Astros vs Chicago White Sox",
+    "league": "baseball",
+    "category": "baseball",
+    "date": 1790888400000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Chicago White Sox",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/miwigx1521893583.png"
+      },
+      "away": {
+        "name": "Houston Astros",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/miwigx1521893583.png"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/delta/live_mlb-playoffs_astros-white-sox-live-streaming-665034192/playlist.m3u8?tk=Aj3-zHOUxgd1g-p3VQI2mA&e=1790913952|Referer=https://ondemand.st",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "sd-delta~live_mlb-playoffs_padres-cubs-live-streaming-665035056",
+    "title": "San Diego Padres vs Chicago Cubs",
+    "league": "baseball",
+    "category": "baseball",
+    "date": 1790899200000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Chicago Cubs",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/6wt1cn1617527530.png"
+      },
+      "away": {
+        "name": "San Diego Padres",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/wxbe071521892391.png"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/delta/live_mlb-playoffs_padres-cubs-live-streaming-665035056/playlist.m3u8?tk=KKWdDx3M2y5TI5ds7alM7Q&e=1790913953|Referer=https://ondemand.st",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "sd-delta~live_mlb-playoffs_yankees-red-sox-live-streaming-665034624",
+    "title": "New York Yankees vs Boston Red Sox",
+    "league": "baseball",
     "category": "baseball",
     "date": 1790899200000,
     "status": "upcoming",
@@ -36,47 +76,7 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/stpsus1425120215.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mlb/2026-10-01/bos-nyy/playlist.m3u8?tk=MuhRDGcWTa7lohx4hLEnAg&e=1790886566|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-boston-red-sox-vs-new-york-yankees/2/playlist.m3u8?tk=MuhRDGcWTa7lohx4hLEnAg&e=1790886566|Referer=https://ondemand.st"
-  },
-  {
-    "matchId": "mlb/2026-10-01/chc-sd",
-    "title": "Chicago Cubs vs. San Diego Padres",
-    "league": "MLB",
-    "category": "baseball",
-    "date": 1790906400000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Chicago Cubs",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/6wt1cn1617527530.png"
-      },
-      "away": {
-        "name": "San Diego Padres",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/wxbe071521892391.png"
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mlb/2026-10-01/chc-sd/playlist.m3u8?tk=MuhRDGcWTa7lohx4hLEnAg&e=1790886566|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-chicago-cubs-vs-san-diego-padres/2/playlist.m3u8?tk=MuhRDGcWTa7lohx4hLEnAg&e=1790886566|Referer=https://ondemand.st"
-  },
-  {
-    "matchId": "sd-delta~live_mlb-playoffs_astros-white-sox-live-streaming-665034192",
-    "title": "Houston Astros vs Chicago White Sox",
-    "league": "baseball",
-    "category": "baseball",
-    "date": 1790888400000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Houston Astros",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/miwigx1521893583.png"
-      },
-      "away": {
-        "name": "Chicago White Sox",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/yyz5dh1554140884.png"
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/delta/live_mlb-playoffs_astros-white-sox-live-streaming-665034192/playlist.m3u8?tk=jBqKM2d1i3DvmRAAprKdzw&e=1790886567|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/delta/live_mlb-playoffs_yankees-red-sox-live-streaming-665034624/playlist.m3u8?tk=KKWdDx3M2y5TI5ds7alM7Q&e=1790913953|Referer=https://ondemand.st",
     "sdUrl": ""
   }
 ]
