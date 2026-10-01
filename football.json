@@ -1,25 +1,5 @@
 [
   {
-    "matchId": "mls/2026-09-30/rbny-stl",
-    "title": "Red Bull New York vs. St. Louis CITY SC",
-    "league": "MLS",
-    "category": "football",
-    "date": 1790811000000,
-    "status": "live",
-    "teams": {
-      "home": {
-        "name": "Red Bull New York",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/suytvy1473536462.png"
-      },
-      "away": {
-        "name": "St. Louis CITY SC",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/22wanp1674118724.png"
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mls/2026-09-30/rbny-stl/playlist.m3u8?tk=I7tMWFOapFzynEXhNhHWeQ&e=1790862615|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-red-bull-new-york-vs-st-louis-city-sc/2/playlist.m3u8?tk=I7tMWFOapFzynEXhNhHWeQ&e=1790862615|Referer=https://ondemand.st"
-  },
-  {
     "matchId": "mls/2026-10-01/sea-skc",
     "title": "Seattle Sounders FC vs. Sporting Kansas City",
     "league": "MLS",
@@ -36,31 +16,11 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/tqupxw1473536504.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mls/2026-10-01/sea-skc/playlist.m3u8?tk=Pplf173_N832158hIsOLEw&e=1790862616|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-seattle-sounders-fc-vs-sporting-kansas-city/2/playlist.m3u8?tk=Pplf173_N832158hIsOLEw&e=1790862616|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mls/2026-10-01/sea-skc/playlist.m3u8?tk=ncSC5sJChD2E3PetweJQ6g&e=1790886540|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-seattle-sounders-fc-vs-sporting-kansas-city/2/playlist.m3u8?tk=ncSC5sJChD2E3PetweJQ6g&e=1790886540|Referer=https://ondemand.st"
   },
   {
-    "matchId": "sd-delta~live_int-friendly-games_argentina-bolivia-live-streaming-665535312",
-    "title": "Argentina vs Bolivia",
-    "league": "football",
-    "category": "football",
-    "date": 1790812800000,
-    "status": "live",
-    "teams": {
-      "home": {
-        "name": "Argentina",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDwwSCmFBgSIbiD64QAEz0mDICBb4EKTG1x3l680SmBNaYHWNEQgA.webp"
-      },
-      "away": {
-        "name": "Bolivia",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhBRuIACZheGtiHV8QiDSBIhD6xCCMEKTPii5gy8IvNGOmtMM7GiIQA.webp"
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/delta/live_int-friendly-games_argentina-bolivia-live-streaming-665535312/playlist.m3u8?tk=Pplf173_N832158hIsOLEw&e=1790862616|Referer=https://ondemand.st",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "sd-hotel~azerbaijan-vs-liechtenstein-uefa-nations-league-1790870400",
+    "matchId": "sd-delta~live_uefa-nations-league-league-d-gr-2_azerbaijan-liechtenstein-live-streaming-539479008",
     "title": "Azerbaijan vs Liechtenstein",
     "league": "football",
     "category": "football",
@@ -76,11 +36,11 @@
         "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhD00IGMCZhQIbiBIgUeoyD4bVpiAQpM+KLmDLwi80Q6a0wTsaIhA.webp"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/hotel/azerbaijan-vs-liechtenstein-uefa-nations-league-1790870400/playlist.m3u8?tk=G-YeeXjDVY2SRw_w_MMhqw&e=1790862617|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/delta/live_uefa-nations-league-league-d-gr-2_azerbaijan-liechtenstein-live-streaming-539479008/playlist.m3u8?tk=cd4iBP0iSYavnqQMCFmaEQ&e=1790886541|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
-    "matchId": "sd-hotel~malta-vs-gibraltar-uefa-nations-league-1790880300",
+    "matchId": "sd-delta~live_uefa-nations-league-league-d-gr-1_malta-gibraltar-live-streaming-539478576",
     "title": "Malta vs Gibraltar",
     "league": "football",
     "category": "football",
@@ -96,11 +56,11 @@
         "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzAhR6sABNgABhDcQmtcZyI+IRCTUEKTPii5gy8IvNEOmtME7GiIQA.webp"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/hotel/malta-vs-gibraltar-uefa-nations-league-1790880300/playlist.m3u8?tk=G-YeeXjDVY2SRw_w_MMhqw&e=1790862617|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/delta/live_uefa-nations-league-league-d-gr-1_malta-gibraltar-live-streaming-539478576/playlist.m3u8?tk=cd4iBP0iSYavnqQMCFmaEQ&e=1790886541|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
-    "matchId": "sd-hotel~israel-vs-kosovo-uefa-nations-league-1790880300",
+    "matchId": "sd-delta~live_uefa-nations-league-league-b-gr-3_israel-kosovo-live-streaming-539478144",
     "title": "Israel vs Kosovo",
     "league": "football",
     "category": "football",
@@ -116,11 +76,11 @@
         "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxQh4YPmG4g+IEiG27EMNSBMQQF-XwIUmNrmDLr680SmBNaYJ2NEQgA.webp"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/hotel/israel-vs-kosovo-uefa-nations-league-1790880300/playlist.m3u8?tk=G-YeeXjDVY2SRw_w_MMhqw&e=1790862617|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/delta/live_uefa-nations-league-league-b-gr-3_israel-kosovo-live-streaming-539478144/playlist.m3u8?tk=spw8ePgHyfq_hzRlRPFcfg&e=1790886542|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
-    "matchId": "sd-hotel~republic-of-ireland-vs-austria-uefa-nations-league-1790880300",
+    "matchId": "sd-delta~live_uefa-nations-league-league-b-gr-3_ireland-austria-live-streaming-539477712",
     "title": "Ireland vs Austria",
     "league": "football",
     "category": "football",
@@ -136,11 +96,11 @@
         "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhCq+IKDBAATEIm47cqkOpwGIILTAIUmfFFzBl4ReaIdNaYJ2NEQgA.webp"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/hotel/republic-of-ireland-vs-austria-uefa-nations-league-1790880300/playlist.m3u8?tk=8Bu-l4OSExr6bW_Cn3mB_A&e=1790862618|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/delta/live_uefa-nations-league-league-b-gr-3_ireland-austria-live-streaming-539477712/playlist.m3u8?tk=spw8ePgHyfq_hzRlRPFcfg&e=1790886542|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
-    "matchId": "sd-hotel~wales-vs-norway-uefa-nations-league-1790880300",
+    "matchId": "sd-delta~live_uefa-nations-league-league-a-gr-4_wales-norway-live-streaming-539477280",
     "title": "Wales vs Norway",
     "league": "football",
     "category": "football",
@@ -156,11 +116,11 @@
         "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhz5gUwACbB8IXdxD6SIFAeMg+IRIZDLCMbf3VswZeEXmj1TWmBdjREEA.webp"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/hotel/wales-vs-norway-uefa-nations-league-1790880300/playlist.m3u8?tk=8Bu-l4OSExr6bW_Cn3mB_A&e=1790862618|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/delta/live_uefa-nations-league-league-a-gr-4_wales-norway-live-streaming-539477280/playlist.m3u8?tk=spw8ePgHyfq_hzRlRPFcfg&e=1790886542|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
-    "matchId": "sd-hotel~denmark-vs-portugal-uefa-nations-league-1790880300",
+    "matchId": "sd-delta~live_uefa-nations-league-league-a-gr-4_denmark-portugal-live-streaming-539476848",
     "title": "Denmark vs Portugal",
     "league": "football",
     "category": "football",
@@ -176,11 +136,11 @@
         "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnhg+YbmAAmsMChDcQEECRNGQWiyBghb8AhSZ8UXMGVX15ol01pg3YqIQQA.webp"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/hotel/denmark-vs-portugal-uefa-nations-league-1790880300/playlist.m3u8?tk=YBYmcofjWQcSs2rKsHF2Uw&e=1790862619|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/delta/live_uefa-nations-league-league-a-gr-4_denmark-portugal-live-streaming-539476848/playlist.m3u8?tk=S6XHue_o7NBRhrwUP0-3oA&e=1790886543|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
-    "matchId": "sd-hotel~greece-vs-netherlands-uefa-nations-league-1790880300",
+    "matchId": "sd-delta~live_uefa-nations-league-league-a-gr-2_greece-netherlands-live-streaming-539476416",
     "title": "Greece vs Netherlands",
     "league": "football",
     "category": "football",
@@ -196,11 +156,11 @@
         "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDdYIGKGwgIqkCRAoQiPiDOnuemAQpM+KLmDLwi80Q6a0wTsaIhA.webp"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/hotel/greece-vs-netherlands-uefa-nations-league-1790880300/playlist.m3u8?tk=YBYmcofjWQcSs2rKsHF2Uw&e=1790862619|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/delta/live_uefa-nations-league-league-a-gr-2_greece-netherlands-live-streaming-539476416/playlist.m3u8?tk=S6XHue_o7NBRhrwUP0-3oA&e=1790886543|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
-    "matchId": "sd-hotel~germany-vs-serbia-uefa-nations-league-1790880300",
+    "matchId": "sd-delta~live_uefa-nations-league-league-a-gr-2_germany-serbia-live-streaming-539475984",
     "title": "Germany vs Serbia",
     "league": "football",
     "category": "football",
@@ -216,7 +176,7 @@
         "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyrgAJmBTAmObiDUhDKEHuMkQ5xCAIUmfLWzBl4ReaK1NaYJ2NEQgA.webp"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/hotel/germany-vs-serbia-uefa-nations-league-1790880300/playlist.m3u8?tk=tyITE2bLWn2kZV0m1YUgoA&e=1790862620|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/delta/live_uefa-nations-league-league-a-gr-2_germany-serbia-live-streaming-539475984/playlist.m3u8?tk=aDt-_vHDhRsiDGZfetN8dA&e=1790886544|Referer=https://ondemand.st",
     "sdUrl": ""
   }
 ]
