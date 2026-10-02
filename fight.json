@@ -1,25 +1,5 @@
 [
   {
-    "matchId": "tna/2026-10-01",
-    "title": "TNA Impact",
-    "league": "Wrestling",
-    "category": "fight",
-    "date": 1790902800000,
-    "status": "live",
-    "teams": {
-      "home": {
-        "name": "TNA Impact",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/wg1khe1591652686.png"
-      },
-      "away": {
-        "name": "",
-        "badge": ""
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/tna/2026-10-01/playlist.m3u8?tk=5jSlghE3BQSHG5LDlMw7Og&e=1790947327|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-tna-impact/2/playlist.m3u8?tk=5jSlghE3BQSHG5LDlMw7Og&e=1790947327|Referer=https://ondemand.st"
-  },
-  {
     "matchId": "wwe/2026-10-02",
     "title": "WWE Friday Night Smackdown",
     "league": "WWE",
@@ -36,8 +16,8 @@
         "badge": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/wwe/2026-10-02/playlist.m3u8?tk=5jSlghE3BQSHG5LDlMw7Og&e=1790947327|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-wwe-friday-night-smackdown/2/playlist.m3u8?tk=5jSlghE3BQSHG5LDlMw7Og&e=1790947327|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/wwe/2026-10-02/playlist.m3u8?tk=8kqLlMT1i0xhBild5P-2Nw&e=1790971494|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-wwe-friday-night-smackdown/2/playlist.m3u8?tk=8kqLlMT1i0xhBild5P-2Nw&e=1790971494|Referer=https://ondemand.st"
   },
   {
     "matchId": "aew/2026-10-03",
@@ -56,7 +36,107 @@
         "badge": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/aew/2026-10-03/playlist.m3u8?tk=_KYngC1wJ3_AdbTWpAA0bw&e=1790947328|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-aew-saturday-night-collision/2/playlist.m3u8?tk=_KYngC1wJ3_AdbTWpAA0bw&e=1790947328|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/aew/2026-10-03/playlist.m3u8?tk=8kqLlMT1i0xhBild5P-2Nw&e=1790971494|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-aew-saturday-night-collision/2/playlist.m3u8?tk=8kqLlMT1i0xhBild5P-2Nw&e=1790971494|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "sd-delta~live-event_pfl-mena-11-live-stream",
+    "title": "PFL MENA 11",
+    "league": "fight",
+    "category": "fight",
+    "date": 1790949600000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "PFL Mena 11 Neda",
+        "badge": ""
+      },
+      "away": {
+        "name": "Saidy",
+        "badge": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/delta/live-event_pfl-mena-11-live-stream/playlist.m3u8?tk=8kqLlMT1i0xhBild5P-2Nw&e=1790971494|Referer=https://ondemand.st",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "sd-golf~1994",
+    "title": "Faour - Sachbazjan",
+    "league": "fight",
+    "category": "fight",
+    "date": 1790967600000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Faour",
+        "badge": ""
+      },
+      "away": {
+        "name": "Sachbazjan",
+        "badge": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/1994/playlist.m3u8?tk=wWyUpXJpEcW280IjNpxKNg&e=1790971495|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/1994/2/playlist.m3u8?tk=wWyUpXJpEcW280IjNpxKNg&e=1790971495|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "sd-delta~live-event_omari-jones-vs-alan-sanchez-live-stream",
+    "title": "Omari Jones vs Alan Sanchez",
+    "league": "fight",
+    "category": "fight",
+    "date": 1790985600000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Omari Jones",
+        "badge": "https://r2.thesportsdb.com/images/media/player/thumb/w1vjjm1740002960.jpg"
+      },
+      "away": {
+        "name": "Alan Sanchez",
+        "badge": "https://r2.thesportsdb.com/images/media/player/thumb/0wuvhv1625599282.jpg"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/delta/live-event_omari-jones-vs-alan-sanchez-live-stream/playlist.m3u8?tk=wWyUpXJpEcW280IjNpxKNg&e=1790971495|Referer=https://ondemand.st",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "sd-golf~1996",
+    "title": "Fury FC 125",
+    "league": "fight",
+    "category": "fight",
+    "date": 1790996400000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "",
+        "badge": ""
+      },
+      "away": {
+        "name": "",
+        "badge": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/1996/playlist.m3u8?tk=K4-k3e79FADPYvWiQxniuQ&e=1790971496|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/1996/2/playlist.m3u8?tk=K4-k3e79FADPYvWiQxniuQ&e=1790971496|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "sd-golf~1997",
+    "title": "Naomy Cardenas - Melanie Timko",
+    "league": "fight",
+    "category": "fight",
+    "date": 1791000000000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Naomy Cardenas",
+        "badge": ""
+      },
+      "away": {
+        "name": "Melanie Timko",
+        "badge": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/1997/playlist.m3u8?tk=K4-k3e79FADPYvWiQxniuQ&e=1790971496|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/1997/2/playlist.m3u8?tk=K4-k3e79FADPYvWiQxniuQ&e=1790971496|Referer=https://ondemand.st"
   }
 ]
