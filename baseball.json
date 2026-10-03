@@ -1,31 +1,11 @@
 [
   {
-    "matchId": "mlb/2026-10-03/atl-lad",
-    "title": "Atlanta Braves vs. Los Angeles Dodgers",
-    "league": "MLB",
-    "category": "baseball",
-    "date": 1791057600000,
-    "status": "live",
-    "teams": {
-      "home": {
-        "name": "Atlanta Braves",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/32uxn21778269451.png"
-      },
-      "away": {
-        "name": "Los Angeles Dodgers",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/yjs76e1617811496.png"
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mlb/2026-10-03/atl-lad/playlist.m3u8?tk=oorjYKZvw8Fl0R4RXd-skg&e=1791103430|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-atlanta-braves-vs-los-angeles-dodgers/2/playlist.m3u8?tk=oorjYKZvw8Fl0R4RXd-skg&e=1791103430|Referer=https://ondemand.st"
-  },
-  {
     "matchId": "mlb/2026-10-03/nyy-tb",
     "title": "New York Yankees vs. Tampa Bay Rays",
     "league": "MLB",
     "category": "baseball",
     "date": 1791066600000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "New York Yankees",
@@ -36,8 +16,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/wqwwxx1423478766.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mlb/2026-10-03/nyy-tb/playlist.m3u8?tk=oorjYKZvw8Fl0R4RXd-skg&e=1791103430|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-new-york-yankees-vs-tampa-bay-rays/2/playlist.m3u8?tk=oorjYKZvw8Fl0R4RXd-skg&e=1791103430|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mlb/2026-10-03/nyy-tb/playlist.m3u8?tk=fLU9ipZGYOPBQhyi0zbMIw&e=1791113761|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-new-york-yankees-vs-tampa-bay-rays/2/playlist.m3u8?tk=fLU9ipZGYOPBQhyi0zbMIw&e=1791113761|Referer=https://ondemand.st"
   },
   {
     "matchId": "mlb/2026-10-03/sd-mil",
@@ -56,28 +36,28 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/6wt1cn1617527530.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mlb/2026-10-03/sd-mil/playlist.m3u8?tk=zokYxAHeN8_kzn5E7_f8mw&e=1791103431|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-san-diego-padres-vs-milwaukee-brewers/2/playlist.m3u8?tk=zokYxAHeN8_kzn5E7_f8mw&e=1791103431|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mlb/2026-10-03/sd-mil/playlist.m3u8?tk=fLU9ipZGYOPBQhyi0zbMIw&e=1791113761|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-san-diego-padres-vs-milwaukee-brewers/2/playlist.m3u8?tk=fLU9ipZGYOPBQhyi0zbMIw&e=1791113761|Referer=https://ondemand.st"
   },
   {
-    "matchId": "sd-golf~1991",
-    "title": "Cleveland Guardians vs Chicago White Sox",
+    "matchId": "sd-admin~ppv-atlanta-braves-vs-los-angeles-dodgers",
+    "title": "Los Angeles Dodgers vs Atlanta Braves",
     "league": "baseball",
     "category": "baseball",
-    "date": 1791046800000,
+    "date": 1791057600000,
     "status": "live",
     "teams": {
       "home": {
-        "name": "Cleveland Guardians",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDwwSMABN1CtCG4hNICCBggUh4yBLnTBCkz4ouYMmvrzRzprTCuxohBAA.webp"
+        "name": "Los Angeles Dodgers",
+        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhCIsYMiGD5cIbiD4GQxnABMQKEBBAk9BCkz4ouG8vXmjnTWmA1jREEA.webp"
       },
       "away": {
-        "name": "Chicago White Sox",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphRhVSEKPogQ3Tfoi6QhmDrMQCFJnxRcwZeEXmjbTWmHtitQA.webp"
+        "name": "Atlanta Braves",
+        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphTAkCEHxAATUiG479mkCYMGIIFDoIUmfVWzBl4ReaNVNaYJ2NEQgA.webp"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/1991/playlist.m3u8?tk=zokYxAHeN8_kzn5E7_f8mw&e=1791103431|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/1991/2/playlist.m3u8?tk=zokYxAHeN8_kzn5E7_f8mw&e=1791103431|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-atlanta-braves-vs-los-angeles-dodgers/playlist.m3u8?tk=wsc108gXhch9bW9T7DBZYQ&e=1791113762|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-atlanta-braves-vs-los-angeles-dodgers/2/playlist.m3u8?tk=wsc108gXhch9bW9T7DBZYQ&e=1791113762|Referer=https://ondemand.st"
   },
   {
     "matchId": "sd-golf~2009",
@@ -96,7 +76,7 @@
         "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAATMH0ghetfNrX6+IErhBGTiGAQpM+KLmDLwi80faa0wjsaIhA.webp"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/2009/playlist.m3u8?tk=q2KX-7m4tO6NfCksnarBkA&e=1791103432|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/2009/2/playlist.m3u8?tk=q2KX-7m4tO6NfCksnarBkA&e=1791103432|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/2009/playlist.m3u8?tk=wsc108gXhch9bW9T7DBZYQ&e=1791113762|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/2009/2/playlist.m3u8?tk=wsc108gXhch9bW9T7DBZYQ&e=1791113762|Referer=https://ondemand.st"
   }
 ]
