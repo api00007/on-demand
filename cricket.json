@@ -4,7 +4,7 @@
     "title": "Willow",
     "league": "Cricket",
     "category": "cricket",
-    "date": 1790986411909,
+    "date": 1791007715810,
     "status": "live",
     "teams": {
       "home": {
@@ -16,7 +16,7 @@
         "badge": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/247-willow/playlist.m3u8?tk=1XrvJCcFgdpStmRvQ92rcg&e=1791029612|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/247-willow/playlist.m3u8?tk=zMnZyqmeSlE-MzEsA2wbiQ&e=1791050916|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -24,7 +24,7 @@
     "title": "Fox Cricket",
     "league": "Cricket",
     "category": "cricket",
-    "date": 1790986411909,
+    "date": 1791007715810,
     "status": "live",
     "teams": {
       "home": {
@@ -36,7 +36,27 @@
         "badge": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/247-fox-cricket/playlist.m3u8?tk=1XrvJCcFgdpStmRvQ92rcg&e=1791029612|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-fox-cricket/2/playlist.m3u8?tk=1XrvJCcFgdpStmRvQ92rcg&e=1791029612|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/247-fox-cricket/playlist.m3u8?tk=s9JVqnPvnKNiSg3m4oYhJw&e=1791050917|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-fox-cricket/2/playlist.m3u8?tk=s9JVqnPvnKNiSg3m4oYhJw&e=1791050917|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "sd-foxtrot~india-vs-pakistan",
+    "title": "India vs Pakistan",
+    "league": "cricket",
+    "category": "cricket",
+    "date": 1791001800000,
+    "status": "live",
+    "teams": {
+      "home": {
+        "name": "",
+        "badge": ""
+      },
+      "away": {
+        "name": "",
+        "badge": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/foxtrot/india-vs-pakistan/playlist.m3u8?tk=s9JVqnPvnKNiSg3m4oYhJw&e=1791050917|Referer=https://ondemand.st",
+    "sdUrl": ""
   }
 ]
