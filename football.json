@@ -1,182 +1,282 @@
 [
   {
-    "matchId": "sd-foxtrot~usa-vs-mexico",
-    "title": "USA vs Mexico",
-    "league": "football",
-    "category": "football",
-    "date": 1791079200000,
-    "status": "live",
-    "teams": {
-      "home": {
-        "name": "USA",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkulwheAExAxK7NSBIgUIPoZAQQF7qeWFtTPii5gy8IvNGOmtMM7GiIQA.webp"
-      },
-      "away": {
-        "name": "Mexico",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDxsXKrRQhuIPiAggjJXCBM4YRghSZ8UXMGTX15o+01phHY0RCA.webp"
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/foxtrot/usa-vs-mexico/playlist.m3u8?tk=z2RAPVnPSMVCOeMhtO1XVw&e=1791132618|Referer=https://ondemand.st",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "sd-delta~live_uefa-nations-league-league-d-gr-2_azerbaijan-lithuania-live-streaming-539533872",
-    "title": "Azerbaijan vs Lithuania",
-    "league": "football",
+    "matchId": "uefa-nations-league/2026-10-04/aze-ltu",
+    "title": "Azerbaijan vs. Lithuania",
+    "league": "Football",
     "category": "football",
     "date": 1791118800000,
     "status": "upcoming",
     "teams": {
       "home": {
         "name": "Azerbaijan",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAM2EABNgYYGqQhuIEkdwgzxjSESHlhGMCZ8UXMGXhF5o501phXY0QggA.webp"
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/kr6lkz1552856315.png"
       },
       "away": {
         "name": "Lithuania",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkplEAGHrAR0Q3EABMQhlDpDG+Jg3wIUmVrmDLwi80SmBNaYB2NEQgA.webp"
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/ukapsd1689197167.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/delta/live_uefa-nations-league-league-d-gr-2_azerbaijan-lithuania-live-streaming-539533872/playlist.m3u8?tk=jhIfmzD0WWJgig95ADxTtA&e=1791132619|Referer=https://ondemand.st",
-    "sdUrl": ""
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/uefa-nations-league/2026-10-04/aze-ltu/playlist.m3u8?tk=6I9Y8jYAfyt8bdTis5-fIw&e=1791154751|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-azerbaijan-vs-lithuania/2/playlist.m3u8?tk=6I9Y8jYAfyt8bdTis5-fIw&e=1791154751|Referer=https://ondemand.st"
   },
   {
-    "matchId": "sd-delta~live_uefa-nations-league-league-d-gr-1_malta-andorra-live-streaming-539533440",
-    "title": "Malta vs Andorra",
-    "league": "football",
+    "matchId": "womens-super-league/2026-10-04/avl-cry",
+    "title": "Aston Villa vs. Crystal Palace",
+    "league": "Football",
     "category": "football",
-    "date": 1791129600000,
+    "date": 1791118800000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Malta",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj4haABmBN5AExDcQqlCBhqQJEHoMXlhGFv4ouYMvCLzRTprTAuxoiCA.webp"
+        "name": "Aston Villa",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/lqfz1c1721821650.png"
       },
       "away": {
-        "name": "Andorra",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzAgy3cjGD4Q3NfpwgQEEHxCISIACYEKTPii5gy8IvNGOmtMM7GiIQA.webp"
+        "name": "Crystal Palace",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/imirxf1610531377.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/delta/live_uefa-nations-league-league-d-gr-1_malta-andorra-live-streaming-539533440/playlist.m3u8?tk=jhIfmzD0WWJgig95ADxTtA&e=1791132619|Referer=https://ondemand.st",
-    "sdUrl": ""
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/womens-super-league/2026-10-04/avl-cry/playlist.m3u8?tk=6I9Y8jYAfyt8bdTis5-fIw&e=1791154751|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-aston-villa-vs-crystal-palace/2/playlist.m3u8?tk=6I9Y8jYAfyt8bdTis5-fIw&e=1791154751|Referer=https://ondemand.st"
   },
   {
-    "matchId": "sd-delta~live_uefa-nations-league-league-b-gr-3_kosovo-austria-live-streaming-539532576",
-    "title": "Kosovo vs Austria",
-    "league": "football",
+    "matchId": "womens-super-league/2026-10-04/bha-cha",
+    "title": "Brighton & Hove Albion vs. Charlton Athletic",
+    "league": "Football",
+    "category": "football",
+    "date": 1791118800000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Brighton & Hove Albion",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/zn0x7h1605371909.png"
+      },
+      "away": {
+        "name": "Charlton Athletic",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/c5nazz1610532336.png"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/womens-super-league/2026-10-04/bha-cha/playlist.m3u8?tk=6I9Y8jYAfyt8bdTis5-fIw&e=1791154751|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-brighton-hove-albion-vs-charlton-athletic/2/playlist.m3u8?tk=6I9Y8jYAfyt8bdTis5-fIw&e=1791154751|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "womens-super-league/2026-10-04/eve-bir",
+    "title": "Everton vs. Birmingham City",
+    "league": "Football",
+    "category": "football",
+    "date": 1791118800000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Everton",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/dqul651605372004.png"
+      },
+      "away": {
+        "name": "Birmingham City",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/5hjfxd1750414024.png"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/womens-super-league/2026-10-04/eve-bir/playlist.m3u8?tk=9PXah8iMegIjnI2e7XB2_A&e=1791154752|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-everton-vs-birmingham-city/2/playlist.m3u8?tk=9PXah8iMegIjnI2e7XB2_A&e=1791154752|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "womens-super-league/2026-10-04/tot-lcl",
+    "title": "Tottenham Hotspur vs. London City Lionesses",
+    "league": "Football",
+    "category": "football",
+    "date": 1791118800000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Tottenham Hotspur",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/3dhd0j1605371995.png"
+      },
+      "away": {
+        "name": "London City Lionesses",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/524gpk1761707917.png"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/womens-super-league/2026-10-04/tot-lcl/playlist.m3u8?tk=9PXah8iMegIjnI2e7XB2_A&e=1791154752|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-tottenham-hotspur-vs-london-city-lionesses/2/playlist.m3u8?tk=9PXah8iMegIjnI2e7XB2_A&e=1791154752|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "womens-super-league/2026-10-04/whu-che",
+    "title": "West Ham United vs. Chelsea",
+    "league": "Football",
+    "category": "football",
+    "date": 1791118800000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "West Ham United",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/hfum4l1599931799.png"
+      },
+      "away": {
+        "name": "Chelsea",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/1ll0111782639779.png"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/womens-super-league/2026-10-04/whu-che/playlist.m3u8?tk=l4FEZt2EzhUyIjz8ctZFow&e=1791154753|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-west-ham-united-vs-chelsea/2/playlist.m3u8?tk=l4FEZt2EzhUyIjz8ctZFow&e=1791154753|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "womens-super-league/2026-10-04/mci-ars",
+    "title": "Manchester City vs. Arsenal",
+    "league": "Football",
+    "category": "football",
+    "date": 1791127800000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Manchester City",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/g5yrwh1599650049.png"
+      },
+      "away": {
+        "name": "Arsenal",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/7gjm9g1599747848.png"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/womens-super-league/2026-10-04/mci-ars/playlist.m3u8?tk=l4FEZt2EzhUyIjz8ctZFow&e=1791154753|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-manchester-city-vs-arsenal/2/playlist.m3u8?tk=l4FEZt2EzhUyIjz8ctZFow&e=1791154753|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "uefa-nations-league/2026-10-04/kos-aut",
+    "title": "Kosovo vs. Austria",
+    "league": "Football",
     "category": "football",
     "date": 1791129600000,
     "status": "upcoming",
     "teams": {
       "home": {
         "name": "Kosovo",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxQh4YPmG4g+IEiG27EMNSBMQQF-XwIUmNrmDLr680SmBNaYJ2NEQgA.webp"
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/i3wq751730304457.png"
       },
       "away": {
         "name": "Austria",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhCq+IKDBAATEIm47cqkOpwGIILTAIUmfFFzBl4ReaIdNaYJ2NEQgA.webp"
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/874p631628721400.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/delta/live_uefa-nations-league-league-b-gr-3_kosovo-austria-live-streaming-539532576/playlist.m3u8?tk=RfOI98X3I43niJ5pnU2XSg&e=1791132620|Referer=https://ondemand.st",
-    "sdUrl": ""
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/uefa-nations-league/2026-10-04/kos-aut/playlist.m3u8?tk=FB-VZkbTG-CaqoPzIYMCdA&e=1791154754|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-kosovo-vs-austria/2/playlist.m3u8?tk=FB-VZkbTG-CaqoPzIYMCdA&e=1791154754|Referer=https://ondemand.st"
   },
   {
-    "matchId": "sd-delta~live_uefa-nations-league-league-b-gr-3_ireland-israel-live-streaming-539533008",
-    "title": "Ireland vs Israel",
-    "league": "football",
+    "matchId": "uefa-nations-league/2026-10-04/mlt-and",
+    "title": "Malta vs. Andorra",
+    "league": "Football",
     "category": "football",
-    "date": 1791139500000,
+    "date": 1791129600000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Ireland",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDwwAEzDdczYGBDb1IPiBQgYx1QfMhlhGMCZ8UXMGTX15ol01pg3YqIQQA.webp"
+        "name": "Malta",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/w3knbf1790356155.png"
       },
       "away": {
-        "name": "Israel",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAksNIh6YYABM6IbiBK79IPiBim155YRjAmfFFzBl4ReaIdNaYJ2NEQgA.webp"
+        "name": "Andorra",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/l5qspn1552847356.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/delta/live_uefa-nations-league-league-b-gr-3_ireland-israel-live-streaming-539533008/playlist.m3u8?tk=RfOI98X3I43niJ5pnU2XSg&e=1791132620|Referer=https://ondemand.st",
-    "sdUrl": ""
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/uefa-nations-league/2026-10-04/mlt-and/playlist.m3u8?tk=FB-VZkbTG-CaqoPzIYMCdA&e=1791154754|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-malta-vs-andorra/2/playlist.m3u8?tk=FB-VZkbTG-CaqoPzIYMCdA&e=1791154754|Referer=https://ondemand.st"
   },
   {
-    "matchId": "sd-delta~live_uefa-nations-league-league-a-gr-4_wales-denmark-live-streaming-539532144",
-    "title": "Wales vs Denmark",
-    "league": "football",
-    "category": "football",
-    "date": 1791139500000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Wales",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphhjuYFMHy4Q3ECRApdhkKcQ4LBCkz6a2YMvCLzRmprTAOxoiEA.webp"
-      },
-      "away": {
-        "name": "Denmark",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxIhuIWt2zAkakHz0HEAExCrTOeAQpM+KLmDLwi80faa0wjsaIhA.webp"
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/delta/live_uefa-nations-league-league-a-gr-4_wales-denmark-live-streaming-539532144/playlist.m3u8?tk=RfOI98X3I43niJ5pnU2XSg&e=1791132620|Referer=https://ondemand.st",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "sd-delta~live_uefa-nations-league-league-a-gr-4_portugal-norway-live-streaming-539531712",
-    "title": "Portugal vs Norway",
-    "league": "football",
-    "category": "football",
-    "date": 1791139500000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Portugal",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnhg+YbmAAmsMChDcQEECRNGQWiyBghb8AhSZ8UXMGVX15ol01pg3YqIQQA.webp"
-      },
-      "away": {
-        "name": "Norway",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhz5gUwACbB8IXdxD6SIFAeMg+IRIZDLCMbf3VswZeEXmj1TWmBdjREEA.webp"
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/delta/live_uefa-nations-league-league-a-gr-4_portugal-norway-live-streaming-539531712/playlist.m3u8?tk=2fIB_lHPxN-57invKpnNMA&e=1791132621|Referer=https://ondemand.st",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "sd-delta~live_uefa-nations-league-league-a-gr-2_netherlands-serbia-live-streaming-539531280",
-    "title": "Netherlands vs Serbia",
-    "league": "football",
-    "category": "football",
-    "date": 1791139500000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Netherlands",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDdYIGKGwgIqkCRAoQiPiDOnuemAQpM+KLmDLwi80Q6a0wTsaIhA.webp"
-      },
-      "away": {
-        "name": "Serbia",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyrgAJmBTAmObiDUhDKEHuMkQ5xCAIUmfLWzBl4ReaK1NaYJ2NEQgA.webp"
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/delta/live_uefa-nations-league-league-a-gr-2_netherlands-serbia-live-streaming-539531280/playlist.m3u8?tk=2fIB_lHPxN-57invKpnNMA&e=1791132621|Referer=https://ondemand.st",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "sd-delta~live_uefa-nations-league-league-a-gr-2_greece-germany-live-streaming-539530848",
-    "title": "Greece vs Germany",
-    "league": "football",
+    "matchId": "uefa-nations-league/2026-10-04/gre-ger",
+    "title": "Greece vs. Germany",
+    "league": "Football",
     "category": "football",
     "date": 1791139500000,
     "status": "upcoming",
     "teams": {
       "home": {
         "name": "Greece",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnBRVNENxAQQJXdpAATfcZiaCFJnxRcwZeEXmibTWmDtjREIA.webp"
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/xtxtts1455465601.png"
       },
       "away": {
         "name": "Germany",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDcw4FAnYgSqkH1wgAJnpMHuO3AQpM+KLmDLwi80faa0wjsaIhA.webp"
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/1xysi51726167152.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/delta/live_uefa-nations-league-league-a-gr-2_greece-germany-live-streaming-539530848/playlist.m3u8?tk=LIPV5yl-YhQpEIXd9D3_GA&e=1791132622|Referer=https://ondemand.st",
-    "sdUrl": ""
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/uefa-nations-league/2026-10-04/gre-ger/playlist.m3u8?tk=Kc7qs7nPH0fY7NjvgfCptQ&e=1791154755|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-greece-vs-germany/2/playlist.m3u8?tk=Kc7qs7nPH0fY7NjvgfCptQ&e=1791154755|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "uefa-nations-league/2026-10-04/ned-srb",
+    "title": "Netherlands vs. Serbia",
+    "league": "Football",
+    "category": "football",
+    "date": 1791139500000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Netherlands",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/1p0hr41593787110.png"
+      },
+      "away": {
+        "name": "Serbia",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/oxvynb1689195538.png"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/uefa-nations-league/2026-10-04/ned-srb/playlist.m3u8?tk=Kc7qs7nPH0fY7NjvgfCptQ&e=1791154755|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-netherlands-vs-serbia/2/playlist.m3u8?tk=Kc7qs7nPH0fY7NjvgfCptQ&e=1791154755|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "uefa-nations-league/2026-10-04/por-nor",
+    "title": "Portugal vs. Norway",
+    "league": "Football",
+    "category": "football",
+    "date": 1791139500000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Portugal",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/swqvpy1455466083.png"
+      },
+      "away": {
+        "name": "Norway",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/gyfn811591973155.png"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/uefa-nations-league/2026-10-04/por-nor/playlist.m3u8?tk=Kc7qs7nPH0fY7NjvgfCptQ&e=1791154755|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-portugal-vs-norway/2/playlist.m3u8?tk=Kc7qs7nPH0fY7NjvgfCptQ&e=1791154755|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "uefa-nations-league/2026-10-04/irl-isr",
+    "title": "Republic of Ireland vs. Israel",
+    "league": "Football",
+    "category": "football",
+    "date": 1791139500000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Republic of Ireland",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/3vq2cl1679073105.png"
+      },
+      "away": {
+        "name": "Israel",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/me4lfd1515700405.png"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/uefa-nations-league/2026-10-04/irl-isr/playlist.m3u8?tk=k003JGYktpTL0e9pEMNOfQ&e=1791154756|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-republic-of-ireland-vs-israel/2/playlist.m3u8?tk=k003JGYktpTL0e9pEMNOfQ&e=1791154756|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "uefa-nations-league/2026-10-04/wal-den",
+    "title": "Wales vs. Denmark",
+    "league": "Football",
+    "category": "football",
+    "date": 1791139500000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Wales",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/pdayn21591983222.png"
+      },
+      "away": {
+        "name": "Denmark",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/e13arj1717365623.png"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/uefa-nations-league/2026-10-04/wal-den/playlist.m3u8?tk=k003JGYktpTL0e9pEMNOfQ&e=1791154756|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-wales-vs-denmark/2/playlist.m3u8?tk=k003JGYktpTL0e9pEMNOfQ&e=1791154756|Referer=https://ondemand.st"
   }
 ]
