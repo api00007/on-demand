@@ -1,31 +1,11 @@
 [
   {
-    "matchId": "mlb/2026-10-04/sd-mil",
-    "title": "San Diego Padres vs. Milwaukee Brewers",
-    "league": "MLB",
-    "category": "baseball",
-    "date": 1791144000000,
-    "status": "live",
-    "teams": {
-      "home": {
-        "name": "San Diego Padres",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/08kh2a1595775193.png"
-      },
-      "away": {
-        "name": "Milwaukee Brewers",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/6wt1cn1617527530.png"
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mlb/2026-10-04/sd-mil/playlist.m3u8?tk=RBDTmrePQ-ps9Yf-Jm_NhA&e=1791197489|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-san-diego-padres-vs-milwaukee-brewers/2/playlist.m3u8?tk=RBDTmrePQ-ps9Yf-Jm_NhA&e=1791197489|Referer=https://ondemand.st"
-  },
-  {
     "matchId": "mlb/2026-10-04/atl-lad",
     "title": "Atlanta Braves vs. Los Angeles Dodgers",
     "league": "MLB",
     "category": "baseball",
     "date": 1791158400000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "Atlanta Braves",
@@ -36,8 +16,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/yjs76e1617811496.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mlb/2026-10-04/atl-lad/playlist.m3u8?tk=RBDTmrePQ-ps9Yf-Jm_NhA&e=1791197489|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-atlanta-braves-vs-los-angeles-dodgers/2/playlist.m3u8?tk=RBDTmrePQ-ps9Yf-Jm_NhA&e=1791197489|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mlb/2026-10-04/atl-lad/playlist.m3u8?tk=vEFt6nSxyIUeYKnc50XgZw&e=1791207748|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-atlanta-braves-vs-los-angeles-dodgers/2/playlist.m3u8?tk=vEFt6nSxyIUeYKnc50XgZw&e=1791207748|Referer=https://ondemand.st"
   },
   {
     "matchId": "sd-golf~2021",
@@ -56,27 +36,27 @@
         "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphRhVSEKPogQ3Tfoi6QhmDrMQCFJnxRcwZeEXmjbTWmHtitQA.webp"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/2021/playlist.m3u8?tk=h2_lFYKVLOAtf67JuXwHdQ&e=1791197490|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/2021/2/playlist.m3u8?tk=h2_lFYKVLOAtf67JuXwHdQ&e=1791197490|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/2021/playlist.m3u8?tk=vEFt6nSxyIUeYKnc50XgZw&e=1791207748|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/2021/2/playlist.m3u8?tk=vEFt6nSxyIUeYKnc50XgZw&e=1791207748|Referer=https://ondemand.st"
   },
   {
     "matchId": "sd-golf~2022",
-    "title": "New York Yankees - Tampa Bay Rays",
+    "title": "Tampa Bay Rays vs New York Yankees",
     "league": "baseball",
     "category": "baseball",
     "date": 1791244800000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "New York Yankees",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/littyt1554031623.png"
+        "name": "Tampa Bay Rays",
+        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzDtoUFJBDcQJXSAggYIRDoAmuEwQpM+KLmDLwi80faa0wjsaIhA.webp"
       },
       "away": {
-        "name": "Tampa Bay Rays",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/wqwwxx1423478766.png"
+        "name": "New York Yankees",
+        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj5huYVavAgQ3EBFwhEBvjpCmAJiAsEKTPii5gy8IvNGOmtMM7GiIQA.webp"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/2022/playlist.m3u8?tk=h2_lFYKVLOAtf67JuXwHdQ&e=1791197490|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/2022/2/playlist.m3u8?tk=h2_lFYKVLOAtf67JuXwHdQ&e=1791197490|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/2022/playlist.m3u8?tk=yhAGFHEbFXzN9D7xHwgCZw&e=1791207749|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/2022/2/playlist.m3u8?tk=yhAGFHEbFXzN9D7xHwgCZw&e=1791207749|Referer=https://ondemand.st"
   }
 ]
