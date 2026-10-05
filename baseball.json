@@ -1,62 +1,42 @@
 [
   {
-    "matchId": "mlb/2026-10-04/atl-lad",
-    "title": "Atlanta Braves vs. Los Angeles Dodgers",
+    "matchId": "mlb/2026-10-05/chw-cle",
+    "title": "Chicago White Sox vs. Cleveland Guardians",
     "league": "MLB",
-    "category": "baseball",
-    "date": 1791158400000,
-    "status": "live",
-    "teams": {
-      "home": {
-        "name": "Atlanta Braves",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/32uxn21778269451.png"
-      },
-      "away": {
-        "name": "Los Angeles Dodgers",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/yjs76e1617811496.png"
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mlb/2026-10-04/atl-lad/playlist.m3u8?tk=vEFt6nSxyIUeYKnc50XgZw&e=1791207748|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-atlanta-braves-vs-los-angeles-dodgers/2/playlist.m3u8?tk=vEFt6nSxyIUeYKnc50XgZw&e=1791207748|Referer=https://ondemand.st"
-  },
-  {
-    "matchId": "sd-golf~2021",
-    "title": "Cleveland Guardians vs Chicago White Sox",
-    "league": "baseball",
     "category": "baseball",
     "date": 1791234000000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Cleveland Guardians",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDwwSMABN1CtCG4hNICCBggUh4yBLnTBCkz4ouYMmvrzRzprTCuxohBAA.webp"
+        "name": "Chicago White Sox",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/3zvzao1640964590.png"
       },
       "away": {
-        "name": "Chicago White Sox",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphRhVSEKPogQ3Tfoi6QhmDrMQCFJnxRcwZeEXmjbTWmHtitQA.webp"
+        "name": "Cleveland Guardians",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/yyz5dh1554140884.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/2021/playlist.m3u8?tk=vEFt6nSxyIUeYKnc50XgZw&e=1791207748|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/2021/2/playlist.m3u8?tk=vEFt6nSxyIUeYKnc50XgZw&e=1791207748|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mlb/2026-10-05/chw-cle/playlist.m3u8?tk=kfSrENYpBmR0cC7CIapHIA&e=1791232499|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-chicago-white-sox-vs-cleveland-guardians/2/playlist.m3u8?tk=kfSrENYpBmR0cC7CIapHIA&e=1791232499|Referer=https://ondemand.st"
   },
   {
-    "matchId": "sd-golf~2022",
-    "title": "Tampa Bay Rays vs New York Yankees",
-    "league": "baseball",
+    "matchId": "mlb/2026-10-05/nyy-tb",
+    "title": "New York Yankees vs. Tampa Bay Rays",
+    "league": "MLB",
     "category": "baseball",
     "date": 1791244800000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Tampa Bay Rays",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzDtoUFJBDcQJXSAggYIRDoAmuEwQpM+KLmDLwi80faa0wjsaIhA.webp"
+        "name": "New York Yankees",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/littyt1554031623.png"
       },
       "away": {
-        "name": "New York Yankees",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj5huYVavAgQ3EBFwhEBvjpCmAJiAsEKTPii5gy8IvNGOmtMM7GiIQA.webp"
+        "name": "Tampa Bay Rays",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/wqwwxx1423478766.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/2022/playlist.m3u8?tk=yhAGFHEbFXzN9D7xHwgCZw&e=1791207749|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/2022/2/playlist.m3u8?tk=yhAGFHEbFXzN9D7xHwgCZw&e=1791207749|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mlb/2026-10-05/nyy-tb/playlist.m3u8?tk=kfSrENYpBmR0cC7CIapHIA&e=1791232499|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-new-york-yankees-vs-tampa-bay-rays/2/playlist.m3u8?tk=kfSrENYpBmR0cC7CIapHIA&e=1791232499|Referer=https://ondemand.st"
   }
 ]
