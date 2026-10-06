@@ -1,31 +1,11 @@
 [
   {
-    "matchId": "mlb/2026-10-05/chw-cle",
-    "title": "Chicago White Sox vs. Cleveland Guardians",
-    "league": "MLB",
-    "category": "baseball",
-    "date": 1791234000000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Chicago White Sox",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/3zvzao1640964590.png"
-      },
-      "away": {
-        "name": "Cleveland Guardians",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/yyz5dh1554140884.png"
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mlb/2026-10-05/chw-cle/playlist.m3u8?tk=pQWcxoEn1NSNtZoru2ayAg&e=1791266697|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-chicago-white-sox-vs-cleveland-guardians/2/playlist.m3u8?tk=pQWcxoEn1NSNtZoru2ayAg&e=1791266697|Referer=https://ondemand.st"
-  },
-  {
     "matchId": "mlb/2026-10-05/nyy-tb",
     "title": "New York Yankees vs. Tampa Bay Rays",
     "league": "MLB",
     "category": "baseball",
     "date": 1791244800000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "New York Yankees",
@@ -36,7 +16,47 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/wqwwxx1423478766.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mlb/2026-10-05/nyy-tb/playlist.m3u8?tk=CB3Mj-cveeVVq6eo4rHSJQ&e=1791266698|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-new-york-yankees-vs-tampa-bay-rays/2/playlist.m3u8?tk=CB3Mj-cveeVVq6eo4rHSJQ&e=1791266698|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mlb/2026-10-05/nyy-tb/playlist.m3u8?tk=inF-FYIP_9_h-GJF2TLW3w&e=1791290392|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-new-york-yankees-vs-tampa-bay-rays/2/playlist.m3u8?tk=inF-FYIP_9_h-GJF2TLW3w&e=1791290392|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "sd-admin~ppv-chicago-white-sox-vs-cleveland-guardians",
+    "title": "Cleveland Guardians vs Chicago White Sox",
+    "league": "baseball",
+    "category": "baseball",
+    "date": 1791234000000,
+    "status": "live",
+    "teams": {
+      "home": {
+        "name": "Cleveland Guardians",
+        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDwwSMABN1CtCG4hNICCBggUh4yBLnTBCkz4ouYMmvrzRzprTCuxohBAA.webp"
+      },
+      "away": {
+        "name": "Chicago White Sox",
+        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphRhVSEKPogQ3Tfoi6QhmDrMQCFJnxRcwZeEXmjbTWmHtitQA.webp"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-chicago-white-sox-vs-cleveland-guardians/playlist.m3u8?tk=inF-FYIP_9_h-GJF2TLW3w&e=1791290392|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-chicago-white-sox-vs-cleveland-guardians/2/playlist.m3u8?tk=inF-FYIP_9_h-GJF2TLW3w&e=1791290392|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "sd-hotel~los-angeles-dodgers-vs-atlanta-braves-mlb-1791324000",
+    "title": "Atlanta Braves vs Los Angeles Dodgers",
+    "league": "baseball",
+    "category": "baseball",
+    "date": 1791324000000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Atlanta Braves",
+        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphTAkCEHxAATUiG479mkCYMGIIFDoIUmfVWzBl4ReaNVNaYJ2NEQgA.webp"
+      },
+      "away": {
+        "name": "Los Angeles Dodgers",
+        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhCIsYMiGD5cIbiD4GQxnABMQKEBBAk9BCkz4ouG8vXmjnTWmA1jREEA.webp"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/hotel/los-angeles-dodgers-vs-atlanta-braves-mlb-1791324000/playlist.m3u8?tk=ku8vgTUj6CY-ttf152pzPg&e=1791290393|Referer=https://ondemand.st",
+    "sdUrl": ""
   }
 ]
