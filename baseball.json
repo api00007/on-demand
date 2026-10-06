@@ -16,8 +16,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/yjs76e1617811496.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mlb/2026-10-06/lad-atl/playlist.m3u8?tk=tqppNMxbB2eevCE5sxBQqQ&e=1791314314|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-los-angeles-dodgers-vs-atlanta-braves/2/playlist.m3u8?tk=tqppNMxbB2eevCE5sxBQqQ&e=1791314314|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mlb/2026-10-06/lad-atl/playlist.m3u8?tk=bPCUYlrtWgr70mW411Q-Ew&e=1791341494|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-los-angeles-dodgers-vs-atlanta-braves/2/playlist.m3u8?tk=bPCUYlrtWgr70mW411Q-Ew&e=1791341494|Referer=https://ondemand.st"
   },
   {
     "matchId": "mlb/2026-10-06/mil-sd",
@@ -36,7 +36,27 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/08kh2a1595775193.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mlb/2026-10-06/mil-sd/playlist.m3u8?tk=XvfBil5GrmmBcxkU4lhc1Q&e=1791314315|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-milwaukee-brewers-vs-san-diego-padres/2/playlist.m3u8?tk=XvfBil5GrmmBcxkU4lhc1Q&e=1791314315|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mlb/2026-10-06/mil-sd/playlist.m3u8?tk=kXEczhQiosBJBaJgdgzCdw&e=1791341495|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-milwaukee-brewers-vs-san-diego-padres/2/playlist.m3u8?tk=kXEczhQiosBJBaJgdgzCdw&e=1791341495|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "sd-golf~2112",
+    "title": "Chicago White Sox vs Cleveland Guardians",
+    "league": "baseball",
+    "category": "baseball",
+    "date": 1791403200000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Chicago White Sox",
+        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphRhVSEKPogQ3Tfoi6QhmDrMQCFJnxRcwZeEXmjbTWmHtitQA.webp"
+      },
+      "away": {
+        "name": "Cleveland Guardians",
+        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDwwSMABN1CtCG4hNICCBggUh4yBLnTBCkz4ouYMmvrzRzprTCuxohBAA.webp"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/2112/playlist.m3u8?tk=kXEczhQiosBJBaJgdgzCdw&e=1791341495|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/2112/2/playlist.m3u8?tk=kXEczhQiosBJBaJgdgzCdw&e=1791341495|Referer=https://ondemand.st"
   }
 ]
