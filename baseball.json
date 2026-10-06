@@ -1,62 +1,42 @@
 [
   {
-    "matchId": "mlb/2026-10-05/nyy-tb",
-    "title": "New York Yankees vs. Tampa Bay Rays",
+    "matchId": "mlb/2026-10-06/lad-atl",
+    "title": "Los Angeles Dodgers vs. Atlanta Braves",
     "league": "MLB",
-    "category": "baseball",
-    "date": 1791244800000,
-    "status": "live",
-    "teams": {
-      "home": {
-        "name": "New York Yankees",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/littyt1554031623.png"
-      },
-      "away": {
-        "name": "Tampa Bay Rays",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/wqwwxx1423478766.png"
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mlb/2026-10-05/nyy-tb/playlist.m3u8?tk=inF-FYIP_9_h-GJF2TLW3w&e=1791290392|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-new-york-yankees-vs-tampa-bay-rays/2/playlist.m3u8?tk=inF-FYIP_9_h-GJF2TLW3w&e=1791290392|Referer=https://ondemand.st"
-  },
-  {
-    "matchId": "sd-admin~ppv-chicago-white-sox-vs-cleveland-guardians",
-    "title": "Cleveland Guardians vs Chicago White Sox",
-    "league": "baseball",
-    "category": "baseball",
-    "date": 1791234000000,
-    "status": "live",
-    "teams": {
-      "home": {
-        "name": "Cleveland Guardians",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDwwSMABN1CtCG4hNICCBggUh4yBLnTBCkz4ouYMmvrzRzprTCuxohBAA.webp"
-      },
-      "away": {
-        "name": "Chicago White Sox",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphRhVSEKPogQ3Tfoi6QhmDrMQCFJnxRcwZeEXmjbTWmHtitQA.webp"
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-chicago-white-sox-vs-cleveland-guardians/playlist.m3u8?tk=inF-FYIP_9_h-GJF2TLW3w&e=1791290392|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-chicago-white-sox-vs-cleveland-guardians/2/playlist.m3u8?tk=inF-FYIP_9_h-GJF2TLW3w&e=1791290392|Referer=https://ondemand.st"
-  },
-  {
-    "matchId": "sd-hotel~los-angeles-dodgers-vs-atlanta-braves-mlb-1791324000",
-    "title": "Atlanta Braves vs Los Angeles Dodgers",
-    "league": "baseball",
     "category": "baseball",
     "date": 1791324000000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Atlanta Braves",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphTAkCEHxAATUiG479mkCYMGIIFDoIUmfVWzBl4ReaNVNaYJ2NEQgA.webp"
+        "name": "Los Angeles Dodgers",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/32uxn21778269451.png"
       },
       "away": {
-        "name": "Los Angeles Dodgers",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhCIsYMiGD5cIbiD4GQxnABMQKEBBAk9BCkz4ouG8vXmjnTWmA1jREEA.webp"
+        "name": "Atlanta Braves",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/yjs76e1617811496.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/hotel/los-angeles-dodgers-vs-atlanta-braves-mlb-1791324000/playlist.m3u8?tk=ku8vgTUj6CY-ttf152pzPg&e=1791290393|Referer=https://ondemand.st",
-    "sdUrl": ""
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mlb/2026-10-06/lad-atl/playlist.m3u8?tk=tqppNMxbB2eevCE5sxBQqQ&e=1791314314|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-los-angeles-dodgers-vs-atlanta-braves/2/playlist.m3u8?tk=tqppNMxbB2eevCE5sxBQqQ&e=1791314314|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "mlb/2026-10-06/mil-sd",
+    "title": "Milwaukee Brewers vs. San Diego Padres",
+    "league": "MLB",
+    "category": "baseball",
+    "date": 1791336600000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Milwaukee Brewers",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/6wt1cn1617527530.png"
+      },
+      "away": {
+        "name": "San Diego Padres",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/08kh2a1595775193.png"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mlb/2026-10-06/mil-sd/playlist.m3u8?tk=XvfBil5GrmmBcxkU4lhc1Q&e=1791314315|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-milwaukee-brewers-vs-san-diego-padres/2/playlist.m3u8?tk=XvfBil5GrmmBcxkU4lhc1Q&e=1791314315|Referer=https://ondemand.st"
   }
 ]

@@ -1,105 +1,5 @@
 [
   {
-    "matchId": "nba/2026-10-05/mem-atl",
-    "title": "Memphis Grizzlies vs. Atlanta Hawks",
-    "league": "NBA",
-    "category": "basketball",
-    "date": 1791241200000,
-    "status": "live",
-    "teams": {
-      "home": {
-        "name": "Memphis Grizzlies",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/7o1noy1778226315.png"
-      },
-      "away": {
-        "name": "Atlanta Hawks",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/v44qp21778197640.png"
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nba/2026-10-05/mem-atl/playlist.m3u8?tk=eXKWiRek6RnNWdvpm-OC6w&e=1791290364|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-memphis-grizzlies-vs-atlanta-hawks/2/playlist.m3u8?tk=eXKWiRek6RnNWdvpm-OC6w&e=1791290364|Referer=https://ondemand.st"
-  },
-  {
-    "matchId": "nba/2026-10-05/phx-det",
-    "title": "Phoenix Suns vs. Detroit Pistons",
-    "league": "NBA",
-    "category": "basketball",
-    "date": 1791241200000,
-    "status": "live",
-    "teams": {
-      "home": {
-        "name": "Phoenix Suns",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/lg7qrc1621594751.png"
-      },
-      "away": {
-        "name": "Detroit Pistons",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/xfyknc1778198971.png"
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nba/2026-10-05/phx-det/playlist.m3u8?tk=66wijz-0tfLdYIZ8ilt8Cg&e=1791290365|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-phoenix-suns-vs-detroit-pistons/2/playlist.m3u8?tk=66wijz-0tfLdYIZ8ilt8Cg&e=1791290365|Referer=https://ondemand.st"
-  },
-  {
-    "matchId": "nba/2026-10-05/ny-phi",
-    "title": "New York Knicks vs. Philadelphia 76ers",
-    "league": "NBA",
-    "category": "basketball",
-    "date": 1791241200000,
-    "status": "live",
-    "teams": {
-      "home": {
-        "name": "New York Knicks",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/j6rlbi1778226857.png"
-      },
-      "away": {
-        "name": "Philadelphia 76ers",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/4k8obt1778226764.png"
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nba/2026-10-05/ny-phi/playlist.m3u8?tk=66wijz-0tfLdYIZ8ilt8Cg&e=1791290365|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-new-york-knicks-vs-philadelphia-76-ers/2/playlist.m3u8?tk=66wijz-0tfLdYIZ8ilt8Cg&e=1791290365|Referer=https://ondemand.st"
-  },
-  {
-    "matchId": "nba/2026-10-05/min-mil",
-    "title": "Minnesota Timberwolves vs. Milwaukee Bucks",
-    "league": "NBA",
-    "category": "basketball",
-    "date": 1791244800000,
-    "status": "live",
-    "teams": {
-      "home": {
-        "name": "Minnesota Timberwolves",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/olhug01621594702.png"
-      },
-      "away": {
-        "name": "Milwaukee Bucks",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/epenxg1781034811.png"
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nba/2026-10-05/min-mil/playlist.m3u8?tk=APHLrC3V12fC8ud03K5sgg&e=1791290366|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-minnesota-timberwolves-vs-milwaukee-bucks/2/playlist.m3u8?tk=APHLrC3V12fC8ud03K5sgg&e=1791290366|Referer=https://ondemand.st"
-  },
-  {
-    "matchId": "nba/2026-10-05/lal-sac",
-    "title": "Los Angeles Lakers vs. Sacramento Kings",
-    "league": "NBA",
-    "category": "basketball",
-    "date": 1791252000000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Los Angeles Lakers",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/k2buwo1778227426.png"
-      },
-      "away": {
-        "name": "Sacramento Kings",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/d8uoxw1714254511.png"
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nba/2026-10-05/lal-sac/playlist.m3u8?tk=APHLrC3V12fC8ud03K5sgg&e=1791290366|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-los-angeles-lakers-vs-sacramento-kings/2/playlist.m3u8?tk=APHLrC3V12fC8ud03K5sgg&e=1791290366|Referer=https://ondemand.st"
-  },
-  {
     "matchId": "nba/2026-10-06/bkn-cha",
     "title": "Brooklyn Nets vs. Charlotte Hornets",
     "league": "NBA",
@@ -116,8 +16,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/hkafe61739948361.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nba/2026-10-06/bkn-cha/playlist.m3u8?tk=XWNPCfLbmJuk9AkQzI5J6w&e=1791290367|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-brooklyn-nets-vs-charlotte-hornets/2/playlist.m3u8?tk=XWNPCfLbmJuk9AkQzI5J6w&e=1791290367|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nba/2026-10-06/bkn-cha/playlist.m3u8?tk=CPZML52BB_5xf80Gdg9zDg&e=1791314286|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-brooklyn-nets-vs-charlotte-hornets/2/playlist.m3u8?tk=CPZML52BB_5xf80Gdg9zDg&e=1791314286|Referer=https://ondemand.st"
   },
   {
     "matchId": "nba/2026-10-06/no-okc",
@@ -136,8 +36,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/xoxjsr1778226698.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nba/2026-10-06/no-okc/playlist.m3u8?tk=XWNPCfLbmJuk9AkQzI5J6w&e=1791290367|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-new-orleans-pelicans-vs-oklahoma-city-thunder/2/playlist.m3u8?tk=XWNPCfLbmJuk9AkQzI5J6w&e=1791290367|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nba/2026-10-06/no-okc/playlist.m3u8?tk=taADvWyOOn2jKrmGUohS0w&e=1791314287|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-new-orleans-pelicans-vs-oklahoma-city-thunder/2/playlist.m3u8?tk=taADvWyOOn2jKrmGUohS0w&e=1791314287|Referer=https://ondemand.st"
   },
   {
     "matchId": "nba/2026-10-06/den-utah",
@@ -156,8 +56,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/s8ch7m1778197814.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nba/2026-10-06/den-utah/playlist.m3u8?tk=dUUoTQaWeOFEPIr2g8o0Yw&e=1791290368|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-denver-nuggets-vs-utah-jazz/2/playlist.m3u8?tk=dUUoTQaWeOFEPIr2g8o0Yw&e=1791290368|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nba/2026-10-06/den-utah/playlist.m3u8?tk=taADvWyOOn2jKrmGUohS0w&e=1791314287|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-denver-nuggets-vs-utah-jazz/2/playlist.m3u8?tk=taADvWyOOn2jKrmGUohS0w&e=1791314287|Referer=https://ondemand.st"
   },
   {
     "matchId": "nba/2026-10-06/lal-gs",
@@ -176,7 +76,127 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/d8uoxw1714254511.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nba/2026-10-06/lal-gs/playlist.m3u8?tk=dUUoTQaWeOFEPIr2g8o0Yw&e=1791290368|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-los-angeles-lakers-vs-golden-state-warriors/2/playlist.m3u8?tk=dUUoTQaWeOFEPIr2g8o0Yw&e=1791290368|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nba/2026-10-06/lal-gs/playlist.m3u8?tk=WcuO8MhLrQFaUKO8lu0jJQ&e=1791314288|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-los-angeles-lakers-vs-golden-state-warriors/2/playlist.m3u8?tk=WcuO8MhLrQFaUKO8lu0jJQ&e=1791314288|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "nbl/2026-10-07/adl-mel",
+    "title": "Adelaide 36ers vs. Melbourne United",
+    "league": "Basketball",
+    "category": "basketball",
+    "date": 1791361800000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Adelaide 36ers",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/zp72061755701355.png"
+      },
+      "away": {
+        "name": "Melbourne United",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/adpuke1755702629.png"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nbl/2026-10-07/adl-mel/playlist.m3u8?tk=WcuO8MhLrQFaUKO8lu0jJQ&e=1791314288|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-adelaide-36-ers-vs-melbourne-united/2/playlist.m3u8?tk=WcuO8MhLrQFaUKO8lu0jJQ&e=1791314288|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "nba/2026-10-07/min-ind",
+    "title": "Minnesota Timberwolves vs. Indiana Pacers",
+    "league": "NBA",
+    "category": "basketball",
+    "date": 1791414000000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Minnesota Timberwolves",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/y3lutb1778226511.png"
+      },
+      "away": {
+        "name": "Indiana Pacers",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/epenxg1781034811.png"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nba/2026-10-07/min-ind/playlist.m3u8?tk=f5a5XrM71UXBQ4-R2d5nHA&e=1791314289|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-minnesota-timberwolves-vs-indiana-pacers/2/playlist.m3u8?tk=f5a5XrM71UXBQ4-R2d5nHA&e=1791314289|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "nba/2026-10-07/orl-mem",
+    "title": "Orlando Magic vs. Memphis Grizzlies",
+    "league": "NBA",
+    "category": "basketball",
+    "date": 1791417600000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Orlando Magic",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/v44qp21778197640.png"
+      },
+      "away": {
+        "name": "Memphis Grizzlies",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/j0mpu81778198371.png"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nba/2026-10-07/orl-mem/playlist.m3u8?tk=f5a5XrM71UXBQ4-R2d5nHA&e=1791314289|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-orlando-magic-vs-memphis-grizzlies/2/playlist.m3u8?tk=f5a5XrM71UXBQ4-R2d5nHA&e=1791314289|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "nba/2026-10-07/mil-okc",
+    "title": "Milwaukee Bucks vs. Oklahoma City Thunder",
+    "league": "NBA",
+    "category": "basketball",
+    "date": 1791417600000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Milwaukee Bucks",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/bkhj5p1778199006.png"
+      },
+      "away": {
+        "name": "Oklahoma City Thunder",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/olhug01621594702.png"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nba/2026-10-07/mil-okc/playlist.m3u8?tk=xTDDwJcq5NYrJPcRUXlhcQ&e=1791314290|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-milwaukee-bucks-vs-oklahoma-city-thunder/2/playlist.m3u8?tk=xTDDwJcq5NYrJPcRUXlhcQ&e=1791314290|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "nba/2026-10-07/phx-chi",
+    "title": "Phoenix Suns vs. Chicago Bulls",
+    "league": "NBA",
+    "category": "basketball",
+    "date": 1791417600000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Phoenix Suns",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/ehq8l31778197349.png"
+      },
+      "away": {
+        "name": "Chicago Bulls",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/xfyknc1778198971.png"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nba/2026-10-07/phx-chi/playlist.m3u8?tk=xTDDwJcq5NYrJPcRUXlhcQ&e=1791314290|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-phoenix-suns-vs-chicago-bulls/2/playlist.m3u8?tk=xTDDwJcq5NYrJPcRUXlhcQ&e=1791314290|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "nba/2026-10-07/gs-por",
+    "title": "Golden State Warriors vs. Portland Trail Blazers",
+    "league": "NBA",
+    "category": "basketball",
+    "date": 1791424800000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Golden State Warriors",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/umehtv1778226952.png"
+      },
+      "away": {
+        "name": "Portland Trail Blazers",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/xokycb1778197905.png"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nba/2026-10-07/gs-por/playlist.m3u8?tk=xTDDwJcq5NYrJPcRUXlhcQ&e=1791314290|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-golden-state-warriors-vs-portland-trail-blazers/2/playlist.m3u8?tk=xTDDwJcq5NYrJPcRUXlhcQ&e=1791314290|Referer=https://ondemand.st"
   }
 ]
