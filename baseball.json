@@ -5,19 +5,19 @@
     "league": "MLB",
     "category": "baseball",
     "date": 1791324000000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "Los Angeles Dodgers",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/32uxn21778269451.png"
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/yjs76e1617811496.png"
       },
       "away": {
         "name": "Atlanta Braves",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/yjs76e1617811496.png"
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/32uxn21778269451.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mlb/2026-10-06/lad-atl/playlist.m3u8?tk=MTtmuUaPBM3VOnk1xZd4mQ&e=1791360187|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-los-angeles-dodgers-vs-atlanta-braves/2/playlist.m3u8?tk=MTtmuUaPBM3VOnk1xZd4mQ&e=1791360187|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mlb/2026-10-06/lad-atl/playlist.m3u8?tk=nmm1PttGSUPcKbP5UJa_OA&e=1791376119|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-los-angeles-dodgers-vs-atlanta-braves/2/playlist.m3u8?tk=nmm1PttGSUPcKbP5UJa_OA&e=1791376119|Referer=https://ondemand.st"
   },
   {
     "matchId": "mlb/2026-10-06/mil-sd",
@@ -36,8 +36,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/08kh2a1595775193.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mlb/2026-10-06/mil-sd/playlist.m3u8?tk=MTtmuUaPBM3VOnk1xZd4mQ&e=1791360187|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-milwaukee-brewers-vs-san-diego-padres/2/playlist.m3u8?tk=MTtmuUaPBM3VOnk1xZd4mQ&e=1791360187|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mlb/2026-10-06/mil-sd/playlist.m3u8?tk=IRYFb1-iB84WP1M2R4qHnw&e=1791376120|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-milwaukee-brewers-vs-san-diego-padres/2/playlist.m3u8?tk=IRYFb1-iB84WP1M2R4qHnw&e=1791376120|Referer=https://ondemand.st"
   },
   {
     "matchId": "sd-golf~2112",
@@ -56,7 +56,47 @@
         "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDwwSMABN1CtCG4hNICCBggUh4yBLnTBCkz4ouYMmvrzRzprTCuxohBAA.webp"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/2112/playlist.m3u8?tk=MTtmuUaPBM3VOnk1xZd4mQ&e=1791360187|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/2112/2/playlist.m3u8?tk=MTtmuUaPBM3VOnk1xZd4mQ&e=1791360187|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/2112/playlist.m3u8?tk=BhEBT_U1QFVI8iPjKCOhyA&e=1791376121|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/2112/2/playlist.m3u8?tk=BhEBT_U1QFVI8iPjKCOhyA&e=1791376121|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "sd-hotel~los-angeles-dodgers-vs-atlanta-braves-mlb-1791410400",
+    "title": "Atlanta Braves vs Los Angeles Dodgers",
+    "league": "baseball",
+    "category": "baseball",
+    "date": 1791410400000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Atlanta Braves",
+        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphTAkCEHxAATUiG479mkCYMGIIFDoIUmfVWzBl4ReaNVNaYJ2NEQgA.webp"
+      },
+      "away": {
+        "name": "Los Angeles Dodgers",
+        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhCIsYMiGD5cIbiD4GQxnABMQKEBBAk9BCkz4ouG8vXmjnTWmA1jREEA.webp"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/hotel/los-angeles-dodgers-vs-atlanta-braves-mlb-1791410400/playlist.m3u8?tk=3Xq3xQmfap2WJEqLlNytaQ&e=1791376122|Referer=https://ondemand.st",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "sd-hotel~tampa-bay-rays-vs-new-york-yankees-mlb-1791417600",
+    "title": "New York Yankees vs Tampa Bay Rays",
+    "league": "baseball",
+    "category": "baseball",
+    "date": 1791417600000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "New York Yankees",
+        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj5huYVavAgQ3EBFwhEBvjpCmAJiAsEKTPii5gy8IvNGOmtMM7GiIQA.webp"
+      },
+      "away": {
+        "name": "Tampa Bay Rays",
+        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzDtoUFJBDcQJXSAggYIRDoAmuEwQpM+KLmDLwi80faa0wjsaIhA.webp"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/hotel/tampa-bay-rays-vs-new-york-yankees-mlb-1791417600/playlist.m3u8?tk=3Xq3xQmfap2WJEqLlNytaQ&e=1791376122|Referer=https://ondemand.st",
+    "sdUrl": ""
   }
 ]
