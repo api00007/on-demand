@@ -16,8 +16,8 @@
         "badge": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/wwe/2026-10-09/playlist.m3u8?tk=6iW6Q8EWUGOMkkvu00IAyg&e=1791578236|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-wwe-friday-night-smackdown/2/playlist.m3u8?tk=6iW6Q8EWUGOMkkvu00IAyg&e=1791578236|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/wwe/2026-10-09/playlist.m3u8?tk=GZl3Z3lRAl0oHKmr513Pmw&e=1791604473|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-wwe-friday-night-smackdown/2/playlist.m3u8?tk=GZl3Z3lRAl0oHKmr513Pmw&e=1791604473|Referer=https://ondemand.st"
   },
   {
     "matchId": "aew/2026-10-10",
@@ -36,27 +36,47 @@
         "badge": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/aew/2026-10-10/playlist.m3u8?tk=6iW6Q8EWUGOMkkvu00IAyg&e=1791578236|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-aew-grand-slam-collision/2/playlist.m3u8?tk=6iW6Q8EWUGOMkkvu00IAyg&e=1791578236|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/aew/2026-10-10/playlist.m3u8?tk=5HprgvcXvt7n1qI9cxe6uw&e=1791604474|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-aew-grand-slam-collision/2/playlist.m3u8?tk=5HprgvcXvt7n1qI9cxe6uw&e=1791604474|Referer=https://ondemand.st"
   },
   {
-    "matchId": "sd-golf~2149",
-    "title": "UFC BJJ 12 Moura v Fornarino🔥",
+    "matchId": "sd-golf~2173",
+    "title": "BKFC Fight Night Cisneros v Petersen ⭐",
     "league": "fight",
     "category": "fight",
-    "date": 1791507600000,
-    "status": "live",
+    "date": 1791594000000,
+    "status": "upcoming",
     "teams": {
       "home": {
-        "name": "UFC BJJ 12 Moura",
+        "name": "BKFC Fight Night Cisneros",
         "badge": ""
       },
       "away": {
-        "name": "Fornarino",
+        "name": "Petersen",
         "badge": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/2149/playlist.m3u8?tk=Rqrs-FR0mMeM5Meu5QPa8g&e=1791578237|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/2149/2/playlist.m3u8?tk=Rqrs-FR0mMeM5Meu5QPa8g&e=1791578237|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/2173/playlist.m3u8?tk=5HprgvcXvt7n1qI9cxe6uw&e=1791604474|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/2173/2/playlist.m3u8?tk=5HprgvcXvt7n1qI9cxe6uw&e=1791604474|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "sd-golf~2174",
+    "title": "Castillo v Zarate (ESP)",
+    "league": "fight",
+    "category": "fight",
+    "date": 1791601200000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Castillo",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/gfwjdg1767090753.png"
+      },
+      "away": {
+        "name": "Zarate",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/f0j4uv1696510811.png"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/2174/playlist.m3u8?tk=hVtEtTo0c9nyO3WAidxSJg&e=1791604475|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/2174/2/playlist.m3u8?tk=hVtEtTo0c9nyO3WAidxSJg&e=1791604475|Referer=https://ondemand.st"
   }
 ]
