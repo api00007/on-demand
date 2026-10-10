@@ -1,31 +1,11 @@
 [
   {
-    "matchId": "f1/2026/singapore/sprint",
-    "title": "Singapore Grand Prix - Sprint",
-    "league": "Motorsports",
-    "category": "motor-sports",
-    "date": 1791622800000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Singapore Grand Prix - Sprint",
-        "badge": ""
-      },
-      "away": {
-        "name": "",
-        "badge": ""
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/f1/2026/singapore/sprint/playlist.m3u8?tk=DDmRrZAVQFdxusm1A6-FPw&e=1791658069|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-singapore-grand-prix-sprint/2/playlist.m3u8?tk=DDmRrZAVQFdxusm1A6-FPw&e=1791658069|Referer=https://ondemand.st"
-  },
-  {
     "matchId": "f1/2026/singapore/qualifying",
     "title": "Singapore Grand Prix - Qualifying",
     "league": "Motorsports",
     "category": "motor-sports",
     "date": 1791637200000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "Singapore Grand Prix - Qualifying",
@@ -36,8 +16,8 @@
         "badge": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/f1/2026/singapore/qualifying/playlist.m3u8?tk=d-Hbq6yFUMfwqz1-C1KPlA&e=1791658070|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-singapore-grand-prix-qualifying/2/playlist.m3u8?tk=d-Hbq6yFUMfwqz1-C1KPlA&e=1791658070|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/f1/2026/singapore/qualifying/playlist.m3u8?tk=LLcebYW-NOLKhY8dDoSwkg&e=1791682094|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-singapore-grand-prix-sprint/2/playlist.m3u8?tk=LLcebYW-NOLKhY8dDoSwkg&e=1791682094|Referer=https://ondemand.st"
   },
   {
     "matchId": "f1/2026/singapore/race",
@@ -56,7 +36,7 @@
         "badge": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/f1/2026/singapore/race/playlist.m3u8?tk=d-Hbq6yFUMfwqz1-C1KPlA&e=1791658070|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-singapore-grand-prix-sprint/2/playlist.m3u8?tk=d-Hbq6yFUMfwqz1-C1KPlA&e=1791658070|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/f1/2026/singapore/race/playlist.m3u8?tk=LLcebYW-NOLKhY8dDoSwkg&e=1791682094|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-singapore-grand-prix-sprint/2/playlist.m3u8?tk=LLcebYW-NOLKhY8dDoSwkg&e=1791682094|Referer=https://ondemand.st"
   }
 ]
