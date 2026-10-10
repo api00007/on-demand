@@ -1,5 +1,85 @@
 [
   {
+    "matchId": "kbx-cambridge-30173",
+    "title": "KBX Cambridge",
+    "league": "Combat Sports",
+    "category": "fight",
+    "date": 1791644400000,
+    "status": "live",
+    "teams": {
+      "home": {
+        "name": "KBX Cambridge",
+        "badge": ""
+      },
+      "away": {
+        "name": "",
+        "badge": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/kbx-cambridge-30173/playlist.m3u8?tk=Jt4TGhCRgAvcMjZ3E_2TXw&e=1791699486|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-kbx-cambridge/2/playlist.m3u8?tk=Jt4TGhCRgAvcMjZ3E_2TXw&e=1791699486|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "misfits-boxing-joey-essex-vs-dapper-laughs-30174",
+    "title": "Misfits Boxing: Joey Essex vs. Dapper Laughs",
+    "league": "Boxing",
+    "category": "fight",
+    "date": 1791653400000,
+    "status": "live",
+    "teams": {
+      "home": {
+        "name": "Misfits Boxing: Joey Essex",
+        "badge": ""
+      },
+      "away": {
+        "name": "Dapper Laughs",
+        "badge": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/misfits-boxing-joey-essex-vs-dapper-laughs-30174/playlist.m3u8?tk=Jt4TGhCRgAvcMjZ3E_2TXw&e=1791699486|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-misfits-boxing-joey-essex-vs-dapper-laughs/2/playlist.m3u8?tk=Jt4TGhCRgAvcMjZ3E_2TXw&e=1791699486|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "ufc-fight-night-allen-vs-duncan-30170",
+    "title": "UFC Fight Night: Allen vs Duncan",
+    "league": "UFC",
+    "category": "fight",
+    "date": 1791666000000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "UFC Fight Night: Allen",
+        "badge": ""
+      },
+      "away": {
+        "name": "Duncan",
+        "badge": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/ufc-fight-night-allen-vs-duncan-30170/playlist.m3u8?tk=sUozrakcXysTDboAjCor9w&e=1791699487|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-ufc-fight-night-allen-vs-duncan/2/playlist.m3u8?tk=sUozrakcXysTDboAjCor9w&e=1791699487|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "money-in-the-bank-new-orleans-30175",
+    "title": "Money in the Bank: New Orleans",
+    "league": "Wrestling",
+    "category": "fight",
+    "date": 1791669600000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Money in the Bank: New Orleans",
+        "badge": ""
+      },
+      "away": {
+        "name": "",
+        "badge": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/money-in-the-bank-new-orleans-30175/playlist.m3u8?tk=C-uiPwi2CvYffed3bE2v0A&e=1791699488|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-money-in-the-bank-new-orleans/2/playlist.m3u8?tk=C-uiPwi2CvYffed3bE2v0A&e=1791699488|Referer=https://ondemand.st"
+  },
+  {
     "matchId": "aew/2026-10-10",
     "title": "AEW Grand Slam: Collision",
     "league": "AEW",
@@ -16,19 +96,19 @@
         "badge": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/aew/2026-10-10/playlist.m3u8?tk=j-6OUzx8FxpsDZ4GoKUMHw&e=1791682038|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-aew-grand-slam-collision/2/playlist.m3u8?tk=j-6OUzx8FxpsDZ4GoKUMHw&e=1791682038|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/aew/2026-10-10/playlist.m3u8?tk=6KRiVsiC2O1IFcyzlD6l8g&e=1791699490|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-aew-grand-slam-collision/2/playlist.m3u8?tk=6KRiVsiC2O1IFcyzlD6l8g&e=1791699490|Referer=https://ondemand.st"
   },
   {
     "matchId": "sd-golf~2187",
-    "title": "Floyd Schofield vs Lucas Bahdi",
+    "title": "Schofield v Bahdi",
     "league": "fight",
     "category": "fight",
-    "date": 1791664200000,
+    "date": 1791680400000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Floyd Schofield",
+        "name": "Floyd Schofield Jr.",
         "badge": ""
       },
       "away": {
@@ -36,47 +116,7 @@
         "badge": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/2187/playlist.m3u8?tk=MoIGTV_30jQRKnDNZIjudA&e=1791682039|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/2187/2/playlist.m3u8?tk=j-6OUzx8FxpsDZ4GoKUMHw&e=1791682038|Referer=https://ondemand.st"
-  },
-  {
-    "matchId": "sd-golf~2185",
-    "title": "UFC Fight Night 290 Allen vs Duncan",
-    "league": "fight",
-    "category": "fight",
-    "date": 1791666000000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "UFC Fight Night 290 Allen",
-        "badge": ""
-      },
-      "away": {
-        "name": "Duncan",
-        "badge": ""
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/2185/playlist.m3u8?tk=c2ki8VB1AFuo5lpD-q9_pg&e=1791682040|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/2185/2/playlist.m3u8?tk=MoIGTV_30jQRKnDNZIjudA&e=1791682039|Referer=https://ondemand.st"
-  },
-  {
-    "matchId": "sd-golf~2186",
-    "title": "Money In The Bank",
-    "league": "fight",
-    "category": "fight",
-    "date": 1791669600000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "",
-        "badge": ""
-      },
-      "away": {
-        "name": "",
-        "badge": ""
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/2186/playlist.m3u8?tk=c2ki8VB1AFuo5lpD-q9_pg&e=1791682040|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/2186/2/playlist.m3u8?tk=c2ki8VB1AFuo5lpD-q9_pg&e=1791682040|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/2187/playlist.m3u8?tk=yhE6_JZxWMrojTAWIQeRdA&e=1791699491|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/2187/2/playlist.m3u8?tk=6KRiVsiC2O1IFcyzlD6l8g&e=1791699490|Referer=https://ondemand.st"
   }
 ]
