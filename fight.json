@@ -1,14 +1,14 @@
 [
   {
-    "matchId": "tna-bound-for-glory-30225",
-    "title": "TNA Bound for Glory",
-    "league": "Wrestling",
+    "matchId": "dwcs/2026-10-13",
+    "title": "Dana White's Contender Series",
+    "league": "Combat Sports",
     "category": "fight",
-    "date": 1791750600000,
-    "status": "live",
+    "date": 1791932400000,
+    "status": "upcoming",
     "teams": {
       "home": {
-        "name": "TNA Bound for Glory",
+        "name": "Dana White's Contender Series",
         "badge": ""
       },
       "away": {
@@ -16,7 +16,107 @@
         "badge": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/tna-bound-for-glory-30225/playlist.m3u8?tk=3fFd_3jV-b04I7tFBiRDcw&e=1791804949|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-tna-bound-for-glory/2/playlist.m3u8?tk=3fFd_3jV-b04I7tFBiRDcw&e=1791804949|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/dwcs/2026-10-13/playlist.m3u8?tk=V7isUi2K7zALKsMNekki4Q&e=1791824209|Referer=https://ondemand.st",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "wwe/2026-10-13",
+    "title": "WWE NXT",
+    "league": "WWE",
+    "category": "fight",
+    "date": 1791936000000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "WWE NXT",
+        "badge": ""
+      },
+      "away": {
+        "name": "",
+        "badge": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/wwe/2026-10-13/playlist.m3u8?tk=JA81ZKBdHAbq6JHxQa1IyQ&e=1791824210|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-wwe-nxt/2/playlist.m3u8?tk=JA81ZKBdHAbq6JHxQa1IyQ&e=1791824210|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "aew/2026-10-14",
+    "title": "AEW Wednesday Night Dynamite",
+    "league": "AEW",
+    "category": "fight",
+    "date": 1792022400000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "AEW Wednesday Night Dynamite",
+        "badge": ""
+      },
+      "away": {
+        "name": "",
+        "badge": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/aew/2026-10-14/playlist.m3u8?tk=JA81ZKBdHAbq6JHxQa1IyQ&e=1791824210|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-aew-wednesday-night-dynamite/2/playlist.m3u8?tk=JA81ZKBdHAbq6JHxQa1IyQ&e=1791824210|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "tna/2026-10-15",
+    "title": "TNA Impact",
+    "league": "Wrestling",
+    "category": "fight",
+    "date": 1792112400000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "TNA Impact",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/wg1khe1591652686.png"
+      },
+      "away": {
+        "name": "",
+        "badge": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/tna/2026-10-15/playlist.m3u8?tk=RslRii0E8jFN3F4GgJZLqQ&e=1791824211|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-tna-impact/2/playlist.m3u8?tk=RslRii0E8jFN3F4GgJZLqQ&e=1791824211|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "wwe/2026-10-16",
+    "title": "WWE Friday Night Smackdown",
+    "league": "WWE",
+    "category": "fight",
+    "date": 1792195200000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "WWE Friday Night Smackdown",
+        "badge": ""
+      },
+      "away": {
+        "name": "",
+        "badge": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/wwe/2026-10-16/playlist.m3u8?tk=1SbRsHbNoc72g1FALKXpgQ&e=1791824212|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-wwe-friday-night-smackdown/2/playlist.m3u8?tk=1SbRsHbNoc72g1FALKXpgQ&e=1791824212|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "aew/2026-10-17",
+    "title": "AEW Saturday Night Collision",
+    "league": "AEW",
+    "category": "fight",
+    "date": 1792281600000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "AEW Saturday Night Collision",
+        "badge": ""
+      },
+      "away": {
+        "name": "",
+        "badge": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/aew/2026-10-17/playlist.m3u8?tk=bNE_Lb3F3QAT6aXi9a_M0w&e=1791824213|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-aew-saturday-night-collision/2/playlist.m3u8?tk=bNE_Lb3F3QAT6aXi9a_M0w&e=1791824213|Referer=https://ondemand.st"
   }
 ]

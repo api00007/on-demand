@@ -1,67 +1,27 @@
 [
   {
-    "matchId": "nba/2026-10-11/orl-cle",
-    "title": "Orlando Magic vs. Cleveland Cavaliers",
-    "league": "NBA",
-    "category": "basketball",
-    "date": 1791757800000,
-    "status": "live",
-    "teams": {
-      "home": {
-        "name": "Orlando Magic",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/pch9ct1778195828.png"
-      },
-      "away": {
-        "name": "Cleveland Cavaliers",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/j0mpu81778198371.png"
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nba/2026-10-11/orl-cle/playlist.m3u8?tk=K0ReVP6PAg6hkjRXUnyeDA&e=1791804941|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-orlando-magic-vs-cleveland-cavaliers/2/playlist.m3u8?tk=K0ReVP6PAg6hkjRXUnyeDA&e=1791804941|Referer=https://ondemand.st"
-  },
-  {
-    "matchId": "nba/2026-10-11/mil-cha",
-    "title": "Milwaukee Bucks vs. Charlotte Hornets",
-    "league": "NBA",
-    "category": "basketball",
-    "date": 1791759600000,
-    "status": "live",
-    "teams": {
-      "home": {
-        "name": "Milwaukee Bucks",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/xqtvvp1422380623.png"
-      },
-      "away": {
-        "name": "Charlotte Hornets",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/olhug01621594702.png"
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nba/2026-10-11/mil-cha/playlist.m3u8?tk=K0ReVP6PAg6hkjRXUnyeDA&e=1791804941|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-milwaukee-bucks-vs-charlotte-hornets/2/playlist.m3u8?tk=K0ReVP6PAg6hkjRXUnyeDA&e=1791804941|Referer=https://ondemand.st"
-  },
-  {
-    "matchId": "nba/2026-10-11/chi-den",
-    "title": "Chicago Bulls vs. Denver Nuggets",
-    "league": "NBA",
+    "matchId": "sd-admin~ppv-chicago-bulls-vs-denver-nuggets",
+    "title": "Denver Nuggets vs Chicago Bulls",
+    "league": "basketball",
     "category": "basketball",
     "date": 1791766800000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
-        "name": "Chicago Bulls",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/s8ch7m1778197814.png"
+        "name": "Denver Nuggets",
+        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpkQhmoEANDdNukCB0o9BkBAIUmfFFzBl4ReaOtNaYW2NEQgA.webp"
       },
       "away": {
-        "name": "Denver Nuggets",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/ehq8l31778197349.png"
+        "name": "Chicago Bulls",
+        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh1HhuIEMDAhE6viH0b1KAzpAQQKAhSZ8UXMGXhF5o+01phHY0RCA.webp"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nba/2026-10-11/chi-den/playlist.m3u8?tk=K0ReVP6PAg6hkjRXUnyeDA&e=1791804941|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-chicago-bulls-vs-denver-nuggets/2/playlist.m3u8?tk=K0ReVP6PAg6hkjRXUnyeDA&e=1791804941|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-chicago-bulls-vs-denver-nuggets/playlist.m3u8?tk=ZdjyptNuTlFG813VW4cORA&e=1791824172|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-chicago-bulls-vs-denver-nuggets/2/playlist.m3u8?tk=ZdjyptNuTlFG813VW4cORA&e=1791824172|Referer=https://ondemand.st"
   },
   {
     "matchId": "sd-golf~2181",
-    "title": "London Lions - Portland Trail Blazers",
+    "title": "Portland Trail Blazers vs London Lions",
     "league": "basketball",
     "category": "basketball",
     "date": 1791835200000,
@@ -76,8 +36,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/umehtv1778226952.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/2181/playlist.m3u8?tk=IWc11li8eSA-LVREmKDiLA&e=1791804942|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/2181/2/playlist.m3u8?tk=IWc11li8eSA-LVREmKDiLA&e=1791804942|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/2181/playlist.m3u8?tk=_0gfMQAVwCFT-Dpr4zkoow&e=1791824173|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/2181/2/playlist.m3u8?tk=_0gfMQAVwCFT-Dpr4zkoow&e=1791824173|Referer=https://ondemand.st"
   },
   {
     "matchId": "sd-golf~2193",
@@ -96,8 +56,8 @@
         "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxDAADAoAmpEJpDcQfEIhQhTEEJcR6JhGMCZ8UXMGXhF5o501phXY0QggA.webp"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/2193/playlist.m3u8?tk=H4t9phBeRvG7-m2S0IYQeg&e=1791804943|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/2193/2/playlist.m3u8?tk=H4t9phBeRvG7-m2S0IYQeg&e=1791804943|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/2193/playlist.m3u8?tk=_0gfMQAVwCFT-Dpr4zkoow&e=1791824173|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/2193/2/playlist.m3u8?tk=_0gfMQAVwCFT-Dpr4zkoow&e=1791824173|Referer=https://ondemand.st"
   },
   {
     "matchId": "sd-golf~2192",
@@ -116,8 +76,8 @@
         "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3kAGYkhBkYIbiD76QRvShCmdOgCYEKTPii5gy8IvNEOmtME7GiIQA.webp"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/2192/playlist.m3u8?tk=LsfSEDEZFM_gJ38P3jSxRQ&e=1791804944|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/2192/2/playlist.m3u8?tk=H4t9phBeRvG7-m2S0IYQeg&e=1791804943|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/2192/playlist.m3u8?tk=w1APyvBHdjY008xLkhvWwQ&e=1791824174|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/2192/2/playlist.m3u8?tk=w1APyvBHdjY008xLkhvWwQ&e=1791824174|Referer=https://ondemand.st"
   },
   {
     "matchId": "sd-golf~2194",
@@ -136,27 +96,27 @@
         "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzIxSwQiH4huIPiAO6YIRBAM6dBCkz4ouYMvCLzRdprTAOxoiEA.webp"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/2194/playlist.m3u8?tk=LsfSEDEZFM_gJ38P3jSxRQ&e=1791804944|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/2194/2/playlist.m3u8?tk=LsfSEDEZFM_gJ38P3jSxRQ&e=1791804944|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/2194/playlist.m3u8?tk=w1APyvBHdjY008xLkhvWwQ&e=1791824174|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/2194/2/playlist.m3u8?tk=w1APyvBHdjY008xLkhvWwQ&e=1791824174|Referer=https://ondemand.st"
   },
   {
     "matchId": "sd-golf~2195",
-    "title": "San Antonio Spurs - Utah Jazz",
+    "title": "Utah Jazz vs San Antonio Spurs",
     "league": "basketball",
     "category": "basketball",
     "date": 1791853200000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "San Antonio Spurs",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/yc5qfx1781459158.png"
+        "name": "Utah Jazz",
+        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpOzNIIcHxDcQWrRp0oNxgCYaCFJnxRcwZeEXmibTWmDtjREIA.webp"
       },
       "away": {
-        "name": "Utah Jazz",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/trct8w1778198868.png"
+        "name": "San Antonio Spurs",
+        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphTMQZXgBMwIENxB9dekBHUgUxkroIUmfVWzBl4ReaNVNaYJ2NEQgA.webp"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/2195/playlist.m3u8?tk=A1cRl7o-9Ta9nRypULJSRg&e=1791804945|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/2195/2/playlist.m3u8?tk=A1cRl7o-9Ta9nRypULJSRg&e=1791804945|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/2195/playlist.m3u8?tk=WAvpz-g9QUtbowK0hoVn6A&e=1791824176|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/2195/2/playlist.m3u8?tk=WAvpz-g9QUtbowK0hoVn6A&e=1791824176|Referer=https://ondemand.st"
   }
 ]
