@@ -1,148 +1,68 @@
 [
   {
-    "matchId": "sd-golf~2181",
-    "title": "Portland Trail Blazers vs London Lions",
-    "league": "basketball",
+    "matchId": "nba/2026-10-12/sa-utah",
+    "title": "San Antonio Spurs vs. Utah Jazz",
+    "league": "NBA",
     "category": "basketball",
-    "date": 1791835200000,
+    "date": 1791853200000,
     "status": "live",
     "teams": {
       "home": {
-        "name": "London Lions",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/qa4n0b1723533398.png"
-      },
-      "away": {
-        "name": "Portland Trail Blazers",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/umehtv1778226952.png"
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/2181/playlist.m3u8?tk=lVPqwOLI-zBKQJZckFztag&e=1791884322|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/2181/2/playlist.m3u8?tk=lVPqwOLI-zBKQJZckFztag&e=1791884322|Referer=https://ondemand.st"
-  },
-  {
-    "matchId": "sd-golf~2193",
-    "title": "Washington Wizards vs Brooklyn Nets",
-    "league": "basketball",
-    "category": "basketball",
-    "date": 1791846000000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Washington Wizards",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyggFiAdxBa+IXSFyHdOfQQpM+KLmDLwi80Vaa0wNsaIhA.webp"
-      },
-      "away": {
-        "name": "Brooklyn Nets",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxDAADAoAmpEJpDcQfEIhQhTEEJcR6JhGMCZ8UXMGXhF5o501phXY0QggA.webp"
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/2193/playlist.m3u8?tk=QfQWZZ9PLxs0IbCnjuj0RQ&e=1791884323|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/2193/2/playlist.m3u8?tk=lVPqwOLI-zBKQJZckFztag&e=1791884322|Referer=https://ondemand.st"
-  },
-  {
-    "matchId": "sd-golf~2192",
-    "title": "Atlanta Hawks vs Oklahoma City Thunder",
-    "league": "basketball",
-    "category": "basketball",
-    "date": 1791846000000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Atlanta Hawks",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAC0IXkyooNqvSFyGAJiETcQywjGBM+KLmDLwi80faa0wjsaIhA.webp"
-      },
-      "away": {
-        "name": "Oklahoma City Thunder",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3kAGYkhBkYIbiD76QRvShCmdOgCYEKTPii5gy8IvNEOmtME7GiIQA.webp"
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/2192/playlist.m3u8?tk=QfQWZZ9PLxs0IbCnjuj0RQ&e=1791884323|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/2192/2/playlist.m3u8?tk=QfQWZZ9PLxs0IbCnjuj0RQ&e=1791884323|Referer=https://ondemand.st"
-  },
-  {
-    "matchId": "sd-golf~2194",
-    "title": "New York Knicks vs Minnesota Timberwolves",
-    "league": "basketball",
-    "category": "basketball",
-    "date": 1791847800000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "New York Knicks",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhD0ADCBCUGkENxB8Dm3CYAmR8xAIUmfFFzBl4ReaPtNaYR2NEQgA.webp"
-      },
-      "away": {
-        "name": "Minnesota Timberwolves",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzIxSwQiH4huIPiAO6YIRBAM6dBCkz4ouYMvCLzRdprTAOxoiEA.webp"
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/2194/playlist.m3u8?tk=yY5FS3Yiz87r3eUIB3SaoQ&e=1791884329|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/2194/2/playlist.m3u8?tk=aZ2T2tt_JlTXoI0vnaFvSQ&e=1791884324|Referer=https://ondemand.st"
-  },
-  {
-    "matchId": "sd-golf~2195",
-    "title": "Utah Jazz vs San Antonio Spurs",
-    "league": "basketball",
-    "category": "basketball",
-    "date": 1791853200000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Utah Jazz",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpOzNIIcHxDcQWrRp0oNxgCYaCFJnxRcwZeEXmibTWmDtjREIA.webp"
-      },
-      "away": {
         "name": "San Antonio Spurs",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphTMQZXgBMwIENxB9dekBHUgUxkroIUmfVWzBl4ReaNVNaYJ2NEQgA.webp"
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/trct8w1778198868.png"
+      },
+      "away": {
+        "name": "Utah Jazz",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/yc5qfx1781459158.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/2195/playlist.m3u8?tk=nvw33wkbvNMj736c263V7Q&e=1791884330|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/2195/2/playlist.m3u8?tk=yY5FS3Yiz87r3eUIB3SaoQ&e=1791884329|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nba/2026-10-12/sa-utah/playlist.m3u8?tk=wlGokPDv6ybXVtIu7Yom8A&e=1791903350|Referer=https://ondemand.st",
+    "sdUrl": ""
   },
   {
-    "matchId": "sd-golf~2233",
-    "title": "Toronto Raptors vs New York Knicks",
-    "league": "basketball",
+    "matchId": "nba/2026-10-13/cle-orl",
+    "title": "Cleveland Cavaliers vs. Orlando Magic",
+    "league": "NBA",
     "category": "basketball",
     "date": 1791932400000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Toronto Raptors",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzDNIIFCAAmPENxB8DIYzhyGcMEMsIxgTPii5gy8IvNGOmtMM7GiIQA.webp"
-      },
-      "away": {
-        "name": "New York Knicks",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhD0ADCBCUGkENxB8Dm3CYAmR8xAIUmfFFzBl4ReaPtNaYR2NEQgA.webp"
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/2233/playlist.m3u8?tk=nvw33wkbvNMj736c263V7Q&e=1791884330|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/2233/2/playlist.m3u8?tk=nvw33wkbvNMj736c263V7Q&e=1791884330|Referer=https://ondemand.st"
-  },
-  {
-    "matchId": "sd-golf~2232",
-    "title": "Orlando Magic vs Cleveland Cavaliers",
-    "league": "basketball",
-    "category": "basketball",
-    "date": 1791932400000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Orlando Magic",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyQgYbWGBIgd3EH306QelEcQGJhdUz4ouW8vXmi7TWmC1jREIA.webp"
-      },
-      "away": {
         "name": "Cleveland Cavaliers",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphjNQIFM0ghuIPnpCHdKECUO5DBCkz6a2YMvCLzRmprTAOxoiEA.webp"
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/j0mpu81778198371.png"
+      },
+      "away": {
+        "name": "Orlando Magic",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/pch9ct1778195828.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/2232/playlist.m3u8?tk=ugnbvqAVcCAjpRKkSFtYIA&e=1791884331|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/2232/2/playlist.m3u8?tk=ugnbvqAVcCAjpRKkSFtYIA&e=1791884331|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nba/2026-10-13/cle-orl/playlist.m3u8?tk=6eNBnudAeKCzfaQFohnDIA&e=1791903351|Referer=https://ondemand.st",
+    "sdUrl": ""
   },
   {
-    "matchId": "sd-golf~2234",
-    "title": "Indiana Pacers - Oklahoma City Thunder",
-    "league": "basketball",
+    "matchId": "nba/2026-10-13/ny-tor",
+    "title": "New York Knicks vs. Toronto Raptors",
+    "league": "NBA",
+    "category": "basketball",
+    "date": 1791932400000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "New York Knicks",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/lct96a1778227205.png"
+      },
+      "away": {
+        "name": "Toronto Raptors",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/4k8obt1778226764.png"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nba/2026-10-13/ny-tor/playlist.m3u8?tk=6eNBnudAeKCzfaQFohnDIA&e=1791903351|Referer=https://ondemand.st",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "nba/2026-10-13/ind-okc",
+    "title": "Indiana Pacers vs. Oklahoma City Thunder",
+    "league": "NBA",
     "category": "basketball",
     "date": 1791936000000,
     "status": "upcoming",
@@ -153,50 +73,110 @@
       },
       "away": {
         "name": "Oklahoma City Thunder",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/bkhj5p1778199006.png"
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/y3lutb1778226511.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/2234/playlist.m3u8?tk=cb7S7GHiAudQ9R7TTWU1lA&e=1791884332|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/2234/2/playlist.m3u8?tk=ugnbvqAVcCAjpRKkSFtYIA&e=1791884331|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nba/2026-10-13/ind-okc/playlist.m3u8?tk=zu-U86qxvg5GSqbr2oBoWA&e=1791903352|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-indiana-pacers-vs-oklahoma-city-thunder/2/playlist.m3u8?tk=zu-U86qxvg5GSqbr2oBoWA&e=1791903352|Referer=https://ondemand.st"
   },
   {
-    "matchId": "sd-golf~2236",
-    "title": "Portland Trail Blazers - Sacramento Kings",
-    "league": "basketball",
-    "category": "basketball",
-    "date": 1791943200000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Portland Trail Blazers",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/umehtv1778226952.png"
-      },
-      "away": {
-        "name": "Sacramento Kings",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/k2buwo1778227426.png"
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/2236/playlist.m3u8?tk=cb7S7GHiAudQ9R7TTWU1lA&e=1791884332|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/2236/2/playlist.m3u8?tk=cb7S7GHiAudQ9R7TTWU1lA&e=1791884332|Referer=https://ondemand.st"
-  },
-  {
-    "matchId": "sd-golf~2235",
-    "title": "Golden State Warriors - Los Angeles Lakers",
-    "league": "basketball",
+    "matchId": "nba/2026-10-13/gs-lal",
+    "title": "Golden State Warriors vs. Los Angeles Lakers",
+    "league": "NBA",
     "category": "basketball",
     "date": 1791943200000,
     "status": "upcoming",
     "teams": {
       "home": {
         "name": "Golden State Warriors",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/xokycb1778197905.png"
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/d8uoxw1714254511.png"
       },
       "away": {
         "name": "Los Angeles Lakers",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/d8uoxw1714254511.png"
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/xokycb1778197905.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/2235/playlist.m3u8?tk=Otm3X9JK_9z-Fc_dfCsrig&e=1791884333|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/2235/2/playlist.m3u8?tk=cb7S7GHiAudQ9R7TTWU1lA&e=1791884332|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nba/2026-10-13/gs-lal/playlist.m3u8?tk=zu-U86qxvg5GSqbr2oBoWA&e=1791903352|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-golden-state-warriors-vs-los-angeles-lakers/2/playlist.m3u8?tk=zu-U86qxvg5GSqbr2oBoWA&e=1791903352|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "nba/2026-10-13/por-sac",
+    "title": "Portland Trail Blazers vs. Sacramento Kings",
+    "league": "NBA",
+    "category": "basketball",
+    "date": 1791943200000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Portland Trail Blazers",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/k2buwo1778227426.png"
+      },
+      "away": {
+        "name": "Sacramento Kings",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/umehtv1778226952.png"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nba/2026-10-13/por-sac/playlist.m3u8?tk=WQHOrAPW1UfqNm33Wof5Ww&e=1791903353|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-portland-trail-blazers-vs-sacramento-kings/2/playlist.m3u8?tk=WQHOrAPW1UfqNm33Wof5Ww&e=1791903353|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "sd-golf~2194",
+    "title": "New York Knicks vs Minnesota Timberwolves",
+    "league": "basketball",
+    "category": "basketball",
+    "date": 1791847800000,
+    "status": "live",
+    "teams": {
+      "home": {
+        "name": "New York Knicks",
+        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhD0ADCBCUGkENxB8Dm3CYAmR8xAIUmfFFzBl4ReaPtNaYR2NEQgA.webp"
+      },
+      "away": {
+        "name": "Minnesota Timberwolves",
+        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzIxSwQiH4huIPiAO6YIRBAM6dBCkz4ouYMvCLzRdprTAOxoiEA.webp"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/2194/playlist.m3u8?tk=WQHOrAPW1UfqNm33Wof5Ww&e=1791903353|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/2194/2/playlist.m3u8?tk=WQHOrAPW1UfqNm33Wof5Ww&e=1791903353|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "sd-golf~2193",
+    "title": "Washington Wizards vs Brooklyn Nets",
+    "league": "basketball",
+    "category": "basketball",
+    "date": 1791846000000,
+    "status": "live",
+    "teams": {
+      "home": {
+        "name": "Washington Wizards",
+        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyggFiAdxBa+IXSFyHdOfQQpM+KLmDLwi80Vaa0wNsaIhA.webp"
+      },
+      "away": {
+        "name": "Brooklyn Nets",
+        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxDAADAoAmpEJpDcQfEIhQhTEEJcR6JhGMCZ8UXMGXhF5o501phXY0QggA.webp"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/2193/playlist.m3u8?tk=K5ZlthRRG538MSB44F0SIQ&e=1791903354|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/2193/2/playlist.m3u8?tk=K5ZlthRRG538MSB44F0SIQ&e=1791903354|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "sd-golf~2192",
+    "title": "Atlanta Hawks vs Oklahoma City Thunder",
+    "league": "basketball",
+    "category": "basketball",
+    "date": 1791846000000,
+    "status": "live",
+    "teams": {
+      "home": {
+        "name": "Atlanta Hawks",
+        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAC0IXkyooNqvSFyGAJiETcQywjGBM+KLmDLwi80faa0wjsaIhA.webp"
+      },
+      "away": {
+        "name": "Oklahoma City Thunder",
+        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3kAGYkhBkYIbiD76QRvShCmdOgCYEKTPii5gy8IvNEOmtME7GiIQA.webp"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/2192/playlist.m3u8?tk=K5ZlthRRG538MSB44F0SIQ&e=1791903354|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/2192/2/playlist.m3u8?tk=K5ZlthRRG538MSB44F0SIQ&e=1791903354|Referer=https://ondemand.st"
   }
 ]
