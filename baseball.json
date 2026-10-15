@@ -1,22 +1,62 @@
 [
   {
-    "matchId": "mlb/2026-10-14/mil-lad",
-    "title": "Milwaukee Brewers vs. Los Angeles Dodgers",
-    "league": "MLB",
+    "matchId": "sd-admin~ppv-milwaukee-brewers-vs-los-angeles-dodgers",
+    "title": "Los Angeles Dodgers vs Milwaukee Brewers",
+    "league": "baseball",
     "category": "baseball",
     "date": 1792022400000,
+    "status": "live",
+    "teams": {
+      "home": {
+        "name": "Los Angeles Dodgers",
+        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhCIsYMiGD5cIbiD4GQxnABMQKEBBAk9BCkz4ouG8vXmjnTWmA1jREEA.webp"
+      },
+      "away": {
+        "name": "Milwaukee Brewers",
+        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAwQIYAAZQuHiG4gSIFIZB8zpgyfgEKTPii5gy8IvNGOmtMM7GiIQA.webp"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-milwaukee-brewers-vs-los-angeles-dodgers/playlist.m3u8?tk=Cl8ArbHLPnrv6sbrrJfoHg&e=1792078987|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-milwaukee-brewers-vs-los-angeles-dodgers/2/playlist.m3u8?tk=Cl8ArbHLPnrv6sbrrJfoHg&e=1792078987|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "sd-golf~2339",
+    "title": "Cleveland Guardians vs Tampa Bay Rays",
+    "league": "baseball",
+    "category": "baseball",
+    "date": 1792083600000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Milwaukee Brewers",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/32uxn21778269451.png"
+        "name": "Cleveland Guardians",
+        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDwwSMABN1CtCG4hNICCBggUh4yBLnTBCkz4ouYMmvrzRzprTCuxohBAA.webp"
       },
       "away": {
-        "name": "Los Angeles Dodgers",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/08kh2a1595775193.png"
+        "name": "Tampa Bay Rays",
+        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzDtoUFJBDcQJXSAggYIRDoAmuEwQpM+KLmDLwi80faa0wjsaIhA.webp"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mlb/2026-10-14/mil-lad/playlist.m3u8?tk=yg12w5RWuVXqdQCB2RoQgQ&e=1792062184|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-milwaukee-brewers-vs-los-angeles-dodgers/2/playlist.m3u8?tk=yg12w5RWuVXqdQCB2RoQgQ&e=1792062184|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/2339/playlist.m3u8?tk=V0zH-eZFNz8BnZp5yiycFw&e=1792078988|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/2339/2/playlist.m3u8?tk=V0zH-eZFNz8BnZp5yiycFw&e=1792078988|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "sd-golf~2340",
+    "title": "Los Angeles Dodgers vs Milwaukee Brewers",
+    "league": "baseball",
+    "category": "baseball",
+    "date": 1792108800000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Los Angeles Dodgers",
+        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhCIsYMiGD5cIbiD4GQxnABMQKEBBAk9BCkz4ouG8vXmjnTWmA1jREEA.webp"
+      },
+      "away": {
+        "name": "Milwaukee Brewers",
+        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAwQIYAAZQuHiG4gSIFIZB8zpgyfgEKTPii5gy8IvNGOmtMM7GiIQA.webp"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/2340/playlist.m3u8?tk=V0zH-eZFNz8BnZp5yiycFw&e=1792078988|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/2340/2/playlist.m3u8?tk=V0zH-eZFNz8BnZp5yiycFw&e=1792078988|Referer=https://ondemand.st"
   }
 ]
