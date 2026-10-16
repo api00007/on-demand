@@ -1,1 +1,142 @@
-[]
+[
+  {
+    "matchId": "nhl-network-29780",
+    "title": "NHL Network",
+    "league": "NHL",
+    "category": "hockey",
+    "date": 1792148265984,
+    "status": "live",
+    "teams": {
+      "home": {
+        "name": "NHL Network",
+        "badge": ""
+      },
+      "away": {
+        "name": "",
+        "badge": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl-network-29780/playlist.m3u8?tk=tyE_ioTorCLY1jjp9wWf8g&e=1792191466|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-nhl-network/2/playlist.m3u8?tk=tyE_ioTorCLY1jjp9wWf8g&e=1792191466|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "nhl/2026-10-16/pit-col",
+    "title": "Pittsburgh Penguins vs. Colorado Avalanche",
+    "league": "NHL",
+    "category": "hockey",
+    "date": 1792198800000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Pittsburgh Penguins",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/wqutut1421173572.png"
+      },
+      "away": {
+        "name": "Colorado Avalanche",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/dsj3on1546192477.png"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-10-16/pit-col/playlist.m3u8?tk=UXJwsbZgdbB0XDacSq1_gQ&e=1792191467|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-pittsburgh-penguins-vs-colorado-avalanche/2/playlist.m3u8?tk=UXJwsbZgdbB0XDacSq1_gQ&e=1792191467|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "nhl/2026-10-16/bos-ana",
+    "title": "Boston Bruins vs. Anaheim Ducks",
+    "league": "NHL",
+    "category": "hockey",
+    "date": 1792202400000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Boston Bruins",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/1d465t1719573796.png"
+      },
+      "away": {
+        "name": "Anaheim Ducks",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/b1r86e1720023232.png"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-10-16/bos-ana/playlist.m3u8?tk=UXJwsbZgdbB0XDacSq1_gQ&e=1792191467|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-boston-bruins-vs-anaheim-ducks/2/playlist.m3u8?tk=UXJwsbZgdbB0XDacSq1_gQ&e=1792191467|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "sd-golf~2331",
+    "title": "Washington Capitals vs New Jersey Devils",
+    "league": "NHL",
+    "category": "hockey",
+    "date": 1792256400000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Washington Capitals",
+        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhApVzHuu4htAExCIQqkHxAQQMECVwEKTPii5gy8IvNGOmtMM7GiIQA.webp"
+      },
+      "away": {
+        "name": "New Jersey Devils",
+        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpiQgoWcgBNYIbiE26QKECRCIDfNSBgEKTPii5gy8IvNGOmtMM7GiIQA.webp"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/2331/playlist.m3u8?tk=EjdmvgOSzmElSO52v52Vmg&e=1792191468|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/2331/2/playlist.m3u8?tk=EjdmvgOSzmElSO52v52Vmg&e=1792191468|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "sd-golf~2332",
+    "title": "Winnipeg Jets vs Carolina Hurricanes",
+    "league": "NHL",
+    "category": "hockey",
+    "date": 1792265400000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Winnipeg Jets",
+        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyxgB+EClDYQ3ECRAQQfXCESIAJrt0EKTPlrZgy8IvNFamtMM7GiIQA.webp"
+      },
+      "away": {
+        "name": "Carolina Hurricanes",
+        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAmIGCAGh4YECG4gSICJtwhEOI3uWEYwJnxRcwZHfXminTWmBdjREEA.webp"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/2332/playlist.m3u8?tk=XPQBFF-NgjevUPUyu66NVQ&e=1792191469|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/2332/2/playlist.m3u8?tk=XPQBFF-NgjevUPUyu66NVQ&e=1792191469|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "sd-golf~2333",
+    "title": "Tampa Bay Lightning vs Vancouver Canucks",
+    "league": "NHL",
+    "category": "hockey",
+    "date": 1792267200000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Tampa Bay Lightning",
+        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnhg+YFOTIQQ3EDpx6+IFLpDmcjCkz4ouYMqvrzRdprTAOxoiEA.webp"
+      },
+      "away": {
+        "name": "Vancouver Canucks",
+        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnDcw4cHD4huICLh0gj2kiFO6UBCkz4ouYMvCLzRdprTAOxoiEA.webp"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/2333/playlist.m3u8?tk=wyCnIKDZ8Ztm-Gck-5KJdw&e=1792191470|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/2333/2/playlist.m3u8?tk=XPQBFF-NgjevUPUyu66NVQ&e=1792191469|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "sd-golf~2362",
+    "title": "Florida Panthers vs Seattle Kraken",
+    "league": "NHL",
+    "category": "hockey",
+    "date": 1792274400000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Florida Panthers",
+        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDhuRdUhDdtIEiAgg+u-apw4YBCkz4ouYMvCLzRdprTAOxoiEA.webp"
+      },
+      "away": {
+        "name": "Seattle Kraken",
+        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpiTkQICCBRsQ3ECS36QfY0fWIAJgQpM+2tmDLwi80dqa0wjsaIhA.webp"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/2362/playlist.m3u8?tk=wyCnIKDZ8Ztm-Gck-5KJdw&e=1792191470|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/2362/2/playlist.m3u8?tk=wyCnIKDZ8Ztm-Gck-5KJdw&e=1792191470|Referer=https://ondemand.st"
+  }
+]
