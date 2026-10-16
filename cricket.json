@@ -4,7 +4,7 @@
     "title": "Willow",
     "league": "Cricket",
     "category": "cricket",
-    "date": 1792148227704,
+    "date": 1792163986902,
     "status": "live",
     "teams": {
       "home": {
@@ -16,7 +16,7 @@
         "badge": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/247-willow/playlist.m3u8?tk=BD9eoZFFXndtpsSvQpGF6g&e=1792191428|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/247-willow/playlist.m3u8?tk=D9KSyQTvhGUe7wnh6P1GeA&e=1792207187|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -24,7 +24,7 @@
     "title": "Fox Cricket",
     "league": "Cricket",
     "category": "cricket",
-    "date": 1792148227704,
+    "date": 1792163986902,
     "status": "live",
     "teams": {
       "home": {
@@ -36,7 +36,27 @@
         "badge": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/247-fox-cricket/playlist.m3u8?tk=BD9eoZFFXndtpsSvQpGF6g&e=1792191428|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-fox-cricket/2/playlist.m3u8?tk=BD9eoZFFXndtpsSvQpGF6g&e=1792191428|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/247-fox-cricket/playlist.m3u8?tk=V0IEfWA2ad8zxZSKU4fTgg&e=1792207188|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-fox-cricket/2/playlist.m3u8?tk=V0IEfWA2ad8zxZSKU4fTgg&e=1792207188|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "mm-cric-indw-zimw-t20-1",
+    "title": "India Women vs Zimbabwe Women",
+    "league": "1st Women's T20I",
+    "category": "cricket",
+    "date": 1792157400000,
+    "status": "live",
+    "teams": {
+      "home": {
+        "name": "India Women",
+        "badge": "https://a.espncdn.com/i/teamlogos/cricket/500/6.png"
+      },
+      "away": {
+        "name": "Zimbabwe Women",
+        "badge": "https://a.espncdn.com/i/teamlogos/cricket/500/9.png"
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
   }
 ]
