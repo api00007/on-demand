@@ -5,18 +5,38 @@
     "league": "MLB",
     "category": "baseball",
     "date": 1792108800000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "Milwaukee Brewers",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/32uxn21778269451.png"
+        "badge": ""
       },
       "away": {
         "name": "Los Angeles Dodgers",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/08kh2a1595775193.png"
+        "badge": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mlb/2026-10-15/mil-lad/playlist.m3u8?tk=2ov4bRdTm7Ot5s8ypbqD1A&e=1792144856|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-milwaukee-brewers-vs-los-angeles-dodgers/2/playlist.m3u8?tk=2ov4bRdTm7Ot5s8ypbqD1A&e=1792144856|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mlb/2026-10-15/mil-lad/playlist.m3u8?tk=rHwF7Vz3DSKMzH38D1D-VA&e=1792153081|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-milwaukee-brewers-vs-los-angeles-dodgers/2/playlist.m3u8?tk=rHwF7Vz3DSKMzH38D1D-VA&e=1792153081|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "sd-hotel~tampa-bay-rays-vs-cleveland-guardians-mlb-1792188000",
+    "title": "Cleveland Guardians vs Tampa Bay Rays",
+    "league": "baseball",
+    "category": "baseball",
+    "date": 1792188000000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Cleveland Guardians",
+        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDwwSMABN1CtCG4hNICCBggUh4yBLnTBCkz4ouYMmvrzRzprTCuxohBAA.webp"
+      },
+      "away": {
+        "name": "Tampa Bay Rays",
+        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzDtoUFJBDcQJXSAggYIRDoAmuEwQpM+KLmDLwi80faa0wjsaIhA.webp"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/hotel/tampa-bay-rays-vs-cleveland-guardians-mlb-1792188000/playlist.m3u8?tk=pEZN0cS1YP6VC2qzYyGslg&e=1792153082|Referer=https://ondemand.st",
+    "sdUrl": ""
   }
 ]
