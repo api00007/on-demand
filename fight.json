@@ -5,7 +5,7 @@
     "league": "Combat Sports",
     "category": "fight",
     "date": 1792220400000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "ONE Samurai 4: Haggerty",
@@ -16,8 +16,8 @@
         "badge": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/one-samurai-4-haggerty-vs-akimoto-30526/playlist.m3u8?tk=rZ05qvyfMCnUxQYeEY6Qxw&e=1792262621|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-one-samurai-4-haggerty-vs-akimoto/2/playlist.m3u8?tk=rZ05qvyfMCnUxQYeEY6Qxw&e=1792262621|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/one-samurai-4-haggerty-vs-akimoto-30526/playlist.m3u8?tk=3DJQnPHelOshWfqMd9bw8g&e=1792279770|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-one-samurai-4-haggerty-vs-akimoto/2/playlist.m3u8?tk=3DJQnPHelOshWfqMd9bw8g&e=1792279770|Referer=https://ondemand.st"
   },
   {
     "matchId": "aew/2026-10-17",
@@ -36,27 +36,127 @@
         "badge": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/aew/2026-10-17/playlist.m3u8?tk=rZ05qvyfMCnUxQYeEY6Qxw&e=1792262621|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-aew-saturday-night-collision/2/playlist.m3u8?tk=rZ05qvyfMCnUxQYeEY6Qxw&e=1792262621|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/aew/2026-10-17/playlist.m3u8?tk=3DJQnPHelOshWfqMd9bw8g&e=1792279770|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-aew-saturday-night-collision/2/playlist.m3u8?tk=3DJQnPHelOshWfqMd9bw8g&e=1792279770|Referer=https://ondemand.st"
   },
   {
-    "matchId": "sd-hotel~ufc-fight-night-buckley-vs-malott-ufc-1792270800",
-    "title": "UFC Fight Night: Buckley vs Malott",
+    "matchId": "sd-golf~2383",
+    "title": "Volkovs v McIntyre",
+    "league": "fight",
+    "category": "fight",
+    "date": 1792256400000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Volkovs",
+        "badge": ""
+      },
+      "away": {
+        "name": "McIntyre",
+        "badge": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/2383/playlist.m3u8?tk=rP1MIHJ1jo3-oc_AdaaUJg&e=1792279772|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/2383/2/playlist.m3u8?tk=tkEafvk2Be9qDt8OSCCKmg&e=1792279771|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "sd-golf~2379",
+    "title": "Daniel Dubois vs Fabio Wardley",
+    "league": "fight",
+    "category": "fight",
+    "date": 1792260000000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Dubois",
+        "badge": ""
+      },
+      "away": {
+        "name": "Wardley 2",
+        "badge": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/2379/playlist.m3u8?tk=kH1rB9Yxiny-v91mwOIPHQ&e=1792279773|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/2379/2/playlist.m3u8?tk=rP1MIHJ1jo3-oc_AdaaUJg&e=1792279772|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "sd-golf~2378",
+    "title": "UFC Fight Night 291 Buckley vs Malott",
     "league": "fight",
     "category": "fight",
     "date": 1792270800000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Mike Malott",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta0t+SfACYFgAY1CRu1BOhBUQEEIhD1yDMc2Bge8KVW6iGrMDra4IQA.webp"
+        "name": "UFC Fight Night 291 Buckley",
+        "badge": ""
       },
       "away": {
-        "name": "Joaquin Buckley",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta0t+SfACYFgAY1CRu1BOhBiQKEDHrkGY5sDA94Uqt1ENWYbW1wQgA.webp"
+        "name": "Malott",
+        "badge": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/hotel/ufc-fight-night-buckley-vs-malott-ufc-1792270800/playlist.m3u8?tk=I293YgmsJQoVqg_cNy9iqg&e=1792262626|Referer=https://ondemand.st",
-    "sdUrl": ""
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/2378/playlist.m3u8?tk=ifMtozorfRW83aI0zZA-Bw&e=1792279775|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/2378/2/playlist.m3u8?tk=kH1rB9Yxiny-v91mwOIPHQ&e=1792279773|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "sd-golf~2382",
+    "title": "WrestleDream",
+    "league": "fight",
+    "category": "fight",
+    "date": 1792278000000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "",
+        "badge": ""
+      },
+      "away": {
+        "name": "",
+        "badge": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/2382/playlist.m3u8?tk=TxvL1Hqzpks_QEIvz9U6Gg&e=1792279776|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/2382/2/playlist.m3u8?tk=TxvL1Hqzpks_QEIvz9U6Gg&e=1792279776|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "sd-golf~2381",
+    "title": "Sebastian Fundora vs Ermal Hadribeaj",
+    "league": "fight",
+    "category": "fight",
+    "date": 1792281600000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Sebastian Fundora",
+        "badge": ""
+      },
+      "away": {
+        "name": "Ermal Hadribeaj",
+        "badge": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/2381/playlist.m3u8?tk=IBMvnyFLx9SbKi6apyT8JQ&e=1792279778|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/2381/2/playlist.m3u8?tk=IBMvnyFLx9SbKi6apyT8JQ&e=1792279778|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "sd-golf~2380",
+    "title": "BKFC 95 Newark Herring vs Dodson",
+    "league": "fight",
+    "category": "fight",
+    "date": 1792281600000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "BKFC 95 Newark Herring",
+        "badge": ""
+      },
+      "away": {
+        "name": "Dodson",
+        "badge": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/2380/playlist.m3u8?tk=IBMvnyFLx9SbKi6apyT8JQ&e=1792279778|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/2380/2/playlist.m3u8?tk=IBMvnyFLx9SbKi6apyT8JQ&e=1792279778|Referer=https://ondemand.st"
   }
 ]
