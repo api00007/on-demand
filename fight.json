@@ -16,8 +16,8 @@
         "badge": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/one-samurai-4-haggerty-vs-akimoto-30526/playlist.m3u8?tk=VWcIvvsjIx-2vVGE9Ivc5Q&e=1792233605|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-one-samurai-4-haggerty-vs-akimoto/2/playlist.m3u8?tk=VWcIvvsjIx-2vVGE9Ivc5Q&e=1792233605|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/one-samurai-4-haggerty-vs-akimoto-30526/playlist.m3u8?tk=Mqe7z1SmjqDk2lh26lwJkg&e=1792242623|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-one-samurai-4-haggerty-vs-akimoto/2/playlist.m3u8?tk=Mqe7z1SmjqDk2lh26lwJkg&e=1792242623|Referer=https://ondemand.st"
   },
   {
     "matchId": "wwe/2026-10-16",
@@ -25,7 +25,7 @@
     "league": "WWE",
     "category": "fight",
     "date": 1792195200000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "WWE Friday Night Smackdown",
@@ -36,8 +36,8 @@
         "badge": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/wwe/2026-10-16/playlist.m3u8?tk=VWBzsY-nJWt3Kqxn_vFdPw&e=1792233606|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-wwe-friday-night-smackdown/2/playlist.m3u8?tk=VWBzsY-nJWt3Kqxn_vFdPw&e=1792233606|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/wwe/2026-10-16/playlist.m3u8?tk=HBEbte6gkNMpUp_ZGdmxBw&e=1792242624|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-wwe-friday-night-smackdown/2/playlist.m3u8?tk=HBEbte6gkNMpUp_ZGdmxBw&e=1792242624|Referer=https://ondemand.st"
   },
   {
     "matchId": "aew/2026-10-17",
@@ -56,8 +56,8 @@
         "badge": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/aew/2026-10-17/playlist.m3u8?tk=7W71z5VN1Y5fMQhbZZh35g&e=1792233607|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-aew-saturday-night-collision/2/playlist.m3u8?tk=7W71z5VN1Y5fMQhbZZh35g&e=1792233607|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/aew/2026-10-17/playlist.m3u8?tk=HBEbte6gkNMpUp_ZGdmxBw&e=1792242624|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-aew-saturday-night-collision/2/playlist.m3u8?tk=HBEbte6gkNMpUp_ZGdmxBw&e=1792242624|Referer=https://ondemand.st"
   },
   {
     "matchId": "sd-golf~2376",
@@ -65,7 +65,7 @@
     "league": "fight",
     "category": "fight",
     "date": 1792195200000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "PFL Chicago Carmouche",
@@ -76,7 +76,27 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/hrvcua1720714635.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/2376/playlist.m3u8?tk=7W71z5VN1Y5fMQhbZZh35g&e=1792233607|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/2376/2/playlist.m3u8?tk=7W71z5VN1Y5fMQhbZZh35g&e=1792233607|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/2376/playlist.m3u8?tk=g20JsRuZ3xUywrepOnF4Zw&e=1792242625|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/2376/2/playlist.m3u8?tk=g20JsRuZ3xUywrepOnF4Zw&e=1792242625|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "sd-hotel~ufc-fight-night-buckley-vs-malott-ufc-1792270800",
+    "title": "UFC Fight Night: Buckley vs Malott",
+    "league": "fight",
+    "category": "fight",
+    "date": 1792270800000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Mike Malott",
+        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta0t+SfACYFgAY1CRu1BOhBUQEEIhD1yDMc2Bge8KVW6iGrMDra4IQA.webp"
+      },
+      "away": {
+        "name": "Joaquin Buckley",
+        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta0t+SfACYFgAY1CRu1BOhBiQKEDHrkGY5sDA94Uqt1ENWYbW1wQgA.webp"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/hotel/ufc-fight-night-buckley-vs-malott-ufc-1792270800/playlist.m3u8?tk=g20JsRuZ3xUywrepOnF4Zw&e=1792242625|Referer=https://ondemand.st",
+    "sdUrl": ""
   }
 ]
