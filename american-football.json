@@ -1,1 +1,122 @@
-[]
+[
+  {
+    "matchId": "nfl-network",
+    "title": "NFL Network",
+    "league": "NFL",
+    "category": "american-football",
+    "date": 1792363843531,
+    "status": "live",
+    "teams": {
+      "home": {
+        "name": "NFL Network",
+        "badge": ""
+      },
+      "away": {
+        "name": "",
+        "badge": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl-network/playlist.m3u8?tk=hfjzn40FQUdDscZtpfKAGQ&e=1792407049|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-nfl-network/2/playlist.m3u8?tk=hfjzn40FQUdDscZtpfKAGQ&e=1792407049|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "nfl/2026-10-18/ari-lar",
+    "title": "Arizona Cardinals at Los Angeles Rams",
+    "league": "NFL",
+    "category": "american-football",
+    "date": 1792353900000,
+    "status": "live",
+    "teams": {
+      "home": {
+        "name": "Arizona Cardinals",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/i1g1wg1784712239.png"
+      },
+      "away": {
+        "name": "Los Angeles Rams",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/ojw15x1784721865.png"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-10-18/ari-lar/playlist.m3u8?tk=hfjzn40FQUdDscZtpfKAGQ&e=1792407049|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-arizona-cardinals-at-los-angeles-rams/2/playlist.m3u8?tk=hfjzn40FQUdDscZtpfKAGQ&e=1792407049|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "nfl/2026-10-18/lac-kc",
+    "title": "Los Angeles Chargers at Kansas City Chiefs",
+    "league": "NFL",
+    "category": "american-football",
+    "date": 1792355100000,
+    "status": "live",
+    "teams": {
+      "home": {
+        "name": "Los Angeles Chargers",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/wmi40u1784721460.png"
+      },
+      "away": {
+        "name": "Kansas City Chiefs",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/n58gp51784720929.png"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-10-18/lac-kc/playlist.m3u8?tk=l0ygrtfM-ZeZPnLI0b8RSQ&e=1792407050|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-los-angeles-chargers-at-kansas-city-chiefs/2/playlist.m3u8?tk=l0ygrtfM-ZeZPnLI0b8RSQ&e=1792407050|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "nfl/2026-10-18/buf-lv",
+    "title": "Buffalo Bills at Las Vegas Raiders",
+    "league": "NFL",
+    "category": "american-football",
+    "date": 1792355100000,
+    "status": "live",
+    "teams": {
+      "home": {
+        "name": "Buffalo Bills",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/j4r1tn1784714823.png"
+      },
+      "away": {
+        "name": "Las Vegas Raiders",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/4t8xtk1784721179.png"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-10-18/buf-lv/playlist.m3u8?tk=l0ygrtfM-ZeZPnLI0b8RSQ&e=1792407050|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-buffalo-bills-at-las-vegas-raiders/2/playlist.m3u8?tk=l0ygrtfM-ZeZPnLI0b8RSQ&e=1792407050|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "nfl/2026-10-18/dal-gb",
+    "title": "Dallas Cowboys at Green Bay Packers",
+    "league": "NFL",
+    "category": "american-football",
+    "date": 1792369200000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Dallas Cowboys",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/76ew3c1784718447.png"
+      },
+      "away": {
+        "name": "Green Bay Packers",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/uwbfw01784719173.png"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-10-18/dal-gb/playlist.m3u8?tk=9Mv1DZgDrV7841neZR9MuA&e=1792407051|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-dallas-cowboys-at-green-bay-packers/2/playlist.m3u8?tk=9Mv1DZgDrV7841neZR9MuA&e=1792407051|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "nfl/2026-10-19/wsh-sf",
+    "title": "Washington Commanders at San Francisco 49ers",
+    "league": "NFL",
+    "category": "american-football",
+    "date": 1792455300000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Washington Commanders",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/rn0c7v1643826119.png"
+      },
+      "away": {
+        "name": "San Francisco 49ers",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/bqbtg61539537328.png"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-10-19/wsh-sf/playlist.m3u8?tk=9Mv1DZgDrV7841neZR9MuA&e=1792407051|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-washington-commanders-at-san-francisco-49-ers/2/playlist.m3u8?tk=9Mv1DZgDrV7841neZR9MuA&e=1792407051|Referer=https://ondemand.st"
+  }
+]
