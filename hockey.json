@@ -4,7 +4,7 @@
     "title": "NHL Network",
     "league": "NHL",
     "category": "hockey",
-    "date": 1792294468487,
+    "date": 1792312847518,
     "status": "live",
     "teams": {
       "home": {
@@ -16,107 +16,47 @@
         "badge": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl-network-29780/playlist.m3u8?tk=IZPv9i3bF-WncKDnt_Nu_g&e=1792337669|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-nhl-network/2/playlist.m3u8?tk=IZPv9i3bF-WncKDnt_Nu_g&e=1792337669|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl-network-29780/playlist.m3u8?tk=rUqVxjP6CN0ylIC3pXcUag&e=1792356048|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-nhl-network/2/playlist.m3u8?tk=rUqVxjP6CN0ylIC3pXcUag&e=1792356048|Referer=https://ondemand.st"
   },
   {
-    "matchId": "nhl/2026-10-17/bos-la",
-    "title": "Boston Bruins vs. Los Angeles Kings",
-    "league": "NHL",
-    "category": "hockey",
-    "date": 1792285200000,
-    "status": "live",
-    "teams": {
-      "home": {
-        "name": "Boston Bruins",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/b1r86e1720023232.png"
-      },
-      "away": {
-        "name": "Los Angeles Kings",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/w408rg1719220748.png"
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-10-17/bos-la/playlist.m3u8?tk=umT3JLnI-0SvqJYcRq1B-g&e=1792337670|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-boston-bruins-vs-los-angeles-kings/2/playlist.m3u8?tk=umT3JLnI-0SvqJYcRq1B-g&e=1792337670|Referer=https://ondemand.st"
-  },
-  {
-    "matchId": "nhl/2026-10-17/edm-uta",
-    "title": "Edmonton Oilers vs. Utah Mammoth",
-    "league": "NHL",
-    "category": "hockey",
-    "date": 1792288800000,
-    "status": "live",
-    "teams": {
-      "home": {
-        "name": "Edmonton Oilers",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/uxxsyw1421618428.png"
-      },
-      "away": {
-        "name": "Utah Mammoth",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/w5m2ab1746690303.png"
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-10-17/edm-uta/playlist.m3u8?tk=umT3JLnI-0SvqJYcRq1B-g&e=1792337670|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-edmonton-oilers-vs-utah-mammoth/2/playlist.m3u8?tk=umT3JLnI-0SvqJYcRq1B-g&e=1792337670|Referer=https://ondemand.st"
-  },
-  {
-    "matchId": "nhl/2026-10-17/pit-vgk",
-    "title": "Pittsburgh Penguins vs. Vegas Golden Knights",
-    "league": "NHL",
-    "category": "hockey",
-    "date": 1792288800000,
-    "status": "live",
-    "teams": {
-      "home": {
-        "name": "Pittsburgh Penguins",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/dsj3on1546192477.png"
-      },
-      "away": {
-        "name": "Vegas Golden Knights",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/7fd4521619536689.png"
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-10-17/pit-vgk/playlist.m3u8?tk=BkXmjEV4lOVf1XdNEbjwSA&e=1792337671|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-pittsburgh-penguins-vs-vegas-golden-knights/2/playlist.m3u8?tk=BkXmjEV4lOVf1XdNEbjwSA&e=1792337671|Referer=https://ondemand.st"
-  },
-  {
-    "matchId": "sd-golf~2384",
-    "title": "Minnesota Wild vs Columbus Blue Jackets",
+    "matchId": "nhl/2026-10-18/cbj-min",
+    "title": "Columbus Blue Jackets vs. Minnesota Wild",
     "league": "NHL",
     "category": "hockey",
     "date": 1792360800000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Minnesota Wild",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnhg+NMOETcQEXPpi79AExBnlhGMCZ8UXMGVX15ou01pgHY0RCA.webp"
+        "name": "Columbus Blue Jackets",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/ssytwt1421792535.png"
       },
       "away": {
-        "name": "Columbus Blue Jackets",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnjkU0PpBDcQEXNpB8QKfSRCJlhGMCZ8UXMGVX15o+01phHY0RCA.webp"
+        "name": "Minnesota Wild",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/swtsxs1422042685.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/2384/playlist.m3u8?tk=BkXmjEV4lOVf1XdNEbjwSA&e=1792337671|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/2384/2/playlist.m3u8?tk=BkXmjEV4lOVf1XdNEbjwSA&e=1792337671|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-10-18/cbj-min/playlist.m3u8?tk=rUqVxjP6CN0ylIC3pXcUag&e=1792356048|Referer=https://ondemand.st",
+    "sdUrl": ""
   },
   {
-    "matchId": "sd-golf~2385",
-    "title": "Calgary Flames vs Carolina Hurricanes",
-    "league": "Canadian WHL",
+    "matchId": "nhl/2026-10-18/car-cgy",
+    "title": "Carolina Hurricanes vs. Calgary Flames",
+    "league": "NHL",
     "category": "hockey",
     "date": 1792368000000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Calgary Flames",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAmIcCuAAGbSG56Qa-ShAkQiNUZAwCFJnxRcwZeEXmjHTWmGdjREIA.webp"
+        "name": "Carolina Hurricanes",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/8j0vj71637782247.png"
       },
       "away": {
-        "name": "Carolina Hurricanes",
-        "badge": "https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAmIGCAGh4YECG4gSICJtwhEOI3uWEYwJnxRcwZHfXminTWmBdjREEA.webp"
+        "name": "Calgary Flames",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/2322vo1637782235.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/streamed/golf/2385/playlist.m3u8?tk=aULpFwm5varnLokHWVlNEQ&e=1792337672|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/golf/2385/2/playlist.m3u8?tk=aULpFwm5varnLokHWVlNEQ&e=1792337672|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-10-18/car-cgy/playlist.m3u8?tk=hpvazdo5MSvyfRiKc_xLlA&e=1792356049|Referer=https://ondemand.st",
+    "sdUrl": ""
   }
 ]
