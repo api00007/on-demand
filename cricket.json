@@ -4,7 +4,7 @@
     "title": "Willow",
     "league": "Cricket",
     "category": "cricket",
-    "date": 1792371267414,
+    "date": 1792389117961,
     "status": "live",
     "teams": {
       "home": {
@@ -16,7 +16,7 @@
         "badge": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/247-willow/playlist.m3u8?tk=v8A7vgtPAeHbFeXtIjL6vQ&e=1792414467|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/247-willow/playlist.m3u8?tk=_UvK_JsT1Qm_domAe1lXZQ&e=1792432319|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -24,7 +24,7 @@
     "title": "Fox Cricket",
     "league": "Cricket",
     "category": "cricket",
-    "date": 1792371267414,
+    "date": 1792389117961,
     "status": "live",
     "teams": {
       "home": {
@@ -36,7 +36,47 @@
         "badge": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/247-fox-cricket/playlist.m3u8?tk=TX7QxtYHDX43RLAejyVlMw&e=1792414468|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-fox-cricket/2/playlist.m3u8?tk=TX7QxtYHDX43RLAejyVlMw&e=1792414468|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/247-fox-cricket/playlist.m3u8?tk=4gljjoYspkx5lztQyrG8Gw&e=1792432320|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-fox-cricket/2/playlist.m3u8?tk=4gljjoYspkx5lztQyrG8Gw&e=1792432320|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "mm-cric-dl-b4bc44a124",
+    "title": "South Africa vs Australia",
+    "league": "2nd Test Day 2",
+    "category": "cricket",
+    "date": 1792396800000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "South Africa",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/hn47e51646775185.png"
+      },
+      "away": {
+        "name": "Australia",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/zvm8581646775132.png"
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "mm-cric-dl-fb654ec8ab",
+    "title": "Afghanistan vs Zimbabwe",
+    "league": "Tri Series",
+    "category": "cricket",
+    "date": 1792411200000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Afghanistan",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/bzu3v71646775261.png"
+      },
+      "away": {
+        "name": "Zimbabwe",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/7ah0831646775278.png"
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
   }
 ]
