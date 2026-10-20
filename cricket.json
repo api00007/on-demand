@@ -4,7 +4,7 @@
     "title": "Willow",
     "league": "Cricket",
     "category": "cricket",
-    "date": 1792468705491,
+    "date": 1792487918992,
     "status": "live",
     "teams": {
       "home": {
@@ -16,7 +16,7 @@
         "badge": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/247-willow/playlist.m3u8?tk=aQPvsWigtQQr9HsOb3XdLg&e=1792511907|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/247-willow/playlist.m3u8?tk=sqko-fetGHm29u88qZZ5ZQ&e=1792531119|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -24,7 +24,7 @@
     "title": "Fox Cricket",
     "league": "Cricket",
     "category": "cricket",
-    "date": 1792468705491,
+    "date": 1792487918992,
     "status": "live",
     "teams": {
       "home": {
@@ -36,8 +36,8 @@
         "badge": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/247-fox-cricket/playlist.m3u8?tk=aQPvsWigtQQr9HsOb3XdLg&e=1792511907|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-fox-cricket/2/playlist.m3u8?tk=aQPvsWigtQQr9HsOb3XdLg&e=1792511907|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/247-fox-cricket/playlist.m3u8?tk=AC_x0SrcRx2jrwViV1eN6g&e=1792531120|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/streamed/admin/ppv-fox-cricket/2/playlist.m3u8?tk=AC_x0SrcRx2jrwViV1eN6g&e=1792531120|Referer=https://ondemand.st"
   },
   {
     "matchId": "mm-cric-dl-1e5fe2e60c",
@@ -45,7 +45,7 @@
     "league": "2nd Test Day 3",
     "category": "cricket",
     "date": 1792483200000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "South Africa",
@@ -65,7 +65,7 @@
     "league": "2nd T20",
     "category": "cricket",
     "date": 1792483200000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "Australia W",
@@ -94,6 +94,26 @@
       "away": {
         "name": "Zimbabwe W",
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/7ah0831646775278.png"
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "mm-cric-dl-ef51d4cd0b",
+    "title": "Pakistan vs England",
+    "league": "Tri-nation Series",
+    "category": "cricket",
+    "date": 1792483200000,
+    "status": "live",
+    "teams": {
+      "home": {
+        "name": "Pakistan",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/03o8241646775177.png"
+      },
+      "away": {
+        "name": "England",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/y5wcl81646775152.png"
       }
     },
     "hlsUrl": "",
