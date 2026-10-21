@@ -4,7 +4,7 @@
     "title": "NHL Network",
     "league": "NHL",
     "category": "hockey",
-    "date": 1792589744544,
+    "date": 1792607459791,
     "status": "live",
     "teams": {
       "home": {
@@ -16,48 +16,68 @@
         "badge": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl-network-29780/playlist.m3u8?tk=-GpuH7ycASupdsdPxcuENw&e=1792632945|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/s/admin/p-nhl-network/2/playlist.m3u8?tk=-GpuH7ycASupdsdPxcuENw&e=1792632945|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl-network-29780/playlist.m3u8?tk=vKMcDfXMqU8R3M7Dg3Cb9Q&e=1792650660|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/s/admin/p-nhl-network/2/playlist.m3u8?tk=vKMcDfXMqU8R3M7Dg3Cb9Q&e=1792650660|Referer=https://ondemand.st"
   },
   {
-    "matchId": "sd-golf~2439",
-    "title": "Ottawa Senators vs Florida Panthers",
+    "matchId": "nhl/2026-10-21/phi-buf",
+    "title": "Philadelphia Flyers vs. Buffalo Sabres",
     "league": "NHL",
     "category": "hockey",
     "date": 1792625400000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Ottawa Senators",
-        "badge": "/img/y/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkulxFE3MBpQhuIACY6Q2kiEQGT2xhSZ8UXMGXhF5ou01pgHY0RCA.webp"
-      },
-      "away": {
-        "name": "Florida Panthers",
-        "badge": "/img/y/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDhuRdUhDdtIEiAgg+u-apw4YBCkz4ouYMvCLzRdprTAOxoiEA.webp"
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-sd/s/golf/2439/playlist.m3u8?tk=ItflF0iQz2Av_6v9yImYDA&e=1792632946|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/s/golf/2439/2/playlist.m3u8?tk=ItflF0iQz2Av_6v9yImYDA&e=1792632946|Referer=https://ondemand.st"
-  },
-  {
-    "matchId": "sd-golf~2438",
-    "title": "Buffalo Sabres vs Philadelphia Flyers",
-    "league": "NHL",
-    "category": "hockey",
-    "date": 1792625400000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Buffalo Sabres",
-        "badge": "/img/y/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhC1QtJKFghuIACY6QKECVX7zp5YRjAmfFFzBl4ReaIdNaYJ2NEQgA.webp"
-      },
-      "away": {
         "name": "Philadelphia Flyers",
-        "badge": "/img/y/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpm5hw4OJpDcQEXNpB8QKXcZAATEMsIxgTPii5gy8IvNGOmtMM7GiIQA.webp"
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/qxxppp1421794965.png"
+      },
+      "away": {
+        "name": "Buffalo Sabres",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/3m3jhp1619536655.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/s/golf/2438/playlist.m3u8?tk=TL0cbesotev8fGC1f1EELQ&e=1792632947|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/s/golf/2438/2/playlist.m3u8?tk=ItflF0iQz2Av_6v9yImYDA&e=1792632946|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-10-21/phi-buf/playlist.m3u8?tk=eFUQCj8yNnOLVm9aVz4fyQ&e=1792650661|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/s/admin/p-philadelphia-flyers-vs-buffalo-sabres/2/playlist.m3u8?tk=eFUQCj8yNnOLVm9aVz4fyQ&e=1792650661|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "nhl/2026-10-21/fla-ott",
+    "title": "Florida Panthers vs. Ottawa Senators",
+    "league": "NHL",
+    "category": "hockey",
+    "date": 1792625400000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Florida Panthers",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/8qtaz11547158220.png"
+      },
+      "away": {
+        "name": "Ottawa Senators",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/2tc1qy1619536592.png"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-10-21/fla-ott/playlist.m3u8?tk=bbUqBHYeXQMzjZoWOgKfVw&e=1792650662|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/s/admin/p-florida-panthers-vs-ottawa-senators/2/playlist.m3u8?tk=bbUqBHYeXQMzjZoWOgKfVw&e=1792650662|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "coachella-valley-firebirds-vs-san-diego-gulls-30812",
+    "title": "Coachella Valley Firebirds vs San Diego Gulls",
+    "league": "AHL",
+    "category": "hockey",
+    "date": 1792634400000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Coachella Valley Firebirds",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/gc8t1r1659063191.png"
+      },
+      "away": {
+        "name": "San Diego Gulls",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/0jywxi1582218933.png"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/coachella-valley-firebirds-vs-san-diego-gulls-30812/playlist.m3u8?tk=2qlKyIrFJPztT8wM_7WyYg&e=1792650663|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/s/admin/p-coachella-valley-firebirds-vs-san-diego-gulls/2/playlist.m3u8?tk=2qlKyIrFJPztT8wM_7WyYg&e=1792650663|Referer=https://ondemand.st"
   },
   {
     "matchId": "sd-golf~2481",
@@ -76,8 +96,8 @@
         "badge": "/img/y/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpLB8w3MCjAATTSG4gIuYzBAljKEKZAEKTPii5gy8IvNGOmtMM7GiIQA.webp"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/s/golf/2481/playlist.m3u8?tk=TL0cbesotev8fGC1f1EELQ&e=1792632947|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/s/golf/2481/2/playlist.m3u8?tk=TL0cbesotev8fGC1f1EELQ&e=1792632947|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-sd/s/golf/2481/playlist.m3u8?tk=2qlKyIrFJPztT8wM_7WyYg&e=1792650663|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/s/golf/2481/2/playlist.m3u8?tk=2qlKyIrFJPztT8wM_7WyYg&e=1792650663|Referer=https://ondemand.st"
   },
   {
     "matchId": "sd-golf~2483",
@@ -96,8 +116,8 @@
         "badge": "/img/y/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphRhRKEHxDat3ECRAQQAExB6NiGCCvGCFJnxRc15evPXAmtMGrGiIQA.webp"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/s/golf/2483/playlist.m3u8?tk=hT8RuuZfcH-_avDWB7JXaQ&e=1792632948|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/s/golf/2483/2/playlist.m3u8?tk=hT8RuuZfcH-_avDWB7JXaQ&e=1792632948|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-sd/s/golf/2483/playlist.m3u8?tk=PpcwZKTKDeVDQcHabic8QQ&e=1792650664|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/s/golf/2483/2/playlist.m3u8?tk=PpcwZKTKDeVDQcHabic8QQ&e=1792650664|Referer=https://ondemand.st"
   },
   {
     "matchId": "sd-golf~2484",
@@ -116,8 +136,8 @@
         "badge": "/img/y/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhC8IIdQBMQZddxB9VIFDoMhEhk5oIUmfFFzBl4ReaIdNaYJ2NEQgA.webp"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/s/golf/2484/playlist.m3u8?tk=hT8RuuZfcH-_avDWB7JXaQ&e=1792632948|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/s/golf/2484/2/playlist.m3u8?tk=hT8RuuZfcH-_avDWB7JXaQ&e=1792632948|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-sd/s/golf/2484/playlist.m3u8?tk=M1G7J2-0CurWgFLDqslrag&e=1792650665|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/s/golf/2484/2/playlist.m3u8?tk=PpcwZKTKDeVDQcHabic8QQ&e=1792650664|Referer=https://ondemand.st"
   },
   {
     "matchId": "sd-golf~2485",
@@ -136,8 +156,8 @@
         "badge": "/img/y/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDhuRdUhDdtIEiAgg+u-apw4YBCkz4ouYMvCLzRdprTAOxoiEA.webp"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/s/golf/2485/playlist.m3u8?tk=adtzZ_Ywfw9A5Z6knvf0tw&e=1792632949|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/s/golf/2485/2/playlist.m3u8?tk=adtzZ_Ywfw9A5Z6knvf0tw&e=1792632949|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-sd/s/golf/2485/playlist.m3u8?tk=M1G7J2-0CurWgFLDqslrag&e=1792650665|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/s/golf/2485/2/playlist.m3u8?tk=M1G7J2-0CurWgFLDqslrag&e=1792650665|Referer=https://ondemand.st"
   },
   {
     "matchId": "sd-golf~2482",
@@ -156,8 +176,8 @@
         "badge": "/img/y/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpIS5gTcNxBa+IACYhEEECRDGDuvQQpM+KLmDLwi80faa0wjsaIhA.webp"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/s/golf/2482/playlist.m3u8?tk=WFS_-XhbUKuc-kfyVr9a2Q&e=1792632950|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/s/golf/2482/2/playlist.m3u8?tk=WFS_-XhbUKuc-kfyVr9a2Q&e=1792632950|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-sd/s/golf/2482/playlist.m3u8?tk=SqpyMRc_nR5XVXsB9nUysw&e=1792650666|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/s/golf/2482/2/playlist.m3u8?tk=SqpyMRc_nR5XVXsB9nUysw&e=1792650666|Referer=https://ondemand.st"
   },
   {
     "matchId": "sd-golf~2486",
@@ -176,8 +196,8 @@
         "badge": "/img/y/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj4gIIGCHDzV3ELpApcxzavWHCMYEz4ouYMvCLzRdprTAOxoiEA.webp"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/s/golf/2486/playlist.m3u8?tk=KvTQoSzp7OYPn75z4SwniA&e=1792632951|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/s/golf/2486/2/playlist.m3u8?tk=WFS_-XhbUKuc-kfyVr9a2Q&e=1792632950|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-sd/s/golf/2486/playlist.m3u8?tk=SqpyMRc_nR5XVXsB9nUysw&e=1792650666|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/s/golf/2486/2/playlist.m3u8?tk=SqpyMRc_nR5XVXsB9nUysw&e=1792650666|Referer=https://ondemand.st"
   },
   {
     "matchId": "sd-golf~2488",
@@ -196,8 +216,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/qrvywq1422042125.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/s/golf/2488/playlist.m3u8?tk=KvTQoSzp7OYPn75z4SwniA&e=1792632951|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/s/golf/2488/2/playlist.m3u8?tk=KvTQoSzp7OYPn75z4SwniA&e=1792632951|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-sd/s/golf/2488/playlist.m3u8?tk=3aa0TURKCUw4BeMUf7qDvQ&e=1792650667|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/s/golf/2488/2/playlist.m3u8?tk=3aa0TURKCUw4BeMUf7qDvQ&e=1792650667|Referer=https://ondemand.st"
   },
   {
     "matchId": "sd-golf~2487",
@@ -216,8 +236,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/rsqtwx1422053715.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/s/golf/2487/playlist.m3u8?tk=-jQZStJV4JpDLWZY83EOxQ&e=1792632952|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/s/golf/2487/2/playlist.m3u8?tk=-jQZStJV4JpDLWZY83EOxQ&e=1792632952|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-sd/s/golf/2487/playlist.m3u8?tk=ItqYFUbThH4Zayriz0YmXw&e=1792650668|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/s/golf/2487/2/playlist.m3u8?tk=3aa0TURKCUw4BeMUf7qDvQ&e=1792650667|Referer=https://ondemand.st"
   },
   {
     "matchId": "sd-golf~2490",
@@ -236,8 +256,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/uxxsyw1421618428.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/s/golf/2490/playlist.m3u8?tk=-jQZStJV4JpDLWZY83EOxQ&e=1792632952|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/s/golf/2490/2/playlist.m3u8?tk=-jQZStJV4JpDLWZY83EOxQ&e=1792632952|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-sd/s/golf/2490/playlist.m3u8?tk=ItqYFUbThH4Zayriz0YmXw&e=1792650668|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/s/golf/2490/2/playlist.m3u8?tk=ItqYFUbThH4Zayriz0YmXw&e=1792650668|Referer=https://ondemand.st"
   },
   {
     "matchId": "sd-golf~2489",
@@ -256,7 +276,47 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/v8vkk11619536610.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/s/golf/2489/playlist.m3u8?tk=JdeOHYsf42Z1A46pzo2uZQ&e=1792632953|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/s/golf/2489/2/playlist.m3u8?tk=JdeOHYsf42Z1A46pzo2uZQ&e=1792632953|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-sd/s/golf/2489/playlist.m3u8?tk=AoXgCc8-VkRrQ7iem8JO5Q&e=1792650669|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/s/golf/2489/2/playlist.m3u8?tk=ItqYFUbThH4Zayriz0YmXw&e=1792650668|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "sd-golf~2492",
+    "title": "Detroit Red Wings - Vancouver Canucks",
+    "league": "NHL",
+    "category": "hockey",
+    "date": 1792720800000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Detroit Red Wings",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/1c24ow1546544080.png"
+      },
+      "away": {
+        "name": "Vancouver Canucks",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/xqxxpw1421875519.png"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-sd/s/golf/2492/playlist.m3u8?tk=AoXgCc8-VkRrQ7iem8JO5Q&e=1792650669|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/s/golf/2492/2/playlist.m3u8?tk=AoXgCc8-VkRrQ7iem8JO5Q&e=1792650669|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "sd-golf~2491",
+    "title": "Utah Mammoth - Seattle Kraken",
+    "league": "NHL",
+    "category": "hockey",
+    "date": 1792720800000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Utah Mammoth",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/w5m2ab1746690303.png"
+      },
+      "away": {
+        "name": "Seattle Kraken",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/zsx49m1595775836.png"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-sd/s/golf/2491/playlist.m3u8?tk=BvHcp0ZHgVfGPYOOUeepmA&e=1792650670|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/s/golf/2491/2/playlist.m3u8?tk=BvHcp0ZHgVfGPYOOUeepmA&e=1792650670|Referer=https://ondemand.st"
   }
 ]
