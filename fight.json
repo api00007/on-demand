@@ -1,25 +1,5 @@
 [
   {
-    "matchId": "aew/2026-10-21",
-    "title": "AEW Wednesday Night Dynamite",
-    "league": "AEW",
-    "category": "fight",
-    "date": 1792627200000,
-    "status": "live",
-    "teams": {
-      "home": {
-        "name": "AEW Wednesday Night Dynamite",
-        "badge": ""
-      },
-      "away": {
-        "name": "",
-        "badge": ""
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/aew/2026-10-21/playlist.m3u8?tk=zCLhMgAMa1NH4WTZ61Obow&e=1792675329|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/s/admin/p-aew-wednesday-night-dynamite/2/playlist.m3u8?tk=zCLhMgAMa1NH4WTZ61Obow&e=1792675329|Referer=https://ondemand.st"
-  },
-  {
     "matchId": "tna/2026-10-22",
     "title": "TNA Impact",
     "league": "Wrestling",
@@ -36,8 +16,8 @@
         "badge": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/tna/2026-10-22/playlist.m3u8?tk=zCLhMgAMa1NH4WTZ61Obow&e=1792675329|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/s/admin/p-tna-impact/2/playlist.m3u8?tk=zCLhMgAMa1NH4WTZ61Obow&e=1792675329|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/tna/2026-10-22/playlist.m3u8?tk=uqhyPt7zDRj6jBJEnFHnfg&e=1792696682|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/s/admin/p-tna-impact/2/playlist.m3u8?tk=uqhyPt7zDRj6jBJEnFHnfg&e=1792696682|Referer=https://ondemand.st"
   },
   {
     "matchId": "wwe/2026-10-23",
@@ -56,8 +36,8 @@
         "badge": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/wwe/2026-10-23/playlist.m3u8?tk=mniCe-whcLqSwhQDux2chA&e=1792675330|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/s/admin/p-wwe-friday-night-smackdown/2/playlist.m3u8?tk=mniCe-whcLqSwhQDux2chA&e=1792675330|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/wwe/2026-10-23/playlist.m3u8?tk=VPGaWVFOsHJWAfti32pOUQ&e=1792696683|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/s/admin/p-wwe-friday-night-smackdown/2/playlist.m3u8?tk=VPGaWVFOsHJWAfti32pOUQ&e=1792696683|Referer=https://ondemand.st"
   },
   {
     "matchId": "aew/2026-10-24",
@@ -76,8 +56,8 @@
         "badge": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/aew/2026-10-24/playlist.m3u8?tk=pqeKCfgvCGwPTfCAzogkLg&e=1792675332|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/s/admin/p-aew-saturday-night-collision/2/playlist.m3u8?tk=pqeKCfgvCGwPTfCAzogkLg&e=1792675332|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/aew/2026-10-24/playlist.m3u8?tk=WKD4mMQfonsFifeDOcPClA&e=1792696684|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/s/admin/p-aew-saturday-night-collision/2/playlist.m3u8?tk=WKD4mMQfonsFifeDOcPClA&e=1792696684|Referer=https://ondemand.st"
   },
   {
     "matchId": "mm-raw-20261026",
@@ -98,5 +78,25 @@
     },
     "hlsUrl": "",
     "sdUrl": ""
+  },
+  {
+    "matchId": "sd-admin~p-tna-impact",
+    "title": "TNA iMPACT #1161",
+    "league": "fight",
+    "category": "fight",
+    "date": 1792717200000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "",
+        "badge": ""
+      },
+      "away": {
+        "name": "",
+        "badge": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-sd/s/admin/p-tna-impact/playlist.m3u8?tk=tKpfp5waujUN9xwpgZaJcg&e=1792696685|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/s/admin/p-tna-impact/2/playlist.m3u8?tk=tKpfp5waujUN9xwpgZaJcg&e=1792696685|Referer=https://ondemand.st"
   }
 ]
