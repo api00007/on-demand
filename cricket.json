@@ -4,7 +4,7 @@
     "title": "Willow",
     "league": "Cricket",
     "category": "cricket",
-    "date": 1792620780823,
+    "date": 1792632082570,
     "status": "live",
     "teams": {
       "home": {
@@ -16,7 +16,7 @@
         "badge": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/247-willow/playlist.m3u8?tk=o_FPHp8emqDW7BBE2kpRdA&e=1792663981|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/247-willow/playlist.m3u8?tk=IllSJcHBsdRO3Oxmv-j66w&e=1792675283|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -24,7 +24,7 @@
     "title": "Fox Cricket",
     "league": "Cricket",
     "category": "cricket",
-    "date": 1792620780823,
+    "date": 1792632082570,
     "status": "live",
     "teams": {
       "home": {
@@ -36,7 +36,87 @@
         "badge": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/247-fox-cricket/playlist.m3u8?tk=o_FPHp8emqDW7BBE2kpRdA&e=1792663981|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/s/admin/p-fox-cricket/2/playlist.m3u8?tk=o_FPHp8emqDW7BBE2kpRdA&e=1792663981|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/247-fox-cricket/playlist.m3u8?tk=RtVunNCL6bXAkKNVnU4GPg&e=1792675284|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/s/admin/p-fox-cricket/2/playlist.m3u8?tk=RtVunNCL6bXAkKNVnU4GPg&e=1792675284|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "mm-cric-dl-f3da093c1d",
+    "title": "New Zealand vs India",
+    "league": "1st T20",
+    "category": "cricket",
+    "date": 1792652400000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "New Zealand",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/1yyh9s1646775166.png"
+      },
+      "away": {
+        "name": "India",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/donl7g1646775159.png"
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "mm-cric-dl-b4ef64353b",
+    "title": "Australia W vs New Zealand W",
+    "league": "3rd T20",
+    "category": "cricket",
+    "date": 1792655100000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Australia W",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/zvm8581646775132.png"
+      },
+      "away": {
+        "name": "New Zealand W",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/1yyh9s1646775166.png"
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "mm-cric-dl-7cbe3a132e",
+    "title": "South Africa vs Australia",
+    "league": "2nd Test Day 4",
+    "category": "cricket",
+    "date": 1792656000000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "South Africa",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/hn47e51646775185.png"
+      },
+      "away": {
+        "name": "Australia",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/zvm8581646775132.png"
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "mm-cric-dl-e2d763c481",
+    "title": "England vs Sri Lanka",
+    "league": "Tri-nation Series",
+    "category": "cricket",
+    "date": 1792666800000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "England",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/y5wcl81646775152.png"
+      },
+      "away": {
+        "name": "Sri Lanka",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/i5fqg01646775193.png"
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
   }
 ]
