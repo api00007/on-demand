@@ -4,7 +4,7 @@
     "title": "Willow",
     "league": "Cricket",
     "category": "cricket",
-    "date": 1792801360497,
+    "date": 1792819941793,
     "status": "live",
     "teams": {
       "home": {
@@ -16,7 +16,7 @@
         "badge": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/247-willow/playlist.m3u8?tk=x-zixRUmTu2oI4wYQdr3ew&e=1792844562|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/247-willow/playlist.m3u8?tk=EAjze3-i2oBbpJYqqBYpVw&e=1792863144|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -24,7 +24,7 @@
     "title": "Fox Cricket",
     "league": "Cricket",
     "category": "cricket",
-    "date": 1792801360497,
+    "date": 1792819941793,
     "status": "live",
     "teams": {
       "home": {
@@ -36,7 +36,27 @@
         "badge": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/247-fox-cricket/playlist.m3u8?tk=x-zixRUmTu2oI4wYQdr3ew&e=1792844562|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/s/admin/p-fox-cricket/2/playlist.m3u8?tk=x-zixRUmTu2oI4wYQdr3ew&e=1792844562|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/247-fox-cricket/playlist.m3u8?tk=QbghgR7n49o5crKTSssqmA&e=1792863145|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/s/admin/p-fox-cricket/2/playlist.m3u8?tk=QbghgR7n49o5crKTSssqmA&e=1792863145|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "mm-cric-dl-8f94856ee1",
+    "title": "New Zealand vs India",
+    "league": "2nd T20",
+    "category": "cricket",
+    "date": 1792825200000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "New Zealand",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/1yyh9s1646775166.png"
+      },
+      "away": {
+        "name": "India",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/donl7g1646775159.png"
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
   }
 ]
