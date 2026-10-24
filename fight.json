@@ -1,85 +1,5 @@
 [
   {
-    "matchId": "ufc-333-volkanovski-vs-evloev-30929",
-    "title": "UFC 333: Volkanovski vs Evloev",
-    "league": "UFC",
-    "category": "fight",
-    "date": 1792850400000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "UFC 333: Volkanovski",
-        "badge": ""
-      },
-      "away": {
-        "name": "Evloev",
-        "badge": ""
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/ufc-333-volkanovski-vs-evloev-30929/playlist.m3u8?tk=Kwpyl2Zfppvz_bE1YQayDA&e=1792881147|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/s/admin/p-ufc-333-volkanovski-vs-evloev/2/playlist.m3u8?tk=Kwpyl2Zfppvz_bE1YQayDA&e=1792881147|Referer=https://ondemand.st"
-  },
-  {
-    "matchId": "dalton-smith-vs-alberto-puello-31004",
-    "title": "Dalton Smith vs. Alberto Puello",
-    "league": "Combat Sports",
-    "category": "fight",
-    "date": 1792864800000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Dalton Smith",
-        "badge": ""
-      },
-      "away": {
-        "name": "Alberto Puello",
-        "badge": ""
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/dalton-smith-vs-alberto-puello-31004/playlist.m3u8?tk=3amyWg0GFWXqdBmmREnXzA&e=1792881148|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/s/admin/p-dalton-smith-vs-alberto-puello/2/playlist.m3u8?tk=3amyWg0GFWXqdBmmREnXzA&e=1792881148|Referer=https://ondemand.st"
-  },
-  {
-    "matchId": "emanuel-navarrete-vs-oshaquie-foster-31005",
-    "title": "Emanuel Navarrete vs. O'Shaquie Foster",
-    "league": "Combat Sports",
-    "category": "fight",
-    "date": 1792886400000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Emanuel Navarrete",
-        "badge": "https://r2.thesportsdb.com/images/media/player/thumb/8nimnk1706344699.jpg"
-      },
-      "away": {
-        "name": "O'Shaquie Foster",
-        "badge": ""
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/emanuel-navarrete-vs-oshaquie-foster-31005/playlist.m3u8?tk=V_gdz_hTShdxa-9ibQanxg&e=1792881149|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/s/admin/p-emanuel-navarrete-vs-o-shaquie-foster/2/playlist.m3u8?tk=V_gdz_hTShdxa-9ibQanxg&e=1792881149|Referer=https://ondemand.st"
-  },
-  {
-    "matchId": "aew/2026-10-24",
-    "title": "AEW Saturday Night Collision",
-    "league": "AEW",
-    "category": "fight",
-    "date": 1792886400000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "AEW Saturday Night Collision",
-        "badge": ""
-      },
-      "away": {
-        "name": "",
-        "badge": ""
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/aew/2026-10-24/playlist.m3u8?tk=V_gdz_hTShdxa-9ibQanxg&e=1792881149|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/s/admin/p-aew-saturday-night-collision/2/playlist.m3u8?tk=V_gdz_hTShdxa-9ibQanxg&e=1792881149|Referer=https://ondemand.st"
-  },
-  {
     "matchId": "mm-raw-20261026",
     "title": "WWE Monday Night Raw",
     "league": "WWE",
@@ -98,5 +18,85 @@
     },
     "hlsUrl": "",
     "sdUrl": ""
+  },
+  {
+    "matchId": "sd-admin~p-ufc-333-volkanovski-vs-evloev",
+    "title": "UFC 333 Volkanovski vs Evloev",
+    "league": "fight",
+    "category": "fight",
+    "date": 1792850400000,
+    "status": "live",
+    "teams": {
+      "home": {
+        "name": "UFC 333 Volkanovski",
+        "badge": ""
+      },
+      "away": {
+        "name": "Evloev",
+        "badge": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-sd/s/admin/p-ufc-333-volkanovski-vs-evloev/playlist.m3u8?tk=bkK3kE9QUji_kVzpx0zoiQ&e=1792894903|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/s/admin/p-ufc-333-volkanovski-vs-evloev/2/playlist.m3u8?tk=bkK3kE9QUji_kVzpx0zoiQ&e=1792894903|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "sd-admin~p-dalton-smith-vs-alberto-puello",
+    "title": "Dalton Smith vs Alberto Puello",
+    "league": "fight",
+    "category": "fight",
+    "date": 1792864800000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Dalton Smith",
+        "badge": ""
+      },
+      "away": {
+        "name": "Alberto Puello",
+        "badge": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-sd/s/admin/p-dalton-smith-vs-alberto-puello/playlist.m3u8?tk=bkK3kE9QUji_kVzpx0zoiQ&e=1792894903|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/s/admin/p-dalton-smith-vs-alberto-puello/2/playlist.m3u8?tk=bkK3kE9QUji_kVzpx0zoiQ&e=1792894903|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "sd-admin~p-aew-saturday-night-collision",
+    "title": "AEW Saturday Night Collision",
+    "league": "fight",
+    "category": "fight",
+    "date": 1792886400000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "",
+        "badge": ""
+      },
+      "away": {
+        "name": "",
+        "badge": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-sd/s/admin/p-aew-saturday-night-collision/playlist.m3u8?tk=8M55kfm4w3tN-xarlAsDHw&e=1792894904|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/s/admin/p-aew-saturday-night-collision/2/playlist.m3u8?tk=8M55kfm4w3tN-xarlAsDHw&e=1792894904|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "sd-admin~p-emanuel-navarrete-vs-o-shaquie-foster",
+    "title": "Emanuel Navarrete vs O'Shaquie Foster",
+    "league": "fight",
+    "category": "fight",
+    "date": 1792886400000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Emanuel Navarrete",
+        "badge": "https://r2.thesportsdb.com/images/media/player/thumb/8nimnk1706344699.jpg"
+      },
+      "away": {
+        "name": "O'Shaquie Foster",
+        "badge": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-sd/s/admin/p-emanuel-navarrete-vs-o-shaquie-foster/playlist.m3u8?tk=8M55kfm4w3tN-xarlAsDHw&e=1792894904|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/s/admin/p-emanuel-navarrete-vs-o-shaquie-foster/2/playlist.m3u8?tk=8M55kfm4w3tN-xarlAsDHw&e=1792894904|Referer=https://ondemand.st"
   }
 ]
