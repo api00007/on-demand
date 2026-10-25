@@ -1,16 +1,5 @@
 [
   {
-    "matchId": "mm-mot-dl-925146c58e",
-    "title": "Australian Motorcycle Grand Prix (MotoGP)",
-    "league": "MotoGP",
-    "category": "motor-sports",
-    "date": 1792908000000,
-    "status": "upcoming",
-    "teams": {},
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
     "matchId": "mm-mot-f1-600057446-race",
     "title": "United States Grand Prix - Race",
     "league": "Formula 1",
@@ -110,34 +99,12 @@
     "sdUrl": ""
   },
   {
-    "matchId": "mm-mot-dl-0432ebb777",
-    "title": "Supercars Championship Race 32",
-    "league": "Motorsport",
-    "category": "motor-sports",
-    "date": 1792905000000,
-    "status": "live",
-    "teams": {},
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "mm-mot-dl-7923956926",
-    "title": "Kumho Fia Tcr World Tour 2026 Zhuzhou: Race 3",
-    "league": "Motorsport",
-    "category": "motor-sports",
-    "date": 1792906200000,
-    "status": "live",
-    "teams": {},
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
     "matchId": "mm-mot-dl-cedecee7be",
     "title": "Erc Rally Six Cities North Of Portugal : Stage 10",
     "league": "Motorsport",
     "category": "motor-sports",
     "date": 1792915500000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {},
     "hlsUrl": "",
     "sdUrl": ""
@@ -148,7 +115,7 @@
     "league": "Motorsport",
     "category": "motor-sports",
     "date": 1792922400000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {},
     "hlsUrl": "",
     "sdUrl": ""
@@ -173,26 +140,6 @@
     "status": "upcoming",
     "teams": {},
     "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "sd-admin~admin-rally-tv",
-    "title": "Rally TV",
-    "league": "motor-sports",
-    "category": "motor-sports",
-    "date": 1792907967512,
-    "status": "live",
-    "teams": {
-      "home": {
-        "name": "",
-        "badge": ""
-      },
-      "away": {
-        "name": "",
-        "badge": ""
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-sd/s/admin/admin-rally-tv/playlist.m3u8?tk=KtC1v9oO56QqZw7gOFl4uA&e=1792951174|Referer=https://ondemand.st",
     "sdUrl": ""
   }
 ]
