@@ -5,17 +5,6 @@
     "league": "Formula 1",
     "category": "motor-sports",
     "date": 1792958400000,
-    "status": "upcoming",
-    "teams": {},
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "mm-mot-nascar-202610250041",
-    "title": "NASCAR Cup Series at Talladega",
-    "league": "NASCAR Cup Series",
-    "category": "motor-sports",
-    "date": 1792951200000,
     "status": "live",
     "teams": {},
     "hlsUrl": "",
@@ -99,44 +88,22 @@
     "sdUrl": ""
   },
   {
-    "matchId": "mm-mot-dl-336df4db98",
-    "title": "Erc Rally Six Cities North Of Portugal : Stage 17",
-    "league": "Motorsport",
-    "category": "motor-sports",
-    "date": 1792947600000,
-    "status": "live",
-    "teams": {},
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "mm-mot-dl-c8da06fe97",
-    "title": "2026 Race Of Champions Finale At Shangri-La Ii Speedway",
-    "league": "Motorsport",
-    "category": "motor-sports",
-    "date": 1792947600000,
-    "status": "live",
-    "teams": {},
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
     "matchId": "mm-mot-dl-0d2c1fdeae",
     "title": "2026 Blue-Gray 100 At Cherokee Speedway",
     "league": "Motorsport",
     "category": "motor-sports",
     "date": 1792958400000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {},
     "hlsUrl": "",
     "sdUrl": ""
   },
   {
-    "matchId": "sd-admin~admin-rally-tv",
-    "title": "Rally TV",
+    "matchId": "sd-hotel~talladega-superspeedway-the-chase-race-yellawood-500-nascar-cup-series-1792951200",
+    "title": "Talladega Superspeedway — The Chase - Race: YellaWood 500",
     "league": "motor-sports",
     "category": "motor-sports",
-    "date": 1792953995761,
+    "date": 1792951200000,
     "status": "live",
     "teams": {
       "home": {
@@ -148,7 +115,47 @@
         "badge": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/stream/e/0Wfe4W7FIvjYtYtLOYwKf7_0VTbB79k0kEo1Bv8rsI_6bZW747E9W91fG1FTZdJZ/playlist.m3u8?tk=MiqStvfNhsdxACRpfZyRPw&e=1792997201|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-sd/s/hotel/talladega-superspeedway-the-chase-race-yellawood-500-nascar-cup-series-1792951200/playlist.m3u8?tk=ZzOIEPNGlm5yfoJSasRxfw&e=1793007421|Referer=https://ondemand.st",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "sd-admin~admin-rally-tv",
+    "title": "Rally TV",
+    "league": "motor-sports",
+    "category": "motor-sports",
+    "date": 1792964217112,
+    "status": "live",
+    "teams": {
+      "home": {
+        "name": "",
+        "badge": ""
+      },
+      "away": {
+        "name": "",
+        "badge": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-sd/s/admin/admin-rally-tv/playlist.m3u8?tk=ZzOIEPNGlm5yfoJSasRxfw&e=1793007421|Referer=https://ondemand.st",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "sd-hotel~circuit-of-the-americas-ted-s-notebook-us-formula-1-1792969200",
+    "title": "Circuit of The Americas — Ted's Notebook: US",
+    "league": "motor-sports",
+    "category": "motor-sports",
+    "date": 1792969200000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "",
+        "badge": ""
+      },
+      "away": {
+        "name": "",
+        "badge": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-sd/s/hotel/circuit-of-the-americas-ted-s-notebook-us-formula-1-1792969200/playlist.m3u8?tk=rZT2vaeO-yjSXW7TbRGOiA&e=1793007422|Referer=https://ondemand.st",
     "sdUrl": ""
   }
 ]
