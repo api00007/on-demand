@@ -77,17 +77,6 @@
     "sdUrl": ""
   },
   {
-    "matchId": "mm-mot-dl-5e0f587111",
-    "title": "MotoGP",
-    "league": "MotoGP",
-    "category": "motor-sports",
-    "date": 1792881000000,
-    "status": "live",
-    "teams": {},
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
     "matchId": "mm-mot-dl-c56a1e283c",
     "title": "Supercars Championship",
     "league": "Motorsport",
@@ -104,7 +93,7 @@
     "league": "Motorsport",
     "category": "motor-sports",
     "date": 1792882800000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {},
     "hlsUrl": "",
     "sdUrl": ""
@@ -121,56 +110,12 @@
     "sdUrl": ""
   },
   {
-    "matchId": "mm-mot-dl-291a7528ff",
-    "title": "World Of Outlaws Late Models Modoc Speedway",
-    "league": "Motorsport",
-    "category": "motor-sports",
-    "date": 1792875600000,
-    "status": "live",
-    "teams": {},
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "mm-mot-dl-4f56672ca0",
-    "title": "Volusia Speedway Sprint Cars",
-    "league": "Motorsport",
-    "category": "motor-sports",
-    "date": 1792879200000,
-    "status": "live",
-    "teams": {},
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "mm-mot-dl-ca7598a0d8",
-    "title": "2026 NASCAR Halloween Speedfest At Langley Speedway",
-    "league": "NASCAR",
-    "category": "motor-sports",
-    "date": 1792879200000,
-    "status": "live",
-    "teams": {},
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "mm-mot-dl-fc3b243ca0",
-    "title": "2026 Harvest Hustle At Marshalltown Speedway",
-    "league": "Motorsport",
-    "category": "motor-sports",
-    "date": 1792879200000,
-    "status": "live",
-    "teams": {},
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
     "matchId": "mm-mot-dl-f7ce824323",
     "title": "World Of Outlaws Sprint Cars Texarkana 67 Speedway",
     "league": "Motorsport",
     "category": "motor-sports",
     "date": 1792884600000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {},
     "hlsUrl": "",
     "sdUrl": ""
@@ -181,7 +126,7 @@
     "league": "Motorsport",
     "category": "motor-sports",
     "date": 1792885200000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {},
     "hlsUrl": "",
     "sdUrl": ""
@@ -198,11 +143,22 @@
     "sdUrl": ""
   },
   {
+    "matchId": "mm-mot-nascar-202611010020",
+    "title": "NASCAR Cup Series at Martinsville",
+    "league": "NASCAR Cup Series",
+    "category": "motor-sports",
+    "date": 1793559600000,
+    "status": "upcoming",
+    "teams": {},
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
     "matchId": "sd-admin~admin-rally-tv",
     "title": "Rally TV",
     "league": "motor-sports",
     "category": "motor-sports",
-    "date": 1792882794341,
+    "date": 1792890176812,
     "status": "live",
     "teams": {
       "home": {
@@ -214,7 +170,7 @@
         "badge": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/s/admin/admin-rally-tv/playlist.m3u8?tk=ORjMf-5_3hHh_IagTz08SQ&e=1792926003|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-sd/s/admin/admin-rally-tv/playlist.m3u8?tk=5yGKjMJFgayHHpuonGIeiQ&e=1792933386|Referer=https://ondemand.st",
     "sdUrl": ""
   }
 ]
