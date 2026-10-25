@@ -1,109 +1,10 @@
 [
   {
-    "matchId": "mm-mot-f1-600057446-race",
-    "title": "United States Grand Prix - Race",
-    "league": "Formula 1",
-    "category": "motor-sports",
-    "date": 1792958400000,
-    "status": "live",
-    "teams": {},
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "mm-mot-f1-600057447-fp1",
-    "title": "Mexico City Grand Prix - Practice 1",
-    "league": "Formula 1",
-    "category": "motor-sports",
-    "date": 1793385000000,
-    "status": "upcoming",
-    "teams": {},
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "mm-mot-f1-600057447-fp2",
-    "title": "Mexico City Grand Prix - Practice 2",
-    "league": "Formula 1",
-    "category": "motor-sports",
-    "date": 1793397600000,
-    "status": "upcoming",
-    "teams": {},
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "mm-mot-f1-600057447-fp3",
-    "title": "Mexico City Grand Prix - Practice 3",
-    "league": "Formula 1",
-    "category": "motor-sports",
-    "date": 1793467800000,
-    "status": "upcoming",
-    "teams": {},
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "mm-mot-f1-600057447-qual",
-    "title": "Mexico City Grand Prix - Qualifying",
-    "league": "Formula 1",
-    "category": "motor-sports",
-    "date": 1793480400000,
-    "status": "upcoming",
-    "teams": {},
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "mm-mot-dl-b9db1823b6",
-    "title": "Grand Prix Of Malaysia (MotoGP)",
-    "league": "MotoGP",
-    "category": "motor-sports",
-    "date": 1793527200000,
-    "status": "upcoming",
-    "teams": {},
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "mm-mot-f1-600057447-race",
-    "title": "Mexico City Grand Prix - Race",
-    "league": "Formula 1",
-    "category": "motor-sports",
-    "date": 1793563200000,
-    "status": "upcoming",
-    "teams": {},
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "mm-mot-nascar-202611010020",
-    "title": "NASCAR Cup Series at Martinsville",
-    "league": "NASCAR Cup Series",
-    "category": "motor-sports",
-    "date": 1793559600000,
-    "status": "upcoming",
-    "teams": {},
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "mm-mot-dl-0d2c1fdeae",
-    "title": "2026 Blue-Gray 100 At Cherokee Speedway",
-    "league": "Motorsport",
-    "category": "motor-sports",
-    "date": 1792958400000,
-    "status": "live",
-    "teams": {},
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "sd-hotel~talladega-superspeedway-the-chase-race-yellawood-500-nascar-cup-series-1792951200",
-    "title": "Talladega Superspeedway — The Chase - Race: YellaWood 500",
+    "matchId": "sd-hotel~circuit-of-the-americas-ted-s-notebook-us-formula-1-1792969200",
+    "title": "Circuit of The Americas — Ted's Notebook: US",
     "league": "motor-sports",
     "category": "motor-sports",
-    "date": 1792951200000,
+    "date": 1792969200000,
     "status": "live",
     "teams": {
       "home": {
@@ -115,15 +16,35 @@
         "badge": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/s/hotel/talladega-superspeedway-the-chase-race-yellawood-500-nascar-cup-series-1792951200/playlist.m3u8?tk=ZzOIEPNGlm5yfoJSasRxfw&e=1793007421|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-sd/s/hotel/circuit-of-the-americas-ted-s-notebook-us-formula-1-1792969200/playlist.m3u8?tk=KApvjdbacj96wQFQRwDBDA&e=1793015709|Referer=https://ondemand.st",
     "sdUrl": ""
+  },
+  {
+    "matchId": "sd-golf~2445",
+    "title": "United States Grand Prix",
+    "league": "motor-sports",
+    "category": "motor-sports",
+    "date": 1792958400000,
+    "status": "live",
+    "teams": {
+      "home": {
+        "name": "",
+        "badge": ""
+      },
+      "away": {
+        "name": "",
+        "badge": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-sd/s/golf/2445/playlist.m3u8?tk=gHN4YbxMURygZiP9nzu50w&e=1793015710|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/s/golf/2445/2/playlist.m3u8?tk=gHN4YbxMURygZiP9nzu50w&e=1793015710|Referer=https://ondemand.st"
   },
   {
     "matchId": "sd-admin~admin-rally-tv",
     "title": "Rally TV",
     "league": "motor-sports",
     "category": "motor-sports",
-    "date": 1792964217112,
+    "date": 1792972509781,
     "status": "live",
     "teams": {
       "home": {
@@ -135,27 +56,7 @@
         "badge": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/s/admin/admin-rally-tv/playlist.m3u8?tk=ZzOIEPNGlm5yfoJSasRxfw&e=1793007421|Referer=https://ondemand.st",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "sd-hotel~circuit-of-the-americas-ted-s-notebook-us-formula-1-1792969200",
-    "title": "Circuit of The Americas — Ted's Notebook: US",
-    "league": "motor-sports",
-    "category": "motor-sports",
-    "date": 1792969200000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "",
-        "badge": ""
-      },
-      "away": {
-        "name": "",
-        "badge": ""
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-sd/s/hotel/circuit-of-the-americas-ted-s-notebook-us-formula-1-1792969200/playlist.m3u8?tk=rZT2vaeO-yjSXW7TbRGOiA&e=1793007422|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-sd/s/admin/admin-rally-tv/playlist.m3u8?tk=gHN4YbxMURygZiP9nzu50w&e=1793015710|Referer=https://ondemand.st",
     "sdUrl": ""
   }
 ]

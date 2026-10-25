@@ -1,71 +1,11 @@
 [
   {
-    "matchId": "mm-au-aus1-401892148",
-    "title": "Melbourne City FC vs Sydney FC",
-    "league": "A-League Men",
-    "category": "football",
-    "date": 1793426400000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Melbourne City FC",
-        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/11143.png"
-      },
-      "away": {
-        "name": "Sydney FC",
-        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/5327.png"
-      }
-    },
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "sd-admin~p-barcelona-vs-real-madrid",
-    "title": "Barcelona vs Real Madrid",
-    "league": "La Liga",
-    "category": "football",
-    "date": 1792958400000,
-    "status": "live",
-    "teams": {
-      "home": {
-        "name": "Barcelona",
-        "badge": "/img/y/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj5huIFAnbYQ6gCYhEKEBBAwQB06fgEKTPii5gy8IvNGOmtMM7GiIQA.webp"
-      },
-      "away": {
-        "name": "Real Madrid",
-        "badge": "/img/y/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAmYPmDUas6kNxAQQfEIhIgYuEChAqrBCkz4ouYMvCLzRzprTCuxohBAA.webp"
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-sd/s/admin/p-barcelona-vs-real-madrid/playlist.m3u8?tk=PnlTMqRK9EawxoUUTnIa_w&e=1793007055|Referer=https://ondemand.st",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "sd-admin~p-udinese-vs-ac-milan",
-    "title": "Udinese vs AC Milan",
-    "league": "Serie A",
-    "category": "football",
-    "date": 1792957500000,
-    "status": "live",
-    "teams": {
-      "home": {
-        "name": "Udinese",
-        "badge": "/img/y/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAmYPmDXxoObiAj6QRozBArjeiYRjAmfFFzBlt9eaIdNaYJ2NEQgA.webp"
-      },
-      "away": {
-        "name": "AC Milan",
-        "badge": "/img/y/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj5gAJuThkc3EBD0hDhmCDWmQuvgQpMrXMGXhF5olMCa0wDsaIhA.webp"
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-sd/s/admin/p-udinese-vs-ac-milan/playlist.m3u8?tk=24VcomHuLY3xrqTb5VECIw&e=1793007064|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/s/admin/p-udinese-vs-ac-milan/2/playlist.m3u8?tk=-hGEiSlYAGCD3DvB8t9LmA&e=1793007056|Referer=https://ondemand.st"
-  },
-  {
     "matchId": "sd-admin~p-atlas-vs-puebla",
     "title": "Atlas vs Puebla",
     "league": "Primera League",
     "category": "football",
     "date": 1792969200000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "Atlas",
@@ -76,8 +16,8 @@
         "badge": "/img/y/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxAgYwJP34gSIbjpAoQiCAf2rTywuqZ8UXMGXhF5o+01phHY0RCA.webp"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/s/admin/p-atlas-vs-puebla/playlist.m3u8?tk=bj9Ujvkr7jsKJCo-40cORw&e=1793007068|Referer=https://ondemand.st",
-    "sdUrl": ""
+    "hlsUrl": "https://messi.damitv.st/live-sd/s/admin/p-atlas-vs-puebla/playlist.m3u8?tk=V3uEsEVI1p3PNVPdYX0s9Q&e=1793015688|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/s/admin/p-atlas-vs-puebla/2/playlist.m3u8?tk=V3uEsEVI1p3PNVPdYX0s9Q&e=1793015688|Referer=https://ondemand.st"
   },
   {
     "matchId": "sd-admin~p-lafc-vs-la-galaxy",
@@ -96,8 +36,8 @@
         "badge": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/s/admin/p-lafc-vs-la-galaxy/playlist.m3u8?tk=iKmh1FPWn-2uDwn9OR1LTw&e=1793007076|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/s/admin/p-lafc-vs-la-galaxy/2/playlist.m3u8?tk=bj9Ujvkr7jsKJCo-40cORw&e=1793007068|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-sd/s/admin/p-lafc-vs-la-galaxy/playlist.m3u8?tk=rmgMZ6kSLjm8jqrRBbZ8Nw&e=1793015689|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/s/admin/p-lafc-vs-la-galaxy/2/playlist.m3u8?tk=rmgMZ6kSLjm8jqrRBbZ8Nw&e=1793015689|Referer=https://ondemand.st"
   },
   {
     "matchId": "sd-admin~p-quer-taro-vs-cruz-azul",
@@ -116,8 +56,8 @@
         "badge": "/img/y/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgG0IuMCnYhuIPiAO6SIdYkT6YBCkz5a2YMvCLzRWprTAOxoiEA.webp"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/s/admin/p-quer-taro-vs-cruz-azul/playlist.m3u8?tk=44xe0j9Yjtki4-Yp8677mA&e=1793007085|Referer=https://ondemand.st",
-    "sdUrl": ""
+    "hlsUrl": "https://messi.damitv.st/live-sd/s/admin/p-quer-taro-vs-cruz-azul/playlist.m3u8?tk=cOjNyQ1NKvMEVJ9jaajO9g&e=1793015690|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/s/admin/p-quer-taro-vs-cruz-azul/2/playlist.m3u8?tk=rmgMZ6kSLjm8jqrRBbZ8Nw&e=1793015689|Referer=https://ondemand.st"
   },
   {
     "matchId": "sd-admin~p-am-rica-vs-pachuca",
@@ -136,7 +76,47 @@
         "badge": "/img/y/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAMIFHTBkUYPiG4g9EQyESJjIdSGWEYwJnw1st5evNEamtMFrGiIQA.webp"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/s/admin/p-am-rica-vs-pachuca/playlist.m3u8?tk=2Mmcg9_6AjSSK4ei5WSigg&e=1793007093|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-sd/s/admin/p-am-rica-vs-pachuca/playlist.m3u8?tk=cOjNyQ1NKvMEVJ9jaajO9g&e=1793015690|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/s/admin/p-am-rica-vs-pachuca/2/playlist.m3u8?tk=cOjNyQ1NKvMEVJ9jaajO9g&e=1793015690|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "sd-admin~p-tijuana-vs-santos",
+    "title": "Tijuana vs Santos Laguna",
+    "league": "Primera League",
+    "category": "football",
+    "date": 1792983600000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Tijuana",
+        "badge": "/img/y/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxwwuABjAoQO7iD76Q2gwZyISuAhSZ8UXMGXhF5ou01pgHY0RCA.webp"
+      },
+      "away": {
+        "name": "Santos Laguna",
+        "badge": "/img/y/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAM-ECn5gkoENxB8DGo4f2HEEAhSZ9NbMGXhF5ozU1pgHY0RCA.webp"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-sd/s/admin/p-tijuana-vs-santos/playlist.m3u8?tk=pTPnJTyZyIsCGHYMEddYng&e=1793015691|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/s/admin/p-tijuana-vs-santos/2/playlist.m3u8?tk=pTPnJTyZyIsCGHYMEddYng&e=1793015691|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "sd-hotel~toulouse-vs-troyes-ligue-1-1793027700",
+    "title": "Toulouse vs Troyes",
+    "league": "Ligue 1",
+    "category": "football",
+    "date": 1793027700000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Toulouse",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/17eqox1688449282.png"
+      },
+      "away": {
+        "name": "Troyes",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/sl5kzg1766617559.png"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-sd/s/hotel/toulouse-vs-troyes-ligue-1-1793027700/playlist.m3u8?tk=2RBA7OG_q3KcZ-ZVRmuIaw&e=1793015692|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -156,428 +136,88 @@
         "badge": "/img/y/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3lhgABhAoQfHSG4gAJiBJGtIRDhAgIJghSZ8UXMGXhF5o501phXY0QggA.webp"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/s/admin/p-paris-saint-germain-vs-lyon/playlist.m3u8?tk=ZW2QZtgfns5Zn4tFKHlFkA&e=1793007122|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/s/admin/p-paris-saint-germain-vs-lyon/2/playlist.m3u8?tk=ha-UyUTJo97omBX6tyANsw&e=1793007115|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-sd/s/admin/p-paris-saint-germain-vs-lyon/playlist.m3u8?tk=2RBA7OG_q3KcZ-ZVRmuIaw&e=1793015692|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/s/admin/p-paris-saint-germain-vs-lyon/2/playlist.m3u8?tk=2RBA7OG_q3KcZ-ZVRmuIaw&e=1793015692|Referer=https://ondemand.st"
   },
   {
-    "matchId": "mm-el-E2026-72",
-    "title": "Dubai vs Paris",
-    "league": "EuroLeague",
-    "category": "basketball",
-    "date": 1793116800000,
+    "matchId": "sd-admin~p-sevilla-vs-osasuna",
+    "title": "Sevilla vs Osasuna",
+    "league": "La Liga",
+    "category": "football",
+    "date": 1793044800000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Dubai Basketball",
-        "badge": "https://media-cdn.incrowdsports.com/1efae090-16e2-4963-ae47-4b94f249c244.png"
+        "name": "Sevilla",
+        "badge": "/img/y/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAmsctzCaQIbiAgg+IRCRAxcIFIcMEKTPii5gy8IvNGOmtMM7GiIQA.webp"
       },
       "away": {
-        "name": "Paris Basketball",
-        "badge": "https://media-cdn.incrowdsports.com/a033e5b3-0de7-48a3-98d9-d9a4b9df1f39.png"
+        "name": "Osasuna",
+        "badge": "/img/y/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpixgAJuTgaIIbiB18QiEiBi4QKEGtMEKTPii5gy8IvNGOmtMM7GiIQA.webp"
       }
     },
-    "hlsUrl": "",
-    "sdUrl": ""
+    "hlsUrl": "https://messi.damitv.st/live-sd/s/admin/p-sevilla-vs-osasuna/playlist.m3u8?tk=Yenu4LIQVWGnvqJ5DO3HJA&e=1793015693|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/s/admin/p-sevilla-vs-osasuna/2/playlist.m3u8?tk=Yenu4LIQVWGnvqJ5DO3HJA&e=1793015693|Referer=https://ondemand.st"
   },
   {
-    "matchId": "mm-el-E2026-76",
-    "title": "Panathinaikos vs Milan",
-    "league": "EuroLeague",
-    "category": "basketball",
-    "date": 1793128500000,
+    "matchId": "sd-admin~p-altrincham-vs-kidderminster-harriers",
+    "title": "Altrincham vs. Kidderminster Harriers",
+    "league": "National League",
+    "category": "football",
+    "date": 1793130300000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Panathinaikos AKTOR Athens",
-        "badge": "https://media-cdn.incrowdsports.com/e3dff28a-9ec6-4faf-9d96-ecbc68f75780.png"
+        "name": "Altrincham",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/j103791655904826.png"
       },
       "away": {
-        "name": "Armani Olimpia Milan",
-        "badge": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjChWbHH/5c2f0ab6-f86a-4df0-b2f3-f9ab92f7267b.png"
+        "name": "Kidderminster Harriers",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/w3lw031675965943.png"
       }
     },
-    "hlsUrl": "",
-    "sdUrl": ""
+    "hlsUrl": "https://messi.damitv.st/live-sd/s/admin/p-altrincham-vs-kidderminster-harriers/playlist.m3u8?tk=Yenu4LIQVWGnvqJ5DO3HJA&e=1793015693|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/s/admin/p-altrincham-vs-kidderminster-harriers/2/playlist.m3u8?tk=Yenu4LIQVWGnvqJ5DO3HJA&e=1793015693|Referer=https://ondemand.st"
   },
   {
-    "matchId": "mm-el-E2026-74",
-    "title": "Bayern Munich vs FC Barcelona",
-    "league": "EuroLeague",
-    "category": "basketball",
-    "date": 1793127600000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "FC Bayern Munich",
-        "badge": "https://media-cdn.incrowdsports.com/817b0e58-d595-4b09-ab0b-1e7cc26249ff.png"
-      },
-      "away": {
-        "name": "FC Barcelona",
-        "badge": "https://media-cdn.incrowdsports.com/35dfa503-e417-481f-963a-bdf6f013763e.png"
-      }
-    },
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "mm-el-E2026-71",
-    "title": "Crvena Zvezda vs Maccabi",
-    "league": "EuroLeague",
-    "category": "basketball",
-    "date": 1793127600000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Crvena Zvezda Meridianbet Belgrade",
-        "badge": "https://media-cdn.incrowdsports.com/d2eef4a8-62df-4fdd-9076-276004268515.png"
-      },
-      "away": {
-        "name": "Maccabi Rapyd Tel Aviv",
-        "badge": "https://media-cdn.cortextech.io/1b533342-78f5-4932-b714-a7d80b5826b5.png"
-      }
-    },
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "mm-el-E2026-75",
-    "title": "Valencia vs Fenerbahce",
-    "league": "EuroLeague",
-    "category": "basketball",
-    "date": 1793129400000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Valencia Basket",
-        "badge": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjChWbHL/bc3e00b2-fea4-40be-a7ec-1e633129bde3.png"
-      },
-      "away": {
-        "name": "Fenerbahce Tarfin Istanbul",
-        "badge": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCiezrk/aa39750a-6203-49ee-a87d-edd0c6f0397d.png"
-      }
-    },
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "mm-el-E2026-73",
-    "title": "Baskonia vs Real Madrid",
-    "league": "EuroLeague",
-    "category": "basketball",
-    "date": 1793131200000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Kosner Baskonia Vitoria-Gasteiz",
-        "badge": "https://media-cdn.cortextech.io/cbc49cb0-99ce-4462-bdb7-56983ee03cf4.png"
-      },
-      "away": {
-        "name": "Real Madrid",
-        "badge": "https://media-cdn.incrowdsports.com/371b0d9b-9250-4c09-bda7-0686cf024657.png"
-      }
-    },
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "mm-el-E2026-79",
-    "title": "Besiktas vs Olympiacos",
-    "league": "EuroLeague",
-    "category": "basketball",
-    "date": 1793208600000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Besiktas Istanbul",
-        "badge": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjChWbHH/b05e3c54-e672-4b31-9f86-c91e9de7715c.png"
-      },
-      "away": {
-        "name": "Olympiacos Piraeus",
-        "badge": "https://media-cdn.incrowdsports.com/789423ac-3cdf-4b89-b11c-b458aa5f59a6.png"
-      }
-    },
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "mm-el-E2026-77",
-    "title": "Hapoel TLV vs Anadolu Efes",
-    "league": "EuroLeague",
-    "category": "basketball",
-    "date": 1793210400000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Hapoel IBI Tel Aviv",
-        "badge": "https://media-cdn.incrowdsports.com/cbb1c3ad-03d5-426a-b5ef-2832a4eee484.png"
-      },
-      "away": {
-        "name": "Anadolu Efes Istanbul",
-        "badge": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCgOCxM/a844756c-a58d-4666-93b8-48f7337bc79d.png"
-      }
-    },
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "mm-el-E2026-78",
-    "title": "LDLC ASVEL vs Partizan",
-    "league": "EuroLeague",
-    "category": "basketball",
-    "date": 1793214000000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "LDLC ASVEL Villeurbanne",
-        "badge": "https://media-cdn.incrowdsports.com/e33c6d1a-95ca-4dbc-b8cb-0201812104cc.png"
-      },
-      "away": {
-        "name": "Partizan Mozzart Bet Belgrade",
-        "badge": "https://media-cdn.incrowdsports.com/2681304e-77dd-4331-88b1-683078c0fb49.png"
-      }
-    },
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "mm-el-E2026-80",
-    "title": "Virtus Bologna vs Zalgiris",
-    "league": "EuroLeague",
-    "category": "basketball",
-    "date": 1793215800000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Virtus Bologna",
-        "badge": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCiezvk/a92d4c3b-9f9c-4163-8a10-bcf8fc15893e.png"
-      },
-      "away": {
-        "name": "Zalgiris Kaunas",
-        "badge": "https://media-cdn.incrowdsports.com/0aa09358-3847-4c4e-b228-3582ee4e536d.png"
-      }
-    },
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "mm-el-E2026-82",
-    "title": "Maccabi vs Paris",
-    "league": "EuroLeague",
-    "category": "basketball",
-    "date": 1793300700000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Maccabi Rapyd Tel Aviv",
-        "badge": "https://media-cdn.cortextech.io/1b533342-78f5-4932-b714-a7d80b5826b5.png"
-      },
-      "away": {
-        "name": "Paris Basketball",
-        "badge": "https://media-cdn.incrowdsports.com/a033e5b3-0de7-48a3-98d9-d9a4b9df1f39.png"
-      }
-    },
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "mm-el-E2026-81",
-    "title": "Crvena Zvezda vs Bayern Munich",
-    "league": "EuroLeague",
-    "category": "basketball",
-    "date": 1793300400000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Crvena Zvezda Meridianbet Belgrade",
-        "badge": "https://media-cdn.incrowdsports.com/d2eef4a8-62df-4fdd-9076-276004268515.png"
-      },
-      "away": {
-        "name": "FC Bayern Munich",
-        "badge": "https://media-cdn.incrowdsports.com/817b0e58-d595-4b09-ab0b-1e7cc26249ff.png"
-      }
-    },
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "mm-el-E2026-83",
-    "title": "Real Madrid vs Fenerbahce",
-    "league": "EuroLeague",
-    "category": "basketball",
-    "date": 1793303100000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Real Madrid",
-        "badge": "https://media-cdn.incrowdsports.com/371b0d9b-9250-4c09-bda7-0686cf024657.png"
-      },
-      "away": {
-        "name": "Fenerbahce Tarfin Istanbul",
-        "badge": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCiezrk/aa39750a-6203-49ee-a87d-edd0c6f0397d.png"
-      }
-    },
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "mm-el-E2026-84",
-    "title": "Dubai vs Hapoel TLV",
-    "league": "EuroLeague",
-    "category": "basketball",
-    "date": 1793376000000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Dubai Basketball",
-        "badge": "https://media-cdn.incrowdsports.com/1efae090-16e2-4963-ae47-4b94f249c244.png"
-      },
-      "away": {
-        "name": "Hapoel IBI Tel Aviv",
-        "badge": "https://media-cdn.incrowdsports.com/cbb1c3ad-03d5-426a-b5ef-2832a4eee484.png"
-      }
-    },
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "mm-el-E2026-88",
-    "title": "Anadolu Efes vs Panathinaikos",
-    "league": "EuroLeague",
-    "category": "basketball",
-    "date": 1793381400000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Anadolu Efes Istanbul",
-        "badge": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCgOCxM/a844756c-a58d-4666-93b8-48f7337bc79d.png"
-      },
-      "away": {
-        "name": "Panathinaikos AKTOR Athens",
-        "badge": "https://media-cdn.incrowdsports.com/e3dff28a-9ec6-4faf-9d96-ecbc68f75780.png"
-      }
-    },
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "mm-el-E2026-86",
-    "title": "Zalgiris vs Partizan",
-    "league": "EuroLeague",
-    "category": "basketball",
-    "date": 1793383200000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Zalgiris Kaunas",
-        "badge": "https://media-cdn.incrowdsports.com/0aa09358-3847-4c4e-b228-3582ee4e536d.png"
-      },
-      "away": {
-        "name": "Partizan Mozzart Bet Belgrade",
-        "badge": "https://media-cdn.incrowdsports.com/2681304e-77dd-4331-88b1-683078c0fb49.png"
-      }
-    },
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "mm-el-E2026-90",
-    "title": "Olympiacos vs Milan",
-    "league": "EuroLeague",
-    "category": "basketball",
-    "date": 1793387700000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Olympiacos Piraeus",
-        "badge": "https://media-cdn.incrowdsports.com/789423ac-3cdf-4b89-b11c-b458aa5f59a6.png"
-      },
-      "away": {
-        "name": "Armani Olimpia Milan",
-        "badge": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjChWbHH/5c2f0ab6-f86a-4df0-b2f3-f9ab92f7267b.png"
-      }
-    },
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "mm-el-E2026-85",
-    "title": "LDLC ASVEL vs Baskonia",
-    "league": "EuroLeague",
-    "category": "basketball",
-    "date": 1793386800000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "LDLC ASVEL Villeurbanne",
-        "badge": "https://media-cdn.incrowdsports.com/e33c6d1a-95ca-4dbc-b8cb-0201812104cc.png"
-      },
-      "away": {
-        "name": "Kosner Baskonia Vitoria-Gasteiz",
-        "badge": "https://media-cdn.cortextech.io/cbc49cb0-99ce-4462-bdb7-56983ee03cf4.png"
-      }
-    },
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "mm-el-E2026-89",
-    "title": "Virtus Bologna vs Besiktas",
-    "league": "EuroLeague",
-    "category": "basketball",
-    "date": 1793388600000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Virtus Bologna",
-        "badge": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCiezvk/a92d4c3b-9f9c-4163-8a10-bcf8fc15893e.png"
-      },
-      "away": {
-        "name": "Besiktas Istanbul",
-        "badge": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjChWbHH/b05e3c54-e672-4b31-9f86-c91e9de7715c.png"
-      }
-    },
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "mm-el-E2026-87",
-    "title": "FC Barcelona vs Valencia",
-    "league": "EuroLeague",
-    "category": "basketball",
-    "date": 1793388600000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "FC Barcelona",
-        "badge": "https://media-cdn.incrowdsports.com/35dfa503-e417-481f-963a-bdf6f013763e.png"
-      },
-      "away": {
-        "name": "Valencia Basket",
-        "badge": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjChWbHL/bc3e00b2-fea4-40be-a7ec-1e633129bde3.png"
-      }
-    },
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "sd-admin~p-los-angeles-lakers-vs-utah-jazz",
-    "title": "Utah Jazz vs Los Angeles Lakers",
+    "matchId": "sd-admin~p-detroit-pistons-vs-philadelphia-76-ers",
+    "title": "Philadelphia 76ers vs Detroit Pistons",
     "league": "NBA",
     "category": "basketball",
-    "date": 1792962000000,
+    "date": 1792971000000,
     "status": "live",
     "teams": {
       "home": {
-        "name": "Utah Jazz",
-        "badge": "/img/y/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpOzNIIcHxDcQWrRp0oNxgCYaCFJnxRcwZeEXmibTWmDtjREIA.webp"
+        "name": "Philadelphia 76ers",
+        "badge": "/img/y/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyQgAJtmBgG7ENxB8DIYzhxrjIEgYIUmfFFzBl4ReaIdNaYJ2NEQgA.webp"
       },
       "away": {
-        "name": "Los Angeles Lakers",
-        "badge": "/img/y/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwghwoquD4huIbbtU4SIVcd0TCMYEz4ouYMvCLzRdprTAOxoiEA.webp"
+        "name": "Detroit Pistons",
+        "badge": "/img/y/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzD8QfMN2zMQ3EABNcukCRAoQEdSd0EKTPii5gy8IvNGOmtMM7GiIQA.webp"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/s/admin/p-los-angeles-lakers-vs-utah-jazz/playlist.m3u8?tk=qk4oR5hvHpls0r6YFPD3HQ&e=1793007161|Referer=https://ondemand.st",
-    "sdUrl": ""
+    "hlsUrl": "https://messi.damitv.st/live-sd/s/admin/p-detroit-pistons-vs-philadelphia-76-ers/playlist.m3u8?tk=dISfZdXfJv5YWedp1og5YA&e=1793015694|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/s/admin/p-detroit-pistons-vs-philadelphia-76-ers/2/playlist.m3u8?tk=dISfZdXfJv5YWedp1og5YA&e=1793015694|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "sd-admin~p-orlando-magic-vs-new-york-knicks",
+    "title": "New York Knicks vs Orlando Magic",
+    "league": "NBA",
+    "category": "basketball",
+    "date": 1792969200000,
+    "status": "live",
+    "teams": {
+      "home": {
+        "name": "New York Knicks",
+        "badge": "/img/y/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhD0ADCBCUGkENxB8Dm3CYAmR8xAIUmfFFzBl4ReaPtNaYR2NEQgA.webp"
+      },
+      "away": {
+        "name": "Orlando Magic",
+        "badge": "/img/y/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyQgYbWGBIgd3EH306QelEcQGJhdUz4ouW8vXmi7TWmC1jREIA.webp"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-sd/s/admin/p-orlando-magic-vs-new-york-knicks/playlist.m3u8?tk=Yp30PvUT7xJ6XwSGzjLynw&e=1793015695|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/s/admin/p-orlando-magic-vs-new-york-knicks/2/playlist.m3u8?tk=Yp30PvUT7xJ6XwSGzjLynw&e=1793015695|Referer=https://ondemand.st"
   },
   {
     "matchId": "sd-admin~p-toronto-raptors-vs-minnesota-timberwolves",
@@ -585,7 +225,7 @@
     "league": "NBA",
     "category": "basketball",
     "date": 1792969200000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "Minnesota Timberwolves",
@@ -596,8 +236,108 @@
         "badge": "/img/y/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzDNIIFCAAmPENxB8DIYzhyGcMEMsIxgTPii5gy8IvNGOmtMM7GiIQA.webp"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/s/admin/p-toronto-raptors-vs-minnesota-timberwolves/playlist.m3u8?tk=kIyMRVu6UwlGoxrhVO0CyQ&e=1793007184|Referer=https://ondemand.st",
-    "sdUrl": ""
+    "hlsUrl": "https://messi.damitv.st/live-sd/s/admin/p-toronto-raptors-vs-minnesota-timberwolves/playlist.m3u8?tk=Yp30PvUT7xJ6XwSGzjLynw&e=1793015695|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/s/admin/p-toronto-raptors-vs-minnesota-timberwolves/2/playlist.m3u8?tk=Yp30PvUT7xJ6XwSGzjLynw&e=1793015695|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "sd-admin~p-la-clippers-vs-oklahoma-city-thunder",
+    "title": "Oklahoma City Thunder vs Los Angeles Clippers",
+    "league": "NBA",
+    "category": "basketball",
+    "date": 1792969200000,
+    "status": "live",
+    "teams": {
+      "home": {
+        "name": "Oklahoma City Thunder",
+        "badge": "/img/y/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3kAGYkhBkYIbiD76QRvShCmdOgCYEKTPii5gy8IvNEOmtME7GiIQA.webp"
+      },
+      "away": {
+        "name": "Los Angeles Clippers",
+        "badge": "/img/y/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhC0+RHOETcQfEDpSqQMIzpzLCMYEz4ouYMvA2lOTWmAdjREIA.webp"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-sd/s/admin/p-la-clippers-vs-oklahoma-city-thunder/playlist.m3u8?tk=D24MxnFcNqr5CSdpFkW-ag&e=1793015696|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/s/admin/p-la-clippers-vs-oklahoma-city-thunder/2/playlist.m3u8?tk=D24MxnFcNqr5CSdpFkW-ag&e=1793015696|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "sd-admin~p-indiana-pacers-vs-brooklyn-nets",
+    "title": "Brooklyn Nets vs Indiana Pacers",
+    "league": "NBA",
+    "category": "basketball",
+    "date": 1792965600000,
+    "status": "live",
+    "teams": {
+      "home": {
+        "name": "Brooklyn Nets",
+        "badge": "/img/y/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxDAADAoAmpEJpDcQfEIhQhTEEJcR6JhGMCZ8UXMGXhF5o501phXY0QggA.webp"
+      },
+      "away": {
+        "name": "Indiana Pacers",
+        "badge": "/img/y/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphQhaYMGXo5uIPnpCGcOACYgSIXRMIxgTPii6by20pybrNY0RCA.webp"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-sd/s/admin/p-indiana-pacers-vs-brooklyn-nets/playlist.m3u8?tk=D24MxnFcNqr5CSdpFkW-ag&e=1793015696|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/s/admin/p-indiana-pacers-vs-brooklyn-nets/2/playlist.m3u8?tk=D24MxnFcNqr5CSdpFkW-ag&e=1793015696|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "sd-admin~p-memphis-grizzlies-vs-sacramento-kings",
+    "title": "Sacramento Kings vs Memphis Grizzlies",
+    "league": "NBA",
+    "category": "basketball",
+    "date": 1792976400000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Sacramento Kings",
+        "badge": "/img/y/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAMuBmDIC0IbiD76QRnDgMRcIACYEKTPii6by9eaIdNaYTWNEQgA.webp"
+      },
+      "away": {
+        "name": "Memphis Grizzlies",
+        "badge": "/img/y/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAmICOrDdYuENxB8DIY-pRG1GmAQpM+KLmDLwi80faa0wjsaIhA.webp"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-sd/s/admin/p-memphis-grizzlies-vs-sacramento-kings/playlist.m3u8?tk=pmiDOBmgFIdm57oRzUwXnw&e=1793015697|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/s/admin/p-memphis-grizzlies-vs-sacramento-kings/2/playlist.m3u8?tk=D24MxnFcNqr5CSdpFkW-ag&e=1793015696|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "sd-admin~p-minnesota-timberwolves-vs-cleveland-cavaliers",
+    "title": "Cleveland Cavaliers vs Minnesota Timberwolves",
+    "league": "NBA",
+    "category": "basketball",
+    "date": 1793055600000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Cleveland Cavaliers",
+        "badge": "/img/y/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphjNQIFM0ghuIPnpCHdKECUO5DBCkz6a2YMvCLzRmprTAOxoiEA.webp"
+      },
+      "away": {
+        "name": "Minnesota Timberwolves",
+        "badge": "/img/y/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzIxSwQiH4huIPiAO6YIRBAM6dBCkz4ouYMvCLzRdprTAOxoiEA.webp"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-sd/s/admin/p-minnesota-timberwolves-vs-cleveland-cavaliers/playlist.m3u8?tk=pmiDOBmgFIdm57oRzUwXnw&e=1793015697|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/s/admin/p-minnesota-timberwolves-vs-cleveland-cavaliers/2/playlist.m3u8?tk=pmiDOBmgFIdm57oRzUwXnw&e=1793015697|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "sd-admin~p-washington-wizards-vs-charlotte-hornets",
+    "title": "Charlotte Hornets vs Washington Wizards",
+    "league": "NBA",
+    "category": "basketball",
+    "date": 1793055600000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Charlotte Hornets",
+        "badge": "/img/y/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnDdoAEzCaYIbiAi5DiECB3qjBCkz4ouYMvCLzRtprTD2xoiEA.webp"
+      },
+      "away": {
+        "name": "Washington Wizards",
+        "badge": "/img/y/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyggFiAdxBa+IXSFyHdOfQQpM+KLmDLwi80Vaa0wNsaIhA.webp"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-sd/s/admin/p-washington-wizards-vs-charlotte-hornets/playlist.m3u8?tk=5oKhbKBg8FwLHMvLCa9gDg&e=1793015698|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/s/admin/p-washington-wizards-vs-charlotte-hornets/2/playlist.m3u8?tk=5oKhbKBg8FwLHMvLCa9gDg&e=1793015698|Referer=https://ondemand.st"
   },
   {
     "matchId": "sd-admin~p-dallas-mavericks-vs-miami-heat",
@@ -616,8 +356,8 @@
         "badge": "/img/y/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpkSioIEAMTdNujTpS6SIRABMCFJnxRcwZeEXmibTWmDti1QA.webp"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/s/admin/p-dallas-mavericks-vs-miami-heat/playlist.m3u8?tk=GlXc0ijOvJKHYney24yRYQ&e=1793007247|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/s/admin/p-dallas-mavericks-vs-miami-heat/2/playlist.m3u8?tk=d-S9O7Y7Sk7u-FzopQ4XZw&e=1793007239|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-sd/s/admin/p-dallas-mavericks-vs-miami-heat/playlist.m3u8?tk=5oKhbKBg8FwLHMvLCa9gDg&e=1793015698|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/s/admin/p-dallas-mavericks-vs-miami-heat/2/playlist.m3u8?tk=5oKhbKBg8FwLHMvLCa9gDg&e=1793015698|Referer=https://ondemand.st"
   },
   {
     "matchId": "sd-admin~p-chicago-bulls-vs-boston-celtics",
@@ -636,28 +376,8 @@
         "badge": "/img/y/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh1HhuIEMDAhE6viH0b1KAzpAQQKAhSZ8UXMGXhF5o+01phHY0RCA.webp"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/s/admin/p-chicago-bulls-vs-boston-celtics/playlist.m3u8?tk=q_wNxHuGJfz07EUFzV38gg&e=1793007255|Referer=https://ondemand.st",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "sd-admin~p-indiana-pacers-vs-milwaukee-bucks",
-    "title": "Indiana Pacers vs. Milwaukee Bucks",
-    "league": "NBA",
-    "category": "basketball",
-    "date": 1793059200000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Indiana Pacers",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/y3lutb1778226511.png"
-      },
-      "away": {
-        "name": "Milwaukee Bucks",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/olhug01621594702.png"
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-sd/s/admin/p-indiana-pacers-vs-milwaukee-bucks/playlist.m3u8?tk=ErvTmGTgG_uWCt0OTrn1Nw&e=1793007264|Referer=https://ondemand.st",
-    "sdUrl": ""
+    "hlsUrl": "https://messi.damitv.st/live-sd/s/admin/p-chicago-bulls-vs-boston-celtics/playlist.m3u8?tk=9zOkhEJzF5RBSXloglSbgA&e=1793015699|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/s/admin/p-chicago-bulls-vs-boston-celtics/2/playlist.m3u8?tk=9zOkhEJzF5RBSXloglSbgA&e=1793015699|Referer=https://ondemand.st"
   },
   {
     "matchId": "sd-admin~p-phoenix-suns-vs-oklahoma-city-thunder",
@@ -676,75 +396,115 @@
         "badge": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/s/admin/p-phoenix-suns-vs-oklahoma-city-thunder/playlist.m3u8?tk=N3YHl8PNCDdFYjc7JYrF8Q&e=1793007273|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/s/admin/p-phoenix-suns-vs-oklahoma-city-thunder/2/playlist.m3u8?tk=kohZ0iFGRIpy16bftv9a7A&e=1793007265|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-sd/s/admin/p-phoenix-suns-vs-oklahoma-city-thunder/playlist.m3u8?tk=9zOkhEJzF5RBSXloglSbgA&e=1793015699|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/s/admin/p-phoenix-suns-vs-oklahoma-city-thunder/2/playlist.m3u8?tk=9zOkhEJzF5RBSXloglSbgA&e=1793015699|Referer=https://ondemand.st"
   },
   {
-    "matchId": "sd-admin~p-los-angeles-rams-at-las-vegas-raiders",
-    "title": "Las Vegas Raiders vs Los Angeles Rams",
-    "league": "NFL",
-    "category": "american-football",
-    "date": 1792959900000,
-    "status": "live",
+    "matchId": "sd-admin~p-indiana-pacers-vs-milwaukee-bucks",
+    "title": "Indiana Pacers vs. Milwaukee Bucks",
+    "league": "NBA",
+    "category": "basketball",
+    "date": 1793059200000,
+    "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Las Vegas Raiders",
-        "badge": "/img/y/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhBQIIcOHoAGENxB8Nqg7j1nDKAhSZ8UXMGXhF5ou01pgHY0RCA.webp"
+        "name": "Indiana Pacers",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/y3lutb1778226511.png"
       },
       "away": {
-        "name": "Los Angeles Rams",
-        "badge": "/img/y/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh1ZIwfENxBkQmkBt0R9uPboAm2ghSZ8UXMGXhF5ou01pgHY0RCA.webp"
+        "name": "Milwaukee Bucks",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/olhug01621594702.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/s/admin/p-los-angeles-rams-at-las-vegas-raiders/playlist.m3u8?tk=eKTeEEg2hMvV-yfC2lpAww&e=1793007321|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/s/admin/p-los-angeles-rams-at-las-vegas-raiders/2/playlist.m3u8?tk=1-7pJAMekvj0X1mMFUKMUQ&e=1793007314|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-sd/s/admin/p-indiana-pacers-vs-milwaukee-bucks/playlist.m3u8?tk=NOwhkkldqi1BEWmjn6f-OQ&e=1793015700|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/s/admin/p-indiana-pacers-vs-milwaukee-bucks/2/playlist.m3u8?tk=NOwhkkldqi1BEWmjn6f-OQ&e=1793015700|Referer=https://ondemand.st"
   },
   {
-    "matchId": "sd-admin~p-green-bay-packers-at-detroit-lions",
-    "title": "Detroit Lions vs Green Bay Packers",
-    "league": "NFL",
-    "category": "american-football",
-    "date": 1792959900000,
-    "status": "live",
+    "matchId": "sd-admin~p-atlanta-hawks-vs-houston-rockets",
+    "title": "Atlanta Hawks vs. Houston Rockets",
+    "league": "NBA",
+    "category": "basketball",
+    "date": 1793061000000,
+    "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Detroit Lions",
-        "badge": "/img/y/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzD8E-YAAZsIbiBIgIIACa6TICzgN8CFJja5gy8IvNEpgTWmCdjREIA.webp"
+        "name": "Atlanta Hawks",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/7o1noy1778226315.png"
       },
       "away": {
-        "name": "Green Bay Packers",
-        "badge": "/img/y/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpjID5AEzB8QMENxDaQICAb0gUZ7fAIUmfFFzBl4ReaIdNaYJ2NEQgA.webp"
+        "name": "Houston Rockets",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/azoktf1780729261.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/s/admin/p-green-bay-packers-at-detroit-lions/playlist.m3u8?tk=at6_zmv3Ss0mPNv1nkMXpQ&e=1793007329|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/s/admin/p-green-bay-packers-at-detroit-lions/2/playlist.m3u8?tk=eKTeEEg2hMvV-yfC2lpAww&e=1793007321|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-sd/s/admin/p-atlanta-hawks-vs-houston-rockets/playlist.m3u8?tk=NOwhkkldqi1BEWmjn6f-OQ&e=1793015700|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/s/admin/p-atlanta-hawks-vs-houston-rockets/2/playlist.m3u8?tk=NOwhkkldqi1BEWmjn6f-OQ&e=1793015700|Referer=https://ondemand.st"
   },
   {
-    "matchId": "sd-admin~p-denver-broncos-at-arizona-cardinals",
-    "title": "Arizona Cardinals vs Denver Broncos",
-    "league": "NFL",
-    "category": "american-football",
-    "date": 1792958700000,
-    "status": "live",
+    "matchId": "sd-admin~p-memphis-grizzlies-vs-utah-jazz",
+    "title": "Memphis Grizzlies vs. Utah Jazz",
+    "league": "NBA",
+    "category": "basketball",
+    "date": 1793062800000,
+    "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Arizona Cardinals",
-        "badge": "/img/y/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxQhefNWAEbuIDSBAQ9a3KcQoCFJnxRcwZeEXmjbTWmHtjREIA.webp"
+        "name": "Memphis Grizzlies",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/v44qp21778197640.png"
       },
       "away": {
-        "name": "Denver Broncos",
-        "badge": "/img/y/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpiRgUIWqBRgAJiG4g+IYxEP7jZmIYIUmfFFzBl4ReaIdNaYJ2NEQgA.webp"
+        "name": "Utah Jazz",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/trct8w1778198868.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/s/admin/p-denver-broncos-at-arizona-cardinals/playlist.m3u8?tk=x6ItjOmzwIXx8HrL51-3UQ&e=1793007333|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/s/admin/p-denver-broncos-at-arizona-cardinals/2/playlist.m3u8?tk=l8gbZZhEV4i1xwza3GRz-w&e=1793007330|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-sd/s/admin/p-memphis-grizzlies-vs-utah-jazz/playlist.m3u8?tk=mDqbDC9vHw-lSl5H8N62XQ&e=1793015701|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/s/admin/p-memphis-grizzlies-vs-utah-jazz/2/playlist.m3u8?tk=mDqbDC9vHw-lSl5H8N62XQ&e=1793015701|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "sd-admin~p-golden-state-warriors-vs-denver-nuggets",
+    "title": "Golden State Warriors vs. Denver Nuggets",
+    "league": "NBA",
+    "category": "basketball",
+    "date": 1793066400000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Golden State Warriors",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/xokycb1778197905.png"
+      },
+      "away": {
+        "name": "Denver Nuggets",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/s8ch7m1778197814.png"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-sd/s/admin/p-golden-state-warriors-vs-denver-nuggets/playlist.m3u8?tk=mDqbDC9vHw-lSl5H8N62XQ&e=1793015701|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/s/admin/p-golden-state-warriors-vs-denver-nuggets/2/playlist.m3u8?tk=mDqbDC9vHw-lSl5H8N62XQ&e=1793015701|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "sd-golf~1948",
+    "title": "Notre Dame Fighting Irish - Villanova Wildcats",
+    "league": "basketball",
+    "category": "basketball",
+    "date": 1793539800000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Notre Dame Fighting Irish",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/xxpl7d1721383675.png"
+      },
+      "away": {
+        "name": "Villanova Wildcats",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/8w35sk1564357973.png"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-sd/s/golf/1948/playlist.m3u8?tk=zZVkvzjx2JobQcecRS-Z_w&e=1793015702|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/s/golf/1948/2/playlist.m3u8?tk=zZVkvzjx2JobQcecRS-Z_w&e=1793015702|Referer=https://ondemand.st"
   },
   {
     "matchId": "sd-admin~p-nfl-network",
     "title": "NFL Network",
     "league": "american-football",
     "category": "american-football",
-    "date": 1792964114402,
+    "date": 1792972485956,
     "status": "live",
     "teams": {
       "home": {
@@ -756,35 +516,55 @@
         "badge": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/s/admin/p-nfl-network/playlist.m3u8?tk=-XWm67kTaJDQ0B45s3WMJw&e=1793007341|Referer=https://ondemand.st",
-    "sdUrl": ""
+    "hlsUrl": "https://messi.damitv.st/live-sd/s/admin/p-nfl-network/playlist.m3u8?tk=nh8UPDsFu7n-MuJzWI6sgg&e=1793015703|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/s/admin/p-nfl-network/2/playlist.m3u8?tk=nh8UPDsFu7n-MuJzWI6sgg&e=1793015703|Referer=https://ondemand.st"
   },
   {
-    "matchId": "mm-raw-20261026",
-    "title": "WWE Monday Night Raw",
-    "league": "WWE",
-    "category": "fight",
-    "date": 1793059200000,
+    "matchId": "sd-admin~p-kansas-city-chiefs-at-seattle-seahawks",
+    "title": "Seattle Seahawks vs Kansas City Chiefs",
+    "league": "NFL",
+    "category": "american-football",
+    "date": 1792974000000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "",
-        "badge": ""
+        "name": "Seattle Seahawks",
+        "badge": "/img/y/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDdIIDfUQlVIPhpAQ9IHTgAmBiAQpM+KLmDLwi80faa0wjsaIhA.webp"
       },
       "away": {
-        "name": "",
-        "badge": ""
+        "name": "Kansas City Chiefs",
+        "badge": "/img/y/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3wgSIEP1hqQ3EHw0gI+3CBggUplAQpM+KLmDLwi80Q6a0wTsaIhA.webp"
       }
     },
-    "hlsUrl": "",
-    "sdUrl": ""
+    "hlsUrl": "https://messi.damitv.st/live-sd/s/admin/p-kansas-city-chiefs-at-seattle-seahawks/playlist.m3u8?tk=nh8UPDsFu7n-MuJzWI6sgg&e=1793015703|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/s/admin/p-kansas-city-chiefs-at-seattle-seahawks/2/playlist.m3u8?tk=nh8UPDsFu7n-MuJzWI6sgg&e=1793015703|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "sd-admin~p-dallas-cowboys-at-philadelphia-eagles",
+    "title": "Dallas Cowboys at Philadelphia Eagles",
+    "league": "NFL",
+    "category": "american-football",
+    "date": 1793060100000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Dallas Cowboys",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/76ew3c1784718447.png"
+      },
+      "away": {
+        "name": "Philadelphia Eagles",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/pnpybf1515852421.png"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-sd/s/admin/p-dallas-cowboys-at-philadelphia-eagles/playlist.m3u8?tk=nh8UPDsFu7n-MuJzWI6sgg&e=1793015703|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/s/admin/p-dallas-cowboys-at-philadelphia-eagles/2/playlist.m3u8?tk=nh8UPDsFu7n-MuJzWI6sgg&e=1793015703|Referer=https://ondemand.st"
   },
   {
     "matchId": "sd-admin~admin-tennis-channel",
     "title": "Tennis Channel",
     "league": "tennis",
     "category": "tennis",
-    "date": 1792964167072,
+    "date": 1792972504642,
     "status": "live",
     "teams": {
       "home": {
@@ -796,48 +576,28 @@
         "badge": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/s/admin/admin-tennis-channel/playlist.m3u8?tk=1WOZVO27WeIh2AqYvUC8nw&e=1793007373|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/s/admin/admin-tennis-channel/2/playlist.m3u8?tk=1WOZVO27WeIh2AqYvUC8nw&e=1793007373|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-sd/s/admin/admin-tennis-channel/playlist.m3u8?tk=Gj6NKDwJORejvC3Nfif5bQ&e=1793015704|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/s/admin/admin-tennis-channel/2/playlist.m3u8?tk=Gj6NKDwJORejvC3Nfif5bQ&e=1793015704|Referer=https://ondemand.st"
   },
   {
-    "matchId": "sd-admin~p-florida-panthers-vs-chicago-blackhawks",
-    "title": "Chicago Blackhawks vs Florida Panthers",
+    "matchId": "sd-admin~p-montreal-canadiens-vs-winnipeg-jets",
+    "title": "Winnipeg Jets vs Montreal Canadiens",
     "league": "NHL",
     "category": "hockey",
-    "date": 1792954800000,
+    "date": 1792969200000,
     "status": "live",
     "teams": {
       "home": {
-        "name": "Chicago Blackhawks",
-        "badge": "/img/y/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpLBk+YFGAAm2ENxARcRmAb0hzJiYRjAmfFF1Xl680Q6a0wqsaIhA.webp"
+        "name": "Winnipeg Jets",
+        "badge": "/img/y/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyxgB+EClDYQ3ECRAQQfXCESIAJrt0EKTPlrZgy8IvNFamtMM7GiIQA.webp"
       },
       "away": {
-        "name": "Florida Panthers",
-        "badge": "/img/y/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDhuRdUhDdtIEiAgg+u-apw4YBCkz4ouYMvCLzRdprTAOxoiEA.webp"
+        "name": "Montreal Canadiens",
+        "badge": "/img/y/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnjQ4WMCjAgQ3EBFy6QfECiMmSIeAQpM+KLmDKr680Q6a0wTsaIhA.webp"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/s/admin/p-florida-panthers-vs-chicago-blackhawks/playlist.m3u8?tk=bmWndFhCyVVGKni_ZtYK0g&e=1793007374|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/s/admin/p-florida-panthers-vs-chicago-blackhawks/2/playlist.m3u8?tk=bmWndFhCyVVGKni_ZtYK0g&e=1793007374|Referer=https://ondemand.st"
-  },
-  {
-    "matchId": "sd-admin~p-nhl-network",
-    "title": "NHL Network",
-    "league": "hockey",
-    "category": "hockey",
-    "date": 1792964174007,
-    "status": "live",
-    "teams": {
-      "home": {
-        "name": "",
-        "badge": ""
-      },
-      "away": {
-        "name": "",
-        "badge": ""
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-sd/s/admin/p-nhl-network/playlist.m3u8?tk=qxvASTlmj_950yJGg5d3ZQ&e=1793007381|Referer=https://ondemand.st",
-    "sdUrl": ""
+    "hlsUrl": "https://messi.damitv.st/live-sd/s/admin/p-montreal-canadiens-vs-winnipeg-jets/playlist.m3u8?tk=tay6UwigUzfFOJXwoDphhg&e=1793015705|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/s/admin/p-montreal-canadiens-vs-winnipeg-jets/2/playlist.m3u8?tk=tay6UwigUzfFOJXwoDphhg&e=1793015705|Referer=https://ondemand.st"
   },
   {
     "matchId": "sd-admin~p-new-york-islanders-vs-dallas-stars",
@@ -845,7 +605,7 @@
     "league": "NHL",
     "category": "hockey",
     "date": 1792965600000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "Dallas Stars",
@@ -856,8 +616,48 @@
         "badge": "/img/y/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3C98IDSRDdtIACa6UILYgN9dEAhSZ8UXMGXhF5ou01pgHY0RCA.webp"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/s/admin/p-new-york-islanders-vs-dallas-stars/playlist.m3u8?tk=pbDLJ-FMfOqLKLWt6cF2mA&e=1793007389|Referer=https://ondemand.st",
-    "sdUrl": ""
+    "hlsUrl": "https://messi.damitv.st/live-sd/s/admin/p-new-york-islanders-vs-dallas-stars/playlist.m3u8?tk=O3uImx_D1W4VKJ0nsfkC0w&e=1793015706|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/s/admin/p-new-york-islanders-vs-dallas-stars/2/playlist.m3u8?tk=O3uImx_D1W4VKJ0nsfkC0w&e=1793015706|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "sd-admin~p-nhl-network",
+    "title": "NHL Network",
+    "league": "hockey",
+    "category": "hockey",
+    "date": 1792972505502,
+    "status": "live",
+    "teams": {
+      "home": {
+        "name": "",
+        "badge": ""
+      },
+      "away": {
+        "name": "",
+        "badge": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-sd/s/admin/p-nhl-network/playlist.m3u8?tk=O3uImx_D1W4VKJ0nsfkC0w&e=1793015706|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/s/admin/p-nhl-network/2/playlist.m3u8?tk=O3uImx_D1W4VKJ0nsfkC0w&e=1793015706|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "sd-admin~p-colorado-avalanche-vs-nashville-predators",
+    "title": "Nashville Predators vs Colorado Avalanche",
+    "league": "NHL",
+    "category": "hockey",
+    "date": 1792972800000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Nashville Predators",
+        "badge": "/img/y/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpLB8w3MCjAATTSG4gIuYzBAljKEKZAEKTPii5gy8IvNGOmtMM7GiIQA.webp"
+      },
+      "away": {
+        "name": "Colorado Avalanche",
+        "badge": "/img/y/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj5huYMlE0huICLh2G+IRCRDHGFJnxRcN5evNG2mtMBrGiIQA.webp"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-sd/s/admin/p-colorado-avalanche-vs-nashville-predators/playlist.m3u8?tk=O3uImx_D1W4VKJ0nsfkC0w&e=1793015706|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/s/admin/p-colorado-avalanche-vs-nashville-predators/2/playlist.m3u8?tk=O3uImx_D1W4VKJ0nsfkC0w&e=1793015706|Referer=https://ondemand.st"
   },
   {
     "matchId": "sd-admin~p-minnesota-wild-vs-vancouver-canucks",
@@ -876,8 +676,8 @@
         "badge": "/img/y/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnhg+NMOETcQEXPpi79AExBnlhGMCZ8UXMGVX15ou01pgHY0RCA.webp"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/s/admin/p-minnesota-wild-vs-vancouver-canucks/playlist.m3u8?tk=UqAgsr_us_GfALKFnh92fQ&e=1793007412|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/s/admin/p-minnesota-wild-vs-vancouver-canucks/2/playlist.m3u8?tk=weZDyofLxje9l3_yLmmwWg&e=1793007408|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-sd/s/admin/p-minnesota-wild-vs-vancouver-canucks/playlist.m3u8?tk=Zj5pSBxhhUANtJ271aH4UQ&e=1793015707|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/s/admin/p-minnesota-wild-vs-vancouver-canucks/2/playlist.m3u8?tk=Zj5pSBxhhUANtJ271aH4UQ&e=1793015707|Referer=https://ondemand.st"
   },
   {
     "matchId": "sd-golf~2610",
@@ -896,8 +696,8 @@
         "badge": "/img/y/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj4gIIGCHDzV3ELpApcxzavWHCMYEz4ouYMvCLzRdprTAOxoiEA.webp"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/s/golf/2610/playlist.m3u8?tk=UqAgsr_us_GfALKFnh92fQ&e=1793007412|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/s/golf/2610/2/playlist.m3u8?tk=UqAgsr_us_GfALKFnh92fQ&e=1793007412|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-sd/s/golf/2610/playlist.m3u8?tk=xRlEgo-0Fm6wKC5zHGprrA&e=1793015708|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/s/golf/2610/2/playlist.m3u8?tk=Zj5pSBxhhUANtJ271aH4UQ&e=1793015707|Referer=https://ondemand.st"
   },
   {
     "matchId": "sd-golf~2611",
@@ -916,8 +716,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/v8vkk11619536610.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/s/golf/2611/playlist.m3u8?tk=Lpn-rGf1S5khylc_AVCwwA&e=1793007413|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/s/golf/2611/2/playlist.m3u8?tk=Lpn-rGf1S5khylc_AVCwwA&e=1793007413|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-sd/s/golf/2611/playlist.m3u8?tk=xRlEgo-0Fm6wKC5zHGprrA&e=1793015708|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/s/golf/2611/2/playlist.m3u8?tk=xRlEgo-0Fm6wKC5zHGprrA&e=1793015708|Referer=https://ondemand.st"
   },
   {
     "matchId": "sd-golf~2612",
@@ -936,247 +736,8 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/uxxsyw1421618428.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/s/golf/2612/playlist.m3u8?tk=A3HTBplUdi00LQXUcEU3bA&e=1793007414|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/s/golf/2612/2/playlist.m3u8?tk=A3HTBplUdi00LQXUcEU3bA&e=1793007414|Referer=https://ondemand.st"
-  },
-  {
-    "matchId": "mm-rlwc26-2420433",
-    "title": "England vs Papua New Guinea",
-    "league": "Rugby League World Cup",
-    "category": "rugby",
-    "date": 1793351100000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "England",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/ndiw4u1768825342.png"
-      },
-      "away": {
-        "name": "Papua New Guinea",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/utlu291768825420.png"
-      }
-    },
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "mm-rlwc26-2420425",
-    "title": "New Zealand vs Fiji",
-    "league": "Rugby League World Cup",
-    "category": "rugby",
-    "date": 1793421900000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "New Zealand",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/t1svbv1768825413.png"
-      },
-      "away": {
-        "name": "Fiji",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/mclqci1768825350.png"
-      }
-    },
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "mm-rlwc26-2420426",
-    "title": "Australia vs Cook Islands",
-    "league": "Rugby League World Cup",
-    "category": "rugby",
-    "date": 1793437500000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Australia",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/h0dp9w1768825327.png"
-      },
-      "away": {
-        "name": "Cook Islands",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/km17ms1768825335.png"
-      }
-    },
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "mm-rlwc26-2420434",
-    "title": "Lebanon vs France",
-    "league": "Rugby League World Cup",
-    "category": "rugby",
-    "date": 1793515800000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Lebanon",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/4emghb1768825405.png"
-      },
-      "away": {
-        "name": "France",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/9sfnw71768825365.png"
-      }
-    },
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "mm-rlwc26-2420435",
-    "title": "Tonga vs Samoa",
-    "league": "Rugby League World Cup",
-    "category": "rugby",
-    "date": 1793523900000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Tonga",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/lcu2zg1768825449.png"
-      },
-      "away": {
-        "name": "Samoa",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/dcgnql1768825433.png"
-      }
-    },
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "mm-mot-f1-600057446-race",
-    "title": "United States Grand Prix - Race",
-    "league": "Formula 1",
-    "category": "motor-sports",
-    "date": 1792958400000,
-    "status": "live",
-    "teams": {},
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "mm-mot-f1-600057447-fp1",
-    "title": "Mexico City Grand Prix - Practice 1",
-    "league": "Formula 1",
-    "category": "motor-sports",
-    "date": 1793385000000,
-    "status": "upcoming",
-    "teams": {},
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "mm-mot-f1-600057447-fp2",
-    "title": "Mexico City Grand Prix - Practice 2",
-    "league": "Formula 1",
-    "category": "motor-sports",
-    "date": 1793397600000,
-    "status": "upcoming",
-    "teams": {},
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "mm-mot-f1-600057447-fp3",
-    "title": "Mexico City Grand Prix - Practice 3",
-    "league": "Formula 1",
-    "category": "motor-sports",
-    "date": 1793467800000,
-    "status": "upcoming",
-    "teams": {},
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "mm-mot-f1-600057447-qual",
-    "title": "Mexico City Grand Prix - Qualifying",
-    "league": "Formula 1",
-    "category": "motor-sports",
-    "date": 1793480400000,
-    "status": "upcoming",
-    "teams": {},
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "mm-mot-dl-b9db1823b6",
-    "title": "Grand Prix Of Malaysia (MotoGP)",
-    "league": "MotoGP",
-    "category": "motor-sports",
-    "date": 1793527200000,
-    "status": "upcoming",
-    "teams": {},
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "mm-mot-f1-600057447-race",
-    "title": "Mexico City Grand Prix - Race",
-    "league": "Formula 1",
-    "category": "motor-sports",
-    "date": 1793563200000,
-    "status": "upcoming",
-    "teams": {},
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "mm-mot-nascar-202611010020",
-    "title": "NASCAR Cup Series at Martinsville",
-    "league": "NASCAR Cup Series",
-    "category": "motor-sports",
-    "date": 1793559600000,
-    "status": "upcoming",
-    "teams": {},
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "mm-mot-dl-0d2c1fdeae",
-    "title": "2026 Blue-Gray 100 At Cherokee Speedway",
-    "league": "Motorsport",
-    "category": "motor-sports",
-    "date": 1792958400000,
-    "status": "live",
-    "teams": {},
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "sd-hotel~talladega-superspeedway-the-chase-race-yellawood-500-nascar-cup-series-1792951200",
-    "title": "Talladega Superspeedway — The Chase - Race: YellaWood 500",
-    "league": "motor-sports",
-    "category": "motor-sports",
-    "date": 1792951200000,
-    "status": "live",
-    "teams": {
-      "home": {
-        "name": "",
-        "badge": ""
-      },
-      "away": {
-        "name": "",
-        "badge": ""
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-sd/s/hotel/talladega-superspeedway-the-chase-race-yellawood-500-nascar-cup-series-1792951200/playlist.m3u8?tk=ZzOIEPNGlm5yfoJSasRxfw&e=1793007421|Referer=https://ondemand.st",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "sd-admin~admin-rally-tv",
-    "title": "Rally TV",
-    "league": "motor-sports",
-    "category": "motor-sports",
-    "date": 1792964217112,
-    "status": "live",
-    "teams": {
-      "home": {
-        "name": "",
-        "badge": ""
-      },
-      "away": {
-        "name": "",
-        "badge": ""
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-sd/s/admin/admin-rally-tv/playlist.m3u8?tk=ZzOIEPNGlm5yfoJSasRxfw&e=1793007421|Referer=https://ondemand.st",
-    "sdUrl": ""
+    "hlsUrl": "https://messi.damitv.st/live-sd/s/golf/2612/playlist.m3u8?tk=KApvjdbacj96wQFQRwDBDA&e=1793015709|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/s/golf/2612/2/playlist.m3u8?tk=KApvjdbacj96wQFQRwDBDA&e=1793015709|Referer=https://ondemand.st"
   },
   {
     "matchId": "sd-hotel~circuit-of-the-americas-ted-s-notebook-us-formula-1-1792969200",
@@ -1184,26 +745,6 @@
     "league": "motor-sports",
     "category": "motor-sports",
     "date": 1792969200000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "",
-        "badge": ""
-      },
-      "away": {
-        "name": "",
-        "badge": ""
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-sd/s/hotel/circuit-of-the-americas-ted-s-notebook-us-formula-1-1792969200/playlist.m3u8?tk=rZT2vaeO-yjSXW7TbRGOiA&e=1793007422|Referer=https://ondemand.st",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "sd-admin~p-sky-sports-golf",
-    "title": "Sky Sports Golf",
-    "league": "golf",
-    "category": "golf",
-    "date": 1792964223294,
     "status": "live",
     "teams": {
       "home": {
@@ -1215,8 +756,68 @@
         "badge": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/s/admin/p-sky-sports-golf/playlist.m3u8?tk=q8kBjjwPsitH9jorPilRYQ&e=1793007423|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/s/admin/p-sky-sports-golf/2/playlist.m3u8?tk=q8kBjjwPsitH9jorPilRYQ&e=1793007423|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-sd/s/hotel/circuit-of-the-americas-ted-s-notebook-us-formula-1-1792969200/playlist.m3u8?tk=KApvjdbacj96wQFQRwDBDA&e=1793015709|Referer=https://ondemand.st",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "sd-golf~2445",
+    "title": "United States Grand Prix",
+    "league": "motor-sports",
+    "category": "motor-sports",
+    "date": 1792958400000,
+    "status": "live",
+    "teams": {
+      "home": {
+        "name": "",
+        "badge": ""
+      },
+      "away": {
+        "name": "",
+        "badge": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-sd/s/golf/2445/playlist.m3u8?tk=gHN4YbxMURygZiP9nzu50w&e=1793015710|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/s/golf/2445/2/playlist.m3u8?tk=gHN4YbxMURygZiP9nzu50w&e=1793015710|Referer=https://ondemand.st"
+  },
+  {
+    "matchId": "sd-admin~admin-rally-tv",
+    "title": "Rally TV",
+    "league": "motor-sports",
+    "category": "motor-sports",
+    "date": 1792972509781,
+    "status": "live",
+    "teams": {
+      "home": {
+        "name": "",
+        "badge": ""
+      },
+      "away": {
+        "name": "",
+        "badge": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-sd/s/admin/admin-rally-tv/playlist.m3u8?tk=gHN4YbxMURygZiP9nzu50w&e=1793015710|Referer=https://ondemand.st",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "sd-admin~p-sky-sports-golf",
+    "title": "Sky Sports Golf",
+    "league": "golf",
+    "category": "golf",
+    "date": 1792972511276,
+    "status": "live",
+    "teams": {
+      "home": {
+        "name": "",
+        "badge": ""
+      },
+      "away": {
+        "name": "",
+        "badge": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-sd/s/admin/p-sky-sports-golf/playlist.m3u8?tk=WkZqFrwX5Y9r2mJpIs6a4g&e=1793015711|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/s/admin/p-sky-sports-golf/2/playlist.m3u8?tk=WkZqFrwX5Y9r2mJpIs6a4g&e=1793015711|Referer=https://ondemand.st"
   },
   {
     "matchId": "sd-admin~p-2026-european-championship-day-4-s-2",
@@ -1235,7 +836,7 @@
         "badge": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-sd/s/admin/p-2026-european-championship-day-4-s-2/playlist.m3u8?tk=8RuImJplCCw5lMRUbj9BJw&e=1793007424|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/live-sd/s/admin/p-2026-european-championship-day-4-s-2/2/playlist.m3u8?tk=8RuImJplCCw5lMRUbj9BJw&e=1793007424|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-sd/s/admin/p-2026-european-championship-day-4-s-2/playlist.m3u8?tk=6K3XKXn4HnAwEW1cCDYxqg&e=1793015712|Referer=https://ondemand.st",
+    "sdUrl": "https://messi.damitv.st/live-sd/s/admin/p-2026-european-championship-day-4-s-2/2/playlist.m3u8?tk=6K3XKXn4HnAwEW1cCDYxqg&e=1793015712|Referer=https://ondemand.st"
   }
 ]
