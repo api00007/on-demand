@@ -1,22 +1,22 @@
 [
   {
-    "matchId": "sd-admin~p-milwaukee-brewers-vs-tampa-bay-rays",
-    "title": "Tampa Bay Rays vs Milwaukee Brewers",
+    "matchId": "mlb/2026-10-27/mil-tb",
+    "title": "Milwaukee Brewers vs. Tampa Bay Rays",
     "league": "MLB",
     "category": "baseball",
-    "date": 1793059200000,
-    "status": "live",
+    "date": 1793145600000,
+    "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Tampa Bay Rays",
-        "badge": "/img/y/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzDtoUFJBDcQJXSAggYIRDoAmuEwQpM+KLmDLwi80faa0wjsaIhA.webp"
+        "name": "Milwaukee Brewers",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/08kh2a1595775193.png"
       },
       "away": {
-        "name": "Milwaukee Brewers",
-        "badge": "/img/y/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAwQIYAAZQuHiG4gSIFIZB8zpgyfgEKTPii5gy8IvNGOmtMM7GiIQA.webp"
+        "name": "Tampa Bay Rays",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/littyt1554031623.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/v/a/p-milwaukee-brewers-vs-tampa-bay-rays/playlist.m3u8?tk=C3_hZ-ckPqRe2-wQEj03qQ&e=1793107062|Referer=https://ondemand.st",
-    "sdUrl": "https://messi.damitv.st/v/a/p-milwaukee-brewers-vs-tampa-bay-rays/2/playlist.m3u8?tk=C3_hZ-ckPqRe2-wQEj03qQ&e=1793107062|Referer=https://ondemand.st"
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mlb/2026-10-27/mil-tb/playlist.m3u8?tk=x8lq6ju6yHZ3vEBLED9QMQ&e=1793129266|Referer=https://ondemand.st",
+    "sdUrl": ""
   }
 ]
