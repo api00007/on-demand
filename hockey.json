@@ -1,171 +1,11 @@
 [
   {
-    "matchId": "nhl/2026-10-27/cbj-phi",
-    "title": "Columbus Blue Jackets vs. Philadelphia Flyers",
-    "league": "NHL",
-    "category": "hockey",
-    "date": 1793142000000,
-    "status": "live",
-    "teams": {
-      "home": {
-        "name": "Columbus Blue Jackets",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/ssytwt1421792535.png"
-      },
-      "away": {
-        "name": "Philadelphia Flyers",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/qxxppp1421794965.png"
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-10-27/cbj-phi/playlist.m3u8?tk=0Cs9v8j3ynWpr25s_-1pOw&e=1793187577|Referer=https://ondemand.st",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "nhl/2026-10-27/bos-car",
-    "title": "Boston Bruins vs. Carolina Hurricanes",
-    "league": "NHL",
-    "category": "hockey",
-    "date": 1793145600000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Boston Bruins",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/b1r86e1720023232.png"
-      },
-      "away": {
-        "name": "Carolina Hurricanes",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/v07m3x1547232585.png"
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-10-27/bos-car/playlist.m3u8?tk=fb7xaD1CNEOq_Rbc1VxVIQ&e=1793187578|Referer=https://ondemand.st",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "nhl/2026-10-27/la-chi",
-    "title": "Los Angeles Kings vs. Chicago Blackhawks",
-    "league": "NHL",
-    "category": "hockey",
-    "date": 1793145600000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Los Angeles Kings",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/w408rg1719220748.png"
-      },
-      "away": {
-        "name": "Chicago Blackhawks",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/tuwyvr1422041801.png"
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-10-27/la-chi/playlist.m3u8?tk=fb7xaD1CNEOq_Rbc1VxVIQ&e=1793187578|Referer=https://ondemand.st",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "nhl/2026-10-27/mtl-stl",
-    "title": "Montreal Canadiens vs. St. Louis Blues",
-    "league": "NHL",
-    "category": "hockey",
-    "date": 1793145600000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Montreal Canadiens",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/stpryx1421791753.png"
-      },
-      "away": {
-        "name": "St. Louis Blues",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/rsqtwx1422053715.png"
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-10-27/mtl-stl/playlist.m3u8?tk=72325dawbRpYT9ddQJXSIQ&e=1793187579|Referer=https://ondemand.st",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "nhl/2026-10-27/nyi-nsh",
-    "title": "New York Islanders vs. Nashville Predators",
-    "league": "NHL",
-    "category": "hockey",
-    "date": 1793145600000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "New York Islanders",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/hqn8511619536714.png"
-      },
-      "away": {
-        "name": "Nashville Predators",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/twqyvy1422052908.png"
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-10-27/nyi-nsh/playlist.m3u8?tk=72325dawbRpYT9ddQJXSIQ&e=1793187579|Referer=https://ondemand.st",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "nhl/2026-10-27/nj-dal",
-    "title": "New Jersey Devils vs. Dallas Stars",
-    "league": "NHL",
-    "category": "hockey",
-    "date": 1793145600000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "New Jersey Devils",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/z4rsvp1619536740.png"
-      },
-      "away": {
-        "name": "Dallas Stars",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/qrvywq1422042125.png"
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-10-27/nj-dal/playlist.m3u8?tk=ETZg3QNrIKrDe8cdZrz6yg&e=1793187580|Referer=https://ondemand.st",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "nhl/2026-10-27/fla-wpg",
-    "title": "Florida Panthers vs. Winnipeg Jets",
-    "league": "NHL",
-    "category": "hockey",
-    "date": 1793145600000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Florida Panthers",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/8qtaz11547158220.png"
-      },
-      "away": {
-        "name": "Winnipeg Jets",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/bwn9hr1547233611.png"
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-10-27/fla-wpg/playlist.m3u8?tk=PmVTVfmk_7yilkM3o3nTLg&e=1793187581|Referer=https://ondemand.st",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "nhl/2026-10-27/min-uta",
-    "title": "Minnesota Wild vs. Utah Mammoth",
-    "league": "NHL",
-    "category": "hockey",
-    "date": 1793149200000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Minnesota Wild",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/swtsxs1422042685.png"
-      },
-      "away": {
-        "name": "Utah Mammoth",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/w5m2ab1746690303.png"
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-10-27/min-uta/playlist.m3u8?tk=PmVTVfmk_7yilkM3o3nTLg&e=1793187581|Referer=https://ondemand.st",
-    "sdUrl": ""
-  },
-  {
     "matchId": "nhl/2026-10-27/ott-vgk",
     "title": "Ottawa Senators vs. Vegas Golden Knights",
     "league": "NHL",
     "category": "hockey",
     "date": 1793152800000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "Ottawa Senators",
@@ -176,7 +16,7 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/7fd4521619536689.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-10-27/ott-vgk/playlist.m3u8?tk=agSzLjm3-AuxNBmxLFKj4g&e=1793187582|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-10-27/ott-vgk/playlist.m3u8?tk=Wd0XcSRqNRz7n5GVORtWPg&e=1793205706|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -185,7 +25,7 @@
     "league": "NHL",
     "category": "hockey",
     "date": 1793152800000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "Vancouver Canucks",
@@ -196,7 +36,7 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/1d465t1719573796.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-10-27/van-ana/playlist.m3u8?tk=agSzLjm3-AuxNBmxLFKj4g&e=1793187582|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-10-27/van-ana/playlist.m3u8?tk=Wd0XcSRqNRz7n5GVORtWPg&e=1793205706|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -205,7 +45,7 @@
     "league": "NHL",
     "category": "hockey",
     "date": 1793154600000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "Buffalo Sabres",
@@ -216,7 +56,7 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/yui7871546193006.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-10-27/buf-sj/playlist.m3u8?tk=sCA1OJoRhzDEbxaIJflHJA&e=1793187583|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-10-27/buf-sj/playlist.m3u8?tk=1vKqLWTCB2FoYcz56kPRuw&e=1793205707|Referer=https://ondemand.st",
     "sdUrl": ""
   }
 ]
