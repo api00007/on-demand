@@ -1,62 +1,82 @@
 [
   {
-    "matchId": "nhl/2026-10-27/ott-vgk",
-    "title": "Ottawa Senators vs. Vegas Golden Knights",
+    "matchId": "nhl/2026-10-28/phi-wsh",
+    "title": "Philadelphia Flyers vs. Washington Capitals",
     "league": "NHL",
     "category": "hockey",
-    "date": 1793152800000,
-    "status": "live",
+    "date": 1793230200000,
+    "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Ottawa Senators",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/2tc1qy1619536592.png"
+        "name": "Philadelphia Flyers",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/qxxppp1421794965.png"
       },
       "away": {
-        "name": "Vegas Golden Knights",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/7fd4521619536689.png"
+        "name": "Washington Capitals",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/99ca9a1638974052.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-10-27/ott-vgk/playlist.m3u8?tk=Wd0XcSRqNRz7n5GVORtWPg&e=1793205706|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-10-28/phi-wsh/playlist.m3u8?tk=9mGxT8pmOlPhkPWmFR0k9A&e=1793228860|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
-    "matchId": "nhl/2026-10-27/van-ana",
-    "title": "Vancouver Canucks vs. Anaheim Ducks",
+    "matchId": "nhl/2026-10-28/cgy-edm",
+    "title": "Calgary Flames vs. Edmonton Oilers",
     "league": "NHL",
     "category": "hockey",
-    "date": 1793152800000,
-    "status": "live",
+    "date": 1793233800000,
+    "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Vancouver Canucks",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/xqxxpw1421875519.png"
+        "name": "Calgary Flames",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/v8vkk11619536610.png"
       },
       "away": {
-        "name": "Anaheim Ducks",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/1d465t1719573796.png"
+        "name": "Edmonton Oilers",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/uxxsyw1421618428.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-10-27/van-ana/playlist.m3u8?tk=Wd0XcSRqNRz7n5GVORtWPg&e=1793205706|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-10-28/cgy-edm/playlist.m3u8?tk=tUmwBSkpJU53SMrcMnPEXA&e=1793228861|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
-    "matchId": "nhl/2026-10-27/buf-sj",
-    "title": "Buffalo Sabres vs. San Jose Sharks",
+    "matchId": "nhl/2026-10-28/nj-col",
+    "title": "New Jersey Devils vs. Colorado Avalanche",
     "league": "NHL",
     "category": "hockey",
-    "date": 1793154600000,
-    "status": "live",
+    "date": 1793235600000,
+    "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Buffalo Sabres",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/3m3jhp1619536655.png"
+        "name": "New Jersey Devils",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/z4rsvp1619536740.png"
       },
       "away": {
-        "name": "San Jose Sharks",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/yui7871546193006.png"
+        "name": "Colorado Avalanche",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/wqutut1421173572.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-10-27/buf-sj/playlist.m3u8?tk=1vKqLWTCB2FoYcz56kPRuw&e=1793205707|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-10-28/nj-col/playlist.m3u8?tk=tUmwBSkpJU53SMrcMnPEXA&e=1793228861|Referer=https://ondemand.st",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "nhl/2026-10-28/tor-sea",
+    "title": "Toronto Maple Leafs vs. Seattle Kraken",
+    "league": "NHL",
+    "category": "hockey",
+    "date": 1793239200000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Toronto Maple Leafs",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/mxig4p1570129307.png"
+      },
+      "away": {
+        "name": "Seattle Kraken",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/zsx49m1595775836.png"
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-10-28/tor-sea/playlist.m3u8?tk=tUmwBSkpJU53SMrcMnPEXA&e=1793228861|Referer=https://ondemand.st",
     "sdUrl": ""
   }
 ]
