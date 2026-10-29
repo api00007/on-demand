@@ -1,71 +1,5 @@
 [
   {
-    "matchId": "dlhdx-cri-south-africa-australia",
-    "title": "south africa vs australia",
-    "league": "3rd test day-2",
-    "category": "cricket",
-    "date": 1793260800000,
-    "status": "live",
-    "teams": {
-      "home": {
-        "name": "south africa",
-        "badge": "https://flagcdn.com/w320/za.png",
-        "color": "#007749"
-      },
-      "away": {
-        "name": "australia",
-        "badge": "https://flagcdn.com/w320/au.png",
-        "color": "#115740"
-      }
-    },
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "dlhdx-cri-england-sri-lanka",
-    "title": "england vs sri lanka",
-    "league": "tri-nation series",
-    "category": "cricket",
-    "date": 1793260800000,
-    "status": "live",
-    "teams": {
-      "home": {
-        "name": "england",
-        "badge": "https://flagcdn.com/w320/gb-eng.png",
-        "color": "#1d3b8b"
-      },
-      "away": {
-        "name": "sri lanka",
-        "badge": "https://flagcdn.com/w320/lk.png",
-        "color": "#eb7400"
-      }
-    },
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "dlhdx-cri-melbourne-stars-w-hobart-w",
-    "title": "melbourne stars w vs hobart w",
-    "league": "big bash league women",
-    "category": "cricket",
-    "date": 1793260800000,
-    "status": "live",
-    "teams": {
-      "home": {
-        "name": "melbourne stars w",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/l0t7v31715269757.png",
-        "color": ""
-      },
-      "away": {
-        "name": "hobart w",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/vdcla41492606553.png",
-        "color": ""
-      }
-    },
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
     "matchId": "dlhdx-cri-afghanistan-zimbabwe",
     "title": "afghanistan vs zimbabwe",
     "league": "2nd t20i",
@@ -103,6 +37,72 @@
       "away": {
         "name": "sydney thunder w",
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/t0tooq1492606384.png",
+        "color": ""
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "dlhdx-cri-south-africa-australia",
+    "title": "south africa vs australia",
+    "league": "3rd test day-2",
+    "category": "cricket",
+    "date": 1793260800000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "south africa",
+        "badge": "https://flagcdn.com/w320/za.png",
+        "color": "#007749"
+      },
+      "away": {
+        "name": "australia",
+        "badge": "https://flagcdn.com/w320/au.png",
+        "color": "#115740"
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "dlhdx-cri-england-sri-lanka",
+    "title": "england vs sri lanka",
+    "league": "tri-nation series",
+    "category": "cricket",
+    "date": 1793260800000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "england",
+        "badge": "https://flagcdn.com/w320/gb-eng.png",
+        "color": "#1d3b8b"
+      },
+      "away": {
+        "name": "sri lanka",
+        "badge": "https://flagcdn.com/w320/lk.png",
+        "color": "#eb7400"
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "dlhdx-cri-melbourne-stars-w-hobart-w",
+    "title": "melbourne stars w vs hobart w",
+    "league": "big bash league women",
+    "category": "cricket",
+    "date": 1793260800000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "melbourne stars w",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/l0t7v31715269757.png",
+        "color": ""
+      },
+      "away": {
+        "name": "hobart w",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/vdcla41492606553.png",
         "color": ""
       }
     },
