@@ -1,82 +1,242 @@
 [
   {
-    "matchId": "nhl/2026-10-28/phi-wsh",
-    "title": "Philadelphia Flyers vs. Washington Capitals",
-    "league": "NHL",
+    "matchId": "espn-401892601",
+    "title": "Tampa Bay Lightning vs Winnipeg Jets",
+    "league": "National Hockey League",
     "category": "hockey",
-    "date": 1793230200000,
-    "status": "live",
+    "date": 1793314800000,
+    "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Philadelphia Flyers",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/qxxppp1421794965.png"
+        "name": "Tampa Bay Lightning",
+        "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/tb.png"
+      },
+      "away": {
+        "name": "Winnipeg Jets",
+        "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/wpg.png"
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "espn-401892602",
+    "title": "Pittsburgh Penguins vs Utah Mammoth",
+    "league": "National Hockey League",
+    "category": "hockey",
+    "date": 1793314800000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Pittsburgh Penguins",
+        "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/pit.png"
+      },
+      "away": {
+        "name": "Utah Mammoth",
+        "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/uta.png"
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "espn-401892603",
+    "title": "Carolina Hurricanes vs Columbus Blue Jackets",
+    "league": "National Hockey League",
+    "category": "hockey",
+    "date": 1793314800000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Carolina Hurricanes",
+        "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/car.png"
+      },
+      "away": {
+        "name": "Columbus Blue Jackets",
+        "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/cbj.png"
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "espn-401892600",
+    "title": "Detroit Red Wings vs Chicago Blackhawks",
+    "league": "National Hockey League",
+    "category": "hockey",
+    "date": 1793316600000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Detroit Red Wings",
+        "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/det.png"
+      },
+      "away": {
+        "name": "Chicago Blackhawks",
+        "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/chi.png"
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "espn-401892604",
+    "title": "St. Louis Blues vs Boston Bruins",
+    "league": "National Hockey League",
+    "category": "hockey",
+    "date": 1793318400000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "St. Louis Blues",
+        "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/stl.png"
+      },
+      "away": {
+        "name": "Boston Bruins",
+        "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/bos.png"
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "espn-401892605",
+    "title": "Nashville Predators vs Washington Capitals",
+    "league": "National Hockey League",
+    "category": "hockey",
+    "date": 1793318400000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Nashville Predators",
+        "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/nsh.png"
       },
       "away": {
         "name": "Washington Capitals",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/99ca9a1638974052.png"
+        "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/wsh.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-10-28/phi-wsh/playlist.m3u8?tk=Aa4idFIrZGNZlQnBPZ4ZDw&e=1793283603|Referer=https://ondemand.st",
+    "hlsUrl": "",
     "sdUrl": ""
   },
   {
-    "matchId": "nhl/2026-10-28/cgy-edm",
-    "title": "Calgary Flames vs. Edmonton Oilers",
-    "league": "NHL",
+    "matchId": "espn-401892606",
+    "title": "Dallas Stars vs Montreal Canadiens",
+    "league": "National Hockey League",
     "category": "hockey",
-    "date": 1793233800000,
-    "status": "live",
+    "date": 1793318400000,
+    "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Calgary Flames",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/v8vkk11619536610.png"
+        "name": "Dallas Stars",
+        "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/dal.png"
       },
       "away": {
-        "name": "Edmonton Oilers",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/uxxsyw1421618428.png"
+        "name": "Montreal Canadiens",
+        "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/mtl.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-10-28/cgy-edm/playlist.m3u8?tk=TxTKpE-AUpYVc_ib4bBLnw&e=1793283604|Referer=https://ondemand.st",
+    "hlsUrl": "",
     "sdUrl": ""
   },
   {
-    "matchId": "nhl/2026-10-28/nj-col",
-    "title": "New Jersey Devils vs. Colorado Avalanche",
-    "league": "NHL",
+    "matchId": "espn-401892607",
+    "title": "Minnesota Wild vs New York Islanders",
+    "league": "National Hockey League",
     "category": "hockey",
-    "date": 1793235600000,
-    "status": "live",
+    "date": 1793318400000,
+    "status": "upcoming",
     "teams": {
       "home": {
-        "name": "New Jersey Devils",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/z4rsvp1619536740.png"
+        "name": "Minnesota Wild",
+        "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/min.png"
       },
       "away": {
-        "name": "Colorado Avalanche",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/wqutut1421173572.png"
+        "name": "New York Islanders",
+        "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/nyi.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-10-28/nj-col/playlist.m3u8?tk=TxTKpE-AUpYVc_ib4bBLnw&e=1793283604|Referer=https://ondemand.st",
+    "hlsUrl": "",
     "sdUrl": ""
   },
   {
-    "matchId": "nhl/2026-10-28/tor-sea",
-    "title": "Toronto Maple Leafs vs. Seattle Kraken",
-    "league": "NHL",
+    "matchId": "espn-401892608",
+    "title": "Anaheim Ducks vs Buffalo Sabres",
+    "league": "National Hockey League",
     "category": "hockey",
-    "date": 1793239200000,
-    "status": "live",
+    "date": 1793325600000,
+    "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Toronto Maple Leafs",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/mxig4p1570129307.png"
+        "name": "Anaheim Ducks",
+        "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/ana.png"
       },
       "away": {
-        "name": "Seattle Kraken",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/zsx49m1595775836.png"
+        "name": "Buffalo Sabres",
+        "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/buf.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-10-28/tor-sea/playlist.m3u8?tk=hLCwl6bnFm4A2yLYs0FcHg&e=1793283605|Referer=https://ondemand.st",
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "espn-401892609",
+    "title": "Los Angeles Kings vs Ottawa Senators",
+    "league": "National Hockey League",
+    "category": "hockey",
+    "date": 1793325600000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Los Angeles Kings",
+        "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/la.png"
+      },
+      "away": {
+        "name": "Ottawa Senators",
+        "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/ott.png"
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "espn-401892610",
+    "title": "San Jose Sharks vs Vancouver Canucks",
+    "league": "National Hockey League",
+    "category": "hockey",
+    "date": 1793325600000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "San Jose Sharks",
+        "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/sj.png"
+      },
+      "away": {
+        "name": "Vancouver Canucks",
+        "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/van.png"
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "espn-401892614",
+    "title": "Boston Bruins vs Chicago Blackhawks",
+    "league": "National Hockey League",
+    "category": "hockey",
+    "date": 1793466000000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Boston Bruins",
+        "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/bos.png"
+      },
+      "away": {
+        "name": "Chicago Blackhawks",
+        "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/chi.png"
+      }
+    },
+    "hlsUrl": "",
     "sdUrl": ""
   }
 ]

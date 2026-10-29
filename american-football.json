@@ -1,322 +1,762 @@
 [
   {
-    "matchId": "nfl/2026-10-29/car-gb",
-    "title": "Carolina Panthers at Green Bay Packers",
-    "league": "NFL",
+    "matchId": "espn-401862812",
+    "title": "North Texas Mean Green vs Florida Atlantic Owls",
+    "league": "NCAA - Football",
+    "category": "american-football",
+    "date": 1793316600000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "North Texas Mean Green",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/249.png"
+      },
+      "away": {
+        "name": "Florida Atlantic Owls",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/2226.png"
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "espn-401869963",
+    "title": "James Madison Dukes vs Troy Trojans",
+    "league": "NCAA - Football",
+    "category": "american-football",
+    "date": 1793316600000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "James Madison Dukes",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/256.png"
+      },
+      "away": {
+        "name": "Troy Trojans",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/2653.png"
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "espn-401873023",
+    "title": "Green Bay Packers vs Carolina Panthers",
+    "league": "National Football League",
     "category": "american-football",
     "date": 1793319300000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Carolina Panthers",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/kbqini1784716157.png"
-      },
-      "away": {
         "name": "Green Bay Packers",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/uwbfw01784719173.png"
+        "badge": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png"
+      },
+      "away": {
+        "name": "Carolina Panthers",
+        "badge": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/car.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-10-29/car-gb/playlist.m3u8?tk=6iIoZAxojhOxdBgOHHM5pA&e=1793283590|Referer=https://ondemand.st",
+    "hlsUrl": "",
     "sdUrl": ""
   },
   {
-    "matchId": "cfl/2026-10-31/wpg-tor",
-    "title": "Winnipeg Blue Bombers at Toronto Argonauts",
-    "league": "CFL",
+    "matchId": "espn-401859185",
+    "title": "Navy Midshipmen vs Notre Dame Fighting Irish",
+    "league": "NCAA - Football",
     "category": "american-football",
-    "date": 1793466000000,
+    "date": 1793462400000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Winnipeg Blue Bombers",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/4bo4wj1561667273.png"
+        "name": "Navy Midshipmen",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/2426.png"
       },
       "away": {
-        "name": "Toronto Argonauts",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/5a57ou1628555372.png"
+        "name": "Notre Dame Fighting Irish",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/87.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfl/2026-10-31/wpg-tor/playlist.m3u8?tk=6iIoZAxojhOxdBgOHHM5pA&e=1793283590|Referer=https://ondemand.st",
+    "hlsUrl": "",
     "sdUrl": ""
   },
   {
-    "matchId": "cfl/2026-10-31/ssk-bc",
-    "title": "Saskatchewan Roughriders at BC Lions",
-    "league": "CFL",
+    "matchId": "espn-401856842",
+    "title": "Texas Tech Red Raiders vs Arizona Wildcats",
+    "league": "NCAA - Football",
     "category": "american-football",
-    "date": 1793478600000,
+    "date": 1793462400000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Saskatchewan Roughriders",
-        "badge": ""
+        "name": "Texas Tech Red Raiders",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/2641.png"
       },
       "away": {
-        "name": "BC Lions",
-        "badge": ""
+        "name": "Arizona Wildcats",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/12.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfl/2026-10-31/ssk-bc/playlist.m3u8?tk=8Ynd39yDPtjuSpazQd44ig&e=1793283594|Referer=https://ondemand.st",
+    "hlsUrl": "",
     "sdUrl": ""
   },
   {
-    "matchId": "nfl/2026-11-01/bal-buf",
-    "title": "Baltimore Ravens at Buffalo Bills",
-    "league": "NFL",
+    "matchId": "espn-401858278",
+    "title": "Syracuse Orange vs SMU Mustangs",
+    "league": "NCAA - Football",
+    "category": "american-football",
+    "date": 1793462400000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Syracuse Orange",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/183.png"
+      },
+      "away": {
+        "name": "SMU Mustangs",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/2567.png"
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "espn-401858502",
+    "title": "Iowa Hawkeyes vs Wisconsin Badgers",
+    "league": "NCAA - Football",
+    "category": "american-football",
+    "date": 1793462400000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Iowa Hawkeyes",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/2294.png"
+      },
+      "away": {
+        "name": "Wisconsin Badgers",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/275.png"
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "espn-401856735",
+    "title": "Ole Miss Rebels vs Auburn Tigers",
+    "league": "NCAA - Football",
+    "category": "american-football",
+    "date": 1793465100000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Ole Miss Rebels",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/145.png"
+      },
+      "away": {
+        "name": "Auburn Tigers",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/2.png"
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "espn-401869944",
+    "title": "Georgia State Panthers vs Coastal Carolina Chanticleers",
+    "league": "NCAA - Football",
+    "category": "american-football",
+    "date": 1793469600000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Georgia State Panthers",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/2247.png"
+      },
+      "away": {
+        "name": "Coastal Carolina Chanticleers",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/324.png"
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "espn-401856734",
+    "title": "Georgia Bulldogs vs Florida Gators",
+    "league": "NCAA - Football",
+    "category": "american-football",
+    "date": 1793475000000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Georgia Bulldogs",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/61.png"
+      },
+      "away": {
+        "name": "Florida Gators",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/57.png"
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "espn-401858501",
+    "title": "Indiana Hoosiers vs Minnesota Golden Gophers",
+    "league": "NCAA - Football",
+    "category": "american-football",
+    "date": 1793475000000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Indiana Hoosiers",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/84.png"
+      },
+      "away": {
+        "name": "Minnesota Golden Gophers",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/135.png"
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "espn-401856843",
+    "title": "BYU Cougars vs Arizona State Sun Devils",
+    "league": "NCAA - Football",
+    "category": "american-football",
+    "date": 1793475000000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "BYU Cougars",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/252.png"
+      },
+      "away": {
+        "name": "Arizona State Sun Devils",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/9.png"
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "espn-401858505",
+    "title": "Oregon Ducks vs Northwestern Wildcats",
+    "league": "NCAA - Football",
+    "category": "american-football",
+    "date": 1793475000000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Oregon Ducks",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/2483.png"
+      },
+      "away": {
+        "name": "Northwestern Wildcats",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/77.png"
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "espn-401860910",
+    "title": "Utah State Aggies vs Colorado State Rams",
+    "league": "NCAA - Football",
+    "category": "american-football",
+    "date": 1793475000000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Utah State Aggies",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/328.png"
+      },
+      "away": {
+        "name": "Colorado State Rams",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/36.png"
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "espn-401856848",
+    "title": "Cincinnati Bearcats vs Utah Utes",
+    "league": "NCAA - Football",
+    "category": "american-football",
+    "date": 1793475900000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Cincinnati Bearcats",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/2132.png"
+      },
+      "away": {
+        "name": "Utah Utes",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/254.png"
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "espn-401858284",
+    "title": "Wake Forest Demon Deacons vs Virginia Cavaliers",
+    "league": "NCAA - Football",
+    "category": "american-football",
+    "date": 1793475900000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Wake Forest Demon Deacons",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/154.png"
+      },
+      "away": {
+        "name": "Virginia Cavaliers",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/258.png"
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "espn-401858508",
+    "title": "UCLA Bruins vs Nevada Wolf Pack",
+    "league": "NCAA - Football",
+    "category": "american-football",
+    "date": 1793477700000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "UCLA Bruins",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/26.png"
+      },
+      "away": {
+        "name": "Nevada Wolf Pack",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/2440.png"
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "espn-401856847",
+    "title": "Iowa State Cyclones vs Oklahoma State Cowboys",
+    "league": "NCAA - Football",
+    "category": "american-football",
+    "date": 1793487600000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Iowa State Cyclones",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/66.png"
+      },
+      "away": {
+        "name": "Oklahoma State Cowboys",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/197.png"
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "espn-401860909",
+    "title": "San Diego State Aztecs vs Washington State Cougars",
+    "league": "NCAA - Football",
+    "category": "american-football",
+    "date": 1793487600000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "San Diego State Aztecs",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/21.png"
+      },
+      "away": {
+        "name": "Washington State Cougars",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/265.png"
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "espn-401858282",
+    "title": "North Carolina Tar Heels vs Miami Hurricanes",
+    "league": "NCAA - Football",
+    "category": "american-football",
+    "date": 1793489400000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "North Carolina Tar Heels",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/153.png"
+      },
+      "away": {
+        "name": "Miami Hurricanes",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/2390.png"
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "espn-401858509",
+    "title": "USC Trojans vs Ohio State Buckeyes",
+    "league": "NCAA - Football",
+    "category": "american-football",
+    "date": 1793489400000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "USC Trojans",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/30.png"
+      },
+      "away": {
+        "name": "Ohio State Buckeyes",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/194.png"
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "espn-401856737",
+    "title": "Texas Longhorns vs Mississippi State Bulldogs",
+    "league": "NCAA - Football",
+    "category": "american-football",
+    "date": 1793489400000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Texas Longhorns",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/251.png"
+      },
+      "away": {
+        "name": "Mississippi State Bulldogs",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/344.png"
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "espn-401856733",
+    "title": "Arkansas Razorbacks vs Missouri Tigers",
+    "league": "NCAA - Football",
+    "category": "american-football",
+    "date": 1793490300000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Arkansas Razorbacks",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/8.png"
+      },
+      "away": {
+        "name": "Missouri Tigers",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/142.png"
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "espn-401860908",
+    "title": "Boise State Broncos vs Texas State Bobcats",
+    "league": "NCAA - Football",
+    "category": "american-football",
+    "date": 1793498400000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Boise State Broncos",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/68.png"
+      },
+      "away": {
+        "name": "Texas State Bobcats",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/326.png"
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "espn-401860924",
+    "title": "Fresno State Bulldogs vs Oregon State Beavers",
+    "league": "NCAA - Football",
+    "category": "american-football",
+    "date": 1793502000000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Fresno State Bulldogs",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/278.png"
+      },
+      "away": {
+        "name": "Oregon State Beavers",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/204.png"
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "espn-401873026",
+    "title": "Buffalo Bills vs Baltimore Ravens",
+    "league": "National Football League",
     "category": "american-football",
     "date": 1793556000000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Baltimore Ravens",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/einz3p1546172463.png"
-      },
-      "away": {
         "name": "Buffalo Bills",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/j4r1tn1784714823.png"
+        "badge": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/buf.png"
+      },
+      "away": {
+        "name": "Baltimore Ravens",
+        "badge": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/bal.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-11-01/bal-buf/playlist.m3u8?tk=8Ynd39yDPtjuSpazQd44ig&e=1793283594|Referer=https://ondemand.st",
+    "hlsUrl": "",
     "sdUrl": ""
   },
   {
-    "matchId": "nfl/2026-11-01/ten-cin",
-    "title": "Tennessee Titans at Cincinnati Bengals",
-    "league": "NFL",
+    "matchId": "espn-401873031",
+    "title": "Cincinnati Bengals vs Tennessee Titans",
+    "league": "National Football League",
     "category": "american-football",
     "date": 1793556000000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Tennessee Titans",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/3td0f41779180767.png"
-      },
-      "away": {
         "name": "Cincinnati Bengals",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/h1ce8y1784717263.png"
+        "badge": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/cin.png"
+      },
+      "away": {
+        "name": "Tennessee Titans",
+        "badge": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ten.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-11-01/ten-cin/playlist.m3u8?tk=8Ynd39yDPtjuSpazQd44ig&e=1793283594|Referer=https://ondemand.st",
+    "hlsUrl": "",
     "sdUrl": ""
   },
   {
-    "matchId": "nfl/2026-11-01/ari-dal",
-    "title": "Arizona Cardinals at Dallas Cowboys",
-    "league": "NFL",
+    "matchId": "espn-401873024",
+    "title": "Dallas Cowboys vs Arizona Cardinals",
+    "league": "National Football League",
     "category": "american-football",
     "date": 1793556000000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Arizona Cardinals",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/i1g1wg1784712239.png"
-      },
-      "away": {
         "name": "Dallas Cowboys",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/76ew3c1784718447.png"
+        "badge": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/dal.png"
+      },
+      "away": {
+        "name": "Arizona Cardinals",
+        "badge": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ari.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-11-01/ari-dal/playlist.m3u8?tk=canVl5amkr70esI6NmSv-Q&e=1793283595|Referer=https://ondemand.st",
+    "hlsUrl": "",
     "sdUrl": ""
   },
   {
-    "matchId": "nfl/2026-11-01/min-det",
-    "title": "Minnesota Vikings at Detroit Lions",
-    "league": "NFL",
+    "matchId": "espn-401873030",
+    "title": "Detroit Lions vs Minnesota Vikings",
+    "league": "National Football League",
     "category": "american-football",
     "date": 1793556000000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Minnesota Vikings",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/nyp3ev1784722510.png"
-      },
-      "away": {
         "name": "Detroit Lions",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/lgsgkr1546168257.png"
+        "badge": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/det.png"
+      },
+      "away": {
+        "name": "Minnesota Vikings",
+        "badge": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/min.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-11-01/min-det/playlist.m3u8?tk=canVl5amkr70esI6NmSv-Q&e=1793283595|Referer=https://ondemand.st",
+    "hlsUrl": "",
     "sdUrl": ""
   },
   {
-    "matchId": "nfl/2026-11-01/lv-nyj",
-    "title": "Las Vegas Raiders at New York Jets",
-    "league": "NFL",
+    "matchId": "espn-401873029",
+    "title": "New York Jets vs Las Vegas Raiders",
+    "league": "National Football League",
     "category": "american-football",
     "date": 1793556000000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Las Vegas Raiders",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/4t8xtk1784721179.png"
-      },
-      "away": {
         "name": "New York Jets",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/6bnwoc1784751677.png"
+        "badge": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyj.png"
+      },
+      "away": {
+        "name": "Las Vegas Raiders",
+        "badge": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/lv.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-11-01/lv-nyj/playlist.m3u8?tk=wqa-5LrDm9PA9pxrLm_r4Q&e=1793283596|Referer=https://ondemand.st",
+    "hlsUrl": "",
     "sdUrl": ""
   },
   {
-    "matchId": "nfl/2026-11-01/cle-pit",
-    "title": "Cleveland Browns at Pittsburgh Steelers",
-    "league": "NFL",
+    "matchId": "espn-401873027",
+    "title": "Pittsburgh Steelers vs Cleveland Browns",
+    "league": "National Football League",
     "category": "american-football",
     "date": 1793556000000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Cleveland Browns",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/g7qhkz1784717593.png"
-      },
-      "away": {
         "name": "Pittsburgh Steelers",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/2975411515853129.png"
+        "badge": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/pit.png"
+      },
+      "away": {
+        "name": "Cleveland Browns",
+        "badge": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/cle.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-11-01/cle-pit/playlist.m3u8?tk=wqa-5LrDm9PA9pxrLm_r4Q&e=1793283596|Referer=https://ondemand.st",
+    "hlsUrl": "",
     "sdUrl": ""
   },
   {
-    "matchId": "nfl/2026-11-01/atl-tb",
-    "title": "Atlanta Falcons at Tampa Bay Buccaneers",
-    "league": "NFL",
+    "matchId": "espn-401873025",
+    "title": "Tampa Bay Buccaneers vs Atlanta Falcons",
+    "league": "National Football League",
     "category": "american-football",
     "date": 1793556000000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Atlanta Falcons",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/9ucfd41784714178.png"
-      },
-      "away": {
         "name": "Tampa Bay Buccaneers",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/2dfpdl1537820969.png"
+        "badge": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/tb.png"
+      },
+      "away": {
+        "name": "Atlanta Falcons",
+        "badge": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/atl.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-11-01/atl-tb/playlist.m3u8?tk=BYeAPBvYcEblN1R6tFl0mQ&e=1793283597|Referer=https://ondemand.st",
+    "hlsUrl": "",
     "sdUrl": ""
   },
   {
-    "matchId": "nfl/2026-11-01/ind-jax",
-    "title": "Indianapolis Colts at Jacksonville Jaguars",
-    "league": "NFL",
+    "matchId": "espn-401873028",
+    "title": "Jacksonville Jaguars vs Indianapolis Colts",
+    "league": "National Football League",
     "category": "american-football",
     "date": 1793556000000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Indianapolis Colts",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/im99lm1784720368.png"
+        "name": "Jacksonville Jaguars",
+        "badge": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/jax.png"
       },
       "away": {
-        "name": "Jacksonville Jaguars",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/0mrsd41546427902.png"
+        "name": "Indianapolis Colts",
+        "badge": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ind.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-11-01/ind-jax/playlist.m3u8?tk=BYeAPBvYcEblN1R6tFl0mQ&e=1793283597|Referer=https://ondemand.st",
+    "hlsUrl": "",
     "sdUrl": ""
   },
   {
-    "matchId": "nfl/2026-11-01/lac-lar",
-    "title": "Los Angeles Chargers at Los Angeles Rams",
-    "league": "NFL",
+    "matchId": "espn-401873032",
+    "title": "Los Angeles Rams vs Los Angeles Chargers",
+    "league": "National Football League",
     "category": "american-football",
     "date": 1793567100000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Los Angeles Chargers",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/wmi40u1784721460.png"
-      },
-      "away": {
         "name": "Los Angeles Rams",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/ojw15x1784721865.png"
+        "badge": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/lar.png"
+      },
+      "away": {
+        "name": "Los Angeles Chargers",
+        "badge": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/lac.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-11-01/lac-lar/playlist.m3u8?tk=TXRSaFn4sKOfQVHncaaFKg&e=1793283598|Referer=https://ondemand.st",
+    "hlsUrl": "",
     "sdUrl": ""
   },
   {
-    "matchId": "nfl/2026-11-01/kc-den",
-    "title": "Kansas City Chiefs at Denver Broncos",
-    "league": "NFL",
+    "matchId": "espn-401873033",
+    "title": "Denver Broncos vs Kansas City Chiefs",
+    "league": "National Football League",
     "category": "american-football",
     "date": 1793568300000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Kansas City Chiefs",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/n58gp51784720929.png"
-      },
-      "away": {
         "name": "Denver Broncos",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/zy3m9v1784718707.png"
+        "badge": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/den.png"
+      },
+      "away": {
+        "name": "Kansas City Chiefs",
+        "badge": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/kc.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-11-01/kc-den/playlist.m3u8?tk=TXRSaFn4sKOfQVHncaaFKg&e=1793283598|Referer=https://ondemand.st",
+    "hlsUrl": "",
     "sdUrl": ""
   },
   {
-    "matchId": "nfl/2026-11-01/ne-mia",
-    "title": "New England Patriots at Miami Dolphins",
-    "league": "NFL",
+    "matchId": "espn-401873034",
+    "title": "Miami Dolphins vs New England Patriots",
+    "league": "National Football League",
     "category": "american-football",
     "date": 1793568300000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "New England Patriots",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/xtwxyt1421431860.png"
+        "name": "Miami Dolphins",
+        "badge": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/mia.png"
       },
       "away": {
-        "name": "Miami Dolphins",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/e803xt1784722221.png"
+        "name": "New England Patriots",
+        "badge": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ne.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-11-01/ne-mia/playlist.m3u8?tk=RJAjFIhBtWP9B80SAuRv4Q&e=1793283599|Referer=https://ondemand.st",
+    "hlsUrl": "",
     "sdUrl": ""
   },
   {
-    "matchId": "nfl/2026-11-01/phi-wsh",
-    "title": "Philadelphia Eagles at Washington Commanders",
-    "league": "NFL",
+    "matchId": "espn-401873035",
+    "title": "Washington Commanders vs Philadelphia Eagles",
+    "league": "National Football League",
     "category": "american-football",
     "date": 1793582400000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Philadelphia Eagles",
-        "badge": ""
+        "name": "Washington Commanders",
+        "badge": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/wsh.png"
       },
       "away": {
-        "name": "Washington Commanders",
-        "badge": ""
+        "name": "Philadelphia Eagles",
+        "badge": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/phi.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-11-01/phi-wsh/playlist.m3u8?tk=RJAjFIhBtWP9B80SAuRv4Q&e=1793283599|Referer=https://ondemand.st",
+    "hlsUrl": "",
     "sdUrl": ""
   },
   {
-    "matchId": "nfl/2026-11-02/chi-sea",
-    "title": "Chicago Bears at Seattle Seahawks",
-    "league": "NFL",
+    "matchId": "espn-401873036",
+    "title": "Seattle Seahawks vs Chicago Bears",
+    "league": "National Football League",
     "category": "american-football",
     "date": 1793668500000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Chicago Bears",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/0m51zd1784716955.png"
+        "name": "Seattle Seahawks",
+        "badge": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/sea.png"
       },
       "away": {
-        "name": "Seattle Seahawks",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/1t84c51784752684.png"
+        "name": "Chicago Bears",
+        "badge": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/chi.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-11-02/chi-sea/playlist.m3u8?tk=RJAjFIhBtWP9B80SAuRv4Q&e=1793283599|Referer=https://ondemand.st",
+    "hlsUrl": "",
     "sdUrl": ""
   }
 ]
