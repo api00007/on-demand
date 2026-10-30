@@ -1,147 +1,65 @@
 [
   {
-    "matchId": "cr-melbourne-renegades-w-sydney-thunder-w",
-    "title": "melbourne renegades w vs sydney thunder w",
-    "league": "big bash league women",
-    "category": "cricket",
-    "date": 1793335200000,
-    "status": "live",
-    "teams": {
-      "home": {
-        "name": "melbourne renegades w",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/fy0wik1492607045.png",
-        "color": ""
-      },
-      "away": {
-        "name": "sydney thunder w",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/t0tooq1492606384.png",
-        "color": ""
-      }
-    },
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "mm-cric-dl-ad243f59b3",
-    "title": "New Zealand vs India",
-    "league": "4th T20",
+    "matchId": "cr-new-zealand-india",
+    "title": "new zealand vs india",
+    "league": "4th t20",
     "category": "cricket",
     "date": 1793343600000,
     "status": "live",
     "teams": {
       "home": {
-        "name": "New Zealand",
-        "badge": ""
+        "name": "new zealand",
+        "badge": "https://flagcdn.com/w320/nz.png",
+        "color": "#111111"
       },
       "away": {
-        "name": "India",
-        "badge": ""
+        "name": "india",
+        "badge": "https://flagcdn.com/w320/in.png",
+        "color": "#ff9933"
       }
     },
     "hlsUrl": "",
     "sdUrl": ""
   },
   {
-    "matchId": "cr-england-sri-lanka",
-    "title": "england vs sri lanka",
-    "league": "tri-nation series",
+    "matchId": "cr-south-africa-australia",
+    "title": "south africa vs australia",
+    "league": "3rd test day-3",
     "category": "cricket",
     "date": 1793347200000,
     "status": "live",
     "teams": {
       "home": {
-        "name": "england",
-        "badge": "https://flagcdn.com/w320/gb-eng.png",
-        "color": "#1d3b8b"
+        "name": "south africa",
+        "badge": "https://flagcdn.com/w320/za.png",
+        "color": "#007749"
       },
       "away": {
-        "name": "sri lanka",
-        "badge": "https://flagcdn.com/w320/lk.png",
-        "color": "#eb7400"
+        "name": "australia",
+        "badge": "https://flagcdn.com/w320/au.png",
+        "color": "#115740"
       }
     },
     "hlsUrl": "",
     "sdUrl": ""
   },
   {
-    "matchId": "cr-melbourne-stars-w-hobart-w",
-    "title": "melbourne stars w vs hobart w",
+    "matchId": "cr-brisbane-w-sydney-sixers-w",
+    "title": "brisbane w vs sydney sixers w",
     "league": "big bash league women",
     "category": "cricket",
-    "date": 1793347200000,
+    "date": 1793347800000,
     "status": "live",
     "teams": {
       "home": {
-        "name": "melbourne stars w",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/l0t7v31715269757.png",
+        "name": "brisbane w",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/6r5cly1492606239.png",
         "color": ""
       },
       "away": {
-        "name": "hobart w",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/vdcla41492606553.png",
+        "name": "sydney sixers w",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/jtkm601492607206.png",
         "color": ""
-      }
-    },
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "mm-cric-dl-e5a9a0a686",
-    "title": "South Africa vs Australia",
-    "league": "3rd Test Day-3",
-    "category": "cricket",
-    "date": 1793347200000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "South Africa",
-        "badge": ""
-      },
-      "away": {
-        "name": "Australia",
-        "badge": ""
-      }
-    },
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "mm-cric-dl-a17afe6e43",
-    "title": "Brisbane W vs Sydney Sixers W",
-    "league": "Big Bash League Women",
-    "category": "cricket",
-    "date": 1793347800000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Brisbane W",
-        "badge": ""
-      },
-      "away": {
-        "name": "Sydney Sixers W",
-        "badge": ""
-      }
-    },
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "cr-afghanistan-zimbabwe",
-    "title": "afghanistan vs zimbabwe",
-    "league": "2nd t20i",
-    "category": "cricket",
-    "date": 1793374200000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "afghanistan",
-        "badge": "https://flagcdn.com/w320/af.png",
-        "color": "#d32011"
-      },
-      "away": {
-        "name": "zimbabwe",
-        "badge": "https://flagcdn.com/w320/zw.png",
-        "color": "#318500"
       }
     },
     "hlsUrl": "",
