@@ -1,61 +1,43 @@
 [
   {
-    "matchId": "cr-adelaide-w-melbourne-stars-w",
-    "title": "adelaide w vs melbourne stars w",
-    "league": "big bash league women",
-    "category": "cricket",
-    "date": 1793421600000,
-    "status": "live",
-    "teams": {
-      "home": {
-        "name": "adelaide w",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/c36k301492606884.png",
-        "color": ""
-      },
-      "away": {
-        "name": "melbourne stars w",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/l0t7v31715269757.png",
-        "color": ""
-      }
-    },
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "mm-cric-dl-db2ff1b402",
-    "title": "Pakistan vs Sri Lanka",
-    "league": "ODI Tri-series 2026 Final",
+    "matchId": "cr-pakistan-sri-lanka",
+    "title": "pakistan vs sri lanka",
+    "league": "odi tri-series 2026 final",
     "category": "cricket",
     "date": 1793431800000,
     "status": "live",
     "teams": {
       "home": {
-        "name": "Pakistan",
-        "badge": ""
+        "name": "pakistan",
+        "badge": "https://flagcdn.com/w320/pk.png",
+        "color": "#01411c"
       },
       "away": {
-        "name": "Sri Lanka",
-        "badge": ""
+        "name": "sri lanka",
+        "badge": "https://flagcdn.com/w320/lk.png",
+        "color": "#eb7400"
       }
     },
     "hlsUrl": "",
     "sdUrl": ""
   },
   {
-    "matchId": "mm-cric-dl-6549b9c952",
-    "title": "South Africa vs Australia",
-    "league": "3rd Test Day-4",
+    "matchId": "cr-south-africa-australia",
+    "title": "south africa vs australia",
+    "league": "3rd test day-4",
     "category": "cricket",
     "date": 1793433600000,
     "status": "live",
     "teams": {
       "home": {
-        "name": "South Africa",
-        "badge": ""
+        "name": "south africa",
+        "badge": "https://flagcdn.com/w320/za.png",
+        "color": "#007749"
       },
       "away": {
-        "name": "Australia",
-        "badge": ""
+        "name": "australia",
+        "badge": "https://flagcdn.com/w320/au.png",
+        "color": "#115740"
       }
     },
     "hlsUrl": "",
@@ -99,6 +81,28 @@
       "away": {
         "name": "hobart w",
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/vdcla41492606553.png",
+        "color": ""
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "cr-adelaide-w-melbourne-stars-w",
+    "title": "adelaide w vs melbourne stars w",
+    "league": "big bash league women",
+    "category": "cricket",
+    "date": 1793421600000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "adelaide w",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/c36k301492606884.png",
+        "color": ""
+      },
+      "away": {
+        "name": "melbourne stars w",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/l0t7v31715269757.png",
         "color": ""
       }
     },

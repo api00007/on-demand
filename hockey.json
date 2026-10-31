@@ -5,7 +5,7 @@
     "league": "National Hockey League",
     "category": "hockey",
     "date": 1793466000000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "Boston Bruins",
@@ -27,7 +27,7 @@
     "league": "National Hockey League",
     "category": "hockey",
     "date": 1793466000000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "Detroit Red Wings",
@@ -49,7 +49,7 @@
     "league": "National Hockey League",
     "category": "hockey",
     "date": 1793469600000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "Nashville Predators",
@@ -71,7 +71,7 @@
     "league": "National Hockey League",
     "category": "hockey",
     "date": 1793469600000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "New York Islanders",
@@ -213,6 +213,28 @@
       "away": {
         "name": "Calgary Flames",
         "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/cgy.png",
+        "color": ""
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "espn-401892631",
+    "title": "Chicago Blackhawks vs Colorado Avalanche",
+    "league": "National Hockey League",
+    "category": "hockey",
+    "date": 1793667600000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Chicago Blackhawks",
+        "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/chi.png",
+        "color": ""
+      },
+      "away": {
+        "name": "Colorado Avalanche",
+        "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/col.png",
         "color": ""
       }
     },

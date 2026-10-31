@@ -1,11 +1,33 @@
 [
   {
+    "matchId": "ev-canelo-vs-mbilli-31454",
+    "title": "Canelo vs Mbilli",
+    "league": "Combat Sports",
+    "category": "fight",
+    "date": 1793455200000,
+    "status": "live",
+    "teams": {
+      "home": {
+        "name": "Canelo",
+        "badge": "",
+        "color": ""
+      },
+      "away": {
+        "name": "Mbilli",
+        "badge": "",
+        "color": ""
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
     "matchId": "ev-oktagon-96-gogoladze-vs-ayari-31453",
     "title": "OKTAGON 96: Gogoladze vs Ayari",
     "league": "Combat Sports",
     "category": "fight",
     "date": 1793466000000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "OKTAGON 96: Gogoladze",
@@ -14,6 +36,28 @@
       },
       "away": {
         "name": "Ayari",
+        "badge": "",
+        "color": ""
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "ev-ufc-fight-night-moicano-vs-nolan-31456",
+    "title": "UFC Fight Night: Moicano vs Nolan",
+    "league": "UFC",
+    "category": "fight",
+    "date": 1793480400000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "UFC Fight Night: Moicano",
+        "badge": "",
+        "color": ""
+      },
+      "away": {
+        "name": "Nolan",
         "badge": "",
         "color": ""
       }

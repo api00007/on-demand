@@ -5,7 +5,7 @@
     "league": "NCAA - Football",
     "category": "american-football",
     "date": 1793462400000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "Navy Midshipmen",
@@ -27,7 +27,7 @@
     "league": "NCAA - Football",
     "category": "american-football",
     "date": 1793462400000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "Texas Tech Red Raiders",
@@ -49,7 +49,7 @@
     "league": "NCAA - Football",
     "category": "american-football",
     "date": 1793462400000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "Syracuse Orange",
@@ -71,7 +71,7 @@
     "league": "NCAA - Football",
     "category": "american-football",
     "date": 1793462400000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "Iowa Hawkeyes",
@@ -93,7 +93,7 @@
     "league": "NCAA - Football",
     "category": "american-football",
     "date": 1793462400000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "NC State Wolfpack",
@@ -115,7 +115,7 @@
     "league": "NCAA - Football",
     "category": "american-football",
     "date": 1793462400000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "Maryland Terrapins",
@@ -137,7 +137,7 @@
     "league": "NCAA - Football",
     "category": "american-football",
     "date": 1793462400000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "South Florida Bulls",
@@ -159,7 +159,7 @@
     "league": "NCAA - Football",
     "category": "american-football",
     "date": 1793462400000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "Western Michigan Broncos",
@@ -181,7 +181,7 @@
     "league": "NCAA - Football",
     "category": "american-football",
     "date": 1793464200000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "Rutgers Scarlet Knights",
@@ -203,7 +203,7 @@
     "league": "NCAA - Football",
     "category": "american-football",
     "date": 1793465100000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "Ole Miss Rebels",
@@ -220,12 +220,34 @@
     "sdUrl": ""
   },
   {
+    "matchId": "espn-401871096",
+    "title": "Old Dominion Monarchs vs Marshall Thundering Herd",
+    "league": "NCAA - Football",
+    "category": "american-football",
+    "date": 1793466000000,
+    "status": "live",
+    "teams": {
+      "home": {
+        "name": "Old Dominion Monarchs",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/295.png",
+        "color": ""
+      },
+      "away": {
+        "name": "Marshall Thundering Herd",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/276.png",
+        "color": ""
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
     "matchId": "espn-401856846",
     "title": "Colorado Buffaloes vs Kansas State Wildcats",
     "league": "NCAA - Football",
     "category": "american-football",
     "date": 1793469600000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "Colorado Buffaloes",
@@ -235,6 +257,50 @@
       "away": {
         "name": "Kansas State Wildcats",
         "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/2306.png",
+        "color": ""
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "espn-401862815",
+    "title": "East Carolina Pirates vs Temple Owls",
+    "league": "NCAA - Football",
+    "category": "american-football",
+    "date": 1793473200000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "East Carolina Pirates",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/151.png",
+        "color": ""
+      },
+      "away": {
+        "name": "Temple Owls",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/218.png",
+        "color": ""
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "espn-401871097",
+    "title": "South Alabama Jaguars vs Louisiana Tech Bulldogs",
+    "league": "NCAA - Football",
+    "category": "american-football",
+    "date": 1793473200000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "South Alabama Jaguars",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/6.png",
+        "color": ""
+      },
+      "away": {
+        "name": "Louisiana Tech Bulldogs",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/2348.png",
         "color": ""
       }
     },
@@ -418,6 +484,28 @@
     "sdUrl": ""
   },
   {
+    "matchId": "espn-401871095",
+    "title": "UL Monroe Warhawks vs Southern Miss Golden Eagles",
+    "league": "NCAA - Football",
+    "category": "american-football",
+    "date": 1793475000000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "UL Monroe Warhawks",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/2433.png",
+        "color": ""
+      },
+      "away": {
+        "name": "Southern Miss Golden Eagles",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/2572.png",
+        "color": ""
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
     "matchId": "espn-401856848",
     "title": "Cincinnati Bearcats vs Utah Utes",
     "league": "NCAA - Football",
@@ -499,6 +587,28 @@
       "away": {
         "name": "South Carolina Gamecocks",
         "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/2579.png",
+        "color": ""
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "espn-401869846",
+    "title": "Georgia Southern Eagles vs App State Mountaineers",
+    "league": "NCAA - Football",
+    "category": "american-football",
+    "date": 1793485800000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Georgia Southern Eagles",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/290.png",
+        "color": ""
+      },
+      "away": {
+        "name": "App State Mountaineers",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/2026.png",
         "color": ""
       }
     },
@@ -1159,6 +1269,72 @@
       "away": {
         "name": "Oregon Ducks",
         "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/2483.png",
+        "color": ""
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "espn-401864534",
+    "title": "San José State Spartans vs Northern Illinois Huskies",
+    "league": "NCAA - Football",
+    "category": "american-football",
+    "date": 1794085200000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "San José State Spartans",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/23.png",
+        "color": ""
+      },
+      "away": {
+        "name": "Northern Illinois Huskies",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/2459.png",
+        "color": ""
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "espn-401871074",
+    "title": "Florida International Panthers vs Missouri State Bears",
+    "league": "NCAA - Football",
+    "category": "american-football",
+    "date": 1794085200000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Florida International Panthers",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/2229.png",
+        "color": ""
+      },
+      "away": {
+        "name": "Missouri State Bears",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/2623.png",
+        "color": ""
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "espn-401869968",
+    "title": "Louisiana Ragin' Cajuns vs South Alabama Jaguars",
+    "league": "NCAA - Football",
+    "category": "american-football",
+    "date": 1794088800000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Louisiana Ragin' Cajuns",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/309.png",
+        "color": ""
+      },
+      "away": {
+        "name": "South Alabama Jaguars",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/6.png",
         "color": ""
       }
     },
