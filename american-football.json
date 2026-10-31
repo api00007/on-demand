@@ -1,71 +1,5 @@
 [
   {
-    "matchId": "espn-401862813",
-    "title": "Charlotte 49ers vs Tulane Green Wave",
-    "league": "NCAA - Football",
-    "category": "american-football",
-    "date": 1793401200000,
-    "status": "live",
-    "teams": {
-      "home": {
-        "name": "Charlotte 49ers",
-        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/2429.png",
-        "color": ""
-      },
-      "away": {
-        "name": "Tulane Green Wave",
-        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/2655.png",
-        "color": ""
-      }
-    },
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "espn-401856844",
-    "title": "UCF Knights vs Baylor Bears",
-    "league": "NCAA - Football",
-    "category": "american-football",
-    "date": 1793403000000,
-    "status": "live",
-    "teams": {
-      "home": {
-        "name": "UCF Knights",
-        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/2116.png",
-        "color": ""
-      },
-      "away": {
-        "name": "Baylor Bears",
-        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/239.png",
-        "color": ""
-      }
-    },
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "espn-401866451",
-    "title": "Sacramento State Hornets vs Kent State Golden Flashes",
-    "league": "NCAA - Football",
-    "category": "american-football",
-    "date": 1793413800000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Sacramento State Hornets",
-        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/16.png",
-        "color": ""
-      },
-      "away": {
-        "name": "Kent State Golden Flashes",
-        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/2309.png",
-        "color": ""
-      }
-    },
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
     "matchId": "espn-401859185",
     "title": "Navy Midshipmen vs Notre Dame Fighting Irish",
     "league": "NCAA - Football",
@@ -154,6 +88,72 @@
     "sdUrl": ""
   },
   {
+    "matchId": "espn-401858277",
+    "title": "NC State Wolfpack vs California Golden Bears",
+    "league": "NCAA - Football",
+    "category": "american-football",
+    "date": 1793462400000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "NC State Wolfpack",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/152.png",
+        "color": ""
+      },
+      "away": {
+        "name": "California Golden Bears",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/25.png",
+        "color": ""
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "espn-401858503",
+    "title": "Maryland Terrapins vs Illinois Fighting Illini",
+    "league": "NCAA - Football",
+    "category": "american-football",
+    "date": 1793462400000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Maryland Terrapins",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/120.png",
+        "color": ""
+      },
+      "away": {
+        "name": "Illinois Fighting Illini",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/356.png",
+        "color": ""
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "espn-401866452",
+    "title": "Western Michigan Broncos vs Bowling Green Falcons",
+    "league": "NCAA - Football",
+    "category": "american-football",
+    "date": 1793462400000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Western Michigan Broncos",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/2711.png",
+        "color": ""
+      },
+      "away": {
+        "name": "Bowling Green Falcons",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/189.png",
+        "color": ""
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
     "matchId": "espn-401856735",
     "title": "Ole Miss Rebels vs Auburn Tigers",
     "league": "NCAA - Football",
@@ -169,6 +169,50 @@
       "away": {
         "name": "Auburn Tigers",
         "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/2.png",
+        "color": ""
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "espn-401856846",
+    "title": "Colorado Buffaloes vs Kansas State Wildcats",
+    "league": "NCAA - Football",
+    "category": "american-football",
+    "date": 1793469600000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Colorado Buffaloes",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/38.png",
+        "color": ""
+      },
+      "away": {
+        "name": "Kansas State Wildcats",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/2306.png",
+        "color": ""
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "espn-401858283",
+    "title": "Louisville Cardinals vs Stanford Cardinal",
+    "league": "NCAA - Football",
+    "category": "american-football",
+    "date": 1793474100000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Louisville Cardinals",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/97.png",
+        "color": ""
+      },
+      "away": {
+        "name": "Stanford Cardinal",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/24.png",
         "color": ""
       }
     },
@@ -264,6 +308,28 @@
     "sdUrl": ""
   },
   {
+    "matchId": "espn-401856845",
+    "title": "TCU Horned Frogs vs Kansas Jayhawks",
+    "league": "NCAA - Football",
+    "category": "american-football",
+    "date": 1793475000000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "TCU Horned Frogs",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/2628.png",
+        "color": ""
+      },
+      "away": {
+        "name": "Kansas Jayhawks",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/2305.png",
+        "color": ""
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
     "matchId": "espn-401860910",
     "title": "Utah State Aggies vs Colorado State Rams",
     "league": "NCAA - Football",
@@ -279,6 +345,28 @@
       "away": {
         "name": "Colorado State Rams",
         "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/36.png",
+        "color": ""
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "espn-401871059",
+    "title": "Liberty Flames vs Florida International Panthers",
+    "league": "NCAA - Football",
+    "category": "american-football",
+    "date": 1793475000000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Liberty Flames",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/2335.png",
+        "color": ""
+      },
+      "away": {
+        "name": "Florida International Panthers",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/2229.png",
         "color": ""
       }
     },
@@ -352,6 +440,28 @@
     "sdUrl": ""
   },
   {
+    "matchId": "espn-401856736",
+    "title": "Oklahoma Sooners vs South Carolina Gamecocks",
+    "league": "NCAA - Football",
+    "category": "american-football",
+    "date": 1793477700000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Oklahoma Sooners",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/201.png",
+        "color": ""
+      },
+      "away": {
+        "name": "South Carolina Gamecocks",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/2579.png",
+        "color": ""
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
     "matchId": "espn-401856847",
     "title": "Iowa State Cyclones vs Oklahoma State Cowboys",
     "league": "NCAA - Football",
@@ -367,6 +477,28 @@
       "away": {
         "name": "Oklahoma State Cowboys",
         "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/197.png",
+        "color": ""
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "espn-401858280",
+    "title": "Florida State Seminoles vs Clemson Tigers",
+    "league": "NCAA - Football",
+    "category": "american-football",
+    "date": 1793487600000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Florida State Seminoles",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/52.png",
+        "color": ""
+      },
+      "away": {
+        "name": "Clemson Tigers",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/228.png",
         "color": ""
       }
     },
@@ -462,6 +594,28 @@
     "sdUrl": ""
   },
   {
+    "matchId": "espn-401858281",
+    "title": "Pittsburgh Panthers vs Georgia Tech Yellow Jackets",
+    "league": "NCAA - Football",
+    "category": "american-football",
+    "date": 1793489400000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Pittsburgh Panthers",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/221.png",
+        "color": ""
+      },
+      "away": {
+        "name": "Georgia Tech Yellow Jackets",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/59.png",
+        "color": ""
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
     "matchId": "espn-401856733",
     "title": "Arkansas Razorbacks vs Missouri Tigers",
     "league": "NCAA - Football",
@@ -484,6 +638,50 @@
     "sdUrl": ""
   },
   {
+    "matchId": "espn-401858504",
+    "title": "Nebraska Cornhuskers vs Washington Huskies",
+    "league": "NCAA - Football",
+    "category": "american-football",
+    "date": 1793491200000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Nebraska Cornhuskers",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/158.png",
+        "color": ""
+      },
+      "away": {
+        "name": "Washington Huskies",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/264.png",
+        "color": ""
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "espn-401862814",
+    "title": "Memphis Tigers vs Army Black Knights",
+    "league": "NCAA - Football",
+    "category": "american-football",
+    "date": 1793491200000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Memphis Tigers",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/235.png",
+        "color": ""
+      },
+      "away": {
+        "name": "Army Black Knights",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/349.png",
+        "color": ""
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
     "matchId": "espn-401860908",
     "title": "Boise State Broncos vs Texas State Bobcats",
     "league": "NCAA - Football",
@@ -499,6 +697,28 @@
       "away": {
         "name": "Texas State Bobcats",
         "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/326.png",
+        "color": ""
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "espn-401864530",
+    "title": "UNLV Rebels vs Northern Illinois Huskies",
+    "league": "NCAA - Football",
+    "category": "american-football",
+    "date": 1793500200000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "UNLV Rebels",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/2439.png",
+        "color": ""
+      },
+      "away": {
+        "name": "Northern Illinois Huskies",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/2459.png",
         "color": ""
       }
     },
@@ -807,6 +1027,116 @@
       "away": {
         "name": "Chicago Bears",
         "badge": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/chi.png",
+        "color": ""
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "espn-401856853",
+    "title": "Baylor Bears vs Iowa State Cyclones",
+    "league": "NCAA - Football",
+    "category": "american-football",
+    "date": 1794027600000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Baylor Bears",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/239.png",
+        "color": ""
+      },
+      "away": {
+        "name": "Iowa State Cyclones",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/66.png",
+        "color": ""
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "espn-401858516",
+    "title": "Washington Huskies vs Penn State Nittany Lions",
+    "league": "NCAA - Football",
+    "category": "american-football",
+    "date": 1794027600000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Washington Huskies",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/264.png",
+        "color": ""
+      },
+      "away": {
+        "name": "Penn State Nittany Lions",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/213.png",
+        "color": ""
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "espn-401856738",
+    "title": "Auburn Tigers vs Arkansas Razorbacks",
+    "league": "NCAA - Football",
+    "category": "american-football",
+    "date": 1794073500000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Auburn Tigers",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/2.png",
+        "color": ""
+      },
+      "away": {
+        "name": "Arkansas Razorbacks",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/8.png",
+        "color": ""
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "espn-401858514",
+    "title": "Ohio State Buckeyes vs Oregon Ducks",
+    "league": "NCAA - Football",
+    "category": "american-football",
+    "date": 1794083400000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Ohio State Buckeyes",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/194.png",
+        "color": ""
+      },
+      "away": {
+        "name": "Oregon Ducks",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/2483.png",
+        "color": ""
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "espn-401856852",
+    "title": "Arizona State Sun Devils vs Colorado Buffaloes",
+    "league": "NCAA - Football",
+    "category": "american-football",
+    "date": 1794097800000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Arizona State Sun Devils",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/9.png",
+        "color": ""
+      },
+      "away": {
+        "name": "Colorado Buffaloes",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/38.png",
         "color": ""
       }
     },
