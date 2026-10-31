@@ -1,71 +1,11 @@
 [
   {
-    "matchId": "mm-au-aus1-401892148",
-    "title": "Melbourne City FC vs Sydney FC",
-    "league": "A-League Men",
-    "category": "football",
-    "date": 1793426400000,
-    "status": "live",
-    "teams": {
-      "home": {
-        "name": "Melbourne City FC",
-        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/11143.png"
-      },
-      "away": {
-        "name": "Sydney FC",
-        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/5327.png"
-      }
-    },
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "mm-au-aus1-401892147",
-    "title": "Macarthur FC vs Western Sydney Wanderers FC",
-    "league": "A-League Men",
-    "category": "football",
-    "date": 1793436000000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Macarthur FC",
-        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/19340.png"
-      },
-      "away": {
-        "name": "Western Sydney Wanderers FC",
-        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/13696.png"
-      }
-    },
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "mm-own-f0a2274936",
-    "title": "Erzurum BB vs Çorum FK",
-    "league": "Süper Lig",
-    "category": "football",
-    "date": 1793442600000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Erzurum BB",
-        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/19267.png"
-      },
-      "away": {
-        "name": "Çorum FK",
-        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/132334.png"
-      }
-    },
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
     "matchId": "mm-own-dd81cc35cb",
     "title": "Granada vs Atlético Madrid",
     "league": "Liga F",
     "category": "football",
     "date": 1793444400000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "Granada",
@@ -85,7 +25,7 @@
     "league": "Liga F",
     "category": "football",
     "date": 1793444400000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "Valencia",
@@ -105,7 +45,7 @@
     "league": "2. Bundesliga",
     "category": "football",
     "date": 1793448000000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "SV Darmstadt 98",
@@ -125,7 +65,7 @@
     "league": "2. Bundesliga",
     "category": "football",
     "date": 1793448000000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "VfL Wolfsburg",
@@ -145,7 +85,7 @@
     "league": "Russian Premier League",
     "category": "football",
     "date": 1793448900000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "Rubin Kazan",
@@ -165,7 +105,7 @@
     "league": "Premier League",
     "category": "football",
     "date": 1793449800000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "Chelsea",
@@ -185,7 +125,7 @@
     "league": "Championship",
     "category": "football",
     "date": 1793449800000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "Lincoln City",
@@ -205,7 +145,7 @@
     "league": "Championship",
     "category": "football",
     "date": 1793449800000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "Norwich City",
@@ -225,7 +165,7 @@
     "league": "Championship",
     "category": "football",
     "date": 1793449800000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "Stoke City",
@@ -245,7 +185,7 @@
     "league": "League One",
     "category": "football",
     "date": 1793449800000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "Bradford City",
@@ -265,7 +205,7 @@
     "league": "League One",
     "category": "football",
     "date": 1793449800000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "Leyton Orient",
@@ -285,7 +225,7 @@
     "league": "League One",
     "category": "football",
     "date": 1793449800000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "Plymouth Argyle",
@@ -305,7 +245,7 @@
     "league": "League Two",
     "category": "football",
     "date": 1793449800000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "Grimsby Town",
@@ -325,7 +265,7 @@
     "league": "League Two",
     "category": "football",
     "date": 1793449800000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "Port Vale",
@@ -345,7 +285,7 @@
     "league": "Women's Super League",
     "category": "football",
     "date": 1793450700000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "Everton",
@@ -365,7 +305,7 @@
     "league": "LaLiga",
     "category": "football",
     "date": 1793451600000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "Levante",
@@ -385,7 +325,7 @@
     "league": "Süper Lig",
     "category": "football",
     "date": 1793451600000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "Kocaelispor",
@@ -405,7 +345,7 @@
     "league": "Ligue 2",
     "category": "football",
     "date": 1793451600000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "Annecy",
@@ -2488,6 +2428,28 @@
       "away": {
         "name": "Venezia",
         "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/17530.png"
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "espn-401878349",
+    "title": "Falkirk vs Celtic",
+    "league": "Scottish Premiership",
+    "category": "football",
+    "date": 1793538000000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Falkirk",
+        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/254.png",
+        "color": ""
+      },
+      "away": {
+        "name": "Celtic",
+        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/256.png",
+        "color": ""
       }
     },
     "hlsUrl": "",
@@ -6224,42 +6186,22 @@
     "sdUrl": ""
   },
   {
-    "matchId": "mm-cric-dl-f809836789",
-    "title": "Adelaide W vs Melbourne Stars W",
-    "league": "Big Bash League Women",
+    "matchId": "cr-adelaide-w-melbourne-stars-w",
+    "title": "adelaide w vs melbourne stars w",
+    "league": "big bash league women",
     "category": "cricket",
     "date": 1793421600000,
     "status": "live",
     "teams": {
       "home": {
-        "name": "Adelaide W",
-        "badge": ""
+        "name": "adelaide w",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/c36k301492606884.png",
+        "color": ""
       },
       "away": {
-        "name": "Melbourne Stars W",
-        "badge": ""
-      }
-    },
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "cr-new-zealand-india",
-    "title": "new zealand vs india",
-    "league": "4th t20",
-    "category": "cricket",
-    "date": 1793430000000,
-    "status": "live",
-    "teams": {
-      "home": {
-        "name": "new zealand",
-        "badge": "https://flagcdn.com/w320/nz.png",
-        "color": "#111111"
-      },
-      "away": {
-        "name": "india",
-        "badge": "https://flagcdn.com/w320/in.png",
-        "color": "#ff9933"
+        "name": "melbourne stars w",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/l0t7v31715269757.png",
+        "color": ""
       }
     },
     "hlsUrl": "",
@@ -6271,7 +6213,7 @@
     "league": "ODI Tri-series 2026 Final",
     "category": "cricket",
     "date": 1793431800000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "Pakistan",
@@ -6291,7 +6233,7 @@
     "league": "3rd Test Day-4",
     "category": "cricket",
     "date": 1793433600000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "South Africa",
@@ -6306,102 +6248,44 @@
     "sdUrl": ""
   },
   {
-    "matchId": "cr-brisbane-w-sydney-sixers-w",
-    "title": "brisbane w vs sydney sixers w",
+    "matchId": "cr-perth-w-melbourne-renegades-w",
+    "title": "perth w vs melbourne renegades w",
     "league": "big bash league women",
     "category": "cricket",
     "date": 1793434200000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
-        "name": "brisbane w",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/6r5cly1492606239.png",
+        "name": "perth w",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/ithlp51546681732.png",
         "color": ""
       },
       "away": {
+        "name": "melbourne renegades w",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/fy0wik1492607045.png",
+        "color": ""
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "cr-sydney-sixers-w-hobart-w",
+    "title": "sydney sixers w vs hobart w",
+    "league": "big bash league women",
+    "category": "cricket",
+    "date": 1793434200000,
+    "status": "live",
+    "teams": {
+      "home": {
         "name": "sydney sixers w",
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/jtkm601492607206.png",
         "color": ""
-      }
-    },
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "mm-cric-dl-cfe1ebd109",
-    "title": "Perth W vs Melbourne Renegades W",
-    "league": "Big Bash League Women",
-    "category": "cricket",
-    "date": 1793434200000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Perth W",
-        "badge": ""
       },
       "away": {
-        "name": "Melbourne Renegades W",
-        "badge": ""
-      }
-    },
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "mm-cric-dl-557a3774cb",
-    "title": "Sydney Sixers W vs Hobart W",
-    "league": "Big Bash League Women",
-    "category": "cricket",
-    "date": 1793434200000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Sydney Sixers W",
-        "badge": ""
-      },
-      "away": {
-        "name": "Hobart W",
-        "badge": ""
-      }
-    },
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "mm-au-nbl-401875291",
-    "title": "Cairns Taipans vs Melbourne United",
-    "league": "NBL",
-    "category": "basketball",
-    "date": 1793435400000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Cairns Taipans",
-        "badge": "https://a.espncdn.com/i/teamlogos/nbl/500/cns.png"
-      },
-      "away": {
-        "name": "Melbourne United",
-        "badge": "https://a.espncdn.com/i/teamlogos/nbl/500/mel.png"
-      }
-    },
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "mm-au-nbl-401875285",
-    "title": "Perth Wildcats vs Illawarra Hawks",
-    "league": "NBL",
-    "category": "basketball",
-    "date": 1793442600000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Perth Wildcats",
-        "badge": "https://a.espncdn.com/i/teamlogos/nbl/500/per.png"
-      },
-      "away": {
-        "name": "Illawarra Hawks",
-        "badge": "https://a.espncdn.com/i/teamlogos/nbl/500/hwk.png"
+        "name": "hobart w",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/vdcla41492606553.png",
+        "color": ""
       }
     },
     "hlsUrl": "",
@@ -7024,6 +6908,28 @@
     "sdUrl": ""
   },
   {
+    "matchId": "espn-401862816",
+    "title": "South Florida Bulls vs UAB Blazers",
+    "league": "NCAA - Football",
+    "category": "american-football",
+    "date": 1793462400000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "South Florida Bulls",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/58.png",
+        "color": ""
+      },
+      "away": {
+        "name": "UAB Blazers",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/5.png",
+        "color": ""
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
     "matchId": "espn-401866452",
     "title": "Western Michigan Broncos vs Bowling Green Falcons",
     "league": "NCAA - Football",
@@ -7039,6 +6945,28 @@
       "away": {
         "name": "Bowling Green Falcons",
         "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/189.png",
+        "color": ""
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "espn-401858507",
+    "title": "Rutgers Scarlet Knights vs Michigan Wolverines",
+    "league": "NCAA - Football",
+    "category": "american-football",
+    "date": 1793464200000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Rutgers Scarlet Knights",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/164.png",
+        "color": ""
+      },
+      "away": {
+        "name": "Michigan Wolverines",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/130.png",
         "color": ""
       }
     },
@@ -8036,6 +7964,28 @@
     "sdUrl": ""
   },
   {
+    "matchId": "ev-oktagon-96-gogoladze-vs-ayari-31453",
+    "title": "OKTAGON 96: Gogoladze vs Ayari",
+    "league": "Combat Sports",
+    "category": "fight",
+    "date": 1793466000000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "OKTAGON 96: Gogoladze",
+        "badge": "",
+        "color": ""
+      },
+      "away": {
+        "name": "Ayari",
+        "badge": "",
+        "color": ""
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
     "matchId": "ev-aew-2026-10-31",
     "title": "AEW Saturday Night Collision",
     "league": "AEW",
@@ -8298,28 +8248,6 @@
     "sdUrl": ""
   },
   {
-    "matchId": "espn-401892647",
-    "title": "Seattle Kraken vs Calgary Flames",
-    "league": "National Hockey League",
-    "category": "hockey",
-    "date": 1793847600000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Seattle Kraken",
-        "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/sea.png",
-        "color": ""
-      },
-      "away": {
-        "name": "Calgary Flames",
-        "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/cgy.png",
-        "color": ""
-      }
-    },
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
     "matchId": "espn-401892655",
     "title": "Columbus Blue Jackets vs Dallas Stars",
     "league": "National Hockey League",
@@ -8336,46 +8264,6 @@
         "name": "Dallas Stars",
         "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/dal.png",
         "color": ""
-      }
-    },
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "mm-rlwc26-2420425",
-    "title": "New Zealand vs Fiji",
-    "league": "Rugby League World Cup",
-    "category": "rugby",
-    "date": 1793421900000,
-    "status": "live",
-    "teams": {
-      "home": {
-        "name": "New Zealand",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/t1svbv1768825413.png"
-      },
-      "away": {
-        "name": "Fiji",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/mclqci1768825350.png"
-      }
-    },
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "mm-rlwc26-2420426",
-    "title": "Australia vs Cook Islands",
-    "league": "Rugby League World Cup",
-    "category": "rugby",
-    "date": 1793437500000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Australia",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/h0dp9w1768825327.png"
-      },
-      "away": {
-        "name": "Cook Islands",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/km17ms1768825335.png"
       }
     },
     "hlsUrl": "",
@@ -8422,77 +8310,22 @@
     "sdUrl": ""
   },
   {
-    "matchId": "mm-mot-dl-0ce0c77ab3",
-    "title": "Gt World Challenge Asia 2026 : Shanghai International Circuit, China Race 1",
-    "league": "Motorsport",
-    "category": "motor-sports",
-    "date": 1793421000000,
-    "status": "live",
-    "teams": {},
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "mm-mot-dl-ffd829d6aa",
-    "title": "Moto3",
-    "league": "Motorsport",
-    "category": "motor-sports",
-    "date": 1793421900000,
-    "status": "live",
-    "teams": {},
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "mm-mot-dl-aca0322d1f",
-    "title": "Moto2",
-    "league": "Motorsport",
-    "category": "motor-sports",
-    "date": 1793424900000,
-    "status": "live",
-    "teams": {},
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "mm-mot-dl-8e6d0a3c6c",
-    "title": "MotoGP",
-    "league": "MotoGP",
-    "category": "motor-sports",
-    "date": 1793430000000,
-    "status": "upcoming",
-    "teams": {},
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "mm-mot-dl-8fe50a4f34",
-    "title": "Idemitsu Moto4 Asia Cup: Malaysia Race 1",
-    "league": "Motorsport",
-    "category": "motor-sports",
-    "date": 1793433600000,
-    "status": "upcoming",
-    "teams": {},
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "mm-mot-dl-2034c4c000",
-    "title": "Italian Formula 4: Mugello",
-    "league": "Motorsport",
-    "category": "motor-sports",
-    "date": 1793437200000,
-    "status": "upcoming",
-    "teams": {},
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
     "matchId": "mm-mot-dl-46eaf2df0c",
     "title": "Fia Extreme H World Cup Day 3 - Qiddiya City",
     "league": "Motorsport",
     "category": "motor-sports",
     "date": 1793448000000,
+    "status": "live",
+    "teams": {},
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "mm-mot-dl-dd280b0474",
+    "title": "Italian Formula 4: Mugello",
+    "league": "Motorsport",
+    "category": "motor-sports",
+    "date": 1793453400000,
     "status": "upcoming",
     "teams": {},
     "hlsUrl": "",

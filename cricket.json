@@ -1,41 +1,21 @@
 [
   {
-    "matchId": "mm-cric-dl-f809836789",
-    "title": "Adelaide W vs Melbourne Stars W",
-    "league": "Big Bash League Women",
+    "matchId": "cr-adelaide-w-melbourne-stars-w",
+    "title": "adelaide w vs melbourne stars w",
+    "league": "big bash league women",
     "category": "cricket",
     "date": 1793421600000,
     "status": "live",
     "teams": {
       "home": {
-        "name": "Adelaide W",
-        "badge": ""
+        "name": "adelaide w",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/c36k301492606884.png",
+        "color": ""
       },
       "away": {
-        "name": "Melbourne Stars W",
-        "badge": ""
-      }
-    },
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "cr-new-zealand-india",
-    "title": "new zealand vs india",
-    "league": "4th t20",
-    "category": "cricket",
-    "date": 1793430000000,
-    "status": "live",
-    "teams": {
-      "home": {
-        "name": "new zealand",
-        "badge": "https://flagcdn.com/w320/nz.png",
-        "color": "#111111"
-      },
-      "away": {
-        "name": "india",
-        "badge": "https://flagcdn.com/w320/in.png",
-        "color": "#ff9933"
+        "name": "melbourne stars w",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/l0t7v31715269757.png",
+        "color": ""
       }
     },
     "hlsUrl": "",
@@ -47,7 +27,7 @@
     "league": "ODI Tri-series 2026 Final",
     "category": "cricket",
     "date": 1793431800000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "Pakistan",
@@ -67,7 +47,7 @@
     "league": "3rd Test Day-4",
     "category": "cricket",
     "date": 1793433600000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "South Africa",
@@ -82,62 +62,44 @@
     "sdUrl": ""
   },
   {
-    "matchId": "cr-brisbane-w-sydney-sixers-w",
-    "title": "brisbane w vs sydney sixers w",
+    "matchId": "cr-perth-w-melbourne-renegades-w",
+    "title": "perth w vs melbourne renegades w",
     "league": "big bash league women",
     "category": "cricket",
     "date": 1793434200000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
-        "name": "brisbane w",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/6r5cly1492606239.png",
+        "name": "perth w",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/ithlp51546681732.png",
         "color": ""
       },
       "away": {
+        "name": "melbourne renegades w",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/fy0wik1492607045.png",
+        "color": ""
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "cr-sydney-sixers-w-hobart-w",
+    "title": "sydney sixers w vs hobart w",
+    "league": "big bash league women",
+    "category": "cricket",
+    "date": 1793434200000,
+    "status": "live",
+    "teams": {
+      "home": {
         "name": "sydney sixers w",
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/jtkm601492607206.png",
         "color": ""
-      }
-    },
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "mm-cric-dl-cfe1ebd109",
-    "title": "Perth W vs Melbourne Renegades W",
-    "league": "Big Bash League Women",
-    "category": "cricket",
-    "date": 1793434200000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Perth W",
-        "badge": ""
       },
       "away": {
-        "name": "Melbourne Renegades W",
-        "badge": ""
-      }
-    },
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "mm-cric-dl-557a3774cb",
-    "title": "Sydney Sixers W vs Hobart W",
-    "league": "Big Bash League Women",
-    "category": "cricket",
-    "date": 1793434200000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Sydney Sixers W",
-        "badge": ""
-      },
-      "away": {
-        "name": "Hobart W",
-        "badge": ""
+        "name": "hobart w",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/vdcla41492606553.png",
+        "color": ""
       }
     },
     "hlsUrl": "",
