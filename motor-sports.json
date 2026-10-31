@@ -1,77 +1,11 @@
 [
   {
-    "matchId": "mm-mot-dl-06f485109d",
-    "title": "World Short Track Championship : Charlotte Motor Speedway",
-    "league": "Motorsport",
-    "category": "motor-sports",
-    "date": 1793390400000,
-    "status": "live",
-    "teams": {},
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "mm-mot-dl-e7d08b6dbc",
-    "title": "2026 Zenith Racing Series : Daytona",
-    "league": "Motorsport",
-    "category": "motor-sports",
-    "date": 1793392200000,
-    "status": "live",
-    "teams": {},
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "ev-f1-2026-mexico-fp1",
-    "title": "Mexico City Grand Prix - Practice 1",
-    "league": "Formula 1",
-    "category": "motor-sports",
-    "date": 1793385000000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Mexico City Grand Prix - Practice 1",
-        "badge": "",
-        "color": ""
-      },
-      "away": {
-        "name": "",
-        "badge": "",
-        "color": ""
-      }
-    },
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "ev-f1-2026-mexico-fp2",
-    "title": "Mexico City Grand Prix - Practice 2",
-    "league": "Formula 1",
-    "category": "motor-sports",
-    "date": 1793397600000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Mexico City Grand Prix - Practice 2",
-        "badge": "",
-        "color": ""
-      },
-      "away": {
-        "name": "",
-        "badge": "",
-        "color": ""
-      }
-    },
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
     "matchId": "mm-mot-dl-4d37c04f3c",
     "title": "NASCAR Craftsman Truck Series Black'S Tire 200",
     "league": "NASCAR",
     "category": "motor-sports",
     "date": 1793397600000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {},
     "hlsUrl": "",
     "sdUrl": ""
@@ -82,7 +16,7 @@
     "league": "Motorsport",
     "category": "motor-sports",
     "date": 1793397600000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {},
     "hlsUrl": "",
     "sdUrl": ""
@@ -93,7 +27,7 @@
     "league": "Motorsport",
     "category": "motor-sports",
     "date": 1793399400000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {},
     "hlsUrl": "",
     "sdUrl": ""
@@ -104,52 +38,30 @@
     "league": "Motorsport",
     "category": "motor-sports",
     "date": 1793403000000,
+    "status": "live",
+    "teams": {},
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "mm-mot-f1-600057447-fp3",
+    "title": "Mexico City Grand Prix - Practice 3",
+    "league": "Formula 1",
+    "category": "motor-sports",
+    "date": 1793467800000,
     "status": "upcoming",
     "teams": {},
     "hlsUrl": "",
     "sdUrl": ""
   },
   {
-    "matchId": "ev-f1-2026-mexico-fp3",
-    "title": "Mexico City Grand Prix - Practice 3",
-    "league": "Formula 1",
-    "category": "motor-sports",
-    "date": 1793467800000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Mexico City Grand Prix - Practice 3",
-        "badge": "",
-        "color": ""
-      },
-      "away": {
-        "name": "",
-        "badge": "",
-        "color": ""
-      }
-    },
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "ev-f1-2026-mexico-qualifying",
+    "matchId": "mm-mot-f1-600057447-qual",
     "title": "Mexico City Grand Prix - Qualifying",
     "league": "Formula 1",
     "category": "motor-sports",
     "date": 1793480400000,
     "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Mexico City Grand Prix - Qualifying",
-        "badge": "",
-        "color": ""
-      },
-      "away": {
-        "name": "",
-        "badge": "",
-        "color": ""
-      }
-    },
+    "teams": {},
     "hlsUrl": "",
     "sdUrl": ""
   },
@@ -176,24 +88,13 @@
     "sdUrl": ""
   },
   {
-    "matchId": "ev-f1-2026-mexico-race",
+    "matchId": "mm-mot-f1-600057447-race",
     "title": "Mexico City Grand Prix - Race",
     "league": "Formula 1",
     "category": "motor-sports",
     "date": 1793563200000,
     "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Mexico City Grand Prix - Race",
-        "badge": "",
-        "color": ""
-      },
-      "away": {
-        "name": "",
-        "badge": "",
-        "color": ""
-      }
-    },
+    "teams": {},
     "hlsUrl": "",
     "sdUrl": ""
   },
