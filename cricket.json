@@ -1,81 +1,85 @@
 [
   {
-    "matchId": "cr-sydney-thunder-w-brisbane-w",
-    "title": "sydney thunder w vs brisbane w",
-    "league": "big bash league women",
-    "category": "cricket",
-    "date": 1793508000000,
-    "status": "live",
-    "teams": {
-      "home": {
-        "name": "sydney thunder w",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/t0tooq1492606384.png",
-        "color": ""
-      },
-      "away": {
-        "name": "brisbane w",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/6r5cly1492606239.png",
-        "color": ""
-      }
-    },
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "mm-cric-dl-29f32f5022",
-    "title": "New Zealand vs India",
-    "league": "5th T20",
+    "matchId": "cr-new-zealand-india",
+    "title": "new zealand vs india",
+    "league": "5th t20",
     "category": "cricket",
     "date": 1793516400000,
     "status": "live",
     "teams": {
       "home": {
-        "name": "New Zealand",
-        "badge": ""
+        "name": "new zealand",
+        "badge": "https://flagcdn.com/w320/nz.png",
+        "color": "#111111"
       },
       "away": {
-        "name": "India",
-        "badge": ""
+        "name": "india",
+        "badge": "https://flagcdn.com/w320/in.png",
+        "color": "#ff9933"
       }
     },
     "hlsUrl": "",
     "sdUrl": ""
   },
   {
-    "matchId": "mm-cric-dl-a616468e77",
-    "title": "South Africa vs Australia",
-    "league": "3rd Test Day-5",
+    "matchId": "cr-south-africa-australia",
+    "title": "south africa vs australia",
+    "league": "3rd test day-5",
     "category": "cricket",
     "date": 1793520000000,
     "status": "live",
     "teams": {
       "home": {
-        "name": "South Africa",
-        "badge": ""
+        "name": "south africa",
+        "badge": "https://flagcdn.com/w320/za.png",
+        "color": "#007749"
       },
       "away": {
-        "name": "Australia",
-        "badge": ""
+        "name": "australia",
+        "badge": "https://flagcdn.com/w320/au.png",
+        "color": "#115740"
       }
     },
     "hlsUrl": "",
     "sdUrl": ""
   },
   {
-    "matchId": "mm-cric-dl-ab5f3620ec",
-    "title": "Sydney Sixers W vs Hobart W",
-    "league": "Big Bash League Women",
+    "matchId": "cr-sydney-sixers-w-hobart-w",
+    "title": "sydney sixers w vs hobart w",
+    "league": "big bash league women",
     "category": "cricket",
     "date": 1793520600000,
     "status": "live",
     "teams": {
       "home": {
-        "name": "Sydney Sixers W",
-        "badge": ""
+        "name": "sydney sixers w",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/jtkm601492607206.png",
+        "color": ""
       },
       "away": {
-        "name": "Hobart W",
-        "badge": ""
+        "name": "hobart w",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/vdcla41492606553.png",
+        "color": ""
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "mm-npl-m6",
+    "title": "Janakpur Bolts vs Pokhara Avengers",
+    "league": "Nepal Premier League",
+    "category": "cricket",
+    "date": 1793531700000,
+    "status": "live",
+    "teams": {
+      "home": {
+        "name": "Janakpur Bolts",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/6251cz1734167520.png"
+      },
+      "away": {
+        "name": "Pokhara Avengers",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/019v1s1734167674.png"
       }
     },
     "hlsUrl": "",
@@ -87,7 +91,7 @@
     "league": "pro20 cup '26",
     "category": "cricket",
     "date": 1793536200000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "lions",
@@ -109,7 +113,7 @@
     "league": "3rd T20I",
     "category": "cricket",
     "date": 1793543400000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "Afghanistan",
@@ -118,6 +122,28 @@
       "away": {
         "name": "Zimbabwe",
         "badge": ""
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "cr-sydney-thunder-w-brisbane-w",
+    "title": "sydney thunder w vs brisbane w",
+    "league": "big bash league women",
+    "category": "cricket",
+    "date": 1793508000000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "sydney thunder w",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/t0tooq1492606384.png",
+        "color": ""
+      },
+      "away": {
+        "name": "brisbane w",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/6r5cly1492606239.png",
+        "color": ""
       }
     },
     "hlsUrl": "",
