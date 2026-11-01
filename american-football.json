@@ -5,7 +5,7 @@
     "league": "National Football League",
     "category": "american-football",
     "date": 1793556000000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "Buffalo Bills",
@@ -27,7 +27,7 @@
     "league": "National Football League",
     "category": "american-football",
     "date": 1793556000000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "Cincinnati Bengals",
@@ -49,7 +49,7 @@
     "league": "National Football League",
     "category": "american-football",
     "date": 1793556000000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "Dallas Cowboys",
@@ -71,7 +71,7 @@
     "league": "National Football League",
     "category": "american-football",
     "date": 1793556000000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "Detroit Lions",
@@ -93,7 +93,7 @@
     "league": "National Football League",
     "category": "american-football",
     "date": 1793556000000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "New York Jets",
@@ -115,7 +115,7 @@
     "league": "National Football League",
     "category": "american-football",
     "date": 1793556000000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "Pittsburgh Steelers",
@@ -137,7 +137,7 @@
     "league": "National Football League",
     "category": "american-football",
     "date": 1793556000000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "Tampa Bay Buccaneers",
@@ -159,7 +159,7 @@
     "league": "National Football League",
     "category": "american-football",
     "date": 1793556000000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "Jacksonville Jaguars",
@@ -290,7 +290,7 @@
     "title": "Kansas State Wildcats vs Oklahoma State Cowboys",
     "league": "NCAA - Football",
     "category": "american-football",
-    "date": 1794070800000,
+    "date": 1794074400000,
     "status": "upcoming",
     "teams": {
       "home": {
@@ -301,28 +301,6 @@
       "away": {
         "name": "Oklahoma State Cowboys",
         "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/197.png",
-        "color": ""
-      }
-    },
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "espn-401858511",
-    "title": "Michigan Wolverines vs Michigan State Spartans",
-    "league": "NCAA - Football",
-    "category": "american-football",
-    "date": 1794097800000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Michigan Wolverines",
-        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/130.png",
-        "color": ""
-      },
-      "away": {
-        "name": "Michigan State Spartans",
-        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/127.png",
         "color": ""
       }
     },
@@ -345,6 +323,28 @@
       "away": {
         "name": "Louisville Cardinals",
         "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/97.png",
+        "color": ""
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "espn-401858511",
+    "title": "Michigan Wolverines vs Michigan State Spartans",
+    "league": "NCAA - Football",
+    "category": "american-football",
+    "date": 1794097800000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Michigan Wolverines",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/130.png",
+        "color": ""
+      },
+      "away": {
+        "name": "Michigan State Spartans",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/127.png",
         "color": ""
       }
     },
