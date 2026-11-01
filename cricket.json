@@ -4,7 +4,7 @@
     "title": "adelaide w vs melbourne stars w",
     "league": "big bash league women",
     "category": "cricket",
-    "date": 1793421600000,
+    "date": 1793508000000,
     "status": "upcoming",
     "teams": {
       "home": {
@@ -22,11 +22,55 @@
     "sdUrl": ""
   },
   {
+    "matchId": "cr-sydney-thunder-w-brisbane-w",
+    "title": "sydney thunder w vs brisbane w",
+    "league": "big bash league women",
+    "category": "cricket",
+    "date": 1793508000000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "sydney thunder w",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/t0tooq1492606384.png",
+        "color": ""
+      },
+      "away": {
+        "name": "brisbane w",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/6r5cly1492606239.png",
+        "color": ""
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "cr-new-zealand-india",
+    "title": "new zealand vs india",
+    "league": "5th t20",
+    "category": "cricket",
+    "date": 1793516400000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "new zealand",
+        "badge": "https://flagcdn.com/w320/nz.png",
+        "color": "#111111"
+      },
+      "away": {
+        "name": "india",
+        "badge": "https://flagcdn.com/w320/in.png",
+        "color": "#ff9933"
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
     "matchId": "cr-pakistan-sri-lanka",
     "title": "pakistan vs sri lanka",
     "league": "odi tri-series 2026 final",
     "category": "cricket",
-    "date": 1793431800000,
+    "date": 1793518200000,
     "status": "upcoming",
     "teams": {
       "home": {
@@ -48,7 +92,7 @@
     "title": "south africa vs australia",
     "league": "3rd test day-4",
     "category": "cricket",
-    "date": 1793433600000,
+    "date": 1793520000000,
     "status": "upcoming",
     "teams": {
       "home": {
@@ -70,7 +114,7 @@
     "title": "perth w vs melbourne renegades w",
     "league": "big bash league women",
     "category": "cricket",
-    "date": 1793434200000,
+    "date": 1793520600000,
     "status": "upcoming",
     "teams": {
       "home": {
@@ -92,7 +136,7 @@
     "title": "sydney sixers w vs hobart w",
     "league": "big bash league women",
     "category": "cricket",
-    "date": 1793434200000,
+    "date": 1793520600000,
     "status": "upcoming",
     "teams": {
       "home": {
@@ -104,6 +148,50 @@
         "name": "hobart w",
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/vdcla41492606553.png",
         "color": ""
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "cr-lions-titans",
+    "title": "lions vs titans",
+    "league": "pro20 cup '26",
+    "category": "cricket",
+    "date": 1793536200000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "lions",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/cd8tv21487606032.png",
+        "color": ""
+      },
+      "away": {
+        "name": "titans",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/50kzdm1644367943.png",
+        "color": ""
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "cr-afghanistan-zimbabwe",
+    "title": "afghanistan vs zimbabwe",
+    "league": "3rd t20i",
+    "category": "cricket",
+    "date": 1793543400000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "afghanistan",
+        "badge": "https://flagcdn.com/w320/af.png",
+        "color": "#d32011"
+      },
+      "away": {
+        "name": "zimbabwe",
+        "badge": "https://flagcdn.com/w320/zw.png",
+        "color": "#318500"
       }
     },
     "hlsUrl": "",
