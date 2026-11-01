@@ -1,49 +1,5 @@
 [
   {
-    "matchId": "espn-401892622",
-    "title": "Dallas Stars vs Columbus Blue Jackets",
-    "league": "National Hockey League",
-    "category": "hockey",
-    "date": 1793491200000,
-    "status": "live",
-    "teams": {
-      "home": {
-        "name": "Dallas Stars",
-        "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/dal.png",
-        "color": ""
-      },
-      "away": {
-        "name": "Columbus Blue Jackets",
-        "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/cbj.png",
-        "color": ""
-      }
-    },
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "espn-401892623",
-    "title": "Colorado Avalanche vs Calgary Flames",
-    "league": "National Hockey League",
-    "category": "hockey",
-    "date": 1793498400000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Colorado Avalanche",
-        "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/col.png",
-        "color": ""
-      },
-      "away": {
-        "name": "Calgary Flames",
-        "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/cgy.png",
-        "color": ""
-      }
-    },
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
     "matchId": "espn-401892624",
     "title": "Carolina Hurricanes vs Winnipeg Jets",
     "league": "National Hockey League",
@@ -147,50 +103,6 @@
       "away": {
         "name": "Ottawa Senators",
         "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/ott.png",
-        "color": ""
-      }
-    },
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "espn-401892631",
-    "title": "Chicago Blackhawks vs Colorado Avalanche",
-    "league": "National Hockey League",
-    "category": "hockey",
-    "date": 1793667600000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Chicago Blackhawks",
-        "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/chi.png",
-        "color": ""
-      },
-      "away": {
-        "name": "Colorado Avalanche",
-        "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/col.png",
-        "color": ""
-      }
-    },
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "espn-401892655",
-    "title": "Columbus Blue Jackets vs Dallas Stars",
-    "league": "National Hockey League",
-    "category": "hockey",
-    "date": 1793923200000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Columbus Blue Jackets",
-        "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/cbj.png",
-        "color": ""
-      },
-      "away": {
-        "name": "Dallas Stars",
-        "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/dal.png",
         "color": ""
       }
     },
