@@ -1,77 +1,11 @@
 [
   {
-    "matchId": "espn-401892624",
-    "title": "Carolina Hurricanes vs Winnipeg Jets",
-    "league": "National Hockey League",
-    "category": "hockey",
-    "date": 1793556000000,
-    "status": "live",
-    "teams": {
-      "home": {
-        "name": "Carolina Hurricanes",
-        "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/car.png",
-        "color": ""
-      },
-      "away": {
-        "name": "Winnipeg Jets",
-        "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/wpg.png",
-        "color": ""
-      }
-    },
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "espn-401892625",
-    "title": "Washington Capitals vs Minnesota Wild",
-    "league": "National Hockey League",
-    "category": "hockey",
-    "date": 1793565000000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Washington Capitals",
-        "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/wsh.png",
-        "color": ""
-      },
-      "away": {
-        "name": "Minnesota Wild",
-        "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/min.png",
-        "color": ""
-      }
-    },
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "espn-401892626",
-    "title": "Philadelphia Flyers vs Utah Mammoth",
-    "league": "National Hockey League",
-    "category": "hockey",
-    "date": 1793566800000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Philadelphia Flyers",
-        "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/phi.png",
-        "color": ""
-      },
-      "away": {
-        "name": "Utah Mammoth",
-        "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/uta.png",
-        "color": ""
-      }
-    },
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
     "matchId": "espn-401892627",
     "title": "New York Rangers vs Edmonton Oilers",
     "league": "National Hockey League",
     "category": "hockey",
     "date": 1793574000000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "New York Rangers",
@@ -84,7 +18,7 @@
         "color": ""
       }
     },
-    "hlsUrl": "",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-11-01/edm-nyr/playlist.m3u8?tk=7XjOHiEUz-_2hmZdANJRBA&e=1793622356|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -106,25 +40,25 @@
         "color": ""
       }
     },
-    "hlsUrl": "",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-11-01/ott-ana/playlist.m3u8?tk=7XjOHiEUz-_2hmZdANJRBA&e=1793622356|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
-    "matchId": "espn-401892640",
-    "title": "Washington Capitals vs Dallas Stars",
+    "matchId": "espn-401892680",
+    "title": "Edmonton Oilers vs New York Rangers",
     "league": "National Hockey League",
     "category": "hockey",
-    "date": 1793750400000,
+    "date": 1794272400000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Washington Capitals",
-        "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/wsh.png",
+        "name": "Edmonton Oilers",
+        "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/edm.png",
         "color": ""
       },
       "away": {
-        "name": "Dallas Stars",
-        "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/dal.png",
+        "name": "New York Rangers",
+        "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/nyr.png",
         "color": ""
       }
     },
