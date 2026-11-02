@@ -1,46 +1,90 @@
 [
   {
-    "matchId": "espn-401892627",
-    "title": "New York Rangers vs Edmonton Oilers",
+    "matchId": "espn-401892629",
+    "title": "Boston Bruins vs Vegas Golden Knights",
     "league": "National Hockey League",
     "category": "hockey",
-    "date": 1793574000000,
-    "status": "live",
-    "teams": {
-      "home": {
-        "name": "New York Rangers",
-        "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/nyr.png",
-        "color": ""
-      },
-      "away": {
-        "name": "Edmonton Oilers",
-        "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/edm.png",
-        "color": ""
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-11-01/edm-nyr/playlist.m3u8?tk=7XjOHiEUz-_2hmZdANJRBA&e=1793622356|Referer=https://ondemand.st",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "espn-401892628",
-    "title": "Anaheim Ducks vs Ottawa Senators",
-    "league": "National Hockey League",
-    "category": "hockey",
-    "date": 1793581200000,
+    "date": 1793664000000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Anaheim Ducks",
-        "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/ana.png",
+        "name": "Boston Bruins",
+        "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/bos.png",
         "color": ""
       },
       "away": {
-        "name": "Ottawa Senators",
-        "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/ott.png",
+        "name": "Vegas Golden Knights",
+        "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/vgk.png",
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-11-01/ott-ana/playlist.m3u8?tk=7XjOHiEUz-_2hmZdANJRBA&e=1793622356|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-11-02/vgk-bos/playlist.m3u8?tk=4hH6ADILtcVfbiw_5PKzpw&e=1793647636|Referer=https://ondemand.st",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "espn-401892630",
+    "title": "Florida Panthers vs Detroit Red Wings",
+    "league": "National Hockey League",
+    "category": "hockey",
+    "date": 1793664000000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Florida Panthers",
+        "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/fla.png",
+        "color": ""
+      },
+      "away": {
+        "name": "Detroit Red Wings",
+        "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/det.png",
+        "color": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-11-02/det-fla/playlist.m3u8?tk=4hH6ADILtcVfbiw_5PKzpw&e=1793647636|Referer=https://ondemand.st",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "espn-401892631",
+    "title": "Chicago Blackhawks vs Colorado Avalanche",
+    "league": "National Hockey League",
+    "category": "hockey",
+    "date": 1793667600000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Chicago Blackhawks",
+        "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/chi.png",
+        "color": ""
+      },
+      "away": {
+        "name": "Colorado Avalanche",
+        "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/col.png",
+        "color": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-11-02/col-chi/playlist.m3u8?tk=GFc9I5QIJWQI8VoaWa1fMw&e=1793647637|Referer=https://ondemand.st",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "espn-401892632",
+    "title": "San Jose Sharks vs Calgary Flames",
+    "league": "National Hockey League",
+    "category": "hockey",
+    "date": 1793671200000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "San Jose Sharks",
+        "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/sj.png",
+        "color": ""
+      },
+      "away": {
+        "name": "Calgary Flames",
+        "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/cgy.png",
+        "color": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-11-02/cgy-sj/playlist.m3u8?tk=L9Mvozvknyevukh6LBj8BQ&e=1793647638|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
