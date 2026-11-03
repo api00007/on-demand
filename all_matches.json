@@ -1,101 +1,239 @@
 [
   {
-    "matchId": "espn-401841299",
-    "title": "Red Bull Bragantino vs Santos",
-    "league": "Brazilian Serie A",
+    "matchId": "mm-own-1270cc6f46",
+    "title": "Newcastle Jets vs Shanghai Port FC",
+    "league": "AFC Champions League Elite",
     "category": "football",
-    "date": 1793660400000,
-    "status": "live",
-    "teams": {
-      "home": {
-        "name": "Red Bull Bragantino",
-        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/6079.png",
-        "color": ""
-      },
-      "away": {
-        "name": "Santos",
-        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/2674.png",
-        "color": ""
-      }
-    },
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "mm-own-1f8bf08ee5",
-    "title": "Deportes Concepcion vs Palestino",
-    "league": "Chilean Primera",
-    "category": "football",
-    "date": 1793662200000,
-    "status": "live",
-    "teams": {
-      "home": {
-        "name": "Deportes Concepcion",
-        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/8110.png"
-      },
-      "away": {
-        "name": "Palestino",
-        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/4422.png"
-      }
-    },
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "mm-own-b9d35311de",
-    "title": "Atlético Tucumán vs Argentinos Juniors",
-    "league": "Liga Argentina",
-    "category": "football",
-    "date": 1793664900000,
-    "status": "live",
-    "teams": {
-      "home": {
-        "name": "Atlético Tucumán",
-        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/9785.png"
-      },
-      "away": {
-        "name": "Argentinos Juniors",
-        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/3.png"
-      }
-    },
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "mm-own-47078311d0",
-    "title": "Independiente Rivadavia vs Banfield",
-    "league": "Liga Argentina",
-    "category": "football",
-    "date": 1793664900000,
-    "status": "live",
-    "teams": {
-      "home": {
-        "name": "Independiente Rivadavia",
-        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/9744.png"
-      },
-      "away": {
-        "name": "Banfield",
-        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/235.png"
-      }
-    },
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "mm-own-39f4fd6d8c",
-    "title": "Atlético Bucaramanga vs Atlético Nacional",
-    "league": "Liga BetPlay Colombia",
-    "category": "football",
-    "date": 1793668500000,
+    "date": 1793691900000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Atlético Bucaramanga",
-        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/6137.png"
+        "name": "Newcastle Jets",
+        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/5323.png"
       },
       "away": {
-        "name": "Atlético Nacional",
-        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/5264.png"
+        "name": "Shanghai Port FC",
+        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/15515.png"
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "mm-own-ac497aa5e8",
+    "title": "Jeonbuk Hyundai Motors vs Johor Darul Ta'zim",
+    "league": "AFC Champions League Elite",
+    "category": "football",
+    "date": 1793700000000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Jeonbuk Hyundai Motors",
+        "badge": ""
+      },
+      "away": {
+        "name": "Johor Darul Ta'zim",
+        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/17689.png"
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "mm-own-afe9ae79f4",
+    "title": "Kashiwa Reysol vs Daejeon Hana Citizen FC",
+    "league": "AFC Champions League Elite",
+    "category": "football",
+    "date": 1793700000000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Kashiwa Reysol",
+        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/7476.png"
+      },
+      "away": {
+        "name": "Daejeon Hana Citizen FC",
+        "badge": ""
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "mm-own-a783b87931",
+    "title": "Vissel Kobe vs Ratchaburi FC",
+    "league": "AFC Champions League Elite",
+    "category": "football",
+    "date": 1793700000000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Vissel Kobe",
+        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/7477.png"
+      },
+      "away": {
+        "name": "Ratchaburi FC",
+        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/17760.png"
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "mm-yl-60a2a6e581",
+    "title": "Shakhtar Donetsk U19 vs Sporting Cp U19",
+    "league": "UEFA Youth League",
+    "category": "football",
+    "date": 1793707200000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Shakhtar Donetsk U19",
+        "badge": ""
+      },
+      "away": {
+        "name": "Sporting Cp U19",
+        "badge": ""
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "mm-yl-47b7b37cfd",
+    "title": "Villarreal U19 vs PSG U19",
+    "league": "UEFA Youth League",
+    "category": "football",
+    "date": 1793707200000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Villarreal U19",
+        "badge": ""
+      },
+      "away": {
+        "name": "PSG U19",
+        "badge": ""
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "mm-own-d69b7b22cd",
+    "title": "Cong An Ha Noi vs Kyoto Sanga",
+    "league": "AFC Champions League Elite",
+    "category": "football",
+    "date": 1793708100000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Cong An Ha Noi",
+        "badge": ""
+      },
+      "away": {
+        "name": "Kyoto Sanga",
+        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/21361.png"
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "mm-own-c8a2b40e59",
+    "title": "Port FC vs Beijing Guoan",
+    "league": "AFC Champions League Elite",
+    "category": "football",
+    "date": 1793708100000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Port FC",
+        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/17757.png"
+      },
+      "away": {
+        "name": "Beijing Guoan",
+        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/2052.png"
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "mm-yl-575bdb641e",
+    "title": "Manchester Utd U19 vs As Roma U19",
+    "league": "UEFA Youth League",
+    "category": "football",
+    "date": 1793710800000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Manchester Utd U19",
+        "badge": ""
+      },
+      "away": {
+        "name": "As Roma U19",
+        "badge": ""
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "mm-yl-b4efd31a1d",
+    "title": "Atl Tico Madrid U19 vs Bayern U19",
+    "league": "UEFA Youth League",
+    "category": "football",
+    "date": 1793718000000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Atl Tico Madrid U19",
+        "badge": ""
+      },
+      "away": {
+        "name": "Bayern U19",
+        "badge": ""
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "mm-yl-b7328c7acb",
+    "title": "Barcelona U19 vs Aston Villa FC Under 19",
+    "league": "UEFA Youth League",
+    "category": "football",
+    "date": 1793718000000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Barcelona U19",
+        "badge": ""
+      },
+      "away": {
+        "name": "Aston Villa FC Under 19",
+        "badge": ""
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "mm-own-fef418b569",
+    "title": "Esteghlal FC vs Al-Shamal",
+    "league": "AFC Champions League Elite",
+    "category": "football",
+    "date": 1793721600000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Esteghlal FC",
+        "badge": ""
+      },
+      "away": {
+        "name": "Al-Shamal",
+        "badge": ""
       }
     },
     "hlsUrl": "",
@@ -136,6 +274,68 @@
       "away": {
         "name": "Sporting CP",
         "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/2250.png"
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "espn-401928514",
+    "title": "Anaitasuna vs Alavés",
+    "league": "Spanish Copa del Rey",
+    "category": "football",
+    "date": 1793728800000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Anaitasuna",
+        "badge": "",
+        "color": ""
+      },
+      "away": {
+        "name": "Alavés",
+        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/96.png",
+        "color": ""
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "mm-own-897b5b673f",
+    "title": "IK Sirius vs Halmstads BK",
+    "league": "Allsvenskan",
+    "category": "football",
+    "date": 1793728800000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "IK Sirius",
+        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/8547.png"
+      },
+      "away": {
+        "name": "Halmstads BK",
+        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/3017.png"
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "mm-own-c0194f2e20",
+    "title": "Al Hilal vs Shabab Al Ahli",
+    "league": "AFC Champions League Elite",
+    "category": "football",
+    "date": 1793729700000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Al Hilal",
+        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/929.png"
+      },
+      "away": {
+        "name": "Shabab Al Ahli",
+        "badge": ""
       }
     },
     "hlsUrl": "",
@@ -516,6 +716,108 @@
       "away": {
         "name": "Southampton",
         "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/376.png"
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "mm-own-045e50b354",
+    "title": "Comerciantes Unidos vs ADT",
+    "league": "Liga 1 Peru",
+    "category": "football",
+    "date": 1793736000000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Comerciantes Unidos",
+        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/18153.png"
+      },
+      "away": {
+        "name": "ADT",
+        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/21314.png"
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "mm-own-b291e9e73e",
+    "title": "Deportivo Pereira vs Deportes Tolima",
+    "league": "Liga BetPlay Colombia",
+    "category": "football",
+    "date": 1793737800000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Deportivo Pereira",
+        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/5486.png"
+      },
+      "away": {
+        "name": "Deportes Tolima",
+        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/5489.png"
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "mm-own-daf5974039",
+    "title": "Chapecoense vs Mirassol",
+    "league": "Brasileirão",
+    "category": "football",
+    "date": 1793745000000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Chapecoense",
+        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/9318.png"
+      },
+      "away": {
+        "name": "Mirassol",
+        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/9169.png"
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "espn-401841301",
+    "title": "Internacional vs Coritiba",
+    "league": "Brazilian Serie A",
+    "category": "football",
+    "date": 1793752200000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Internacional",
+        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/1936.png",
+        "color": ""
+      },
+      "away": {
+        "name": "Coritiba",
+        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/3456.png",
+        "color": ""
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "mm-own-4ec63ecab6",
+    "title": "Alianza Lima vs Cienciano del Cusco",
+    "league": "Liga 1 Peru",
+    "category": "football",
+    "date": 1793754000000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Alianza Lima",
+        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/2680.png"
+      },
+      "away": {
+        "name": "Cienciano del Cusco",
+        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/3372.png"
       }
     },
     "hlsUrl": "",
@@ -2800,7 +3102,7 @@
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mls/2026-11-07/mtl-van/playlist.m3u8?tk=UgZj1wSHRirKACpPDAlaXw&e=1793710264|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mls/2026-11-07/mtl-van/playlist.m3u8?tk=6zq9hUx5sOW_QDo20nGS8w&e=1793734902|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -2822,7 +3124,7 @@
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mls/2026-11-07/chi-clb/playlist.m3u8?tk=RRULDlo_Rgtbv_o6zOad0w&e=1793710266|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mls/2026-11-07/chi-clb/playlist.m3u8?tk=6zq9hUx5sOW_QDo20nGS8w&e=1793734902|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -2844,7 +3146,7 @@
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mls/2026-11-07/cin-nsh/playlist.m3u8?tk=W9vQ4Tg-cwgKeyoxuZgkfA&e=1793710267|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mls/2026-11-07/cin-nsh/playlist.m3u8?tk=It_D884nm-OggmpETvUJ0g&e=1793734903|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -2866,7 +3168,7 @@
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mls/2026-11-07/mia-clt/playlist.m3u8?tk=ZwKe4Yoko8fzQbAYX6ye5g&e=1793710269|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mls/2026-11-07/mia-clt/playlist.m3u8?tk=LXlFktEL7SxVAjfO3OW6BQ&e=1793734904|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -2888,7 +3190,7 @@
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mls/2026-11-07/orl-ne/playlist.m3u8?tk=USqWE308hNLKrnei3rwc6A&e=1793710270|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mls/2026-11-07/orl-ne/playlist.m3u8?tk=CN30t3p8f6NEsKNo8mMZOw&e=1793734905|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -2910,7 +3212,7 @@
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mls/2026-11-07/phi-tor/playlist.m3u8?tk=ApzyIchbv3jkqNfuHF8bKg&e=1793710271|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mls/2026-11-07/phi-tor/playlist.m3u8?tk=CN30t3p8f6NEsKNo8mMZOw&e=1793734905|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -2932,7 +3234,7 @@
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mls/2026-11-07/rbny-atl/playlist.m3u8?tk=ApzyIchbv3jkqNfuHF8bKg&e=1793710271|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mls/2026-11-07/rbny-atl/playlist.m3u8?tk=zqKL_KlrgutrVuRL6BFf9Q&e=1793734906|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -2994,7 +3296,7 @@
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mls/2026-11-07/atx-por/playlist.m3u8?tk=Qzldw7DgHUtxi5j6bHJ_Ew&e=1793710274|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mls/2026-11-07/atx-por/playlist.m3u8?tk=ct8Yi0NBjnWmKlJ3g2uFwQ&e=1793734907|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -3016,7 +3318,7 @@
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mls/2026-11-07/dal-col/playlist.m3u8?tk=Qzldw7DgHUtxi5j6bHJ_Ew&e=1793710274|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mls/2026-11-07/dal-col/playlist.m3u8?tk=p2M0mkndYiZ_SXe9-NGlLw&e=1793734908|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -3038,7 +3340,7 @@
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mls/2026-11-07/hou-stl/playlist.m3u8?tk=57o_b7lGjuLs0M1-SM9w1Q&e=1793710275|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mls/2026-11-07/hou-stl/playlist.m3u8?tk=j3d4LM2aIXH9qM4ZIJzLzA&e=1793734909|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -3060,7 +3362,7 @@
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mls/2026-11-07/min-sj/playlist.m3u8?tk=57o_b7lGjuLs0M1-SM9w1Q&e=1793710275|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mls/2026-11-07/min-sj/playlist.m3u8?tk=j3d4LM2aIXH9qM4ZIJzLzA&e=1793734909|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -3082,7 +3384,7 @@
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mls/2026-11-07/rsl-la/playlist.m3u8?tk=VaGPrplMF1jiQXJrB_5URQ&e=1793710276|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mls/2026-11-07/rsl-la/playlist.m3u8?tk=wH-7x-T-wlxajt8ngL691Q&e=1793734910|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -3104,7 +3406,7 @@
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mls/2026-11-07/sd-skc/playlist.m3u8?tk=3LyNDrOW53Tyu7__ps7LOQ&e=1793710277|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mls/2026-11-07/sd-skc/playlist.m3u8?tk=wH-7x-T-wlxajt8ngL691Q&e=1793734910|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -3126,7 +3428,7 @@
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mls/2026-11-07/sea-lafc/playlist.m3u8?tk=3LyNDrOW53Tyu7__ps7LOQ&e=1793710277|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mls/2026-11-07/sea-lafc/playlist.m3u8?tk=jjWTA6TINwSVfMm-cr-nqA&e=1793734911|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -4310,355 +4612,85 @@
     "sdUrl": ""
   },
   {
-    "matchId": "cr-melbourne-stars-w-perth-w",
-    "title": "melbourne stars w vs perth w",
-    "league": "big bash league women",
-    "category": "cricket",
-    "date": 1793693400000,
+    "matchId": "mm-own-02fa4ec44a",
+    "title": "Real Madrid vs Paris FC",
+    "league": "Women's Champions League",
+    "category": "football",
+    "date": 1794332700000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "melbourne stars w",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/l0t7v31715269757.png",
-        "color": ""
+        "name": "Real Madrid",
+        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/21128.png"
       },
       "away": {
-        "name": "perth w",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/ithlp51546681732.png",
-        "color": ""
+        "name": "Paris FC",
+        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/21640.png"
       }
     },
     "hlsUrl": "",
     "sdUrl": ""
   },
   {
-    "matchId": "espn-401909907",
-    "title": "Cleveland Cavaliers vs Oklahoma City Thunder",
-    "league": "National Basketball Association",
-    "category": "basketball",
-    "date": 1793664000000,
-    "status": "live",
-    "teams": {
-      "home": {
-        "name": "Cleveland Cavaliers",
-        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/cle.png",
-        "color": ""
-      },
-      "away": {
-        "name": "Oklahoma City Thunder",
-        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/okc.png",
-        "color": ""
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nba/2026-11-02/okc-cle/playlist.m3u8?tk=JLWeEbr-BM8R35rCisvd9A&e=1793710307|Referer=https://ondemand.st",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "espn-401909908",
-    "title": "Charlotte Hornets vs Detroit Pistons",
-    "league": "National Basketball Association",
-    "category": "basketball",
-    "date": 1793665800000,
-    "status": "live",
-    "teams": {
-      "home": {
-        "name": "Charlotte Hornets",
-        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/cha.png",
-        "color": ""
-      },
-      "away": {
-        "name": "Detroit Pistons",
-        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/det.png",
-        "color": ""
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nba/2026-11-02/det-cha/playlist.m3u8?tk=GhgnCIwZIrUq-2oJHjtlwA&e=1793710308|Referer=https://ondemand.st",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "espn-401909909",
-    "title": "Indiana Pacers vs Atlanta Hawks",
-    "league": "National Basketball Association",
-    "category": "basketball",
-    "date": 1793665800000,
-    "status": "live",
-    "teams": {
-      "home": {
-        "name": "Indiana Pacers",
-        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/ind.png",
-        "color": ""
-      },
-      "away": {
-        "name": "Atlanta Hawks",
-        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/atl.png",
-        "color": ""
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nba/2026-11-02/atl-ind/playlist.m3u8?tk=GhgnCIwZIrUq-2oJHjtlwA&e=1793710308|Referer=https://ondemand.st",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "espn-401909910",
-    "title": "New York Knicks vs Brooklyn Nets",
-    "league": "National Basketball Association",
-    "category": "basketball",
-    "date": 1793665800000,
-    "status": "live",
-    "teams": {
-      "home": {
-        "name": "New York Knicks",
-        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/ny.png",
-        "color": ""
-      },
-      "away": {
-        "name": "Brooklyn Nets",
-        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/bkn.png",
-        "color": ""
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nba/2026-11-02/bkn-ny/playlist.m3u8?tk=MggeIPSZ0Mt9z_8s50dOJw&e=1793710309|Referer=https://ondemand.st",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "espn-401909911",
-    "title": "Orlando Magic vs Washington Wizards",
-    "league": "National Basketball Association",
-    "category": "basketball",
-    "date": 1793665800000,
-    "status": "live",
-    "teams": {
-      "home": {
-        "name": "Orlando Magic",
-        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/orl.png",
-        "color": ""
-      },
-      "away": {
-        "name": "Washington Wizards",
-        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/wsh.png",
-        "color": ""
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nba/2026-11-02/wsh-orl/playlist.m3u8?tk=HFrxXOlmRRr1LVCwNAfybw&e=1793710310|Referer=https://ondemand.st",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "espn-401909912",
-    "title": "Philadelphia 76ers vs Chicago Bulls",
-    "league": "National Basketball Association",
-    "category": "basketball",
-    "date": 1793665800000,
-    "status": "live",
-    "teams": {
-      "home": {
-        "name": "Philadelphia 76ers",
-        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/phi.png",
-        "color": ""
-      },
-      "away": {
-        "name": "Chicago Bulls",
-        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/chi.png",
-        "color": ""
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nba/2026-11-02/chi-phi/playlist.m3u8?tk=HFrxXOlmRRr1LVCwNAfybw&e=1793710310|Referer=https://ondemand.st",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "espn-401909913",
-    "title": "Dallas Mavericks vs Sacramento Kings",
-    "league": "National Basketball Association",
-    "category": "basketball",
-    "date": 1793667600000,
+    "matchId": "mm-own-bad5d0eeba",
+    "title": "Paris Saint-Germain vs Bayern Munich",
+    "league": "Women's Champions League",
+    "category": "football",
+    "date": 1794340800000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Dallas Mavericks",
-        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/dal.png",
-        "color": ""
+        "name": "Paris Saint-Germain",
+        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/19258.png"
       },
       "away": {
-        "name": "Sacramento Kings",
-        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sac.png",
-        "color": ""
+        "name": "Bayern Munich",
+        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/20103.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nba/2026-11-02/sac-dal/playlist.m3u8?tk=UDAe34Qmb81C1CciVWzXeQ&e=1793710311|Referer=https://ondemand.st",
+    "hlsUrl": "",
     "sdUrl": ""
   },
   {
-    "matchId": "espn-401909914",
-    "title": "Memphis Grizzlies vs New Orleans Pelicans",
-    "league": "National Basketball Association",
-    "category": "basketball",
-    "date": 1793667600000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Memphis Grizzlies",
-        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mem.png",
-        "color": ""
-      },
-      "away": {
-        "name": "New Orleans Pelicans",
-        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/no.png",
-        "color": ""
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nba/2026-11-02/no-mem/playlist.m3u8?tk=UDAe34Qmb81C1CciVWzXeQ&e=1793710311|Referer=https://ondemand.st",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "espn-401909915",
-    "title": "Minnesota Timberwolves vs Milwaukee Bucks",
-    "league": "National Basketball Association",
-    "category": "basketball",
-    "date": 1793667600000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Minnesota Timberwolves",
-        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/min.png",
-        "color": ""
-      },
-      "away": {
-        "name": "Milwaukee Bucks",
-        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mil.png",
-        "color": ""
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nba/2026-11-02/mil-min/playlist.m3u8?tk=cxp4I09jlMcedLmqFo6Nbw&e=1793710312|Referer=https://ondemand.st",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "espn-401909916",
-    "title": "Houston Rockets vs Boston Celtics",
-    "league": "National Basketball Association",
-    "category": "basketball",
+    "matchId": "mm-cric-dl-78b20e1fd3",
+    "title": "New Zealand vs India",
+    "league": "1st ODI",
+    "category": "cricket",
     "date": 1793669400000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
-        "name": "Houston Rockets",
-        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/hou.png",
-        "color": ""
+        "name": "New Zealand",
+        "badge": ""
       },
       "away": {
-        "name": "Boston Celtics",
-        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/bos.png",
-        "color": ""
+        "name": "India",
+        "badge": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nba/2026-11-02/bos-hou/playlist.m3u8?tk=mTOD34aoUZ_k3UtwvfcnzA&e=1793710313|Referer=https://ondemand.st",
+    "hlsUrl": "",
     "sdUrl": ""
   },
   {
-    "matchId": "espn-401909917",
-    "title": "San Antonio Spurs vs Utah Jazz",
-    "league": "National Basketball Association",
-    "category": "basketball",
-    "date": 1793669400000,
+    "matchId": "cr-dolphins-cobras",
+    "title": "dolphins vs cobras",
+    "league": "pro20 cup '26",
+    "category": "cricket",
+    "date": 1793721600000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "San Antonio Spurs",
-        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sa.png",
+        "name": "dolphins",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/nc4cs31644367913.png",
         "color": ""
       },
       "away": {
-        "name": "Utah Jazz",
-        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/utah.png",
+        "name": "cobras",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/51wcio1512983228.png",
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nba/2026-11-02/utah-sa/playlist.m3u8?tk=mTOD34aoUZ_k3UtwvfcnzA&e=1793710313|Referer=https://ondemand.st",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "espn-401909918",
-    "title": "Denver Nuggets vs Portland Trail Blazers",
-    "league": "National Basketball Association",
-    "category": "basketball",
-    "date": 1793671200000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Denver Nuggets",
-        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/den.png",
-        "color": ""
-      },
-      "away": {
-        "name": "Portland Trail Blazers",
-        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/por.png",
-        "color": ""
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nba/2026-11-02/por-den/playlist.m3u8?tk=EuROg7NhlhtH_LTHXjbuzg&e=1793710314|Referer=https://ondemand.st",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "espn-401909919",
-    "title": "Golden State Warriors vs Phoenix Suns",
-    "league": "National Basketball Association",
-    "category": "basketball",
-    "date": 1793674800000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Golden State Warriors",
-        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/gs.png",
-        "color": ""
-      },
-      "away": {
-        "name": "Phoenix Suns",
-        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/phx.png",
-        "color": ""
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nba/2026-11-02/phx-gs/playlist.m3u8?tk=EuROg7NhlhtH_LTHXjbuzg&e=1793710314|Referer=https://ondemand.st",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "espn-401909920",
-    "title": "LA Clippers vs Toronto Raptors",
-    "league": "National Basketball Association",
-    "category": "basketball",
-    "date": 1793674800000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "LA Clippers",
-        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lac.png",
-        "color": ""
-      },
-      "away": {
-        "name": "Toronto Raptors",
-        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/tor.png",
-        "color": ""
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nba/2026-11-02/tor-lac/playlist.m3u8?tk=rklzhsgEKbKNeDJWi9mYxw&e=1793710315|Referer=https://ondemand.st",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "espn-401909921",
-    "title": "Los Angeles Lakers vs Miami Heat",
-    "league": "National Basketball Association",
-    "category": "basketball",
-    "date": 1793674800000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Los Angeles Lakers",
-        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lal.png",
-        "color": ""
-      },
-      "away": {
-        "name": "Miami Heat",
-        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mia.png",
-        "color": ""
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nba/2026-11-02/mia-lal/playlist.m3u8?tk=lKDdeMbHq5ha3zm30-iJaQ&e=1793710316|Referer=https://ondemand.st",
+    "hlsUrl": "",
     "sdUrl": ""
   },
   {
@@ -4682,6 +4714,160 @@
     "sdUrl": ""
   },
   {
+    "matchId": "espn-401909922",
+    "title": "Detroit Pistons vs Philadelphia 76ers",
+    "league": "National Basketball Association",
+    "category": "basketball",
+    "date": 1793836800000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Detroit Pistons",
+        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/det.png",
+        "color": ""
+      },
+      "away": {
+        "name": "Philadelphia 76ers",
+        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/phi.png",
+        "color": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nba/2026-11-04/phi-det/playlist.m3u8?tk=y-h1GasY5PHqLYHVNMDKDw&e=1793734944|Referer=https://ondemand.st",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "espn-401909923",
+    "title": "Washington Wizards vs Atlanta Hawks",
+    "league": "National Basketball Association",
+    "category": "basketball",
+    "date": 1793836800000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Washington Wizards",
+        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/wsh.png",
+        "color": ""
+      },
+      "away": {
+        "name": "Atlanta Hawks",
+        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/atl.png",
+        "color": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nba/2026-11-04/atl-wsh/playlist.m3u8?tk=yO3FPudyR5HXKpx2T0kEgQ&e=1793734945|Referer=https://ondemand.st",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "espn-401909924",
+    "title": "Boston Celtics vs Milwaukee Bucks",
+    "league": "National Basketball Association",
+    "category": "basketball",
+    "date": 1793838600000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Boston Celtics",
+        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/bos.png",
+        "color": ""
+      },
+      "away": {
+        "name": "Milwaukee Bucks",
+        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mil.png",
+        "color": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nba/2026-11-04/mil-bos/playlist.m3u8?tk=m3E1p9WCrQZZOY1t7BEGqw&e=1793734946|Referer=https://ondemand.st",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "espn-401909925",
+    "title": "Brooklyn Nets vs Charlotte Hornets",
+    "league": "National Basketball Association",
+    "category": "basketball",
+    "date": 1793838600000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Brooklyn Nets",
+        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/bkn.png",
+        "color": ""
+      },
+      "away": {
+        "name": "Charlotte Hornets",
+        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/cha.png",
+        "color": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nba/2026-11-04/cha-bkn/playlist.m3u8?tk=m3E1p9WCrQZZOY1t7BEGqw&e=1793734946|Referer=https://ondemand.st",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "espn-401909926",
+    "title": "New York Knicks vs Chicago Bulls",
+    "league": "National Basketball Association",
+    "category": "basketball",
+    "date": 1793838600000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "New York Knicks",
+        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/ny.png",
+        "color": ""
+      },
+      "away": {
+        "name": "Chicago Bulls",
+        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/chi.png",
+        "color": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nba/2026-11-04/chi-ny/playlist.m3u8?tk=q6iwP_-zPWf6hDCHdvgMqg&e=1793734947|Referer=https://ondemand.st",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "espn-401909927",
+    "title": "Memphis Grizzlies vs Indiana Pacers",
+    "league": "National Basketball Association",
+    "category": "basketball",
+    "date": 1793840400000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Memphis Grizzlies",
+        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mem.png",
+        "color": ""
+      },
+      "away": {
+        "name": "Indiana Pacers",
+        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/ind.png",
+        "color": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nba/2026-11-04/ind-mem/playlist.m3u8?tk=q6iwP_-zPWf6hDCHdvgMqg&e=1793734947|Referer=https://ondemand.st",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "espn-401909928",
+    "title": "New Orleans Pelicans vs Utah Jazz",
+    "league": "National Basketball Association",
+    "category": "basketball",
+    "date": 1793840400000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "New Orleans Pelicans",
+        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/no.png",
+        "color": ""
+      },
+      "away": {
+        "name": "Utah Jazz",
+        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/utah.png",
+        "color": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nba/2026-11-04/utah-no/playlist.m3u8?tk=XSKExJgMNrTznexRUt2XkQ&e=1793734948|Referer=https://ondemand.st",
+    "sdUrl": ""
+  },
+  {
     "matchId": "espn-401909929",
     "title": "Oklahoma City Thunder vs Cleveland Cavaliers",
     "league": "National Basketball Association",
@@ -4700,7 +4886,139 @@
         "color": ""
       }
     },
-    "hlsUrl": "",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nba/2026-11-04/cle-okc/playlist.m3u8?tk=ZJMAI5tGZhB95hba-C6wbg&e=1793734949|Referer=https://ondemand.st",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "espn-401909930",
+    "title": "Houston Rockets vs Minnesota Timberwolves",
+    "league": "National Basketball Association",
+    "category": "basketball",
+    "date": 1793842200000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Houston Rockets",
+        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/hou.png",
+        "color": ""
+      },
+      "away": {
+        "name": "Minnesota Timberwolves",
+        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/min.png",
+        "color": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nba/2026-11-04/min-hou/playlist.m3u8?tk=ZJMAI5tGZhB95hba-C6wbg&e=1793734949|Referer=https://ondemand.st",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "espn-401909931",
+    "title": "Denver Nuggets vs Toronto Raptors",
+    "league": "National Basketball Association",
+    "category": "basketball",
+    "date": 1793844000000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Denver Nuggets",
+        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/den.png",
+        "color": ""
+      },
+      "away": {
+        "name": "Toronto Raptors",
+        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/tor.png",
+        "color": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nba/2026-11-04/tor-den/playlist.m3u8?tk=xZ7aTlXv6ukypJLY6t2jlw&e=1793734950|Referer=https://ondemand.st",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "espn-401909932",
+    "title": "Phoenix Suns vs Portland Trail Blazers",
+    "league": "National Basketball Association",
+    "category": "basketball",
+    "date": 1793844000000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Phoenix Suns",
+        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/phx.png",
+        "color": ""
+      },
+      "away": {
+        "name": "Portland Trail Blazers",
+        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/por.png",
+        "color": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nba/2026-11-04/por-phx/playlist.m3u8?tk=xZ7aTlXv6ukypJLY6t2jlw&e=1793734950|Referer=https://ondemand.st",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "espn-401909933",
+    "title": "San Antonio Spurs vs Dallas Mavericks",
+    "league": "National Basketball Association",
+    "category": "basketball",
+    "date": 1793845800000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "San Antonio Spurs",
+        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sa.png",
+        "color": ""
+      },
+      "away": {
+        "name": "Dallas Mavericks",
+        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/dal.png",
+        "color": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nba/2026-11-04/dal-sa/playlist.m3u8?tk=LYhL3XkZUyRgfU7rDynSQg&e=1793734951|Referer=https://ondemand.st",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "espn-401909934",
+    "title": "Sacramento Kings vs Los Angeles Lakers",
+    "league": "National Basketball Association",
+    "category": "basketball",
+    "date": 1793847600000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Sacramento Kings",
+        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sac.png",
+        "color": ""
+      },
+      "away": {
+        "name": "Los Angeles Lakers",
+        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lal.png",
+        "color": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nba/2026-11-04/lal-sac/playlist.m3u8?tk=sAW_yvO83hh3AqMSK5Xc1A&e=1793734952|Referer=https://ondemand.st",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "espn-401909935",
+    "title": "LA Clippers vs Miami Heat",
+    "league": "National Basketball Association",
+    "category": "basketball",
+    "date": 1793849400000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "LA Clippers",
+        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lac.png",
+        "color": ""
+      },
+      "away": {
+        "name": "Miami Heat",
+        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mia.png",
+        "color": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nba/2026-11-04/mia-lac/playlist.m3u8?tk=sAW_yvO83hh3AqMSK5Xc1A&e=1793734952|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -4904,21 +5222,21 @@
     "sdUrl": ""
   },
   {
-    "matchId": "espn-401909945",
-    "title": "Chicago Bulls vs Philadelphia 76ers",
-    "league": "National Basketball Association",
-    "category": "basketball",
-    "date": 1794169800000,
+    "matchId": "espn-401866453",
+    "title": "Akron Zips vs Ohio Bobcats",
+    "league": "NCAA - Football",
+    "category": "american-football",
+    "date": 1793750400000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Chicago Bulls",
-        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/chi.png",
+        "name": "Akron Zips",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/2006.png",
         "color": ""
       },
       "away": {
-        "name": "Philadelphia 76ers",
-        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/phi.png",
+        "name": "Ohio Bobcats",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/195.png",
         "color": ""
       }
     },
@@ -4926,25 +5244,25 @@
     "sdUrl": ""
   },
   {
-    "matchId": "espn-401873036",
-    "title": "Seattle Seahawks vs Chicago Bears",
-    "league": "National Football League",
+    "matchId": "espn-401866454",
+    "title": "Miami (OH) RedHawks vs Buffalo Bulls",
+    "league": "NCAA - Football",
     "category": "american-football",
-    "date": 1793668500000,
+    "date": 1793754000000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Seattle Seahawks",
-        "badge": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/sea.png",
+        "name": "Miami (OH) RedHawks",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/193.png",
         "color": ""
       },
       "away": {
-        "name": "Chicago Bears",
-        "badge": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/chi.png",
+        "name": "Buffalo Bulls",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/2084.png",
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-11-02/chi-sea/playlist.m3u8?tk=CjICs8jL7GXEZWIVIQO6sw&e=1793710322|Referer=https://ondemand.st",
+    "hlsUrl": "",
     "sdUrl": ""
   },
   {
@@ -4966,29 +5284,7 @@
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-11-05/jax-bal/playlist.m3u8?tk=CCea_RFMZ3vnVWoC5C_vrA&e=1793710323|Referer=https://ondemand.st",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "espn-401862818",
-    "title": "East Carolina Pirates vs South Florida Bulls",
-    "league": "NCAA - Football",
-    "category": "american-football",
-    "date": 1794011400000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "East Carolina Pirates",
-        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/151.png",
-        "color": ""
-      },
-      "away": {
-        "name": "South Florida Bulls",
-        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/58.png",
-        "color": ""
-      }
-    },
-    "hlsUrl": "",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-11-05/jax-bal/playlist.m3u8?tk=zRqbesOWUYXR9DbuUwqH6g&e=1793734959|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -5010,7 +5306,7 @@
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-11-06/unm-nev/playlist.m3u8?tk=0L-qgmQIYSUULzsbSvMsbw&e=1793710324|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-11-06/unm-nev/playlist.m3u8?tk=zRqbesOWUYXR9DbuUwqH6g&e=1793734959|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -5032,7 +5328,7 @@
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-11-06/tcu-ariz/playlist.m3u8?tk=IXF-_GJZS7BObjZFhip6Mw&e=1793710325|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-11-06/tcu-ariz/playlist.m3u8?tk=H4bwwbAdJN--GhobMoQYoA&e=1793734960|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -5054,7 +5350,7 @@
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-11-07/byu-utah/playlist.m3u8?tk=IXF-_GJZS7BObjZFhip6Mw&e=1793710325|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-11-07/byu-utah/playlist.m3u8?tk=H4bwwbAdJN--GhobMoQYoA&e=1793734960|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -5076,7 +5372,7 @@
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-11-07/ucla-minn/playlist.m3u8?tk=FDJwZwtkVu5HGVlG4MMHTA&e=1793710326|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-11-07/ucla-minn/playlist.m3u8?tk=4pcm2Ah5HhcNsstREV6jww&e=1793734961|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -5098,7 +5394,7 @@
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-11-07/tex-miz/playlist.m3u8?tk=FDJwZwtkVu5HGVlG4MMHTA&e=1793710326|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-11-07/tex-miz/playlist.m3u8?tk=xCIYOaI6TV0kQKBDjmc9rg&e=1793734962|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -5120,7 +5416,7 @@
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-11-07/bois-csu/playlist.m3u8?tk=LRenT1XXxUgIW9FV_jeYaQ&e=1793710327|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-11-07/bois-csu/playlist.m3u8?tk=xCIYOaI6TV0kQKBDjmc9rg&e=1793734962|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -5142,7 +5438,7 @@
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-11-07/bois-csu/playlist.m3u8?tk=LRenT1XXxUgIW9FV_jeYaQ&e=1793710327|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-11-07/bois-csu/playlist.m3u8?tk=e_w3p9Jf5yVAanEBzDyI-A&e=1793734963|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -5164,7 +5460,7 @@
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-11-07/tam-sc/playlist.m3u8?tk=mxlx2XOX0YFjQT8CtUiN2g&e=1793710328|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-11-07/tam-sc/playlist.m3u8?tk=EpMTFIqPF5jh-mHCJJD8rQ&e=1793734964|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -5186,7 +5482,7 @@
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-11-07/ala-lsu/playlist.m3u8?tk=svPcTgjA5Ve4gWk-OwFMaA&e=1793710329|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-11-07/ala-lsu/playlist.m3u8?tk=EpMTFIqPF5jh-mHCJJD8rQ&e=1793734964|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -5208,7 +5504,7 @@
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-11-07/ore-osu/playlist.m3u8?tk=svPcTgjA5Ve4gWk-OwFMaA&e=1793710329|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-11-07/ore-osu/playlist.m3u8?tk=K6h34BdHUsXc0zG-C0joHg&e=1793734965|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -5230,7 +5526,7 @@
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-11-07/mrmk-wake/playlist.m3u8?tk=f3Y8e577xjbBMHtYxbMZvw&e=1793710330|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-11-07/mrmk-wake/playlist.m3u8?tk=8VSgMwqf_OsFjsTj-asqIw&e=1793734966|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -5252,7 +5548,7 @@
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-11-07/cin-hou/playlist.m3u8?tk=4LkpmPlj777oVItuc3GklA&e=1793710334|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-11-07/cin-hou/playlist.m3u8?tk=8VSgMwqf_OsFjsTj-asqIw&e=1793734966|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -5274,29 +5570,7 @@
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-11-07/uk-tenn/playlist.m3u8?tk=4LkpmPlj777oVItuc3GklA&e=1793710334|Referer=https://ondemand.st",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "espn-401871074",
-    "title": "Florida International Panthers vs Missouri State Bears",
-    "league": "NCAA - Football",
-    "category": "american-football",
-    "date": 1794085200000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Florida International Panthers",
-        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/2229.png",
-        "color": ""
-      },
-      "away": {
-        "name": "Missouri State Bears",
-        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/2623.png",
-        "color": ""
-      }
-    },
-    "hlsUrl": "",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-11-07/uk-tenn/playlist.m3u8?tk=tbwvTa8CxjCO9QGGfhsu-w&e=1793734967|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -5318,7 +5592,7 @@
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-11-07/bois-csu/playlist.m3u8?tk=-Nc-_euyMM2_TP91dOfihQ&e=1793710336|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-11-07/bois-csu/playlist.m3u8?tk=tbwvTa8CxjCO9QGGfhsu-w&e=1793734967|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -5340,7 +5614,7 @@
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-11-07/uk-tenn/playlist.m3u8?tk=-Nc-_euyMM2_TP91dOfihQ&e=1793710336|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-11-07/uk-tenn/playlist.m3u8?tk=-BnOHZly39fKD01w-sEgHw&e=1793734968|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -5362,7 +5636,7 @@
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-11-07/mia-nd/playlist.m3u8?tk=LQUc-JUJT6s-Ng7hJ3GLCw&e=1793710337|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-11-07/mia-nd/playlist.m3u8?tk=LvfNux0NFZn1SqVIEfnMRg&e=1793734969|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -5384,7 +5658,7 @@
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-11-07/uga-miss/playlist.m3u8?tk=LQUc-JUJT6s-Ng7hJ3GLCw&e=1793710337|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-11-07/uga-miss/playlist.m3u8?tk=LvfNux0NFZn1SqVIEfnMRg&e=1793734969|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -5406,7 +5680,7 @@
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-11-07/iowa-nu/playlist.m3u8?tk=HMyPsQRX3DKvCs1K5z4Mfg&e=1793710338|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-11-07/iowa-nu/playlist.m3u8?tk=hRMEFxsluW5GQ0MUmLpXug&e=1793734970|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -5428,7 +5702,7 @@
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-11-07/bois-csu/playlist.m3u8?tk=9x8Lb1e2y04ta8n9rcG63g&e=1793710339|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-11-07/bois-csu/playlist.m3u8?tk=hRMEFxsluW5GQ0MUmLpXug&e=1793734970|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -5450,7 +5724,7 @@
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-11-07/ou-fla/playlist.m3u8?tk=9x8Lb1e2y04ta8n9rcG63g&e=1793710339|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-11-07/ou-fla/playlist.m3u8?tk=bnXn4OIVNDA8WCqBn_d4dw&e=1793734971|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -5472,7 +5746,7 @@
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-11-07/wvu-ttu/playlist.m3u8?tk=SSxDeAVq4GKsc6jfvCBXuA&e=1793710340|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-11-07/wvu-ttu/playlist.m3u8?tk=iSV6QntRCJWqtLprRv2dSA&e=1793734972|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -5494,7 +5768,7 @@
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-11-07/bois-csu/playlist.m3u8?tk=SSxDeAVq4GKsc6jfvCBXuA&e=1793710340|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-11-07/bois-csu/playlist.m3u8?tk=iSV6QntRCJWqtLprRv2dSA&e=1793734972|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -5516,7 +5790,7 @@
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-11-07/ore-osu/playlist.m3u8?tk=uhJs8--2uIW7e_a0onCdlQ&e=1793710341|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-11-07/ore-osu/playlist.m3u8?tk=3XI8qv8U3TRLOkzihi7ZxQ&e=1793734973|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -5538,7 +5812,7 @@
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-11-08/cin-atl/playlist.m3u8?tk=uhJs8--2uIW7e_a0onCdlQ&e=1793710341|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-11-08/cin-atl/playlist.m3u8?tk=3XI8qv8U3TRLOkzihi7ZxQ&e=1793734973|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -5560,7 +5834,7 @@
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-11-08/dal-ind/playlist.m3u8?tk=7NInaNSY92KZngOJS1Pj4A&e=1793710342|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-11-08/dal-ind/playlist.m3u8?tk=KBritbkXEFuLj8gDzBqdjg&e=1793734974|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -5582,7 +5856,7 @@
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-11-08/nyj-kc/playlist.m3u8?tk=-Tz116suUPyxzlymmhRI2g&e=1793710343|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-11-08/nyj-kc/playlist.m3u8?tk=kIQNmm-PT8B7YmbDl6aY3Q&e=1793734975|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -5604,7 +5878,7 @@
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-11-08/det-mia/playlist.m3u8?tk=-Tz116suUPyxzlymmhRI2g&e=1793710343|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-11-08/det-mia/playlist.m3u8?tk=kIQNmm-PT8B7YmbDl6aY3Q&e=1793734975|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -5626,7 +5900,7 @@
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-11-08/cle-no/playlist.m3u8?tk=JoG_F8jETialXjznbyZDKg&e=1793710344|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-11-08/cle-no/playlist.m3u8?tk=tFhxg4uobNTQ9tZbSB13Uw&e=1793734976|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -5648,7 +5922,7 @@
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-11-08/nyg-phi/playlist.m3u8?tk=JoG_F8jETialXjznbyZDKg&e=1793710344|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-11-08/nyg-phi/playlist.m3u8?tk=tFhxg4uobNTQ9tZbSB13Uw&e=1793734976|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -5670,7 +5944,7 @@
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-11-08/lar-wsh/playlist.m3u8?tk=c_uUubTYKTCR_2o-_6-1fw&e=1793710345|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-11-08/lar-wsh/playlist.m3u8?tk=7VhUAGFZ9aBAFts5wv_VyQ&e=1793734977|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -5692,7 +5966,7 @@
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-11-08/den-car/playlist.m3u8?tk=1W-3JUYne5bX7_-PLButlg&e=1793710346|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-11-08/den-car/playlist.m3u8?tk=7VhUAGFZ9aBAFts5wv_VyQ&e=1793734977|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -5714,7 +5988,7 @@
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-11-08/hou-lac/playlist.m3u8?tk=1W-3JUYne5bX7_-PLButlg&e=1793710346|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-11-08/hou-lac/playlist.m3u8?tk=RUTb3Ck6rySWOwnSuN3xPw&e=1793734978|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -5736,7 +6010,7 @@
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-11-08/gb-ne/playlist.m3u8?tk=pQYD76ZpOqr-RSAOx1Eb2Q&e=1793710347|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-11-08/gb-ne/playlist.m3u8?tk=oWnqhdE_xbtZYzq8ngSNxA&e=1793734979|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -5758,7 +6032,7 @@
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-11-08/lv-sf/playlist.m3u8?tk=pQYD76ZpOqr-RSAOx1Eb2Q&e=1793710347|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-11-08/lv-sf/playlist.m3u8?tk=oWnqhdE_xbtZYzq8ngSNxA&e=1793734979|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -5780,7 +6054,7 @@
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-11-08/ari-sea/playlist.m3u8?tk=tmN8KFRJnzLcex-PtOglJQ&e=1793710348|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-11-08/ari-sea/playlist.m3u8?tk=7VrX6gvuqmQGKsFDBlvKQw&e=1793734980|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -5802,7 +6076,7 @@
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-11-08/tb-chi/playlist.m3u8?tk=9fKEDbvTAneeSO_MJXyxJg&e=1793710349|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-11-08/tb-chi/playlist.m3u8?tk=ZwjMzFssYE7-kuB2hucvrw&e=1793734981|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -5824,27 +6098,7 @@
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-11-09/buf-min/playlist.m3u8?tk=9fKEDbvTAneeSO_MJXyxJg&e=1793710349|Referer=https://ondemand.st",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "mm-raw-20261102",
-    "title": "WWE Monday Night Raw",
-    "league": "WWE",
-    "category": "fight",
-    "date": 1793667600000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "",
-        "badge": ""
-      },
-      "away": {
-        "name": "",
-        "badge": ""
-      }
-    },
-    "hlsUrl": "",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-11-09/buf-min/playlist.m3u8?tk=ZwjMzFssYE7-kuB2hucvrw&e=1793734981|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -5958,38 +6212,80 @@
     "sdUrl": ""
   },
   {
-    "matchId": "espn-401892629",
-    "title": "Boston Bruins vs Vegas Golden Knights",
-    "league": "National Hockey League",
-    "category": "hockey",
-    "date": 1793664000000,
-    "status": "live",
+    "matchId": "mm-raw-20261109",
+    "title": "WWE Monday Night Raw",
+    "league": "WWE",
+    "category": "fight",
+    "date": 1794272400000,
+    "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Boston Bruins",
-        "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/bos.png",
-        "color": ""
+        "name": "",
+        "badge": ""
       },
       "away": {
-        "name": "Vegas Golden Knights",
-        "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/vgk.png",
-        "color": ""
+        "name": "",
+        "badge": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-11-02/vgk-bos/playlist.m3u8?tk=Z1R1SrkFlDjR2YjdT37MWw&e=1793710354|Referer=https://ondemand.st",
+    "hlsUrl": "",
     "sdUrl": ""
   },
   {
-    "matchId": "espn-401892630",
-    "title": "Florida Panthers vs Detroit Red Wings",
+    "matchId": "espn-401892633",
+    "title": "Toronto Maple Leafs vs Utah Mammoth",
     "league": "National Hockey League",
     "category": "hockey",
-    "date": 1793664000000,
-    "status": "live",
+    "date": 1793750400000,
+    "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Florida Panthers",
-        "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/fla.png",
+        "name": "Toronto Maple Leafs",
+        "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/tor.png",
+        "color": ""
+      },
+      "away": {
+        "name": "Utah Mammoth",
+        "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/uta.png",
+        "color": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-11-03/uta-tor/playlist.m3u8?tk=y55Rm9_m_LnBoZKRAoFgpA&e=1793734986|Referer=https://ondemand.st",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "espn-401892634",
+    "title": "Montreal Canadiens vs Winnipeg Jets",
+    "league": "National Hockey League",
+    "category": "hockey",
+    "date": 1793750400000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Montreal Canadiens",
+        "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/mtl.png",
+        "color": ""
+      },
+      "away": {
+        "name": "Winnipeg Jets",
+        "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/wpg.png",
+        "color": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-11-03/wpg-mtl/playlist.m3u8?tk=e4m_sWSYakckWsn59AKSzw&e=1793734987|Referer=https://ondemand.st",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "espn-401892635",
+    "title": "Tampa Bay Lightning vs Detroit Red Wings",
+    "league": "National Hockey League",
+    "category": "hockey",
+    "date": 1793750400000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Tampa Bay Lightning",
+        "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/tb.png",
         "color": ""
       },
       "away": {
@@ -5998,20 +6294,108 @@
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-11-02/det-fla/playlist.m3u8?tk=3etPzou5uMCFtVi5Pky94g&e=1793710355|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-11-03/det-tb/playlist.m3u8?tk=e4m_sWSYakckWsn59AKSzw&e=1793734987|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
-    "matchId": "espn-401892631",
-    "title": "Chicago Blackhawks vs Colorado Avalanche",
+    "matchId": "espn-401892637",
+    "title": "New York Rangers vs St. Louis Blues",
     "league": "National Hockey League",
     "category": "hockey",
-    "date": 1793667600000,
+    "date": 1793750400000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Chicago Blackhawks",
-        "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/chi.png",
+        "name": "New York Rangers",
+        "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/nyr.png",
+        "color": ""
+      },
+      "away": {
+        "name": "St. Louis Blues",
+        "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/stl.png",
+        "color": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-11-03/stl-nyr/playlist.m3u8?tk=csjdj5SxbIQt2e9gpoDzbQ&e=1793734988|Referer=https://ondemand.st",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "espn-401892638",
+    "title": "Philadelphia Flyers vs Minnesota Wild",
+    "league": "National Hockey League",
+    "category": "hockey",
+    "date": 1793750400000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Philadelphia Flyers",
+        "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/phi.png",
+        "color": ""
+      },
+      "away": {
+        "name": "Minnesota Wild",
+        "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/min.png",
+        "color": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-11-03/min-phi/playlist.m3u8?tk=csjdj5SxbIQt2e9gpoDzbQ&e=1793734988|Referer=https://ondemand.st",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "espn-401892639",
+    "title": "Pittsburgh Penguins vs Vegas Golden Knights",
+    "league": "National Hockey League",
+    "category": "hockey",
+    "date": 1793750400000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Pittsburgh Penguins",
+        "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/pit.png",
+        "color": ""
+      },
+      "away": {
+        "name": "Vegas Golden Knights",
+        "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/vgk.png",
+        "color": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-11-03/vgk-pit/playlist.m3u8?tk=JwwKebRVcfv5vlDRjZTWdw&e=1793734989|Referer=https://ondemand.st",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "espn-401892640",
+    "title": "Washington Capitals vs Dallas Stars",
+    "league": "National Hockey League",
+    "category": "hockey",
+    "date": 1793750400000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Washington Capitals",
+        "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/wsh.png",
+        "color": ""
+      },
+      "away": {
+        "name": "Dallas Stars",
+        "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/dal.png",
+        "color": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-11-03/dal-wsh/playlist.m3u8?tk=yjQ2fkRiSlbMRJJLAWB_Nw&e=1793734990|Referer=https://ondemand.st",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "espn-401892641",
+    "title": "Columbus Blue Jackets vs Colorado Avalanche",
+    "league": "National Hockey League",
+    "category": "hockey",
+    "date": 1793750400000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Columbus Blue Jackets",
+        "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/cbj.png",
         "color": ""
       },
       "away": {
@@ -6020,40 +6404,73 @@
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-11-02/col-chi/playlist.m3u8?tk=Igxo8Q8zgiwEZaTTlmQU_w&e=1793710356|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-11-03/col-cbj/playlist.m3u8?tk=yjQ2fkRiSlbMRJJLAWB_Nw&e=1793734990|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
-    "matchId": "espn-401892632",
-    "title": "San Jose Sharks vs Calgary Flames",
+    "matchId": "espn-401892636",
+    "title": "New Jersey Devils vs Edmonton Oilers",
     "league": "National Hockey League",
     "category": "hockey",
-    "date": 1793671200000,
+    "date": 1793752200000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "San Jose Sharks",
-        "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/sj.png",
+        "name": "New Jersey Devils",
+        "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/nj.png",
         "color": ""
       },
       "away": {
-        "name": "Calgary Flames",
-        "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/cgy.png",
+        "name": "Edmonton Oilers",
+        "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/edm.png",
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-11-02/cgy-sj/playlist.m3u8?tk=Igxo8Q8zgiwEZaTTlmQU_w&e=1793710356|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-11-03/edm-nj/playlist.m3u8?tk=5eC-zGxqCRz2MfH-0eZjMA&e=1793734991|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
-    "matchId": "mm-mot-dl-ef67d1d6c1",
-    "title": "Millbridge Speedway",
-    "league": "Motorsport",
-    "category": "motor-sports",
-    "date": 1793660400000,
-    "status": "live",
-    "teams": {},
-    "hlsUrl": "",
+    "matchId": "espn-401892642",
+    "title": "Nashville Predators vs Carolina Hurricanes",
+    "league": "National Hockey League",
+    "category": "hockey",
+    "date": 1793754000000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Nashville Predators",
+        "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/nsh.png",
+        "color": ""
+      },
+      "away": {
+        "name": "Carolina Hurricanes",
+        "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/car.png",
+        "color": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-11-03/car-nsh/playlist.m3u8?tk=5eC-zGxqCRz2MfH-0eZjMA&e=1793734991|Referer=https://ondemand.st",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "espn-401892643",
+    "title": "Vancouver Canucks vs Anaheim Ducks",
+    "league": "National Hockey League",
+    "category": "hockey",
+    "date": 1793757600000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Vancouver Canucks",
+        "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/van.png",
+        "color": ""
+      },
+      "away": {
+        "name": "Anaheim Ducks",
+        "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/ana.png",
+        "color": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-11-03/ana-van/playlist.m3u8?tk=-hn5UNMmCfpqgnZCcvgSoA&e=1793734992|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
