@@ -1,31 +1,11 @@
 [
   {
-    "matchId": "mm-cric-dl-78b20e1fd3",
-    "title": "New Zealand vs India",
-    "league": "1st ODI",
-    "category": "cricket",
-    "date": 1793669400000,
-    "status": "live",
-    "teams": {
-      "home": {
-        "name": "New Zealand",
-        "badge": ""
-      },
-      "away": {
-        "name": "India",
-        "badge": ""
-      }
-    },
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
     "matchId": "cr-dolphins-cobras",
     "title": "dolphins vs cobras",
     "league": "pro20 cup '26",
     "category": "cricket",
     "date": 1793721600000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "dolphins",
@@ -36,6 +16,28 @@
         "name": "cobras",
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/51wcio1512983228.png",
         "color": ""
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "cr-new-zealand-india",
+    "title": "new zealand vs india",
+    "league": "1st odi",
+    "category": "cricket",
+    "date": 1793669400000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "new zealand",
+        "badge": "https://flagcdn.com/w320/nz.png",
+        "color": "#111111"
+      },
+      "away": {
+        "name": "india",
+        "badge": "https://flagcdn.com/w320/in.png",
+        "color": "#ff9933"
       }
     },
     "hlsUrl": "",
