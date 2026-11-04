@@ -1,19 +1,21 @@
 [
   {
-    "matchId": "mm-cric-dl-0a33cd98d5",
-    "title": "New Zealand vs India",
-    "league": "4th T20",
+    "matchId": "cr-new-zealand-india",
+    "title": "new zealand vs india",
+    "league": "4th t20",
     "category": "cricket",
     "date": 1793774700000,
     "status": "live",
     "teams": {
       "home": {
-        "name": "New Zealand",
-        "badge": ""
+        "name": "new zealand",
+        "badge": "https://flagcdn.com/w320/nz.png",
+        "color": "#111111"
       },
       "away": {
-        "name": "India",
-        "badge": ""
+        "name": "india",
+        "badge": "https://flagcdn.com/w320/in.png",
+        "color": "#ff9933"
       }
     },
     "hlsUrl": "",
