@@ -1,411 +1,11 @@
 [
   {
-    "matchId": "mm-own-a53ced81dc",
-    "title": "Al Kholood vs Al Khaleej",
-    "league": "Saudi Pro League",
-    "category": "football",
-    "date": 1793885100000,
-    "status": "live",
-    "teams": {
-      "home": {
-        "name": "Al Kholood",
-        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/22028.png"
-      },
-      "away": {
-        "name": "Al Khaleej",
-        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/21829.png"
-      }
-    },
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "mm-own-af27cbb2f3",
-    "title": "Abha vs Al Shabab",
-    "league": "Saudi Pro League",
-    "category": "football",
-    "date": 1793891400000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Abha",
-        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/21833.png"
-      },
-      "away": {
-        "name": "Al Shabab",
-        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/793.png"
-      }
-    },
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "mm-own-7b7ab33145",
-    "title": "Al Qadsiah vs Al Fayha",
-    "league": "Saudi Pro League",
-    "category": "football",
-    "date": 1793899800000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Al Qadsiah",
-        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/22022.png"
-      },
-      "away": {
-        "name": "Al Fayha",
-        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/21827.png"
-      }
-    },
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "mm-own-2719705225",
-    "title": "AC Milan vs Ferencvaros",
-    "league": "Europa League",
-    "category": "football",
-    "date": 1793900700000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "AC Milan",
-        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png"
-      },
-      "away": {
-        "name": "Ferencvaros",
-        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/622.png"
-      }
-    },
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "mm-own-bf75544679",
-    "title": "Anderlecht vs RB Salzburg",
-    "league": "Europa League",
-    "category": "football",
-    "date": 1793900700000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Anderlecht",
-        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/441.png"
-      },
-      "away": {
-        "name": "RB Salzburg",
-        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/2790.png"
-      }
-    },
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "mm-own-aaf93cfe25",
-    "title": "Crystal Palace vs TSG Hoffenheim",
-    "league": "Europa League",
-    "category": "football",
-    "date": 1793900700000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Crystal Palace",
-        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/384.png"
-      },
-      "away": {
-        "name": "TSG Hoffenheim",
-        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/7911.png"
-      }
-    },
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "mm-own-edcf082e66",
-    "title": "Levski Sofia vs Jagiellonia Bialystok",
-    "league": "Europa League",
-    "category": "football",
-    "date": 1793900700000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Levski Sofia",
-        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/490.png"
-      },
-      "away": {
-        "name": "Jagiellonia Bialystok",
-        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/11505.png"
-      }
-    },
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "mm-own-5a616719b7",
-    "title": "Lillestrom vs Viktoria Plzen",
-    "league": "Europa League",
-    "category": "football",
-    "date": 1793900700000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Lillestrom",
-        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/987.png"
-      },
-      "away": {
-        "name": "Viktoria Plzen",
-        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/11706.png"
-      }
-    },
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "mm-own-07b81bf95f",
-    "title": "NEC Nijmegen vs Omonia Nicosia",
-    "league": "Europa League",
-    "category": "football",
-    "date": 1793900700000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "NEC Nijmegen",
-        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/147.png"
-      },
-      "away": {
-        "name": "Omonia Nicosia",
-        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/617.png"
-      }
-    },
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "mm-own-a032e898b7",
-    "title": "Real Sociedad vs Lyon",
-    "league": "Europa League",
-    "category": "football",
-    "date": 1793900700000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Real Sociedad",
-        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png"
-      },
-      "away": {
-        "name": "Lyon",
-        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png"
-      }
-    },
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "mm-own-b67e38ac33",
-    "title": "Sparta Prague vs AFC Bournemouth",
-    "league": "Europa League",
-    "category": "football",
-    "date": 1793900700000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Sparta Prague",
-        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/433.png"
-      },
-      "away": {
-        "name": "AFC Bournemouth",
-        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/349.png"
-      }
-    },
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "mm-own-50296f1dc0",
-    "title": "AGF vs Braga",
-    "league": "Conference League",
-    "category": "football",
-    "date": 1793900700000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "AGF",
-        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/7853.png"
-      },
-      "away": {
-        "name": "Braga",
-        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/2994.png"
-      }
-    },
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "mm-own-93cb8da05d",
-    "title": "Atalanta vs Kairat Almaty",
-    "league": "Conference League",
-    "category": "football",
-    "date": 1793900700000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Atalanta",
-        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/105.png"
-      },
-      "away": {
-        "name": "Kairat Almaty",
-        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/2528.png"
-      }
-    },
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "mm-own-f9429bc475",
-    "title": "FC Midtjylland vs Ajax Amsterdam",
-    "league": "Conference League",
-    "category": "football",
-    "date": 1793900700000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "FC Midtjylland",
-        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/572.png"
-      },
-      "away": {
-        "name": "Ajax Amsterdam",
-        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/139.png"
-      }
-    },
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "mm-own-bc0d4e7d6e",
-    "title": "FC Thun vs Heart of Midlothian",
-    "league": "Conference League",
-    "category": "football",
-    "date": 1793900700000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "FC Thun",
-        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/3024.png"
-      },
-      "away": {
-        "name": "Heart of Midlothian",
-        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/262.png"
-      }
-    },
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "mm-own-c8b47f31e8",
-    "title": "KuPS Kuopio vs KAA Gent",
-    "league": "Conference League",
-    "category": "football",
-    "date": 1793900700000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "KuPS Kuopio",
-        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/8169.png"
-      },
-      "away": {
-        "name": "KAA Gent",
-        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/3611.png"
-      }
-    },
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "mm-own-fbc88351ef",
-    "title": "Lincoln Red Imps vs Hajduk Split",
-    "league": "Conference League",
-    "category": "football",
-    "date": 1793900700000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Lincoln Red Imps",
-        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/17856.png"
-      },
-      "away": {
-        "name": "Hajduk Split",
-        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/489.png"
-      }
-    },
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "mm-own-e4b142db04",
-    "title": "Mjällby AIF vs Borac Banja Luka",
-    "league": "Conference League",
-    "category": "football",
-    "date": 1793900700000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Mjällby AIF",
-        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/20301.png"
-      },
-      "away": {
-        "name": "Borac Banja Luka",
-        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/20710.png"
-      }
-    },
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "mm-own-22a7cb84c3",
-    "title": "Red Star Belgrade vs Inter D'Escaldes",
-    "league": "Conference League",
-    "category": "football",
-    "date": 1793900700000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Red Star Belgrade",
-        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/2290.png"
-      },
-      "away": {
-        "name": "Inter D'Escaldes",
-        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/20703.png"
-      }
-    },
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "mm-own-ccb0c0cbea",
-    "title": "Trabzonspor vs SC Freiburg",
-    "league": "Conference League",
-    "category": "football",
-    "date": 1793900700000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Trabzonspor",
-        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/997.png"
-      },
-      "away": {
-        "name": "SC Freiburg",
-        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/126.png"
-      }
-    },
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
     "matchId": "mm-own-5b550aa447",
     "title": "AZ Alkmaar vs Juventus",
     "league": "Europa League",
     "category": "football",
     "date": 1793908800000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "AZ Alkmaar",
@@ -425,7 +25,7 @@
     "league": "Europa League",
     "category": "football",
     "date": 1793908800000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "Bayer Leverkusen",
@@ -445,7 +45,7 @@
     "league": "Europa League",
     "category": "football",
     "date": 1793908800000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "Benfica",
@@ -465,7 +65,7 @@
     "league": "Europa League",
     "category": "football",
     "date": 1793908800000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "Celta Vigo",
@@ -485,7 +85,7 @@
     "league": "Europa League",
     "category": "football",
     "date": 1793908800000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "Celtic",
@@ -505,7 +105,7 @@
     "league": "Europa League",
     "category": "football",
     "date": 1793908800000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "Hapoel Be'er",
@@ -525,7 +125,7 @@
     "league": "Europa League",
     "category": "football",
     "date": 1793908800000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "SK Sturm Graz",
@@ -545,7 +145,7 @@
     "league": "Europa League",
     "category": "football",
     "date": 1793908800000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "Sunderland",
@@ -565,7 +165,7 @@
     "league": "Europa League",
     "category": "football",
     "date": 1793908800000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "Torreense",
@@ -585,7 +185,7 @@
     "league": "Conference League",
     "category": "football",
     "date": 1793908800000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "AS Monaco",
@@ -605,7 +205,7 @@
     "league": "Conference League",
     "category": "football",
     "date": 1793908800000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "CSU Craiova",
@@ -625,7 +225,7 @@
     "league": "Conference League",
     "category": "football",
     "date": 1793908800000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "F.C. København",
@@ -645,7 +245,7 @@
     "league": "Conference League",
     "category": "football",
     "date": 1793908800000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "FC Lugano",
@@ -665,7 +265,7 @@
     "league": "Conference League",
     "category": "football",
     "date": 1793908800000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "FC Twente",
@@ -685,7 +285,7 @@
     "league": "Conference League",
     "category": "football",
     "date": 1793908800000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "Getafe",
@@ -705,7 +305,7 @@
     "league": "Conference League",
     "category": "football",
     "date": 1793908800000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "Panathinaikos",
@@ -725,7 +325,7 @@
     "league": "Conference League",
     "category": "football",
     "date": 1793908800000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "Riga FC",
@@ -745,7 +345,7 @@
     "league": "Conference League",
     "category": "football",
     "date": 1793908800000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "Sint-Truidense",
@@ -2038,7 +1638,7 @@
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mls/2026-11-07/mtl-van/playlist.m3u8?tk=bstR3JZ6nrdo6sN6Xum2_w&e=1793931213|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mls/2026-11-07/mtl-van/playlist.m3u8?tk=i3dPMlmjyUBugACngAqJtA&e=1793956893|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -2060,7 +1660,7 @@
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mls/2026-11-07/chi-clb/playlist.m3u8?tk=bstR3JZ6nrdo6sN6Xum2_w&e=1793931213|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mls/2026-11-07/chi-clb/playlist.m3u8?tk=QnK5pjPu9p9Uw597Qo6e0A&e=1793956894|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -2082,7 +1682,7 @@
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mls/2026-11-07/cin-nsh/playlist.m3u8?tk=-83hWiC_t6413kR7npeOmA&e=1793931214|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mls/2026-11-07/cin-nsh/playlist.m3u8?tk=WntjUxPuD81MPvDAvcWk_w&e=1793956895|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -2104,7 +1704,7 @@
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mls/2026-11-07/mia-clt/playlist.m3u8?tk=-83hWiC_t6413kR7npeOmA&e=1793931214|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mls/2026-11-07/mia-clt/playlist.m3u8?tk=WntjUxPuD81MPvDAvcWk_w&e=1793956895|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -2126,7 +1726,7 @@
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mls/2026-11-07/orl-ne/playlist.m3u8?tk=DDj65p0afc8Z-BdGjRGxcw&e=1793931215|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mls/2026-11-07/orl-ne/playlist.m3u8?tk=G3sifrt6n4KNCxX7W_GpEQ&e=1793956896|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -2148,7 +1748,7 @@
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mls/2026-11-07/phi-tor/playlist.m3u8?tk=VGjPFZvhNOpYBTOVdAVEnw&e=1793931216|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mls/2026-11-07/phi-tor/playlist.m3u8?tk=2fv1LUYCxYsIGVuGMYhiPA&e=1793956897|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -2170,7 +1770,7 @@
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mls/2026-11-07/rbny-atl/playlist.m3u8?tk=VGjPFZvhNOpYBTOVdAVEnw&e=1793931216|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mls/2026-11-07/rbny-atl/playlist.m3u8?tk=2fv1LUYCxYsIGVuGMYhiPA&e=1793956897|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -2232,7 +1832,7 @@
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mls/2026-11-07/atx-por/playlist.m3u8?tk=beINnbxTlb4-IB0OACKVMw&e=1793931218|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mls/2026-11-07/atx-por/playlist.m3u8?tk=u6D4mE4W69nB-extH5iIHg&e=1793956899|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -2254,7 +1854,7 @@
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mls/2026-11-07/dal-col/playlist.m3u8?tk=beINnbxTlb4-IB0OACKVMw&e=1793931218|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mls/2026-11-07/dal-col/playlist.m3u8?tk=P2cBL9domchThbdtZW-BQg&e=1793956900|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -2276,7 +1876,7 @@
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mls/2026-11-07/hou-stl/playlist.m3u8?tk=1PTgCC8zJVJgecqqH0hhsg&e=1793931219|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mls/2026-11-07/hou-stl/playlist.m3u8?tk=z5XRmeAupkphyc_Bdfy5tw&e=1793956901|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -2298,7 +1898,7 @@
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mls/2026-11-07/min-sj/playlist.m3u8?tk=1PTgCC8zJVJgecqqH0hhsg&e=1793931219|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mls/2026-11-07/min-sj/playlist.m3u8?tk=z5XRmeAupkphyc_Bdfy5tw&e=1793956901|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -2320,7 +1920,7 @@
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mls/2026-11-07/rsl-la/playlist.m3u8?tk=WU1wrdWFEIiOEHbm0heIGQ&e=1793931220|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mls/2026-11-07/rsl-la/playlist.m3u8?tk=yFwtLaO0zAGs2nd_OQwnbQ&e=1793956902|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -2342,7 +1942,7 @@
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mls/2026-11-07/sd-skc/playlist.m3u8?tk=WU1wrdWFEIiOEHbm0heIGQ&e=1793931220|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mls/2026-11-07/sd-skc/playlist.m3u8?tk=jrRyLQzpHljbQy7LbBxlPw&e=1793956903|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -2364,7 +1964,7 @@
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mls/2026-11-07/sea-lafc/playlist.m3u8?tk=K-IjdJKLAIIMz3khGzN7LQ&e=1793931221|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mls/2026-11-07/sea-lafc/playlist.m3u8?tk=jrRyLQzpHljbQy7LbBxlPw&e=1793956903|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -3653,7 +3253,7 @@
     "league": "big bash league women",
     "category": "cricket",
     "date": 1793853600000,
-    "status": "live",
+    "status": "upcoming",
     "teams": {
       "home": {
         "name": "adelaide w",
@@ -3670,20 +3270,22 @@
     "sdUrl": ""
   },
   {
-    "matchId": "mm-cric-dl-1c1ee874db",
-    "title": "Afghanistan vs Zimbabwe",
-    "league": "1st Test Day-1",
+    "matchId": "cr-afghanistan-zimbabwe",
+    "title": "afghanistan vs zimbabwe",
+    "league": "1st test day-1",
     "category": "cricket",
     "date": 1793858400000,
-    "status": "live",
+    "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Afghanistan",
-        "badge": ""
+        "name": "afghanistan",
+        "badge": "https://flagcdn.com/w320/af.png",
+        "color": "#d32011"
       },
       "away": {
-        "name": "Zimbabwe",
-        "badge": ""
+        "name": "zimbabwe",
+        "badge": "https://flagcdn.com/w320/zw.png",
+        "color": "#318500"
       }
     },
     "hlsUrl": "",
@@ -3695,7 +3297,7 @@
     "league": "big bash league women",
     "category": "cricket",
     "date": 1793866200000,
-    "status": "live",
+    "status": "upcoming",
     "teams": {
       "home": {
         "name": "sydney thunder w",
@@ -3712,52 +3314,12 @@
     "sdUrl": ""
   },
   {
-    "matchId": "mm-el-E2026-95",
-    "title": "Anadolu Efes vs Paris",
-    "league": "EuroLeague",
-    "category": "basketball",
-    "date": 1793898900000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Anadolu Efes Istanbul",
-        "badge": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCgOCxM/a844756c-a58d-4666-93b8-48f7337bc79d.png"
-      },
-      "away": {
-        "name": "Paris Basketball",
-        "badge": "https://media-cdn.incrowdsports.com/a033e5b3-0de7-48a3-98d9-d9a4b9df1f39.png"
-      }
-    },
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "mm-el-E2026-92",
-    "title": "Fenerbahce vs Baskonia",
-    "league": "EuroLeague",
-    "category": "basketball",
-    "date": 1793901600000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Fenerbahce Tarfin Istanbul",
-        "badge": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCiezrk/aa39750a-6203-49ee-a87d-edd0c6f0397d.png"
-      },
-      "away": {
-        "name": "Kosner Baskonia Vitoria-Gasteiz",
-        "badge": "https://media-cdn.cortextech.io/cbc49cb0-99ce-4462-bdb7-56983ee03cf4.png"
-      }
-    },
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
     "matchId": "mm-el-E2026-93",
     "title": "Hapoel TLV vs FC Barcelona",
     "league": "EuroLeague",
     "category": "basketball",
     "date": 1793904300000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "Hapoel IBI Tel Aviv",
@@ -3777,7 +3339,7 @@
     "league": "EuroLeague",
     "category": "basketball",
     "date": 1793905200000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "LDLC ASVEL Villeurbanne",
@@ -3797,7 +3359,7 @@
     "league": "EuroLeague",
     "category": "basketball",
     "date": 1793907000000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "Armani Olimpia Milan",
@@ -3830,7 +3392,7 @@
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nba/2026-11-05/orl-phx/playlist.m3u8?tk=fuXCT6PhJoHRpBzlo1nIHg&e=1793931253|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nba/2026-11-05/orl-phx/playlist.m3u8?tk=Jt8NaPGsJ5SNf1myH3ew_g&e=1793956944|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -3852,7 +3414,7 @@
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nba/2026-11-05/mia-gs/playlist.m3u8?tk=9lBi1lOjGOBSPDS2Dmg82g&e=1793931254|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nba/2026-11-05/mia-gs/playlist.m3u8?tk=Jt8NaPGsJ5SNf1myH3ew_g&e=1793956944|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -3954,7 +3516,7 @@
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nba/2026-11-06/wsh-atl/playlist.m3u8?tk=r5qXfe0gQkmmGLOxhsZFow&e=1793931257|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nba/2026-11-06/wsh-atl/playlist.m3u8?tk=tAGuX5epzD62Qhgn_xk-IA&e=1793956947|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -3976,7 +3538,7 @@
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nba/2026-11-06/bos-cha/playlist.m3u8?tk=r5qXfe0gQkmmGLOxhsZFow&e=1793931257|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nba/2026-11-06/bos-cha/playlist.m3u8?tk=ls0SI1sZtKBa7WDtjsxpqQ&e=1793956948|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -3998,7 +3560,7 @@
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nba/2026-11-06/phi-cle/playlist.m3u8?tk=tNebD3eQ4pKd0X0b_qM25g&e=1793931259|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nba/2026-11-06/phi-cle/playlist.m3u8?tk=ls0SI1sZtKBa7WDtjsxpqQ&e=1793956948|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -4020,7 +3582,7 @@
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nba/2026-11-06/utah-dal/playlist.m3u8?tk=tNebD3eQ4pKd0X0b_qM25g&e=1793931259|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nba/2026-11-06/utah-dal/playlist.m3u8?tk=lbj76caiA6aaYq3ZGZfCbw&e=1793956949|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -4042,7 +3604,7 @@
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nba/2026-11-06/okc-mem/playlist.m3u8?tk=Fye_XAPcax8myVwxx1oQQQ&e=1793931260|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nba/2026-11-06/okc-mem/playlist.m3u8?tk=lbj76caiA6aaYq3ZGZfCbw&e=1793956949|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -4064,7 +3626,7 @@
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nba/2026-11-06/tor-mil/playlist.m3u8?tk=Fye_XAPcax8myVwxx1oQQQ&e=1793931260|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nba/2026-11-06/tor-mil/playlist.m3u8?tk=GGLEm3nWuFN3EzrfZf48ZQ&e=1793956950|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -4086,7 +3648,7 @@
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nba/2026-11-06/min-no/playlist.m3u8?tk=c-w4Hz4nl-ixnylHpnEL4g&e=1793931261|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nba/2026-11-06/min-no/playlist.m3u8?tk=n2xPTT0qZxV_ZIw2KjOglw&e=1793956951|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -4108,7 +3670,7 @@
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nba/2026-11-06/por-lal/playlist.m3u8?tk=fKdmKI8BnDt4_dMsT9q3FA&e=1793931262|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nba/2026-11-06/por-lal/playlist.m3u8?tk=n2xPTT0qZxV_ZIw2KjOglw&e=1793956951|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -4130,7 +3692,7 @@
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nba/2026-11-06/sa-sac/playlist.m3u8?tk=fKdmKI8BnDt4_dMsT9q3FA&e=1793931262|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nba/2026-11-06/sa-sac/playlist.m3u8?tk=QhoiaFMx3wprTWiPh0vl1A&e=1793956952|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -4294,6 +3856,66 @@
     "sdUrl": ""
   },
   {
+    "matchId": "mm-el-E2026-109",
+    "title": "Anadolu Efes vs Virtus Bologna",
+    "league": "EuroLeague",
+    "category": "basketball",
+    "date": 1794591000000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Anadolu Efes Istanbul",
+        "badge": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCgOCxM/a844756c-a58d-4666-93b8-48f7337bc79d.png"
+      },
+      "away": {
+        "name": "Virtus Bologna",
+        "badge": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCiezvk/a92d4c3b-9f9c-4163-8a10-bcf8fc15893e.png"
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "mm-el-E2026-110",
+    "title": "Panathinaikos vs FC Barcelona",
+    "league": "EuroLeague",
+    "category": "basketball",
+    "date": 1794597300000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Panathinaikos AKTOR Athens",
+        "badge": "https://media-cdn.incrowdsports.com/e3dff28a-9ec6-4faf-9d96-ecbc68f75780.png"
+      },
+      "away": {
+        "name": "FC Barcelona",
+        "badge": "https://media-cdn.incrowdsports.com/35dfa503-e417-481f-963a-bdf6f013763e.png"
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "mm-el-E2026-108",
+    "title": "LDLC ASVEL vs Besiktas",
+    "league": "EuroLeague",
+    "category": "basketball",
+    "date": 1794598200000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "LDLC ASVEL Villeurbanne",
+        "badge": "https://media-cdn.incrowdsports.com/e33c6d1a-95ca-4dbc-b8cb-0201812104cc.png"
+      },
+      "away": {
+        "name": "Besiktas Istanbul",
+        "badge": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjChWbHH/b05e3c54-e672-4b31-9f86-c91e9de7715c.png"
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
     "matchId": "espn-401869964",
     "title": "Southern Miss Golden Eagles vs James Madison Dukes",
     "league": "NCAA - Football",
@@ -4334,7 +3956,7 @@
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-11-05/jax-bal/playlist.m3u8?tk=Xqntfw58Y3F5qBRurHHmiw&e=1793931267|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-11-05/jax-bal/playlist.m3u8?tk=vfhQ7bmU8Lv_eVl31wiFZg&e=1793956959|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -4356,7 +3978,7 @@
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-11-06/unm-nev/playlist.m3u8?tk=j65KPCPRI2uyW-avdUExQQ&e=1793931268|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-11-06/unm-nev/playlist.m3u8?tk=pSjUf4pnpvZzO0mwznRW8Q&e=1793956960|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -4378,7 +4000,7 @@
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-11-06/tcu-ariz/playlist.m3u8?tk=j65KPCPRI2uyW-avdUExQQ&e=1793931268|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-11-06/tcu-ariz/playlist.m3u8?tk=tC5C3xvPqATBGOinvrwRdw&e=1793956961|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -4400,7 +4022,7 @@
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-11-07/byu-utah/playlist.m3u8?tk=-tJMPOc53Ksc4RTWMKFspQ&e=1793931269|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-11-07/byu-utah/playlist.m3u8?tk=tC5C3xvPqATBGOinvrwRdw&e=1793956961|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -4422,7 +4044,7 @@
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-11-07/tex-miz/playlist.m3u8?tk=ESsJRuCdCL0s6KrodpVXow&e=1793931270|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-11-07/tex-miz/playlist.m3u8?tk=oL1Z3tTCuJZdYiVtalrCrA&e=1793956962|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -4444,7 +4066,7 @@
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-11-07/ucla-minn/playlist.m3u8?tk=ESsJRuCdCL0s6KrodpVXow&e=1793931270|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-11-07/ucla-minn/playlist.m3u8?tk=3MnalUeQVo4ShB5STPubjw&e=1793956963|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -4466,7 +4088,7 @@
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-11-07/bois-csu/playlist.m3u8?tk=sEsb0DWjue5MRKNa52rMrA&e=1793931271|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-11-07/bois-csu/playlist.m3u8?tk=Vcknm22sQ1s2A9BJU1aY5g&e=1793956964|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -4488,7 +4110,7 @@
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-11-07/bois-csu/playlist.m3u8?tk=sEsb0DWjue5MRKNa52rMrA&e=1793931271|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-11-07/bois-csu/playlist.m3u8?tk=7018gQiAjst8P5daHq_Qqw&e=1793956965|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -4510,7 +4132,7 @@
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-11-07/tam-sc/playlist.m3u8?tk=RnyiE62Fgr_8HclicvGPxg&e=1793931272|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-11-07/tam-sc/playlist.m3u8?tk=zxCspMrHnlZJibyD3bFhAQ&e=1793956966|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -4532,7 +4154,7 @@
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-11-07/ala-lsu/playlist.m3u8?tk=G5BrbVkHLCAcvaFu0R-1pA&e=1793931273|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-11-07/ala-lsu/playlist.m3u8?tk=UmdOia4_GTDr1YUBGFOvcg&e=1793956967|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -4554,7 +4176,7 @@
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-11-07/ore-osu/playlist.m3u8?tk=G5BrbVkHLCAcvaFu0R-1pA&e=1793931273|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-11-07/ore-osu/playlist.m3u8?tk=UmdOia4_GTDr1YUBGFOvcg&e=1793956967|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -4576,7 +4198,7 @@
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-11-07/mrmk-wake/playlist.m3u8?tk=K_RyPXr7_dVYerJFPVZ5hg&e=1793931274|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-11-07/mrmk-wake/playlist.m3u8?tk=EyR8PXbI2n3GpB-qK61dOg&e=1793956968|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -4598,7 +4220,7 @@
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-11-07/cin-hou/playlist.m3u8?tk=K_RyPXr7_dVYerJFPVZ5hg&e=1793931274|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-11-07/cin-hou/playlist.m3u8?tk=EyR8PXbI2n3GpB-qK61dOg&e=1793956968|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -4620,7 +4242,7 @@
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-11-07/uk-tenn/playlist.m3u8?tk=Va6H5kSJhjvNPgK5y0e1ig&e=1793931275|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-11-07/uk-tenn/playlist.m3u8?tk=PfbRI5EZA4yXOO5d6JG_-Q&e=1793956969|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -4642,7 +4264,7 @@
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-11-07/bois-csu/playlist.m3u8?tk=k9HmM51awZXKxNGrX4suvg&e=1793931276|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-11-07/bois-csu/playlist.m3u8?tk=YcY51qZzMr5nYqBtZZmkEQ&e=1793956970|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -4664,7 +4286,7 @@
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-11-07/uk-tenn/playlist.m3u8?tk=k9HmM51awZXKxNGrX4suvg&e=1793931276|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-11-07/uk-tenn/playlist.m3u8?tk=YcY51qZzMr5nYqBtZZmkEQ&e=1793956970|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -4686,7 +4308,7 @@
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-11-07/mia-nd/playlist.m3u8?tk=c0eAwwixjYGP_Fnh1-zc4g&e=1793931277|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-11-07/mia-nd/playlist.m3u8?tk=-yO7mZaSgF5lmmbHBucjIQ&e=1793956971|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -4708,7 +4330,7 @@
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-11-07/uga-miss/playlist.m3u8?tk=c0eAwwixjYGP_Fnh1-zc4g&e=1793931277|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-11-07/uga-miss/playlist.m3u8?tk=ITrGKwCOenwNNkeu6qRl5Q&e=1793956972|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -4730,7 +4352,7 @@
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-11-07/iowa-nu/playlist.m3u8?tk=0-LTCIFC0hk0t_Ta9MCBPA&e=1793931278|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-11-07/iowa-nu/playlist.m3u8?tk=ITrGKwCOenwNNkeu6qRl5Q&e=1793956972|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -4752,7 +4374,7 @@
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-11-07/bois-csu/playlist.m3u8?tk=0-LTCIFC0hk0t_Ta9MCBPA&e=1793931278|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-11-07/bois-csu/playlist.m3u8?tk=O2sMNDjJqxrHC02njYGrjw&e=1793956973|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -4774,7 +4396,29 @@
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-11-07/ou-fla/playlist.m3u8?tk=Vu42R6S8nHHb_5Z5e-MWMg&e=1793931279|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-11-07/ou-fla/playlist.m3u8?tk=rHzDmtRFYPPo63BrzsXGmg&e=1793956974|Referer=https://ondemand.st",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "espn-401870795",
+    "title": "New Mexico State Aggies vs Liberty Flames",
+    "league": "NCAA - Football",
+    "category": "american-football",
+    "date": 1794099600000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "New Mexico State Aggies",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/166.png",
+        "color": ""
+      },
+      "away": {
+        "name": "Liberty Flames",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/2335.png",
+        "color": ""
+      }
+    },
+    "hlsUrl": "",
     "sdUrl": ""
   },
   {
@@ -4796,7 +4440,7 @@
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-11-07/wvu-ttu/playlist.m3u8?tk=28G52pm5s1i8yQ_1gQgVOA&e=1793931280|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-11-07/wvu-ttu/playlist.m3u8?tk=Cslw2nmM2pXWXnqg8VKaxw&e=1793956975|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -4818,7 +4462,7 @@
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-11-07/bois-csu/playlist.m3u8?tk=28G52pm5s1i8yQ_1gQgVOA&e=1793931280|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-11-07/bois-csu/playlist.m3u8?tk=UYCGEtTG5DhfsHMcmZc4hQ&e=1793956976|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -4840,7 +4484,7 @@
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-11-07/ore-osu/playlist.m3u8?tk=ok0-puqDk9CeErA6sSJtBw&e=1793931281|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-11-07/ore-osu/playlist.m3u8?tk=UYCGEtTG5DhfsHMcmZc4hQ&e=1793956976|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -4862,7 +4506,7 @@
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-11-08/cin-atl/playlist.m3u8?tk=ok0-puqDk9CeErA6sSJtBw&e=1793931281|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-11-08/cin-atl/playlist.m3u8?tk=c5fNrgbAmB34aHq5FToy1g&e=1793956977|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -4884,7 +4528,7 @@
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-11-08/dal-ind/playlist.m3u8?tk=CGOe0QeXkL70On9uqvUbBw&e=1793931282|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-11-08/dal-ind/playlist.m3u8?tk=c5fNrgbAmB34aHq5FToy1g&e=1793956977|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -4906,7 +4550,7 @@
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-11-08/nyj-kc/playlist.m3u8?tk=_fAaSZlXW_AWbAKiP-cAEg&e=1793931283|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-11-08/nyj-kc/playlist.m3u8?tk=dC7nek4b3R6aW4Lovojghw&e=1793956978|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -4928,7 +4572,7 @@
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-11-08/det-mia/playlist.m3u8?tk=_fAaSZlXW_AWbAKiP-cAEg&e=1793931283|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-11-08/det-mia/playlist.m3u8?tk=UOD2A3akiv5sTEoH4odj5Q&e=1793956979|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -4950,7 +4594,7 @@
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-11-08/cle-no/playlist.m3u8?tk=l7S-xyj1KCXNuv2WdVV6Kg&e=1793931284|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-11-08/cle-no/playlist.m3u8?tk=UF8oBCvsiyACs2yhiMciLw&e=1793956980|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -4972,7 +4616,7 @@
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-11-08/nyg-phi/playlist.m3u8?tk=ai4sS7wX_l9iXdFwsfGe5g&e=1793931285|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-11-08/nyg-phi/playlist.m3u8?tk=UF8oBCvsiyACs2yhiMciLw&e=1793956980|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -4994,7 +4638,7 @@
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-11-08/lar-wsh/playlist.m3u8?tk=ai4sS7wX_l9iXdFwsfGe5g&e=1793931285|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-11-08/lar-wsh/playlist.m3u8?tk=srGrubMUcqmAx2_aba4QZw&e=1793956981|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -5016,7 +4660,7 @@
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-11-08/den-car/playlist.m3u8?tk=vi4XdJ7DKinlgIjaploi9Q&e=1793931286|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-11-08/den-car/playlist.m3u8?tk=Vsfn6otPDCfIyQ296EkSeQ&e=1793956982|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -5038,7 +4682,7 @@
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-11-08/hou-lac/playlist.m3u8?tk=fE33sZikCunN2-t-1qYEAg&e=1793931287|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-11-08/hou-lac/playlist.m3u8?tk=Vsfn6otPDCfIyQ296EkSeQ&e=1793956982|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -5060,7 +4704,7 @@
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-11-08/gb-ne/playlist.m3u8?tk=fE33sZikCunN2-t-1qYEAg&e=1793931287|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-11-08/gb-ne/playlist.m3u8?tk=LKaJE1gfqaXXH6uOBderbA&e=1793956983|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -5082,7 +4726,7 @@
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-11-08/lv-sf/playlist.m3u8?tk=M4EAMBA5UcNJ8FBGt49oPg&e=1793931288|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-11-08/lv-sf/playlist.m3u8?tk=q4Fg5z4vmoh_Togj9YgyhA&e=1793956984|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -5104,7 +4748,7 @@
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-11-08/ari-sea/playlist.m3u8?tk=M4EAMBA5UcNJ8FBGt49oPg&e=1793931288|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-11-08/ari-sea/playlist.m3u8?tk=q4Fg5z4vmoh_Togj9YgyhA&e=1793956984|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -5126,7 +4770,7 @@
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-11-08/tb-chi/playlist.m3u8?tk=XTbV6komIMo9IxjkoF3nHQ&e=1793931289|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-11-08/tb-chi/playlist.m3u8?tk=e-D2U1Uo4SZU-y_734Lrhw&e=1793956985|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -5148,7 +4792,7 @@
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-11-09/buf-min/playlist.m3u8?tk=XTbV6komIMo9IxjkoF3nHQ&e=1793931289|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-11-09/buf-min/playlist.m3u8?tk=e-D2U1Uo4SZU-y_734Lrhw&e=1793956985|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -5256,7 +4900,7 @@
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-11-05/uta-mtl/playlist.m3u8?tk=-fLk6HA09JcKjn9OIEu1wg&e=1793931293|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-11-05/uta-mtl/playlist.m3u8?tk=vIynyjmcjWYAUZyQGj81aA&e=1793956989|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -5278,7 +4922,7 @@
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-11-05/vgk-det/playlist.m3u8?tk=-fLk6HA09JcKjn9OIEu1wg&e=1793931293|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-11-05/vgk-det/playlist.m3u8?tk=kGm6h7sJTFkGAWxdJFDe_Q&e=1793956990|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -5300,7 +4944,7 @@
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-11-05/chi-tb/playlist.m3u8?tk=XOPqYZ9wTcVEAkEHLsxKNQ&e=1793931294|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-11-05/chi-tb/playlist.m3u8?tk=Fbv4VtxwvvSAazBSJACbeA&e=1793956991|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -5322,7 +4966,7 @@
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-11-05/stl-nj/playlist.m3u8?tk=bs7FJGJ_4CfT2x04Qn23XA&e=1793931295|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-11-05/stl-nj/playlist.m3u8?tk=Fbv4VtxwvvSAazBSJACbeA&e=1793956991|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -5344,7 +4988,7 @@
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-11-05/car-nyi/playlist.m3u8?tk=sU--fIwgimknLF_cmCWEKA&e=1793931296|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-11-05/car-nyi/playlist.m3u8?tk=DOXgR1y5sxMDaeQmzE8N4w&e=1793956992|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -5366,7 +5010,7 @@
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-11-05/phi-nyr/playlist.m3u8?tk=sU--fIwgimknLF_cmCWEKA&e=1793931296|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-11-05/phi-nyr/playlist.m3u8?tk=VzDEV3hhzk5koSH7UbK1cw&e=1793956993|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -5388,7 +5032,7 @@
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-11-05/bos-pit/playlist.m3u8?tk=FY3BKU2ft_LVU4e7PmIKHQ&e=1793931297|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-11-05/bos-pit/playlist.m3u8?tk=5gX_bHfQ5NcTsxaJ6pKt_w&e=1793956994|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -5410,7 +5054,7 @@
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-11-05/dal-cbj/playlist.m3u8?tk=FY3BKU2ft_LVU4e7PmIKHQ&e=1793931297|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-11-05/dal-cbj/playlist.m3u8?tk=FWlaJ07d3jUOWceZrH0-6g&e=1793956995|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -5432,7 +5076,7 @@
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-11-05/van-wpg/playlist.m3u8?tk=3hfEtX8wG0KSV2HjHSXNbg&e=1793931298|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-11-05/van-wpg/playlist.m3u8?tk=U_RRNC_pQKe3AUUUfYnr1A&e=1793956996|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -5454,7 +5098,7 @@
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-11-05/ana-edm/playlist.m3u8?tk=ILdjm1bZXKrai7sI11ywaQ&e=1793931299|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-11-05/ana-edm/playlist.m3u8?tk=U_RRNC_pQKe3AUUUfYnr1A&e=1793956996|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -5476,7 +5120,7 @@
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-11-05/nsh-col/playlist.m3u8?tk=ILdjm1bZXKrai7sI11ywaQ&e=1793931299|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-11-05/nsh-col/playlist.m3u8?tk=FSb_KjsNjQ-Ew0xZ3T8hKQ&e=1793956997|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
