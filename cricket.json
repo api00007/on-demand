@@ -1,19 +1,21 @@
 [
   {
-    "matchId": "mm-cric-dl-affe115d93",
-    "title": "New Zealand vs India",
-    "league": "2nd ODI",
+    "matchId": "cr-new-zealand-india",
+    "title": "new zealand vs india",
+    "league": "2nd odi",
     "category": "cricket",
     "date": 1793928600000,
-    "status": "live",
+    "status": "upcoming",
     "teams": {
       "home": {
-        "name": "New Zealand",
-        "badge": ""
+        "name": "new zealand",
+        "badge": "https://flagcdn.com/w320/nz.png",
+        "color": "#111111"
       },
       "away": {
-        "name": "India",
-        "badge": ""
+        "name": "india",
+        "badge": "https://flagcdn.com/w320/in.png",
+        "color": "#ff9933"
       }
     },
     "hlsUrl": "",
@@ -25,7 +27,7 @@
     "league": "acc mens u19 asia cup 2026",
     "category": "cricket",
     "date": 1793941200000,
-    "status": "live",
+    "status": "upcoming",
     "teams": {
       "home": {
         "name": "india",
@@ -42,20 +44,22 @@
     "sdUrl": ""
   },
   {
-    "matchId": "mm-cric-dl-584a626f47",
-    "title": "Melbourne Stars W vs Sydney Sixers W",
-    "league": "Big Bash League Women",
+    "matchId": "cr-melbourne-stars-w-sydney-sixers-w",
+    "title": "melbourne stars w vs sydney sixers w",
+    "league": "big bash league women",
     "category": "cricket",
-    "date": 1793952600000,
-    "status": "live",
+    "date": 1794110400000,
+    "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Melbourne Stars W",
-        "badge": ""
+        "name": "melbourne stars w",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/l0t7v31715269757.png",
+        "color": ""
       },
       "away": {
-        "name": "Sydney Sixers W",
-        "badge": ""
+        "name": "sydney sixers w",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/jtkm601492607206.png",
+        "color": ""
       }
     },
     "hlsUrl": "",
