@@ -1,37 +1,169 @@
 [
   {
-    "matchId": "espn-401892659",
-    "title": "Buffalo Sabres vs Columbus Blue Jackets",
+    "matchId": "espn-401892662",
+    "title": "Washington Capitals vs Florida Panthers",
     "league": "National Hockey League",
     "category": "hockey",
-    "date": 1794009600000,
-    "status": "live",
+    "date": 1794072600000,
+    "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Buffalo Sabres",
-        "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/buf.png",
+        "name": "Washington Capitals",
+        "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/wsh.png",
         "color": ""
       },
       "away": {
-        "name": "Columbus Blue Jackets",
-        "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/cbj.png",
+        "name": "Florida Panthers",
+        "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/fla.png",
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-11-06/cbj-buf/playlist.m3u8?tk=C65wAMWs7Svnzp2N8oH9CA&e=1794062251|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-11-07/fla-wsh/playlist.m3u8?tk=u1GgTzrs8QDdT9zRRJZ1UQ&e=1794087965|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
-    "matchId": "espn-401892660",
-    "title": "Minnesota Wild vs San Jose Sharks",
+    "matchId": "espn-401892663",
+    "title": "Nashville Predators vs St. Louis Blues",
     "league": "National Hockey League",
     "category": "hockey",
-    "date": 1794013200000,
-    "status": "live",
+    "date": 1794074400000,
+    "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Minnesota Wild",
-        "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/min.png",
+        "name": "Nashville Predators",
+        "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/nsh.png",
+        "color": ""
+      },
+      "away": {
+        "name": "St. Louis Blues",
+        "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/stl.png",
+        "color": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-11-07/stl-nsh/playlist.m3u8?tk=V8t4ZWh9bHs2GfFlz1M8-w&e=1794087966|Referer=https://ondemand.st",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "espn-401892664",
+    "title": "Seattle Kraken vs New York Rangers",
+    "league": "National Hockey League",
+    "category": "hockey",
+    "date": 1794088800000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Seattle Kraken",
+        "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/sea.png",
+        "color": ""
+      },
+      "away": {
+        "name": "New York Rangers",
+        "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/nyr.png",
+        "color": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-11-07/nyr-sea/playlist.m3u8?tk=BD27T9EtAvS2IVkrjr5vfg&e=1794087967|Referer=https://ondemand.st",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "espn-401892665",
+    "title": "Toronto Maple Leafs vs Montreal Canadiens",
+    "league": "National Hockey League",
+    "category": "hockey",
+    "date": 1794096000000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Toronto Maple Leafs",
+        "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/tor.png",
+        "color": ""
+      },
+      "away": {
+        "name": "Montreal Canadiens",
+        "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/mtl.png",
+        "color": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-11-07/mtl-tor/playlist.m3u8?tk=A7Esq2HmrR7de4zN7BYgXQ&e=1794087968|Referer=https://ondemand.st",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "espn-401892666",
+    "title": "Ottawa Senators vs Utah Mammoth",
+    "league": "National Hockey League",
+    "category": "hockey",
+    "date": 1794096000000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Ottawa Senators",
+        "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/ott.png",
+        "color": ""
+      },
+      "away": {
+        "name": "Utah Mammoth",
+        "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/uta.png",
+        "color": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-11-07/uta-ott/playlist.m3u8?tk=2UkTlnni7RoEUXz5yPqzNw&e=1794087969|Referer=https://ondemand.st",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "espn-401892667",
+    "title": "New York Islanders vs New Jersey Devils",
+    "league": "National Hockey League",
+    "category": "hockey",
+    "date": 1794096000000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "New York Islanders",
+        "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/nyi.png",
+        "color": ""
+      },
+      "away": {
+        "name": "New Jersey Devils",
+        "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/nj.png",
+        "color": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-11-07/nj-nyi/playlist.m3u8?tk=jjNCgIFRq7OKOcfko4CqLw&e=1794087970|Referer=https://ondemand.st",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "espn-401892668",
+    "title": "Carolina Hurricanes vs Chicago Blackhawks",
+    "league": "National Hockey League",
+    "category": "hockey",
+    "date": 1794099600000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Carolina Hurricanes",
+        "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/car.png",
+        "color": ""
+      },
+      "away": {
+        "name": "Chicago Blackhawks",
+        "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/chi.png",
+        "color": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-11-07/chi-car/playlist.m3u8?tk=SEZ2OmF8GuIPjV99NnrRZw&e=1794087975|Referer=https://ondemand.st",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "espn-401892669",
+    "title": "Dallas Stars vs San Jose Sharks",
+    "league": "National Hockey League",
+    "category": "hockey",
+    "date": 1794099600000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Dallas Stars",
+        "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/dal.png",
         "color": ""
       },
       "away": {
@@ -40,29 +172,161 @@
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-11-06/sj-min/playlist.m3u8?tk=wQvWeu3Lb7c0mwLd1oIBHw&e=1794062252|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-11-07/sj-dal/playlist.m3u8?tk=I3rUZSr1uu4bCHMYLEtTQA&e=1794087976|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
-    "matchId": "espn-401892661",
-    "title": "Calgary Flames vs Anaheim Ducks",
+    "matchId": "espn-401892670",
+    "title": "Minnesota Wild vs Tampa Bay Lightning",
     "league": "National Hockey League",
     "category": "hockey",
-    "date": 1794013200000,
-    "status": "live",
+    "date": 1794099600000,
+    "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Calgary Flames",
-        "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/cgy.png",
+        "name": "Minnesota Wild",
+        "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/min.png",
         "color": ""
       },
       "away": {
-        "name": "Anaheim Ducks",
-        "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/ana.png",
+        "name": "Tampa Bay Lightning",
+        "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/tb.png",
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-11-06/ana-cgy/playlist.m3u8?tk=wQvWeu3Lb7c0mwLd1oIBHw&e=1794062252|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-11-07/tb-min/playlist.m3u8?tk=dbtL-40QPdRl5hYVi3HUmw&e=1794087977|Referer=https://ondemand.st",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "espn-401892671",
+    "title": "Colorado Avalanche vs Detroit Red Wings",
+    "league": "National Hockey League",
+    "category": "hockey",
+    "date": 1794103200000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Colorado Avalanche",
+        "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/col.png",
+        "color": ""
+      },
+      "away": {
+        "name": "Detroit Red Wings",
+        "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/det.png",
+        "color": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-11-07/det-col/playlist.m3u8?tk=EY8LvC-6IzSZ7ZkkSpt-mQ&e=1794087978|Referer=https://ondemand.st",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "espn-401892672",
+    "title": "Los Angeles Kings vs Pittsburgh Penguins",
+    "league": "National Hockey League",
+    "category": "hockey",
+    "date": 1794103200000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Los Angeles Kings",
+        "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/la.png",
+        "color": ""
+      },
+      "away": {
+        "name": "Pittsburgh Penguins",
+        "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/pit.png",
+        "color": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-11-07/pit-la/playlist.m3u8?tk=EY8LvC-6IzSZ7ZkkSpt-mQ&e=1794087978|Referer=https://ondemand.st",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "espn-401892673",
+    "title": "Edmonton Oilers vs Vancouver Canucks",
+    "league": "National Hockey League",
+    "category": "hockey",
+    "date": 1794106800000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Edmonton Oilers",
+        "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/edm.png",
+        "color": ""
+      },
+      "away": {
+        "name": "Vancouver Canucks",
+        "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/van.png",
+        "color": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-11-07/van-edm/playlist.m3u8?tk=GhCmVztVXFc6jmDGsJ7Zlg&e=1794087979|Referer=https://ondemand.st",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "espn-401892674",
+    "title": "Boston Bruins vs Florida Panthers",
+    "league": "National Hockey League",
+    "category": "hockey",
+    "date": 1794160800000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Boston Bruins",
+        "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/bos.png",
+        "color": ""
+      },
+      "away": {
+        "name": "Florida Panthers",
+        "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/fla.png",
+        "color": ""
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "espn-401892687",
+    "title": "St. Louis Blues vs Detroit Red Wings",
+    "league": "National Hockey League",
+    "category": "hockey",
+    "date": 1794358800000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "St. Louis Blues",
+        "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/stl.png",
+        "color": ""
+      },
+      "away": {
+        "name": "Detroit Red Wings",
+        "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/det.png",
+        "color": ""
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "espn-401892709",
+    "title": "Boston Bruins vs Minnesota Wild",
+    "league": "National Hockey League",
+    "category": "hockey",
+    "date": 1794700800000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Boston Bruins",
+        "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/bos.png",
+        "color": ""
+      },
+      "away": {
+        "name": "Minnesota Wild",
+        "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/min.png",
+        "color": ""
+      }
+    },
+    "hlsUrl": "",
     "sdUrl": ""
   }
 ]
