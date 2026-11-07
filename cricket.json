@@ -1,49 +1,5 @@
 [
   {
-    "matchId": "cr-afghanistan-zimbabwe",
-    "title": "afghanistan vs zimbabwe",
-    "league": "1st test day-3",
-    "category": "cricket",
-    "date": 1794031200000,
-    "status": "live",
-    "teams": {
-      "home": {
-        "name": "afghanistan",
-        "badge": "https://flagcdn.com/w320/af.png",
-        "color": "#d32011"
-      },
-      "away": {
-        "name": "zimbabwe",
-        "badge": "https://flagcdn.com/w320/zw.png",
-        "color": "#318500"
-      }
-    },
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "cr-brisbane-heat-w-hobart-hurricanes-w",
-    "title": "brisbane heat w vs hobart hurricanes w",
-    "league": "big bash league women",
-    "category": "cricket",
-    "date": 1794039000000,
-    "status": "live",
-    "teams": {
-      "home": {
-        "name": "brisbane heat w",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/6r5cly1492606239.png",
-        "color": ""
-      },
-      "away": {
-        "name": "hobart hurricanes w",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/vdcla41492606553.png",
-        "color": ""
-      }
-    },
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
     "matchId": "cr-sri-lanka-bangladesh",
     "title": "sri lanka vs bangladesh",
     "league": "acc mens u19 asia cup 2026",
@@ -191,6 +147,50 @@
       "away": {
         "name": "adelaide strikers w",
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/c36k301492606884.png",
+        "color": ""
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "cr-afghanistan-zimbabwe",
+    "title": "afghanistan vs zimbabwe",
+    "league": "1st test day-3",
+    "category": "cricket",
+    "date": 1794031200000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "afghanistan",
+        "badge": "https://flagcdn.com/w320/af.png",
+        "color": "#d32011"
+      },
+      "away": {
+        "name": "zimbabwe",
+        "badge": "https://flagcdn.com/w320/zw.png",
+        "color": "#318500"
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "cr-brisbane-heat-w-hobart-hurricanes-w",
+    "title": "brisbane heat w vs hobart hurricanes w",
+    "league": "big bash league women",
+    "category": "cricket",
+    "date": 1794039000000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "brisbane heat w",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/6r5cly1492606239.png",
+        "color": ""
+      },
+      "away": {
+        "name": "hobart hurricanes w",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/vdcla41492606553.png",
         "color": ""
       }
     },
