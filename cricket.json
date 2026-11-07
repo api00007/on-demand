@@ -1,83 +1,43 @@
 [
   {
-    "matchId": "cr-sydney-sixers-w-sydney-thunder-w",
-    "title": "sydney sixers w vs sydney thunder w",
-    "league": "big bash league women",
-    "category": "cricket",
-    "date": 1794019200000,
-    "status": "live",
-    "teams": {
-      "home": {
-        "name": "sydney sixers w",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/jtkm601492607206.png",
-        "color": ""
-      },
-      "away": {
-        "name": "sydney thunder w",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/t0tooq1492606384.png",
-        "color": ""
-      }
-    },
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "cr-melbourne-renegades-w-adelaide-strikers-w",
-    "title": "melbourne renegades w vs adelaide strikers w",
-    "league": "big bash league women",
-    "category": "cricket",
-    "date": 1794026400000,
-    "status": "live",
-    "teams": {
-      "home": {
-        "name": "melbourne renegades w",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/fy0wik1492607045.png",
-        "color": ""
-      },
-      "away": {
-        "name": "adelaide strikers w",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/c36k301492606884.png",
-        "color": ""
-      }
-    },
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "mm-cric-dl-baa7cae82d",
-    "title": "Afghanistan vs Zimbabwe",
-    "league": "1st Test Day-3",
+    "matchId": "cr-afghanistan-zimbabwe",
+    "title": "afghanistan vs zimbabwe",
+    "league": "1st test day-3",
     "category": "cricket",
     "date": 1794031200000,
     "status": "live",
     "teams": {
       "home": {
-        "name": "Afghanistan",
-        "badge": ""
+        "name": "afghanistan",
+        "badge": "https://flagcdn.com/w320/af.png",
+        "color": "#d32011"
       },
       "away": {
-        "name": "Zimbabwe",
-        "badge": ""
+        "name": "zimbabwe",
+        "badge": "https://flagcdn.com/w320/zw.png",
+        "color": "#318500"
       }
     },
     "hlsUrl": "",
     "sdUrl": ""
   },
   {
-    "matchId": "mm-cric-dl-8caa1959f0",
-    "title": "Brisbane Heat W vs Hobart Hurricanes W",
-    "league": "Big Bash League Women",
+    "matchId": "cr-brisbane-heat-w-hobart-hurricanes-w",
+    "title": "brisbane heat w vs hobart hurricanes w",
+    "league": "big bash league women",
     "category": "cricket",
     "date": 1794039000000,
     "status": "live",
     "teams": {
       "home": {
-        "name": "Brisbane Heat W",
-        "badge": ""
+        "name": "brisbane heat w",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/6r5cly1492606239.png",
+        "color": ""
       },
       "away": {
-        "name": "Hobart Hurricanes W",
-        "badge": ""
+        "name": "hobart hurricanes w",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/vdcla41492606553.png",
+        "color": ""
       }
     },
     "hlsUrl": "",
@@ -111,7 +71,7 @@
     "league": "pro20 cup '26",
     "category": "cricket",
     "date": 1794049200000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "boland",
@@ -133,7 +93,7 @@
     "league": "abu dhabi t10 league 2026",
     "category": "cricket",
     "date": 1794058200000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "champions",
@@ -155,7 +115,7 @@
     "league": "abu dhabi t10 league 2026",
     "category": "cricket",
     "date": 1794067200000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "tigers",
@@ -177,7 +137,7 @@
     "league": "pro20 cup '26",
     "category": "cricket",
     "date": 1794067200000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "cobras",
@@ -187,6 +147,50 @@
       "away": {
         "name": "lions",
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/cd8tv21487606032.png",
+        "color": ""
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "cr-sydney-sixers-w-sydney-thunder-w",
+    "title": "sydney sixers w vs sydney thunder w",
+    "league": "big bash league women",
+    "category": "cricket",
+    "date": 1794019200000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "sydney sixers w",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/jtkm601492607206.png",
+        "color": ""
+      },
+      "away": {
+        "name": "sydney thunder w",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/t0tooq1492606384.png",
+        "color": ""
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "cr-melbourne-renegades-w-adelaide-strikers-w",
+    "title": "melbourne renegades w vs adelaide strikers w",
+    "league": "big bash league women",
+    "category": "cricket",
+    "date": 1794026400000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "melbourne renegades w",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/fy0wik1492607045.png",
+        "color": ""
+      },
+      "away": {
+        "name": "adelaide strikers w",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/c36k301492606884.png",
         "color": ""
       }
     },
