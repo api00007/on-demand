@@ -1,49 +1,5 @@
 [
   {
-    "matchId": "cr-sydney-sixers-w-sydney-thunder-w",
-    "title": "sydney sixers w vs sydney thunder w",
-    "league": "big bash league women",
-    "category": "cricket",
-    "date": 1794105600000,
-    "status": "live",
-    "teams": {
-      "home": {
-        "name": "sydney sixers w",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/jtkm601492607206.png",
-        "color": ""
-      },
-      "away": {
-        "name": "sydney thunder w",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/t0tooq1492606384.png",
-        "color": ""
-      }
-    },
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "cr-melbourne-renegades-w-adelaide-strikers-w",
-    "title": "melbourne renegades w vs adelaide strikers w",
-    "league": "big bash league women",
-    "category": "cricket",
-    "date": 1794112800000,
-    "status": "live",
-    "teams": {
-      "home": {
-        "name": "melbourne renegades w",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/fy0wik1492607045.png",
-        "color": ""
-      },
-      "away": {
-        "name": "adelaide strikers w",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/c36k301492606884.png",
-        "color": ""
-      }
-    },
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
     "matchId": "cr-india-pakistan",
     "title": "india vs pakistan",
     "league": "acc mens u19 asia cup 2026",
@@ -86,20 +42,22 @@
     "sdUrl": ""
   },
   {
-    "matchId": "mm-cric-dl-42943cff45",
-    "title": "Perth Scorchers W vs Melbourne Stars W",
-    "league": "Big Bash League Women",
+    "matchId": "cr-perth-scorchers-w-melbourne-stars-w",
+    "title": "perth scorchers w vs melbourne stars w",
+    "league": "big bash league women",
     "category": "cricket",
     "date": 1794118200000,
     "status": "live",
     "teams": {
       "home": {
-        "name": "Perth Scorchers W",
-        "badge": ""
+        "name": "perth scorchers w",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/ithlp51546681732.png",
+        "color": ""
       },
       "away": {
-        "name": "Melbourne Stars W",
-        "badge": ""
+        "name": "melbourne stars w",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/l0t7v31715269757.png",
+        "color": ""
       }
     },
     "hlsUrl": "",
@@ -111,7 +69,7 @@
     "league": "pro20 cup '26",
     "category": "cricket",
     "date": 1794124800000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "storm",
@@ -128,78 +86,12 @@
     "sdUrl": ""
   },
   {
-    "matchId": "cr-brisbane-heat-w-hobart-hurricanes-w",
-    "title": "brisbane heat w vs hobart hurricanes w",
-    "league": "big bash league women",
-    "category": "cricket",
-    "date": 1794125400000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "brisbane heat w",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/6r5cly1492606239.png",
-        "color": ""
-      },
-      "away": {
-        "name": "hobart hurricanes w",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/vdcla41492606553.png",
-        "color": ""
-      }
-    },
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "cr-sri-lanka-bangladesh",
-    "title": "sri lanka vs bangladesh",
-    "league": "acc mens u19 asia cup 2026",
-    "category": "cricket",
-    "date": 1794132000000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "sri lanka",
-        "badge": "https://flagcdn.com/w320/lk.png",
-        "color": "#eb7400"
-      },
-      "away": {
-        "name": "bangladesh",
-        "badge": "https://flagcdn.com/w320/bd.png",
-        "color": "#006a4e"
-      }
-    },
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "cr-boland-badgers",
-    "title": "boland vs badgers",
-    "league": "pro20 cup '26",
-    "category": "cricket",
-    "date": 1794135600000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "boland",
-        "badge": "",
-        "color": ""
-      },
-      "away": {
-        "name": "badgers",
-        "badge": "",
-        "color": ""
-      }
-    },
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
     "matchId": "cr-titans-dolphins",
     "title": "titans vs dolphins",
     "league": "pro20 cup '26",
     "category": "cricket",
     "date": 1794141000000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "titans",
@@ -216,34 +108,12 @@
     "sdUrl": ""
   },
   {
-    "matchId": "cr-champions-eagles",
-    "title": "champions vs eagles",
-    "league": "abu dhabi t10 league 2026",
-    "category": "cricket",
-    "date": 1794144600000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "champions",
-        "badge": "",
-        "color": ""
-      },
-      "away": {
-        "name": "eagles",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/rmabgy1653500323.png",
-        "color": ""
-      }
-    },
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
     "matchId": "cr-tigers-bulls",
     "title": "tigers vs bulls",
     "league": "abu dhabi t10 league 2026",
     "category": "cricket",
     "date": 1794144600000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "tigers",
@@ -253,50 +123,6 @@
       "away": {
         "name": "bulls",
         "badge": "",
-        "color": ""
-      }
-    },
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "cr-tigers-aces",
-    "title": "tigers vs aces",
-    "league": "abu dhabi t10 league 2026",
-    "category": "cricket",
-    "date": 1794153600000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "tigers",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/geh2qk1675420011.png",
-        "color": ""
-      },
-      "away": {
-        "name": "aces",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/gmbyx01705392031.png",
-        "color": ""
-      }
-    },
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "cr-cobras-lions",
-    "title": "cobras vs lions",
-    "league": "pro20 cup '26",
-    "category": "cricket",
-    "date": 1794153600000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "cobras",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/51wcio1512983228.png",
-        "color": ""
-      },
-      "away": {
-        "name": "lions",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/cd8tv21487606032.png",
         "color": ""
       }
     },
