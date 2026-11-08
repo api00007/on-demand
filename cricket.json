@@ -5,7 +5,7 @@
     "league": "big bash league women",
     "category": "cricket",
     "date": 1794105600000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "sydney sixers w",
@@ -27,7 +27,7 @@
     "league": "big bash league women",
     "category": "cricket",
     "date": 1794112800000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "melbourne renegades w",
@@ -44,22 +44,84 @@
     "sdUrl": ""
   },
   {
-    "matchId": "cr-afghanistan-zimbabwe",
-    "title": "afghanistan vs zimbabwe",
-    "league": "1st test day-3",
+    "matchId": "cr-india-pakistan",
+    "title": "india vs pakistan",
+    "league": "acc mens u19 asia cup 2026",
+    "category": "cricket",
+    "date": 1794114000000,
+    "status": "live",
+    "teams": {
+      "home": {
+        "name": "india",
+        "badge": "https://flagcdn.com/w320/in.png",
+        "color": "#ff9933"
+      },
+      "away": {
+        "name": "pakistan",
+        "badge": "https://flagcdn.com/w320/pk.png",
+        "color": "#01411c"
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "mm-cric-dl-fb2e3f8a9e",
+    "title": "Afghanistan vs Zimbabwe",
+    "league": "1st Test Day-4",
     "category": "cricket",
     "date": 1794117600000,
+    "status": "live",
+    "teams": {
+      "home": {
+        "name": "Afghanistan",
+        "badge": ""
+      },
+      "away": {
+        "name": "Zimbabwe",
+        "badge": ""
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "mm-cric-dl-42943cff45",
+    "title": "Perth Scorchers W vs Melbourne Stars W",
+    "league": "Big Bash League Women",
+    "category": "cricket",
+    "date": 1794118200000,
+    "status": "live",
+    "teams": {
+      "home": {
+        "name": "Perth Scorchers W",
+        "badge": ""
+      },
+      "away": {
+        "name": "Melbourne Stars W",
+        "badge": ""
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "cr-storm-warriors",
+    "title": "storm vs warriors",
+    "league": "pro20 cup '26",
+    "category": "cricket",
+    "date": 1794124800000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "afghanistan",
-        "badge": "https://flagcdn.com/w320/af.png",
-        "color": "#d32011"
+        "name": "storm",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/wavdxf1758097673.png",
+        "color": "#000944"
       },
       "away": {
-        "name": "zimbabwe",
-        "badge": "https://flagcdn.com/w320/zw.png",
-        "color": "#318500"
+        "name": "warriors",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/w5fhrc1644367999.png",
+        "color": ""
       }
     },
     "hlsUrl": "",
@@ -132,6 +194,28 @@
     "sdUrl": ""
   },
   {
+    "matchId": "cr-titans-dolphins",
+    "title": "titans vs dolphins",
+    "league": "pro20 cup '26",
+    "category": "cricket",
+    "date": 1794141000000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "titans",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/50kzdm1644367943.png",
+        "color": ""
+      },
+      "away": {
+        "name": "dolphins",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/nc4cs31644367913.png",
+        "color": ""
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
     "matchId": "cr-champions-eagles",
     "title": "champions vs eagles",
     "league": "abu dhabi t10 league 2026",
@@ -147,6 +231,28 @@
       "away": {
         "name": "eagles",
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/rmabgy1653500323.png",
+        "color": ""
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "cr-tigers-bulls",
+    "title": "tigers vs bulls",
+    "league": "abu dhabi t10 league 2026",
+    "category": "cricket",
+    "date": 1794144600000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "tigers",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/geh2qk1675420011.png",
+        "color": ""
+      },
+      "away": {
+        "name": "bulls",
+        "badge": "",
         "color": ""
       }
     },
@@ -191,6 +297,28 @@
       "away": {
         "name": "lions",
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/cd8tv21487606032.png",
+        "color": ""
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "cr-aces-champions",
+    "title": "aces vs champions",
+    "league": "abu dhabi t10 league 2026",
+    "category": "cricket",
+    "date": 1794153600000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "aces",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/gmbyx01705392031.png",
+        "color": ""
+      },
+      "away": {
+        "name": "champions",
+        "badge": "",
         "color": ""
       }
     },
