@@ -1,112 +1,68 @@
 [
   {
-    "matchId": "espn-401873052",
-    "title": "New York Giants vs Washington Commanders",
+    "matchId": "espn-401870796",
+    "title": "Missouri State Bears vs New Mexico State Aggies",
+    "league": "NCAA - Football",
+    "category": "american-football",
+    "date": 1794686400000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Missouri State Bears",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/2623.png",
+        "color": ""
+      },
+      "away": {
+        "name": "New Mexico State Aggies",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/166.png",
+        "color": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-11-14/orst-bois/playlist.m3u8?tk=5viHOIoAeHAl2NBQYKi1wA&e=1794591379|Referer=https://ondemand.st",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "espn-401856863",
+    "title": "Oklahoma State Cowboys vs Texas Tech Red Raiders",
+    "league": "NCAA - Football",
+    "category": "american-football",
+    "date": 1794709800000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Oklahoma State Cowboys",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/197.png",
+        "color": ""
+      },
+      "away": {
+        "name": "Texas Tech Red Raiders",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/2641.png",
+        "color": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-11-14/ttu-okst/playlist.m3u8?tk=k4Wk9ybnaR51-DLkHnAk8w&e=1794591385|Referer=https://ondemand.st",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "espn-401873064",
+    "title": "Cincinnati Bengals vs Pittsburgh Steelers",
     "league": "National Football League",
     "category": "american-football",
-    "date": 1794532500000,
+    "date": 1794792000000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "New York Giants",
-        "badge": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyg.png",
+        "name": "Cincinnati Bengals",
+        "badge": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/cin.png",
         "color": ""
       },
       "away": {
-        "name": "Washington Commanders",
-        "badge": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/wsh.png",
+        "name": "Pittsburgh Steelers",
+        "badge": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/pit.png",
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-11-12/wsh-nyg/playlist.m3u8?tk=V5HxWj8UHnyItqwGb5fOJg&e=1794569267|Referer=https://ondemand.st",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "espn-401858526",
-    "title": "UCLA Bruins vs Illinois Fighting Illini",
-    "league": "NCAA - Football",
-    "category": "american-football",
-    "date": 1794621600000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "UCLA Bruins",
-        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/26.png",
-        "color": ""
-      },
-      "away": {
-        "name": "Illinois Fighting Illini",
-        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/356.png",
-        "color": ""
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-11-13/ill-ucla/playlist.m3u8?tk=IHX_SMNKS-4Rj4CadBtUWQ&e=1794569268|Referer=https://ondemand.st",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "espn-401856860",
-    "title": "Colorado Buffaloes vs Houston Cougars",
-    "league": "NCAA - Football",
-    "category": "american-football",
-    "date": 1794626100000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Colorado Buffaloes",
-        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/38.png",
-        "color": ""
-      },
-      "away": {
-        "name": "Houston Cougars",
-        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/248.png",
-        "color": ""
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-11-13/hou-colo/playlist.m3u8?tk=IHX_SMNKS-4Rj4CadBtUWQ&e=1794569268|Referer=https://ondemand.st",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "espn-401856858",
-    "title": "BYU Cougars vs Baylor Bears",
-    "league": "NCAA - Football",
-    "category": "american-football",
-    "date": 1794688200000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "BYU Cougars",
-        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/252.png",
-        "color": ""
-      },
-      "away": {
-        "name": "Baylor Bears",
-        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/239.png",
-        "color": ""
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-11-14/bay-byu/playlist.m3u8?tk=9hTH9vaYGFckBs-RgztTKw&e=1794569273|Referer=https://ondemand.st",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "espn-401873056",
-    "title": "Cleveland Browns vs Houston Texans",
-    "league": "National Football League",
-    "category": "american-football",
-    "date": 1794765600000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Cleveland Browns",
-        "badge": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/cle.png",
-        "color": ""
-      },
-      "away": {
-        "name": "Houston Texans",
-        "badge": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/hou.png",
-        "color": ""
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-11-15/hou-cle/playlist.m3u8?tk=37V6UxMAtmHrAM4NFaFXOg&e=1794569279|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-11-15/pit-cin/playlist.m3u8?tk=mqF81M5GYrL7MS766HdT4w&e=1794591392|Referer=https://ondemand.st",
     "sdUrl": ""
   }
 ]
