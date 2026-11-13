@@ -1,83 +1,63 @@
 [
   {
-    "matchId": "mm-el-E2026-110",
-    "title": "Panathinaikos vs FC Barcelona",
-    "league": "EuroLeague",
-    "category": "basketball",
-    "date": 1794597300000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Panathinaikos AKTOR Athens",
-        "badge": "https://media-cdn.incrowdsports.com/e3dff28a-9ec6-4faf-9d96-ecbc68f75780.png"
-      },
-      "away": {
-        "name": "FC Barcelona",
-        "badge": "https://media-cdn.incrowdsports.com/35dfa503-e417-481f-963a-bdf6f013763e.png"
-      }
-    },
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "espn-401909298",
-    "title": "Miami Heat vs Cleveland Cavaliers",
-    "league": "National Basketball Association",
-    "category": "basketball",
-    "date": 1794618000000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Miami Heat",
-        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mia.png",
-        "color": ""
-      },
-      "away": {
-        "name": "Cleveland Cavaliers",
-        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/cle.png",
-        "color": ""
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nba/2026-11-13/cle-mia/playlist.m3u8?tk=KO76R5O_OagU9rmj1Eq-YQ&e=1794622042|Referer=https://ondemand.st",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "espn-401919847",
-    "title": "Texas Tech Red Raiders vs Stonehill Skyhawks",
+    "matchId": "espn-401921803",
+    "title": "Kentucky Wildcats vs Northern Arizona Lumberjacks",
     "league": "NCAA Men's Basketball",
     "category": "basketball",
-    "date": 1794679200000,
+    "date": 1794614400000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Texas Tech Red Raiders",
-        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/2641.png",
+        "name": "Kentucky Wildcats",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/96.png",
         "color": ""
       },
       "away": {
-        "name": "Stonehill Skyhawks",
-        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/284.png",
+        "name": "Northern Arizona Lumberjacks",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/2464.png",
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cbb/2026-11-14/sto-ttu/playlist.m3u8?tk=gI7DNkRrRVH8TwsK0kcGmQ&e=1794622049|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cbb/2026-11-13/nau-uk/playlist.m3u8?tk=-0-bvKgVyBjKrttyUBQPAw&e=1794647685|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
-    "matchId": "mm-el-E2026-114",
-    "title": "Baskonia vs Hapoel TLV",
+    "matchId": "espn-401875302",
+    "title": "Perth Wildcats vs Illawarra Hawks",
+    "league": "National Basketball League",
+    "category": "basketball",
+    "date": 1794652200000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Perth Wildcats",
+        "badge": "https://a.espncdn.com/i/teamlogos/nbl/500/per.png",
+        "color": ""
+      },
+      "away": {
+        "name": "Illawarra Hawks",
+        "badge": "https://a.espncdn.com/i/teamlogos/nbl/500/hwk.png",
+        "color": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nbl/2026-11-14/per-hwk/playlist.m3u8?tk=LBx7EcVjP8X9MbMG9owcjA&e=1794647691|Referer=https://ondemand.st",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "mm-el-E2026-115",
+    "title": "Milan vs Crvena Zvezda",
     "league": "EuroLeague",
     "category": "basketball",
     "date": 1794943800000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Kosner Baskonia Vitoria-Gasteiz",
-        "badge": "https://media-cdn.cortextech.io/cbc49cb0-99ce-4462-bdb7-56983ee03cf4.png"
+        "name": "Armani Olimpia Milan",
+        "badge": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjChWbHH/5c2f0ab6-f86a-4df0-b2f3-f9ab92f7267b.png"
       },
       "away": {
-        "name": "Hapoel IBI Tel Aviv",
-        "badge": "https://media-cdn.incrowdsports.com/cbb1c3ad-03d5-426a-b5ef-2832a4eee484.png"
+        "name": "Crvena Zvezda Meridianbet Belgrade",
+        "badge": "https://media-cdn.incrowdsports.com/d2eef4a8-62df-4fdd-9076-276004268515.png"
       }
     },
     "hlsUrl": "",
