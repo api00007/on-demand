@@ -1,63 +1,61 @@
 [
   {
-    "matchId": "espn-401909982",
-    "title": "Miami Heat vs Detroit Pistons",
-    "league": "National Basketball Association",
+    "matchId": "espn-401918453",
+    "title": "Michigan Wolverines vs William & Mary Tribe",
+    "league": "NCAA Men's Basketball",
     "category": "basketball",
-    "date": 1794704400000,
+    "date": 1794769200000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Miami Heat",
-        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mia.png",
+        "name": "Michigan Wolverines",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/130.png",
         "color": ""
       },
       "away": {
-        "name": "Detroit Pistons",
-        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/det.png",
+        "name": "William & Mary Tribe",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/2729.png",
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nba/2026-11-14/det-mia/playlist.m3u8?tk=jNxn4z48kfXLRRj5HgpFrw&e=1794689694|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cbb/2026-11-15/wm-mich/playlist.m3u8?tk=YANebg0t0d1AnNRWKH4M_Q&e=1794713944|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
-    "matchId": "espn-401909989",
-    "title": "Boston Celtics vs Dallas Mavericks",
-    "league": "National Basketball Association",
-    "category": "basketball",
-    "date": 1794783600000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Boston Celtics",
-        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/bos.png",
-        "color": ""
-      },
-      "away": {
-        "name": "Dallas Mavericks",
-        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/dal.png",
-        "color": ""
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nba/2026-11-15/dal-bos/playlist.m3u8?tk=_yMidKoH8xQ1K-t_jmFzaQ&e=1794689700|Referer=https://ondemand.st",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "mm-el-E2026-114",
-    "title": "Baskonia vs Hapoel TLV",
+    "matchId": "mm-el-E2026-111",
+    "title": "Dubai vs Anadolu Efes",
     "league": "EuroLeague",
     "category": "basketball",
-    "date": 1794943800000,
+    "date": 1794931200000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Kosner Baskonia Vitoria-Gasteiz",
-        "badge": "https://media-cdn.cortextech.io/cbc49cb0-99ce-4462-bdb7-56983ee03cf4.png"
+        "name": "Dubai Basketball",
+        "badge": "https://media-cdn.incrowdsports.com/1efae090-16e2-4963-ae47-4b94f249c244.png"
       },
       "away": {
-        "name": "Hapoel IBI Tel Aviv",
-        "badge": "https://media-cdn.incrowdsports.com/cbb1c3ad-03d5-426a-b5ef-2832a4eee484.png"
+        "name": "Anadolu Efes Istanbul",
+        "badge": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCgOCxM/a844756c-a58d-4666-93b8-48f7337bc79d.png"
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "mm-el-E2026-124",
+    "title": "Bayern Munich vs Baskonia",
+    "league": "EuroLeague",
+    "category": "basketball",
+    "date": 1795114800000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "FC Bayern Munich",
+        "badge": "https://media-cdn.incrowdsports.com/817b0e58-d595-4b09-ab0b-1e7cc26249ff.png"
+      },
+      "away": {
+        "name": "Kosner Baskonia Vitoria-Gasteiz",
+        "badge": "https://media-cdn.cortextech.io/cbc49cb0-99ce-4462-bdb7-56983ee03cf4.png"
       }
     },
     "hlsUrl": "",
