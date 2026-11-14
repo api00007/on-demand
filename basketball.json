@@ -1,63 +1,83 @@
 [
   {
-    "matchId": "espn-401921803",
-    "title": "Kentucky Wildcats vs Northern Arizona Lumberjacks",
+    "matchId": "espn-401925755",
+    "title": "Michigan State Spartans vs Northern Iowa Panthers",
     "league": "NCAA Men's Basketball",
     "category": "basketball",
     "date": 1794614400000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
-        "name": "Kentucky Wildcats",
-        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/96.png",
+        "name": "Michigan State Spartans",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/127.png",
         "color": ""
       },
       "away": {
-        "name": "Northern Arizona Lumberjacks",
-        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/2464.png",
+        "name": "Northern Iowa Panthers",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/2460.png",
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cbb/2026-11-13/nau-uk/playlist.m3u8?tk=-0-bvKgVyBjKrttyUBQPAw&e=1794647685|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cbb/2026-11-13/uni-msu/playlist.m3u8?tk=jCL5eiVVwEVyrI4QDe3QXg&e=1794664861|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
-    "matchId": "espn-401875302",
-    "title": "Perth Wildcats vs Illawarra Hawks",
-    "league": "National Basketball League",
+    "matchId": "espn-401909302",
+    "title": "San Antonio Spurs vs Golden State Warriors",
+    "league": "National Basketball Association",
     "category": "basketball",
-    "date": 1794652200000,
+    "date": 1794623400000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Perth Wildcats",
-        "badge": "https://a.espncdn.com/i/teamlogos/nbl/500/per.png",
+        "name": "San Antonio Spurs",
+        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sa.png",
         "color": ""
       },
       "away": {
-        "name": "Illawarra Hawks",
-        "badge": "https://a.espncdn.com/i/teamlogos/nbl/500/hwk.png",
+        "name": "Golden State Warriors",
+        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/gs.png",
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nbl/2026-11-14/per-hwk/playlist.m3u8?tk=LBx7EcVjP8X9MbMG9owcjA&e=1794647691|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nba/2026-11-13/gs-sa/playlist.m3u8?tk=KSg9bdBWDx0iloGfL16vLA&e=1794664867|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
-    "matchId": "mm-el-E2026-115",
-    "title": "Milan vs Crvena Zvezda",
+    "matchId": "mm-el-E2026-117",
+    "title": "Fenerbahce vs LDLC ASVEL",
     "league": "EuroLeague",
     "category": "basketball",
-    "date": 1794943800000,
+    "date": 1794938400000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Armani Olimpia Milan",
-        "badge": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjChWbHH/5c2f0ab6-f86a-4df0-b2f3-f9ab92f7267b.png"
+        "name": "Fenerbahce Tarfin Istanbul",
+        "badge": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCiezrk/aa39750a-6203-49ee-a87d-edd0c6f0397d.png"
       },
       "away": {
-        "name": "Crvena Zvezda Meridianbet Belgrade",
-        "badge": "https://media-cdn.incrowdsports.com/d2eef4a8-62df-4fdd-9076-276004268515.png"
+        "name": "LDLC ASVEL Villeurbanne",
+        "badge": "https://media-cdn.incrowdsports.com/e33c6d1a-95ca-4dbc-b8cb-0201812104cc.png"
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "mm-el-E2026-130",
+    "title": "Olympiacos vs Real Madrid",
+    "league": "EuroLeague",
+    "category": "basketball",
+    "date": 1795202100000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Olympiacos Piraeus",
+        "badge": "https://media-cdn.incrowdsports.com/789423ac-3cdf-4b89-b11c-b458aa5f59a6.png"
+      },
+      "away": {
+        "name": "Real Madrid",
+        "badge": "https://media-cdn.incrowdsports.com/371b0d9b-9250-4c09-bda7-0686cf024657.png"
       }
     },
     "hlsUrl": "",
