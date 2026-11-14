@@ -1,1 +1,24 @@
-[]
+[
+  {
+    "matchId": "espn-401892717",
+    "title": "Dallas Stars vs Buffalo Sabres",
+    "league": "National Hockey League",
+    "category": "hockey",
+    "date": 1794704400000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Dallas Stars",
+        "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/dal.png",
+        "color": ""
+      },
+      "away": {
+        "name": "Buffalo Sabres",
+        "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/buf.png",
+        "color": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-11-14/buf-dal/playlist.m3u8?tk=SIHi9EGNIZ0RLXL_xJGq3g&e=1794689736|Referer=https://ondemand.st",
+    "sdUrl": ""
+  }
+]

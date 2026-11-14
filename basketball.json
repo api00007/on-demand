@@ -1,83 +1,63 @@
 [
   {
-    "matchId": "espn-401925755",
-    "title": "Michigan State Spartans vs Northern Iowa Panthers",
-    "league": "NCAA Men's Basketball",
-    "category": "basketball",
-    "date": 1794614400000,
-    "status": "live",
-    "teams": {
-      "home": {
-        "name": "Michigan State Spartans",
-        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/127.png",
-        "color": ""
-      },
-      "away": {
-        "name": "Northern Iowa Panthers",
-        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/2460.png",
-        "color": ""
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cbb/2026-11-13/uni-msu/playlist.m3u8?tk=jCL5eiVVwEVyrI4QDe3QXg&e=1794664861|Referer=https://ondemand.st",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "espn-401909302",
-    "title": "San Antonio Spurs vs Golden State Warriors",
+    "matchId": "espn-401909982",
+    "title": "Miami Heat vs Detroit Pistons",
     "league": "National Basketball Association",
     "category": "basketball",
-    "date": 1794623400000,
+    "date": 1794704400000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "San Antonio Spurs",
-        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sa.png",
+        "name": "Miami Heat",
+        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mia.png",
         "color": ""
       },
       "away": {
-        "name": "Golden State Warriors",
-        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/gs.png",
+        "name": "Detroit Pistons",
+        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/det.png",
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nba/2026-11-13/gs-sa/playlist.m3u8?tk=KSg9bdBWDx0iloGfL16vLA&e=1794664867|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nba/2026-11-14/det-mia/playlist.m3u8?tk=jNxn4z48kfXLRRj5HgpFrw&e=1794689694|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
-    "matchId": "mm-el-E2026-117",
-    "title": "Fenerbahce vs LDLC ASVEL",
-    "league": "EuroLeague",
+    "matchId": "espn-401909989",
+    "title": "Boston Celtics vs Dallas Mavericks",
+    "league": "National Basketball Association",
     "category": "basketball",
-    "date": 1794938400000,
+    "date": 1794783600000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Fenerbahce Tarfin Istanbul",
-        "badge": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCiezrk/aa39750a-6203-49ee-a87d-edd0c6f0397d.png"
+        "name": "Boston Celtics",
+        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/bos.png",
+        "color": ""
       },
       "away": {
-        "name": "LDLC ASVEL Villeurbanne",
-        "badge": "https://media-cdn.incrowdsports.com/e33c6d1a-95ca-4dbc-b8cb-0201812104cc.png"
+        "name": "Dallas Mavericks",
+        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/dal.png",
+        "color": ""
       }
     },
-    "hlsUrl": "",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nba/2026-11-15/dal-bos/playlist.m3u8?tk=_yMidKoH8xQ1K-t_jmFzaQ&e=1794689700|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
-    "matchId": "mm-el-E2026-130",
-    "title": "Olympiacos vs Real Madrid",
+    "matchId": "mm-el-E2026-114",
+    "title": "Baskonia vs Hapoel TLV",
     "league": "EuroLeague",
     "category": "basketball",
-    "date": 1795202100000,
+    "date": 1794943800000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Olympiacos Piraeus",
-        "badge": "https://media-cdn.incrowdsports.com/789423ac-3cdf-4b89-b11c-b458aa5f59a6.png"
+        "name": "Kosner Baskonia Vitoria-Gasteiz",
+        "badge": "https://media-cdn.cortextech.io/cbc49cb0-99ce-4462-bdb7-56983ee03cf4.png"
       },
       "away": {
-        "name": "Real Madrid",
-        "badge": "https://media-cdn.incrowdsports.com/371b0d9b-9250-4c09-bda7-0686cf024657.png"
+        "name": "Hapoel IBI Tel Aviv",
+        "badge": "https://media-cdn.incrowdsports.com/cbb1c3ad-03d5-426a-b5ef-2832a4eee484.png"
       }
     },
     "hlsUrl": "",
