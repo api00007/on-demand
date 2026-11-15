@@ -1,68 +1,46 @@
 [
   {
-    "matchId": "espn-401909985",
-    "title": "Philadelphia 76ers vs Indiana Pacers",
+    "matchId": "espn-401909986",
+    "title": "Phoenix Suns vs Los Angeles Lakers",
     "league": "National Basketball Association",
     "category": "basketball",
-    "date": 1794765600000,
+    "date": 1794776400000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Philadelphia 76ers",
-        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/phi.png",
+        "name": "Phoenix Suns",
+        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/phx.png",
         "color": ""
       },
       "away": {
-        "name": "Indiana Pacers",
-        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/ind.png",
+        "name": "Los Angeles Lakers",
+        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lal.png",
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nba/2026-11-15/ind-phi/playlist.m3u8?tk=BaNI4FPBUjDXKqiTwofW6Q&e=1794799689|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nba/2026-11-15/lal-phx/playlist.m3u8?tk=fUj5hYbgRk2gwjJ1l9cn7A&e=1794819233|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
-    "matchId": "espn-401906866",
-    "title": "Texas Longhorns vs Baylor Bears",
-    "league": "NCAA Men's Basketball",
-    "category": "basketball",
-    "date": 1794772800000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Texas Longhorns",
-        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/251.png",
-        "color": ""
-      },
-      "away": {
-        "name": "Baylor Bears",
-        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/239.png",
-        "color": ""
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cbb/2026-11-15/bay-tex/playlist.m3u8?tk=dMCYs6Yj38pCu0qHucKdsw&e=1794799695|Referer=https://ondemand.st",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "espn-401909992",
-    "title": "Milwaukee Bucks vs Atlanta Hawks",
+    "matchId": "espn-401909996",
+    "title": "Washington Wizards vs Memphis Grizzlies",
     "league": "National Basketball Association",
     "category": "basketball",
-    "date": 1794790800000,
+    "date": 1794873600000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Milwaukee Bucks",
-        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mil.png",
+        "name": "Washington Wizards",
+        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/wsh.png",
         "color": ""
       },
       "away": {
-        "name": "Atlanta Hawks",
-        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/atl.png",
+        "name": "Memphis Grizzlies",
+        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mem.png",
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nba/2026-11-15/atl-mil/playlist.m3u8?tk=nV_CRfo8s5A9ubRNoNPbPA&e=1794799700|Referer=https://ondemand.st",
+    "hlsUrl": "",
     "sdUrl": ""
   },
   {
@@ -84,7 +62,73 @@
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nba/2026-11-16/phi-bkn/playlist.m3u8?tk=1mxdrNv3wZTotfYYn8oj_w&e=1794799707|Referer=https://ondemand.st",
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "espn-401909998",
+    "title": "Miami Heat vs Houston Rockets",
+    "league": "National Basketball Association",
+    "category": "basketball",
+    "date": 1794875400000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Miami Heat",
+        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mia.png",
+        "color": ""
+      },
+      "away": {
+        "name": "Houston Rockets",
+        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/hou.png",
+        "color": ""
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "espn-401909999",
+    "title": "Minnesota Timberwolves vs Portland Trail Blazers",
+    "league": "National Basketball Association",
+    "category": "basketball",
+    "date": 1794877200000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Minnesota Timberwolves",
+        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/min.png",
+        "color": ""
+      },
+      "away": {
+        "name": "Portland Trail Blazers",
+        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/por.png",
+        "color": ""
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "espn-401910000",
+    "title": "New Orleans Pelicans vs Golden State Warriors",
+    "league": "National Basketball Association",
+    "category": "basketball",
+    "date": 1794877200000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "New Orleans Pelicans",
+        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/no.png",
+        "color": ""
+      },
+      "away": {
+        "name": "Golden State Warriors",
+        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/gs.png",
+        "color": ""
+      }
+    },
+    "hlsUrl": "",
     "sdUrl": ""
   },
   {
@@ -106,37 +150,155 @@
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nba/2026-11-16/phx-den/playlist.m3u8?tk=F8QYT_jIC5hato34Ipr8zQ&e=1794799713|Referer=https://ondemand.st",
+    "hlsUrl": "",
     "sdUrl": ""
   },
   {
-    "matchId": "espn-401910002",
-    "title": "Toronto Raptors vs New York Knicks",
-    "league": "National Basketball Association",
+    "matchId": "mm-el-E2026-111",
+    "title": "Dubai vs Anadolu Efes",
+    "league": "EuroLeague",
     "category": "basketball",
-    "date": 1794961800000,
+    "date": 1794931200000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Toronto Raptors",
-        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/tor.png",
-        "color": ""
+        "name": "Dubai Basketball",
+        "badge": "https://media-cdn.incrowdsports.com/1efae090-16e2-4963-ae47-4b94f249c244.png"
       },
       "away": {
-        "name": "New York Knicks",
-        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/ny.png",
-        "color": ""
+        "name": "Anadolu Efes Istanbul",
+        "badge": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCgOCxM/a844756c-a58d-4666-93b8-48f7337bc79d.png"
       }
     },
     "hlsUrl": "",
     "sdUrl": ""
   },
   {
-    "matchId": "mm-el-E2026-129",
-    "title": "Partizan vs Besiktas",
+    "matchId": "mm-el-E2026-113",
+    "title": "Maccabi vs Olympiacos",
     "league": "EuroLeague",
     "category": "basketball",
-    "date": 1795203900000,
+    "date": 1794934800000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Maccabi Rapyd Tel Aviv",
+        "badge": "https://media-cdn.cortextech.io/1b533342-78f5-4932-b714-a7d80b5826b5.png"
+      },
+      "away": {
+        "name": "Olympiacos Piraeus",
+        "badge": "https://media-cdn.incrowdsports.com/789423ac-3cdf-4b89-b11c-b458aa5f59a6.png"
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "mm-el-E2026-117",
+    "title": "Fenerbahce vs LDLC ASVEL",
+    "league": "EuroLeague",
+    "category": "basketball",
+    "date": 1794938400000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Fenerbahce Tarfin Istanbul",
+        "badge": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCiezrk/aa39750a-6203-49ee-a87d-edd0c6f0397d.png"
+      },
+      "away": {
+        "name": "LDLC ASVEL Villeurbanne",
+        "badge": "https://media-cdn.incrowdsports.com/e33c6d1a-95ca-4dbc-b8cb-0201812104cc.png"
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "mm-el-E2026-112",
+    "title": "Zalgiris vs Bayern Munich",
+    "league": "EuroLeague",
+    "category": "basketball",
+    "date": 1794938400000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Zalgiris Kaunas",
+        "badge": "https://media-cdn.incrowdsports.com/0aa09358-3847-4c4e-b228-3582ee4e536d.png"
+      },
+      "away": {
+        "name": "FC Bayern Munich",
+        "badge": "https://media-cdn.incrowdsports.com/817b0e58-d595-4b09-ab0b-1e7cc26249ff.png"
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "mm-el-E2026-116",
+    "title": "FC Barcelona vs Paris",
+    "league": "EuroLeague",
+    "category": "basketball",
+    "date": 1794943800000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "FC Barcelona",
+        "badge": "https://media-cdn.incrowdsports.com/35dfa503-e417-481f-963a-bdf6f013763e.png"
+      },
+      "away": {
+        "name": "Paris Basketball",
+        "badge": "https://media-cdn.incrowdsports.com/a033e5b3-0de7-48a3-98d9-d9a4b9df1f39.png"
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "mm-el-E2026-115",
+    "title": "Milan vs Crvena Zvezda",
+    "league": "EuroLeague",
+    "category": "basketball",
+    "date": 1794943800000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Armani Olimpia Milan",
+        "badge": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjChWbHH/5c2f0ab6-f86a-4df0-b2f3-f9ab92f7267b.png"
+      },
+      "away": {
+        "name": "Crvena Zvezda Meridianbet Belgrade",
+        "badge": "https://media-cdn.incrowdsports.com/d2eef4a8-62df-4fdd-9076-276004268515.png"
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "mm-el-E2026-114",
+    "title": "Baskonia vs Hapoel TLV",
+    "league": "EuroLeague",
+    "category": "basketball",
+    "date": 1794943800000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Kosner Baskonia Vitoria-Gasteiz",
+        "badge": "https://media-cdn.cortextech.io/cbc49cb0-99ce-4462-bdb7-56983ee03cf4.png"
+      },
+      "away": {
+        "name": "Hapoel IBI Tel Aviv",
+        "badge": "https://media-cdn.incrowdsports.com/cbb1c3ad-03d5-426a-b5ef-2832a4eee484.png"
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "mm-el-E2026-118",
+    "title": "Partizan vs Valencia",
+    "league": "EuroLeague",
+    "category": "basketball",
+    "date": 1794944700000,
     "status": "upcoming",
     "teams": {
       "home": {
@@ -144,8 +306,50 @@
         "badge": "https://media-cdn.incrowdsports.com/2681304e-77dd-4331-88b1-683078c0fb49.png"
       },
       "away": {
-        "name": "Besiktas Istanbul",
-        "badge": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjChWbHH/b05e3c54-e672-4b31-9f86-c91e9de7715c.png"
+        "name": "Valencia Basket",
+        "badge": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjChWbHL/bc3e00b2-fea4-40be-a7ec-1e633129bde3.png"
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "mm-el-E2026-119",
+    "title": "Virtus Bologna vs Panathinaikos",
+    "league": "EuroLeague",
+    "category": "basketball",
+    "date": 1794945600000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Virtus Bologna",
+        "badge": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCiezvk/a92d4c3b-9f9c-4163-8a10-bcf8fc15893e.png"
+      },
+      "away": {
+        "name": "Panathinaikos AKTOR Athens",
+        "badge": "https://media-cdn.incrowdsports.com/e3dff28a-9ec6-4faf-9d96-ecbc68f75780.png"
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "espn-401906867",
+    "title": "Texas Longhorns vs Southern Utah Thunderbirds",
+    "league": "NCAA Men's Basketball",
+    "category": "basketball",
+    "date": 1795136400000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Texas Longhorns",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/251.png",
+        "color": ""
+      },
+      "away": {
+        "name": "Southern Utah Thunderbirds",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/253.png",
+        "color": ""
       }
     },
     "hlsUrl": "",
