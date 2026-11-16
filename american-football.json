@@ -1,1 +1,68 @@
-[]
+[
+  {
+    "matchId": "espn-401873066",
+    "title": "Houston Texans vs Indianapolis Colts",
+    "league": "National Football League",
+    "category": "american-football",
+    "date": 1795137300000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Houston Texans",
+        "badge": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/hou.png",
+        "color": ""
+      },
+      "away": {
+        "name": "Indianapolis Colts",
+        "badge": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ind.png",
+        "color": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-11-19/ind-hou/playlist.m3u8?tk=HdojMSe8K7FVdyGbdrD46Q&e=1794858278|Referer=https://ondemand.st",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "espn-401858535",
+    "title": "Washington Huskies vs Indiana Hoosiers",
+    "league": "NCAA - Football",
+    "category": "american-football",
+    "date": 1795293000000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Washington Huskies",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/264.png",
+        "color": ""
+      },
+      "away": {
+        "name": "Indiana Hoosiers",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/84.png",
+        "color": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-11-21/iu-wash/playlist.m3u8?tk=OLGyrdSBMHr3x7MKtLTOaA&e=1794858284|Referer=https://ondemand.st",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "espn-401860919",
+    "title": "Oregon State Beavers vs Utah State Aggies",
+    "league": "NCAA - Football",
+    "category": "american-football",
+    "date": 1795318200000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Oregon State Beavers",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/204.png",
+        "color": ""
+      },
+      "away": {
+        "name": "Utah State Aggies",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/328.png",
+        "color": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-11-21/sdsu-bois/playlist.m3u8?tk=MEZzhQg7FVzRa_4ZE82hyw&e=1794858290|Referer=https://ondemand.st",
+    "sdUrl": ""
+  }
+]

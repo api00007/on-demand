@@ -1,61 +1,83 @@
 [
   {
-    "matchId": "espn-401909996",
-    "title": "Washington Wizards vs Memphis Grizzlies",
+    "matchId": "espn-401909999",
+    "title": "Minnesota Timberwolves vs Portland Trail Blazers",
     "league": "National Basketball Association",
     "category": "basketball",
-    "date": 1794873600000,
+    "date": 1794877200000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Washington Wizards",
-        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/wsh.png",
+        "name": "Minnesota Timberwolves",
+        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/min.png",
         "color": ""
       },
       "away": {
-        "name": "Memphis Grizzlies",
-        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mem.png",
+        "name": "Portland Trail Blazers",
+        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/por.png",
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nba/2026-11-16/mem-wsh/playlist.m3u8?tk=1z07AC5K-ha3wNcm1R0sPQ&e=1794833393|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nba/2026-11-16/por-min/playlist.m3u8?tk=LEuggDWHCTeLAw7LoliwXg&e=1794858254|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
-    "matchId": "mm-el-E2026-118",
-    "title": "Partizan vs Valencia",
+    "matchId": "mm-el-E2026-119",
+    "title": "Virtus Bologna vs Panathinaikos",
     "league": "EuroLeague",
     "category": "basketball",
-    "date": 1794944700000,
+    "date": 1794945600000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Partizan Mozzart Bet Belgrade",
-        "badge": "https://media-cdn.incrowdsports.com/2681304e-77dd-4331-88b1-683078c0fb49.png"
+        "name": "Virtus Bologna",
+        "badge": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCiezvk/a92d4c3b-9f9c-4163-8a10-bcf8fc15893e.png"
       },
       "away": {
-        "name": "Valencia Basket",
-        "badge": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjChWbHL/bc3e00b2-fea4-40be-a7ec-1e633129bde3.png"
+        "name": "Panathinaikos AKTOR Athens",
+        "badge": "https://media-cdn.incrowdsports.com/e3dff28a-9ec6-4faf-9d96-ecbc68f75780.png"
       }
     },
     "hlsUrl": "",
     "sdUrl": ""
   },
   {
-    "matchId": "mm-el-E2026-128",
-    "title": "FC Barcelona vs Crvena Zvezda",
-    "league": "EuroLeague",
+    "matchId": "espn-401925879",
+    "title": "Gonzaga Bulldogs vs Montana State Bobcats",
+    "league": "NCAA Men's Basketball",
     "category": "basketball",
-    "date": 1795203000000,
+    "date": 1794974400000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "FC Barcelona",
-        "badge": "https://media-cdn.incrowdsports.com/35dfa503-e417-481f-963a-bdf6f013763e.png"
+        "name": "Gonzaga Bulldogs",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/2250.png",
+        "color": ""
       },
       "away": {
-        "name": "Crvena Zvezda Meridianbet Belgrade",
-        "badge": "https://media-cdn.incrowdsports.com/d2eef4a8-62df-4fdd-9076-276004268515.png"
+        "name": "Montana State Bobcats",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/147.png",
+        "color": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cbb/2026-11-17/mtst-gonz/playlist.m3u8?tk=7xTbj5h8LpeDjSfibrKtfw&e=1794858266|Referer=https://ondemand.st",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "mm-el-E2026-121",
+    "title": "Zalgiris vs Panathinaikos",
+    "league": "EuroLeague",
+    "category": "basketball",
+    "date": 1795111200000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Zalgiris Kaunas",
+        "badge": "https://media-cdn.incrowdsports.com/0aa09358-3847-4c4e-b228-3582ee4e536d.png"
+      },
+      "away": {
+        "name": "Panathinaikos AKTOR Athens",
+        "badge": "https://media-cdn.incrowdsports.com/e3dff28a-9ec6-4faf-9d96-ecbc68f75780.png"
       }
     },
     "hlsUrl": "",
