@@ -1,63 +1,85 @@
 [
   {
-    "matchId": "espn-401924265",
-    "title": "UCLA Bruins vs Long Beach State Beach",
-    "league": "NCAA Men's Basketball",
-    "category": "basketball",
-    "date": 1794884400000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "UCLA Bruins",
-        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/26.png",
-        "color": ""
-      },
-      "away": {
-        "name": "Long Beach State Beach",
-        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/299.png",
-        "color": ""
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cbb/2026-11-16/lbsu-ucla/playlist.m3u8?tk=FGgM-cuVlKXlYMaJmLVNaw&e=1794895433|Referer=https://ondemand.st",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "espn-401910002",
-    "title": "Toronto Raptors vs New York Knicks",
+    "matchId": "espn-401909995",
+    "title": "Cleveland Cavaliers vs Chicago Bulls",
     "league": "National Basketball Association",
     "category": "basketball",
-    "date": 1794961800000,
-    "status": "upcoming",
+    "date": 1794873600000,
+    "status": "live",
     "teams": {
       "home": {
-        "name": "Toronto Raptors",
-        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/tor.png",
+        "name": "Cleveland Cavaliers",
+        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/cle.png",
         "color": ""
       },
       "away": {
-        "name": "New York Knicks",
-        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/ny.png",
+        "name": "Chicago Bulls",
+        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/chi.png",
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nba/2026-11-17/ny-tor/playlist.m3u8?tk=krFWlKo331dS1rdVyc5Olg&e=1794895439|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nba/2026-11-16/chi-cle/playlist.m3u8?tk=LEYaAk-FmpPG6JoIVjqJFg&e=1794925286|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
-    "matchId": "mm-el-E2026-122",
-    "title": "Maccabi vs Dubai",
+    "matchId": "mm-el-E2026-114",
+    "title": "Baskonia vs Hapoel TLV",
     "league": "EuroLeague",
     "category": "basketball",
-    "date": 1795108500000,
+    "date": 1794943800000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Maccabi Rapyd Tel Aviv",
-        "badge": "https://media-cdn.cortextech.io/1b533342-78f5-4932-b714-a7d80b5826b5.png"
+        "name": "Kosner Baskonia Vitoria-Gasteiz",
+        "badge": "https://media-cdn.cortextech.io/cbc49cb0-99ce-4462-bdb7-56983ee03cf4.png"
       },
       "away": {
-        "name": "Dubai Basketball",
-        "badge": "https://media-cdn.incrowdsports.com/1efae090-16e2-4963-ae47-4b94f249c244.png"
+        "name": "Hapoel IBI Tel Aviv",
+        "badge": "https://media-cdn.incrowdsports.com/cbb1c3ad-03d5-426a-b5ef-2832a4eee484.png"
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "espn-401910005",
+    "title": "Los Angeles Lakers vs Charlotte Hornets",
+    "league": "National Basketball Association",
+    "category": "basketball",
+    "date": 1794974400000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Los Angeles Lakers",
+        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lal.png",
+        "color": ""
+      },
+      "away": {
+        "name": "Charlotte Hornets",
+        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/cha.png",
+        "color": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nba/2026-11-17/cha-lal/playlist.m3u8?tk=JlxGsh1f1viaKuMs6lTI8Q&e=1794925298|Referer=https://ondemand.st",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "espn-401910041",
+    "title": "Chicago Bulls vs Cleveland Cavaliers",
+    "league": "National Basketball Association",
+    "category": "basketball",
+    "date": 1795482000000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Chicago Bulls",
+        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/chi.png",
+        "color": ""
+      },
+      "away": {
+        "name": "Cleveland Cavaliers",
+        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/cle.png",
+        "color": ""
       }
     },
     "hlsUrl": "",
