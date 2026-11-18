@@ -1,125 +1,85 @@
 [
   {
-    "matchId": "mm-el-E2026-117",
-    "title": "Fenerbahce vs LDLC ASVEL",
-    "league": "EuroLeague",
+    "matchId": "espn-401910002",
+    "title": "Toronto Raptors vs New York Knicks",
+    "league": "National Basketball Association",
     "category": "basketball",
-    "date": 1794938400000,
+    "date": 1794961800000,
     "status": "live",
     "teams": {
       "home": {
-        "name": "Fenerbahce Tarfin Istanbul",
-        "badge": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCiezrk/aa39750a-6203-49ee-a87d-edd0c6f0397d.png"
-      },
-      "away": {
-        "name": "LDLC ASVEL Villeurbanne",
-        "badge": "https://media-cdn.incrowdsports.com/e33c6d1a-95ca-4dbc-b8cb-0201812104cc.png"
-      }
-    },
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "espn-401921826",
-    "title": "Vanderbilt Commodores vs Eastern Illinois Panthers",
-    "league": "NCAA Men's Basketball",
-    "category": "basketball",
-    "date": 1794963600000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Vanderbilt Commodores",
-        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/238.png",
+        "name": "Toronto Raptors",
+        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/tor.png",
         "color": ""
       },
       "away": {
-        "name": "Eastern Illinois Panthers",
-        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/2197.png",
+        "name": "New York Knicks",
+        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/ny.png",
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cbb/2026-11-17/eiu-van/playlist.m3u8?tk=YeGM1c1vTH8O5h1JlJH5YA&e=1794990983|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nba/2026-11-17/ny-tor/playlist.m3u8?tk=wv2DB26WoKBfIkye0Nca8g&e=1795013233|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
-    "matchId": "espn-401909787",
-    "title": "Kansas Jayhawks vs UNLV Rebels",
-    "league": "NCAA Men's Basketball",
-    "category": "basketball",
-    "date": 1794969000000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Kansas Jayhawks",
-        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/2305.png",
-        "color": ""
-      },
-      "away": {
-        "name": "UNLV Rebels",
-        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/2439.png",
-        "color": ""
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cbb/2026-11-17/unlv-ku/playlist.m3u8?tk=qE7E1NGTtPKs65CA0aCx7Q&e=1794990984|Referer=https://ondemand.st",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "espn-401910013",
-    "title": "New Orleans Pelicans vs Detroit Pistons",
+    "matchId": "espn-401910007",
+    "title": "Cleveland Cavaliers vs Memphis Grizzlies",
     "league": "National Basketball Association",
     "category": "basketball",
-    "date": 1795050000000,
+    "date": 1795046400000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "New Orleans Pelicans",
-        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/no.png",
+        "name": "Cleveland Cavaliers",
+        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/cle.png",
         "color": ""
       },
       "away": {
-        "name": "Detroit Pistons",
-        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/det.png",
+        "name": "Memphis Grizzlies",
+        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mem.png",
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nba/2026-11-18/det-no/playlist.m3u8?tk=V_tOhjPwdeBz7mMU4hv-Xw&e=1794990990|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nba/2026-11-18/mem-cle/playlist.m3u8?tk=Ry8EtFFcCeLVnGJWeXrlig&e=1795013239|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
-    "matchId": "mm-el-E2026-126",
-    "title": "Paris vs Hapoel TLV",
-    "league": "EuroLeague",
+    "matchId": "espn-401921742",
+    "title": "BYU Cougars vs Northern Colorado Bears",
+    "league": "NCAA Men's Basketball",
     "category": "basketball",
-    "date": 1795117500000,
+    "date": 1795053600000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Paris Basketball",
-        "badge": "https://media-cdn.incrowdsports.com/a033e5b3-0de7-48a3-98d9-d9a4b9df1f39.png"
+        "name": "BYU Cougars",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/252.png",
+        "color": ""
       },
       "away": {
-        "name": "Hapoel IBI Tel Aviv",
-        "badge": "https://media-cdn.incrowdsports.com/cbb1c3ad-03d5-426a-b5ef-2832a4eee484.png"
+        "name": "Northern Colorado Bears",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/2458.png",
+        "color": ""
       }
     },
-    "hlsUrl": "",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cbb/2026-11-18/unco-byu/playlist.m3u8?tk=zf0hKdt2IE3G6xD06oNW7w&e=1795013245|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
-    "matchId": "mm-el-E2026-137",
-    "title": "Dubai vs Partizan",
+    "matchId": "mm-el-E2026-129",
+    "title": "Partizan vs Besiktas",
     "league": "EuroLeague",
     "category": "basketball",
-    "date": 1795622400000,
+    "date": 1795203900000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Dubai Basketball",
-        "badge": "https://media-cdn.incrowdsports.com/1efae090-16e2-4963-ae47-4b94f249c244.png"
-      },
-      "away": {
         "name": "Partizan Mozzart Bet Belgrade",
         "badge": "https://media-cdn.incrowdsports.com/2681304e-77dd-4331-88b1-683078c0fb49.png"
+      },
+      "away": {
+        "name": "Besiktas Istanbul",
+        "badge": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjChWbHH/b05e3c54-e672-4b31-9f86-c91e9de7715c.png"
       }
     },
     "hlsUrl": "",
