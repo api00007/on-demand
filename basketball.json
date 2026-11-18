@@ -1,85 +1,83 @@
 [
   {
-    "matchId": "espn-401910002",
-    "title": "Toronto Raptors vs New York Knicks",
-    "league": "National Basketball Association",
-    "category": "basketball",
-    "date": 1794961800000,
-    "status": "live",
-    "teams": {
-      "home": {
-        "name": "Toronto Raptors",
-        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/tor.png",
-        "color": ""
-      },
-      "away": {
-        "name": "New York Knicks",
-        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/ny.png",
-        "color": ""
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nba/2026-11-17/ny-tor/playlist.m3u8?tk=wv2DB26WoKBfIkye0Nca8g&e=1795013233|Referer=https://ondemand.st",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "espn-401910007",
-    "title": "Cleveland Cavaliers vs Memphis Grizzlies",
+    "matchId": "espn-401910008",
+    "title": "Indiana Pacers vs Houston Rockets",
     "league": "National Basketball Association",
     "category": "basketball",
     "date": 1795046400000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Cleveland Cavaliers",
-        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/cle.png",
+        "name": "Indiana Pacers",
+        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/ind.png",
         "color": ""
       },
       "away": {
-        "name": "Memphis Grizzlies",
-        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mem.png",
+        "name": "Houston Rockets",
+        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/hou.png",
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nba/2026-11-18/mem-cle/playlist.m3u8?tk=Ry8EtFFcCeLVnGJWeXrlig&e=1795013239|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nba/2026-11-18/hou-ind/playlist.m3u8?tk=ZhS7O0iqRB76v7L2AgzsYw&e=1795043844|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
-    "matchId": "espn-401921742",
-    "title": "BYU Cougars vs Northern Colorado Bears",
+    "matchId": "espn-401909742",
+    "title": "Arizona Wildcats vs UConn Huskies",
     "league": "NCAA Men's Basketball",
     "category": "basketball",
     "date": 1795053600000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "BYU Cougars",
-        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/252.png",
+        "name": "Arizona Wildcats",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/12.png",
         "color": ""
       },
       "away": {
-        "name": "Northern Colorado Bears",
-        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/2458.png",
+        "name": "UConn Huskies",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/41.png",
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cbb/2026-11-18/unco-byu/playlist.m3u8?tk=zf0hKdt2IE3G6xD06oNW7w&e=1795013245|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cbb/2026-11-18/conn-ariz/playlist.m3u8?tk=nnz5vuWSEKjbJM5AczwRrg&e=1795043851|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
-    "matchId": "mm-el-E2026-129",
-    "title": "Partizan vs Besiktas",
+    "matchId": "mm-el-E2026-126",
+    "title": "Paris vs Hapoel TLV",
     "league": "EuroLeague",
     "category": "basketball",
-    "date": 1795203900000,
+    "date": 1795117500000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Partizan Mozzart Bet Belgrade",
-        "badge": "https://media-cdn.incrowdsports.com/2681304e-77dd-4331-88b1-683078c0fb49.png"
+        "name": "Paris Basketball",
+        "badge": "https://media-cdn.incrowdsports.com/a033e5b3-0de7-48a3-98d9-d9a4b9df1f39.png"
       },
       "away": {
+        "name": "Hapoel IBI Tel Aviv",
+        "badge": "https://media-cdn.incrowdsports.com/cbb1c3ad-03d5-426a-b5ef-2832a4eee484.png"
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "mm-el-E2026-132",
+    "title": "Besiktas vs Paris",
+    "league": "EuroLeague",
+    "category": "basketball",
+    "date": 1795539600000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
         "name": "Besiktas Istanbul",
         "badge": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjChWbHH/b05e3c54-e672-4b31-9f86-c91e9de7715c.png"
+      },
+      "away": {
+        "name": "Paris Basketball",
+        "badge": "https://media-cdn.incrowdsports.com/a033e5b3-0de7-48a3-98d9-d9a4b9df1f39.png"
       }
     },
     "hlsUrl": "",

@@ -246,7 +246,7 @@
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mls/2026-11-19/orl-cin/playlist.m3u8?tk=B-53oCYAnnPNx-ppjEzbnw&e=1795013161|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mls/2026-11-19/orl-cin/playlist.m3u8?tk=ztBtpHA2iPSdbaW58XA0sw&e=1795043766|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -268,7 +268,7 @@
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mls/2026-11-19/sea-rsl/playlist.m3u8?tk=HyoySqHD3Ae5EvvgX5skGQ&e=1795013162|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mls/2026-11-19/sea-rsl/playlist.m3u8?tk=XScXYpWlWivIBNCDmX3ypw&e=1795043767|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -672,200 +672,220 @@
     "sdUrl": ""
   },
   {
-    "matchId": "mm-own-778b0807c7",
-    "title": "Bayer Leverkusen vs SC Paderborn 07",
-    "league": "Bundesliga",
+    "matchId": "mm-own-20b6f6f3b9",
+    "title": "Como vs Cagliari",
+    "league": "Serie A",
     "category": "football",
-    "date": 1795271400000,
+    "date": 1795269600000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Bayer Leverkusen",
-        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/131.png"
+        "name": "Como",
+        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/2572.png"
       },
       "away": {
-        "name": "SC Paderborn 07",
-        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/3307.png"
+        "name": "Cagliari",
+        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/2925.png"
       }
     },
     "hlsUrl": "",
     "sdUrl": ""
   },
   {
-    "matchId": "mm-own-02de9a74fd",
-    "title": "Wolverhampton Wanderers vs Charlton Athletic",
+    "matchId": "mm-own-42714c4abd",
+    "title": "Middlesbrough vs Bristol City",
     "league": "Championship",
     "category": "football",
     "date": 1795273200000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Wolverhampton Wanderers",
-        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/380.png"
+        "name": "Middlesbrough",
+        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/369.png"
       },
       "away": {
-        "name": "Charlton Athletic",
-        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/372.png"
+        "name": "Bristol City",
+        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/333.png"
       }
     },
     "hlsUrl": "",
     "sdUrl": ""
   },
   {
-    "matchId": "mm-own-5a4d929155",
-    "title": "Crawley Town vs Fleetwood Town",
+    "matchId": "mm-own-3bd04dc587",
+    "title": "Accrington Stanley vs Salford City",
     "league": "League Two",
     "category": "football",
     "date": 1795273200000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Crawley Town",
-        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/2594.png"
+        "name": "Accrington Stanley",
+        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/2731.png"
       },
       "away": {
-        "name": "Fleetwood Town",
-        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/3891.png"
+        "name": "Salford City",
+        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/4703.png"
       }
     },
     "hlsUrl": "",
     "sdUrl": ""
   },
   {
-    "matchId": "mm-own-82aca4fb98",
-    "title": "FC Utrecht vs SC Cambuur",
-    "league": "Eredivisie",
+    "matchId": "mm-own-511568d6dc",
+    "title": "Nice vs Paris Saint-Germain",
+    "league": "Ligue 1",
     "category": "football",
-    "date": 1795283100000,
+    "date": 1795277700000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "FC Utrecht",
-        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/153.png"
+        "name": "Nice",
+        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/2502.png"
       },
       "away": {
-        "name": "SC Cambuur",
-        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/3736.png"
+        "name": "Paris Saint-Germain",
+        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png"
       }
     },
     "hlsUrl": "",
     "sdUrl": ""
   },
   {
-    "matchId": "mm-own-2de59dab17",
-    "title": "Santos vs León",
-    "league": "Liga MX",
-    "category": "football",
-    "date": 1795302000000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Santos",
-        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/225.png"
-      },
-      "away": {
-        "name": "León",
-        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/228.png"
-      }
-    },
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "mm-own-9118d195f2",
-    "title": "Bologna vs Udinese",
-    "league": "Serie A",
-    "category": "football",
-    "date": 1795356000000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Bologna",
-        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/107.png"
-      },
-      "away": {
-        "name": "Udinese",
-        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/118.png"
-      }
-    },
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "mm-own-e14d420ee8",
-    "title": "Getafe vs Atlético Madrid",
+    "matchId": "mm-own-c117c00a1e",
+    "title": "Real Madrid vs Celta Vigo",
     "league": "LaLiga",
     "category": "football",
-    "date": 1795377600000,
+    "date": 1795291200000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Getafe",
-        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/2922.png"
+        "name": "Real Madrid",
+        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png"
       },
       "away": {
-        "name": "Atlético Madrid",
-        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png"
+        "name": "Celta Vigo",
+        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/85.png"
       }
     },
     "hlsUrl": "",
     "sdUrl": ""
   },
   {
-    "matchId": "mm-own-862a25c90c",
-    "title": "Galatasaray vs Aston Villa",
-    "league": "Champions League",
+    "matchId": "mm-own-aee8a6513d",
+    "title": "Juventus vs Venezia",
+    "league": "Serie A",
     "category": "football",
-    "date": 1795542300000,
+    "date": 1795347000000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Galatasaray",
-        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/432.png"
+        "name": "Juventus",
+        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/111.png"
       },
       "away": {
-        "name": "Aston Villa",
-        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png"
+        "name": "Venezia",
+        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/17530.png"
       }
     },
     "hlsUrl": "",
     "sdUrl": ""
   },
   {
-    "matchId": "mm-own-109371991b",
-    "title": "Feyenoord Rotterdam vs FC Porto",
+    "matchId": "mm-own-a1505eb7ee",
+    "title": "Trabzonspor vs Eyupspor",
+    "league": "Süper Lig",
+    "category": "football",
+    "date": 1795363200000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Trabzonspor",
+        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/997.png"
+      },
+      "away": {
+        "name": "Eyupspor",
+        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/20729.png"
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "mm-own-5150031483",
+    "title": "Instituto (Córdoba) vs Huracán",
+    "league": "Liga Argentina",
+    "category": "football",
+    "date": 1795395600000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Instituto (Córdoba)",
+        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/2975.png"
+      },
+      "away": {
+        "name": "Huracán",
+        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/10.png"
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "mm-own-f9d1503fda",
+    "title": "Norwich City vs Queens Park Rangers",
+    "league": "Championship",
+    "category": "football",
+    "date": 1795549500000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Norwich City",
+        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/381.png"
+      },
+      "away": {
+        "name": "Queens Park Rangers",
+        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/334.png"
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "mm-own-8e5d6f3f40",
+    "title": "RB Leipzig vs Lens",
     "league": "Champions League",
     "category": "football",
     "date": 1795550400000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Feyenoord Rotterdam",
-        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/142.png"
+        "name": "RB Leipzig",
+        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/11420.png"
       },
       "away": {
-        "name": "FC Porto",
-        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/437.png"
+        "name": "Lens",
+        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/175.png"
       }
     },
     "hlsUrl": "",
     "sdUrl": ""
   },
   {
-    "matchId": "mm-own-f47cda8bc4",
-    "title": "Lille vs Bayern Munich",
+    "matchId": "mm-own-37e6ab42b0",
+    "title": "Paris Saint-Germain vs AS Roma",
     "league": "Champions League",
     "category": "football",
     "date": 1795636800000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Lille",
-        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png"
+        "name": "Paris Saint-Germain",
+        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png"
       },
       "away": {
-        "name": "Bayern Munich",
-        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png"
+        "name": "AS Roma",
+        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png"
       }
     },
     "hlsUrl": "",
