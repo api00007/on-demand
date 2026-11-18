@@ -1,83 +1,63 @@
 [
   {
-    "matchId": "espn-401910008",
-    "title": "Indiana Pacers vs Houston Rockets",
+    "matchId": "espn-401910016",
+    "title": "Dallas Mavericks vs Golden State Warriors",
     "league": "National Basketball Association",
     "category": "basketball",
-    "date": 1795046400000,
+    "date": 1795050000000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Indiana Pacers",
-        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/ind.png",
+        "name": "Dallas Mavericks",
+        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/dal.png",
         "color": ""
       },
       "away": {
-        "name": "Houston Rockets",
-        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/hou.png",
+        "name": "Golden State Warriors",
+        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/gs.png",
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nba/2026-11-18/hou-ind/playlist.m3u8?tk=ZhS7O0iqRB76v7L2AgzsYw&e=1795043844|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nba/2026-11-18/gs-dal/playlist.m3u8?tk=i50_zqCEi2uXbfj-in6aLg&e=1795075719|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
-    "matchId": "espn-401909742",
-    "title": "Arizona Wildcats vs UConn Huskies",
-    "league": "NCAA Men's Basketball",
-    "category": "basketball",
-    "date": 1795053600000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Arizona Wildcats",
-        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/12.png",
-        "color": ""
-      },
-      "away": {
-        "name": "UConn Huskies",
-        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/41.png",
-        "color": ""
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cbb/2026-11-18/conn-ariz/playlist.m3u8?tk=nnz5vuWSEKjbJM5AczwRrg&e=1795043851|Referer=https://ondemand.st",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "mm-el-E2026-126",
-    "title": "Paris vs Hapoel TLV",
+    "matchId": "mm-el-E2026-124",
+    "title": "Bayern Munich vs Baskonia",
     "league": "EuroLeague",
     "category": "basketball",
-    "date": 1795117500000,
+    "date": 1795114800000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Paris Basketball",
-        "badge": "https://media-cdn.incrowdsports.com/a033e5b3-0de7-48a3-98d9-d9a4b9df1f39.png"
+        "name": "FC Bayern Munich",
+        "badge": "https://media-cdn.incrowdsports.com/817b0e58-d595-4b09-ab0b-1e7cc26249ff.png"
       },
       "away": {
-        "name": "Hapoel IBI Tel Aviv",
-        "badge": "https://media-cdn.incrowdsports.com/cbb1c3ad-03d5-426a-b5ef-2832a4eee484.png"
+        "name": "Kosner Baskonia Vitoria-Gasteiz",
+        "badge": "https://media-cdn.cortextech.io/cbc49cb0-99ce-4462-bdb7-56983ee03cf4.png"
       }
     },
     "hlsUrl": "",
     "sdUrl": ""
   },
   {
-    "matchId": "mm-el-E2026-132",
-    "title": "Besiktas vs Paris",
-    "league": "EuroLeague",
+    "matchId": "espn-401910044",
+    "title": "Los Angeles Lakers vs Utah Jazz",
+    "league": "National Basketball Association",
     "category": "basketball",
-    "date": 1795539600000,
+    "date": 1795489200000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Besiktas Istanbul",
-        "badge": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjChWbHH/b05e3c54-e672-4b31-9f86-c91e9de7715c.png"
+        "name": "Los Angeles Lakers",
+        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lal.png",
+        "color": ""
       },
       "away": {
-        "name": "Paris Basketball",
-        "badge": "https://media-cdn.incrowdsports.com/a033e5b3-0de7-48a3-98d9-d9a4b9df1f39.png"
+        "name": "Utah Jazz",
+        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/utah.png",
+        "color": ""
       }
     },
     "hlsUrl": "",

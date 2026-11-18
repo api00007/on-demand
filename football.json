@@ -5,7 +5,7 @@
     "league": "Women's Champions League",
     "category": "football",
     "date": 1795023900000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "Real Madrid",
@@ -25,7 +25,7 @@
     "league": "Women's Champions League",
     "category": "football",
     "date": 1795023900000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "BK Häcken",
@@ -45,7 +45,7 @@
     "league": "Women's Champions League",
     "category": "football",
     "date": 1795032000000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "Chelsea",
@@ -65,7 +65,7 @@
     "league": "Liga 1 Peru",
     "category": "football",
     "date": 1795032000000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "Alianza Atlético",
@@ -85,7 +85,7 @@
     "league": "Women's Champions League",
     "category": "football",
     "date": 1795032000000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "Juventus",
@@ -94,6 +94,28 @@
       "away": {
         "name": "OH Leuven",
         "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/131423.png"
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "espn-401841315",
+    "title": "Coritiba vs Santos",
+    "league": "Brazilian Serie A",
+    "category": "football",
+    "date": 1795041000000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Coritiba",
+        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/3456.png",
+        "color": ""
+      },
+      "away": {
+        "name": "Santos",
+        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/2674.png",
+        "color": ""
       }
     },
     "hlsUrl": "",
@@ -246,7 +268,7 @@
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mls/2026-11-19/orl-cin/playlist.m3u8?tk=ztBtpHA2iPSdbaW58XA0sw&e=1795043766|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mls/2026-11-19/orl-cin/playlist.m3u8?tk=_t5sM3vJcBm1_G5TNqVAJg&e=1795075642|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -268,7 +290,7 @@
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mls/2026-11-19/sea-rsl/playlist.m3u8?tk=XScXYpWlWivIBNCDmX3ypw&e=1795043767|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/mls/2026-11-19/sea-rsl/playlist.m3u8?tk=pG1w_VLOKleKUVGUsHABdg&e=1795075643|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -652,40 +674,20 @@
     "sdUrl": ""
   },
   {
-    "matchId": "mm-own-400f6c87d0",
-    "title": "Alavés vs Deportivo",
-    "league": "LaLiga",
+    "matchId": "mm-own-ad310bba57",
+    "title": "Galatasaray vs Samsunspor",
+    "league": "Süper Lig",
     "category": "football",
     "date": 1795266000000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Alavés",
-        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/96.png"
+        "name": "Galatasaray",
+        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/432.png"
       },
       "away": {
-        "name": "Deportivo",
-        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/90.png"
-      }
-    },
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "mm-own-20b6f6f3b9",
-    "title": "Como vs Cagliari",
-    "league": "Serie A",
-    "category": "football",
-    "date": 1795269600000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Como",
-        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/2572.png"
-      },
-      "away": {
-        "name": "Cagliari",
-        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/2925.png"
+        "name": "Samsunspor",
+        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/11429.png"
       }
     },
     "hlsUrl": "",
@@ -732,160 +734,140 @@
     "sdUrl": ""
   },
   {
-    "matchId": "mm-own-511568d6dc",
-    "title": "Nice vs Paris Saint-Germain",
-    "league": "Ligue 1",
+    "matchId": "mm-own-edf4242556",
+    "title": "Parma vs AS Roma",
+    "league": "Serie A",
     "category": "football",
-    "date": 1795277700000,
+    "date": 1795280400000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Nice",
-        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/2502.png"
+        "name": "Parma",
+        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/115.png"
       },
       "away": {
-        "name": "Paris Saint-Germain",
-        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png"
+        "name": "AS Roma",
+        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png"
       }
     },
     "hlsUrl": "",
     "sdUrl": ""
   },
   {
-    "matchId": "mm-own-c117c00a1e",
-    "title": "Real Madrid vs Celta Vigo",
-    "league": "LaLiga",
+    "matchId": "mm-own-600303a3ab",
+    "title": "Telstar vs PEC Zwolle",
+    "league": "Eredivisie",
     "category": "football",
     "date": 1795291200000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Real Madrid",
-        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png"
+        "name": "Telstar",
+        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/3735.png"
       },
       "away": {
-        "name": "Celta Vigo",
-        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/85.png"
+        "name": "PEC Zwolle",
+        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/2565.png"
       }
     },
     "hlsUrl": "",
     "sdUrl": ""
   },
   {
-    "matchId": "mm-own-aee8a6513d",
-    "title": "Juventus vs Venezia",
-    "league": "Serie A",
+    "matchId": "mm-own-8a5015c93f",
+    "title": "Barcelona vs Villarreal",
+    "league": "LaLiga",
     "category": "football",
-    "date": 1795347000000,
+    "date": 1795352400000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Juventus",
-        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/111.png"
+        "name": "Barcelona",
+        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png"
       },
       "away": {
-        "name": "Venezia",
-        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/17530.png"
+        "name": "Villarreal",
+        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/102.png"
       }
     },
     "hlsUrl": "",
     "sdUrl": ""
   },
   {
-    "matchId": "mm-own-a1505eb7ee",
-    "title": "Trabzonspor vs Eyupspor",
-    "league": "Süper Lig",
+    "matchId": "mm-own-d8f4a07f0a",
+    "title": "Werder Bremen vs Hamburg SV",
+    "league": "Bundesliga",
     "category": "football",
-    "date": 1795363200000,
+    "date": 1795365000000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Trabzonspor",
-        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/997.png"
+        "name": "Werder Bremen",
+        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/137.png"
       },
       "away": {
-        "name": "Eyupspor",
-        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/20729.png"
+        "name": "Hamburg SV",
+        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/127.png"
       }
     },
     "hlsUrl": "",
     "sdUrl": ""
   },
   {
-    "matchId": "mm-own-5150031483",
-    "title": "Instituto (Córdoba) vs Huracán",
-    "league": "Liga Argentina",
+    "matchId": "mm-own-fdc34a5390",
+    "title": "Brentford vs Everton",
+    "league": "Premier League",
     "category": "football",
-    "date": 1795395600000,
+    "date": 1795464000000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Instituto (Córdoba)",
-        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/2975.png"
+        "name": "Brentford",
+        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/337.png"
       },
       "away": {
-        "name": "Huracán",
-        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/10.png"
+        "name": "Everton",
+        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/368.png"
       }
     },
     "hlsUrl": "",
     "sdUrl": ""
   },
   {
-    "matchId": "mm-own-f9d1503fda",
-    "title": "Norwich City vs Queens Park Rangers",
-    "league": "Championship",
+    "matchId": "mm-own-3fd57998cb",
+    "title": "Bromley vs Wycombe Wanderers",
+    "league": "League One",
     "category": "football",
     "date": 1795549500000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Norwich City",
-        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/381.png"
+        "name": "Bromley",
+        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/3129.png"
       },
       "away": {
-        "name": "Queens Park Rangers",
-        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/334.png"
+        "name": "Wycombe Wanderers",
+        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/344.png"
       }
     },
     "hlsUrl": "",
     "sdUrl": ""
   },
   {
-    "matchId": "mm-own-8e5d6f3f40",
-    "title": "RB Leipzig vs Lens",
+    "matchId": "mm-own-587a494b63",
+    "title": "Slavia Prague vs Villarreal",
     "league": "Champions League",
     "category": "football",
-    "date": 1795550400000,
+    "date": 1795628700000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "RB Leipzig",
-        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/11420.png"
+        "name": "Slavia Prague",
+        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/494.png"
       },
       "away": {
-        "name": "Lens",
-        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/175.png"
-      }
-    },
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "mm-own-37e6ab42b0",
-    "title": "Paris Saint-Germain vs AS Roma",
-    "league": "Champions League",
-    "category": "football",
-    "date": 1795636800000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Paris Saint-Germain",
-        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png"
-      },
-      "away": {
-        "name": "AS Roma",
-        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png"
+        "name": "Villarreal",
+        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/102.png"
       }
     },
     "hlsUrl": "",
