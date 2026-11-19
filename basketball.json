@@ -1,63 +1,61 @@
 [
   {
-    "matchId": "espn-401910016",
-    "title": "Dallas Mavericks vs Golden State Warriors",
-    "league": "National Basketball Association",
+    "matchId": "espn-401921134",
+    "title": "Texas Tech Red Raiders vs LSU New Orleans Privateers",
+    "league": "NCAA Men's Basketball",
     "category": "basketball",
-    "date": 1795050000000,
-    "status": "upcoming",
+    "date": 1795048200000,
+    "status": "live",
     "teams": {
       "home": {
-        "name": "Dallas Mavericks",
-        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/dal.png",
+        "name": "Texas Tech Red Raiders",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/2641.png",
         "color": ""
       },
       "away": {
-        "name": "Golden State Warriors",
-        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/gs.png",
+        "name": "LSU New Orleans Privateers",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/2443.png",
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nba/2026-11-18/gs-dal/playlist.m3u8?tk=i50_zqCEi2uXbfj-in6aLg&e=1795075719|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cbb/2026-11-18/nola-ttu/playlist.m3u8?tk=9sDUBHLHdJbiAiMrhwv0PQ&e=1795098131|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
-    "matchId": "mm-el-E2026-124",
-    "title": "Bayern Munich vs Baskonia",
+    "matchId": "mm-el-E2026-121",
+    "title": "Zalgiris vs Panathinaikos",
     "league": "EuroLeague",
     "category": "basketball",
-    "date": 1795114800000,
+    "date": 1795111200000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "FC Bayern Munich",
-        "badge": "https://media-cdn.incrowdsports.com/817b0e58-d595-4b09-ab0b-1e7cc26249ff.png"
+        "name": "Zalgiris Kaunas",
+        "badge": "https://media-cdn.incrowdsports.com/0aa09358-3847-4c4e-b228-3582ee4e536d.png"
       },
       "away": {
-        "name": "Kosner Baskonia Vitoria-Gasteiz",
-        "badge": "https://media-cdn.cortextech.io/cbc49cb0-99ce-4462-bdb7-56983ee03cf4.png"
+        "name": "Panathinaikos AKTOR Athens",
+        "badge": "https://media-cdn.incrowdsports.com/e3dff28a-9ec6-4faf-9d96-ecbc68f75780.png"
       }
     },
     "hlsUrl": "",
     "sdUrl": ""
   },
   {
-    "matchId": "espn-401910044",
-    "title": "Los Angeles Lakers vs Utah Jazz",
-    "league": "National Basketball Association",
+    "matchId": "mm-el-E2026-129",
+    "title": "Partizan vs Besiktas",
+    "league": "EuroLeague",
     "category": "basketball",
-    "date": 1795489200000,
+    "date": 1795203900000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Los Angeles Lakers",
-        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lal.png",
-        "color": ""
+        "name": "Partizan Mozzart Bet Belgrade",
+        "badge": "https://media-cdn.incrowdsports.com/2681304e-77dd-4331-88b1-683078c0fb49.png"
       },
       "away": {
-        "name": "Utah Jazz",
-        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/utah.png",
-        "color": ""
+        "name": "Besiktas Istanbul",
+        "badge": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjChWbHH/b05e3c54-e672-4b31-9f86-c91e9de7715c.png"
       }
     },
     "hlsUrl": "",
