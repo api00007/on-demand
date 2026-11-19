@@ -1,61 +1,83 @@
 [
   {
-    "matchId": "espn-401921134",
-    "title": "Texas Tech Red Raiders vs LSU New Orleans Privateers",
-    "league": "NCAA Men's Basketball",
-    "category": "basketball",
-    "date": 1795048200000,
-    "status": "live",
-    "teams": {
-      "home": {
-        "name": "Texas Tech Red Raiders",
-        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/2641.png",
-        "color": ""
-      },
-      "away": {
-        "name": "LSU New Orleans Privateers",
-        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/2443.png",
-        "color": ""
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cbb/2026-11-18/nola-ttu/playlist.m3u8?tk=9sDUBHLHdJbiAiMrhwv0PQ&e=1795098131|Referer=https://ondemand.st",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "mm-el-E2026-121",
-    "title": "Zalgiris vs Panathinaikos",
+    "matchId": "mm-el-E2026-122",
+    "title": "Maccabi vs Dubai",
     "league": "EuroLeague",
     "category": "basketball",
-    "date": 1795111200000,
+    "date": 1795108500000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Zalgiris Kaunas",
-        "badge": "https://media-cdn.incrowdsports.com/0aa09358-3847-4c4e-b228-3582ee4e536d.png"
+        "name": "Maccabi Rapyd Tel Aviv",
+        "badge": "https://media-cdn.cortextech.io/1b533342-78f5-4932-b714-a7d80b5826b5.png"
       },
       "away": {
-        "name": "Panathinaikos AKTOR Athens",
-        "badge": "https://media-cdn.incrowdsports.com/e3dff28a-9ec6-4faf-9d96-ecbc68f75780.png"
+        "name": "Dubai Basketball",
+        "badge": "https://media-cdn.incrowdsports.com/1efae090-16e2-4963-ae47-4b94f249c244.png"
       }
     },
     "hlsUrl": "",
     "sdUrl": ""
   },
   {
-    "matchId": "mm-el-E2026-129",
-    "title": "Partizan vs Besiktas",
-    "league": "EuroLeague",
+    "matchId": "espn-401875351",
+    "title": "Cairns Taipans vs Perth Wildcats",
+    "league": "National Basketball League",
     "category": "basketball",
-    "date": 1795203900000,
+    "date": 1795163400000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Partizan Mozzart Bet Belgrade",
-        "badge": "https://media-cdn.incrowdsports.com/2681304e-77dd-4331-88b1-683078c0fb49.png"
+        "name": "Cairns Taipans",
+        "badge": "https://a.espncdn.com/i/teamlogos/nbl/500/cns.png",
+        "color": ""
       },
       "away": {
-        "name": "Besiktas Istanbul",
-        "badge": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjChWbHH/b05e3c54-e672-4b31-9f86-c91e9de7715c.png"
+        "name": "Perth Wildcats",
+        "badge": "https://a.espncdn.com/i/teamlogos/nbl/500/per.png",
+        "color": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nbl/2026-11-20/cns-per/playlist.m3u8?tk=9v6glzwYJiigedhBM3ECXw&e=1795130232|Referer=https://ondemand.st",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "espn-401925740",
+    "title": "Arkansas Razorbacks vs Mississippi Valley State Delta Devils",
+    "league": "NCAA Men's Basketball",
+    "category": "basketball",
+    "date": 1795222800000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Arkansas Razorbacks",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/8.png",
+        "color": ""
+      },
+      "away": {
+        "name": "Mississippi Valley State Delta Devils",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/2400.png",
+        "color": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cbb/2026-11-20/mvsu-ark/playlist.m3u8?tk=dM9j0mzdDg4YK4MvyHLmAg&e=1795130238|Referer=https://ondemand.st",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "mm-el-E2026-140",
+    "title": "Olympiacos vs Hapoel TLV",
+    "league": "EuroLeague",
+    "category": "basketball",
+    "date": 1795634100000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Olympiacos Piraeus",
+        "badge": "https://media-cdn.incrowdsports.com/789423ac-3cdf-4b89-b11c-b458aa5f59a6.png"
+      },
+      "away": {
+        "name": "Hapoel IBI Tel Aviv",
+        "badge": "https://media-cdn.incrowdsports.com/cbb1c3ad-03d5-426a-b5ef-2832a4eee484.png"
       }
     },
     "hlsUrl": "",
