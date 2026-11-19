@@ -1,74 +1,32 @@
 [
   {
-    "matchId": "mm-el-E2026-122",
-    "title": "Maccabi vs Dubai",
-    "league": "EuroLeague",
-    "category": "basketball",
-    "date": 1795108500000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Maccabi Rapyd Tel Aviv",
-        "badge": "https://media-cdn.cortextech.io/1b533342-78f5-4932-b714-a7d80b5826b5.png"
-      },
-      "away": {
-        "name": "Dubai Basketball",
-        "badge": "https://media-cdn.incrowdsports.com/1efae090-16e2-4963-ae47-4b94f249c244.png"
-      }
-    },
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "espn-401875351",
-    "title": "Cairns Taipans vs Perth Wildcats",
-    "league": "National Basketball League",
-    "category": "basketball",
-    "date": 1795163400000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Cairns Taipans",
-        "badge": "https://a.espncdn.com/i/teamlogos/nbl/500/cns.png",
-        "color": ""
-      },
-      "away": {
-        "name": "Perth Wildcats",
-        "badge": "https://a.espncdn.com/i/teamlogos/nbl/500/per.png",
-        "color": ""
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nbl/2026-11-20/cns-per/playlist.m3u8?tk=9v6glzwYJiigedhBM3ECXw&e=1795130232|Referer=https://ondemand.st",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "espn-401925740",
-    "title": "Arkansas Razorbacks vs Mississippi Valley State Delta Devils",
+    "matchId": "espn-401920517",
+    "title": "West Virginia Mountaineers vs Florida Gators",
     "league": "NCAA Men's Basketball",
     "category": "basketball",
-    "date": 1795222800000,
-    "status": "upcoming",
+    "date": 1795116600000,
+    "status": "live",
     "teams": {
       "home": {
-        "name": "Arkansas Razorbacks",
-        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/8.png",
+        "name": "West Virginia Mountaineers",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/277.png",
         "color": ""
       },
       "away": {
-        "name": "Mississippi Valley State Delta Devils",
-        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/2400.png",
+        "name": "Florida Gators",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/57.png",
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cbb/2026-11-20/mvsu-ark/playlist.m3u8?tk=dM9j0mzdDg4YK4MvyHLmAg&e=1795130238|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cbb/2026-11-19/fla-wvu/playlist.m3u8?tk=_ZZxCnNUo15zYx1UN9Q7VA&e=1795162149|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
-    "matchId": "mm-el-E2026-140",
-    "title": "Olympiacos vs Hapoel TLV",
+    "matchId": "mm-el-E2026-130",
+    "title": "Olympiacos vs Real Madrid",
     "league": "EuroLeague",
     "category": "basketball",
-    "date": 1795634100000,
+    "date": 1795202100000,
     "status": "upcoming",
     "teams": {
       "home": {
@@ -76,11 +34,33 @@
         "badge": "https://media-cdn.incrowdsports.com/789423ac-3cdf-4b89-b11c-b458aa5f59a6.png"
       },
       "away": {
-        "name": "Hapoel IBI Tel Aviv",
-        "badge": "https://media-cdn.incrowdsports.com/cbb1c3ad-03d5-426a-b5ef-2832a4eee484.png"
+        "name": "Real Madrid",
+        "badge": "https://media-cdn.incrowdsports.com/371b0d9b-9250-4c09-bda7-0686cf024657.png"
       }
     },
     "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "espn-401909312",
+    "title": "Denver Nuggets vs Houston Rockets",
+    "league": "National Basketball Association",
+    "category": "basketball",
+    "date": 1795230000000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Denver Nuggets",
+        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/den.png",
+        "color": ""
+      },
+      "away": {
+        "name": "Houston Rockets",
+        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/hou.png",
+        "color": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nba/2026-11-20/hou-den/playlist.m3u8?tk=lnYJCltcNpBWk2lGE8G3yQ&e=1795162161|Referer=https://ondemand.st",
     "sdUrl": ""
   }
 ]
