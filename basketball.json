@@ -1,63 +1,63 @@
 [
   {
-    "matchId": "espn-401909309",
-    "title": "Chicago Bulls vs Washington Wizards",
-    "league": "National Basketball Association",
+    "matchId": "espn-401920427",
+    "title": "Virginia Cavaliers vs Loyola Maryland Greyhounds",
+    "league": "NCAA Men's Basketball",
     "category": "basketball",
-    "date": 1795222800000,
+    "date": 1795219200000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Chicago Bulls",
-        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/chi.png",
+        "name": "Virginia Cavaliers",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/258.png",
         "color": ""
       },
       "away": {
-        "name": "Washington Wizards",
-        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/wsh.png",
+        "name": "Loyola Maryland Greyhounds",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/2352.png",
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nba/2026-11-20/wsh-chi/playlist.m3u8?tk=YqVzvOQjKdoyMCyrW8yZxw&e=1795215697|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cbb/2026-11-20/lmd-uva/playlist.m3u8?tk=IRBVcWaDBLeFpa1asja2GA&e=1795244690|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
-    "matchId": "espn-401910024",
-    "title": "New York Knicks vs Portland Trail Blazers",
-    "league": "National Basketball Association",
+    "matchId": "espn-401875314",
+    "title": "Melbourne United vs New Zealand Breakers",
+    "league": "National Basketball League",
     "category": "basketball",
-    "date": 1795307400000,
+    "date": 1795249800000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "New York Knicks",
-        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/ny.png",
+        "name": "Melbourne United",
+        "badge": "https://a.espncdn.com/i/teamlogos/nbl/500/mel.png",
         "color": ""
       },
       "away": {
-        "name": "Portland Trail Blazers",
-        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/por.png",
+        "name": "New Zealand Breakers",
+        "badge": "https://a.espncdn.com/i/teamlogos/nbl/500/nzl.png",
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nba/2026-11-21/por-ny/playlist.m3u8?tk=w_kn5tJNMqfelR4fc8S1VQ&e=1795215703|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nbl/2026-11-21/mel-nzl/playlist.m3u8?tk=Qnqt6HdNiKIRzWiaylc_KQ&e=1795244696|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
-    "matchId": "mm-el-E2026-138",
-    "title": "Baskonia vs Anadolu Efes",
+    "matchId": "mm-el-E2026-134",
+    "title": "Bayern Munich vs Maccabi",
     "league": "EuroLeague",
     "category": "basketball",
-    "date": 1795635000000,
+    "date": 1795546800000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Kosner Baskonia Vitoria-Gasteiz",
-        "badge": "https://media-cdn.cortextech.io/cbc49cb0-99ce-4462-bdb7-56983ee03cf4.png"
+        "name": "FC Bayern Munich",
+        "badge": "https://media-cdn.incrowdsports.com/817b0e58-d595-4b09-ab0b-1e7cc26249ff.png"
       },
       "away": {
-        "name": "Anadolu Efes Istanbul",
-        "badge": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCgOCxM/a844756c-a58d-4666-93b8-48f7337bc79d.png"
+        "name": "Maccabi Rapyd Tel Aviv",
+        "badge": "https://media-cdn.cortextech.io/1b533342-78f5-4932-b714-a7d80b5826b5.png"
       }
     },
     "hlsUrl": "",
