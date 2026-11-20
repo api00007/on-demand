@@ -1,87 +1,63 @@
 [
   {
-    "matchId": "espn-401910021",
-    "title": "Minnesota Timberwolves vs New York Knicks",
+    "matchId": "espn-401909309",
+    "title": "Chicago Bulls vs Washington Wizards",
     "league": "National Basketball Association",
     "category": "basketball",
-    "date": 1795136400000,
-    "status": "live",
+    "date": 1795222800000,
+    "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Minnesota Timberwolves",
-        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/min.png",
+        "name": "Chicago Bulls",
+        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/chi.png",
         "color": ""
       },
       "away": {
+        "name": "Washington Wizards",
+        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/wsh.png",
+        "color": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nba/2026-11-20/wsh-chi/playlist.m3u8?tk=YqVzvOQjKdoyMCyrW8yZxw&e=1795215697|Referer=https://ondemand.st",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "espn-401910024",
+    "title": "New York Knicks vs Portland Trail Blazers",
+    "league": "National Basketball Association",
+    "category": "basketball",
+    "date": 1795307400000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
         "name": "New York Knicks",
         "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/ny.png",
         "color": ""
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nba/2026-11-19/ny-min/playlist.m3u8?tk=qxk1IacuWYQRmG6YuJj0fg&e=1795183525|Referer=https://ondemand.st",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "espn-401909305",
-    "title": "Atlanta Hawks vs Charlotte Hornets",
-    "league": "National Basketball Association",
-    "category": "basketball",
-    "date": 1795219200000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Atlanta Hawks",
-        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/atl.png",
-        "color": ""
       },
       "away": {
-        "name": "Charlotte Hornets",
-        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/cha.png",
+        "name": "Portland Trail Blazers",
+        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/por.png",
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nba/2026-11-20/cha-atl/playlist.m3u8?tk=FEbkptvs3aYGEGj4cv6Y0w&e=1795183530|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nba/2026-11-21/por-ny/playlist.m3u8?tk=w_kn5tJNMqfelR4fc8S1VQ&e=1795215703|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
-    "matchId": "espn-401909313",
-    "title": "Los Angeles Lakers vs Sacramento Kings",
-    "league": "National Basketball Association",
+    "matchId": "mm-el-E2026-138",
+    "title": "Baskonia vs Anadolu Efes",
+    "league": "EuroLeague",
     "category": "basketball",
-    "date": 1795230000000,
+    "date": 1795635000000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Los Angeles Lakers",
-        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lal.png",
-        "color": ""
+        "name": "Kosner Baskonia Vitoria-Gasteiz",
+        "badge": "https://media-cdn.cortextech.io/cbc49cb0-99ce-4462-bdb7-56983ee03cf4.png"
       },
       "away": {
-        "name": "Sacramento Kings",
-        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sac.png",
-        "color": ""
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nba/2026-11-20/sac-lal/playlist.m3u8?tk=i6M1lGlIkDcBDIClOciHSw&e=1795183536|Referer=https://ondemand.st",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "espn-401909333",
-    "title": "San Antonio Spurs vs Los Angeles Lakers",
-    "league": "National Basketball Association",
-    "category": "basketball",
-    "date": 1795833000000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "San Antonio Spurs",
-        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sa.png",
-        "color": ""
-      },
-      "away": {
-        "name": "Los Angeles Lakers",
-        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lal.png",
-        "color": ""
+        "name": "Anadolu Efes Istanbul",
+        "badge": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCgOCxM/a844756c-a58d-4666-93b8-48f7337bc79d.png"
       }
     },
     "hlsUrl": "",
