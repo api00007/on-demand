@@ -1,66 +1,90 @@
 [
   {
-    "matchId": "espn-401920517",
-    "title": "West Virginia Mountaineers vs Florida Gators",
-    "league": "NCAA Men's Basketball",
+    "matchId": "espn-401910021",
+    "title": "Minnesota Timberwolves vs New York Knicks",
+    "league": "National Basketball Association",
     "category": "basketball",
-    "date": 1795116600000,
+    "date": 1795136400000,
     "status": "live",
     "teams": {
       "home": {
-        "name": "West Virginia Mountaineers",
-        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/277.png",
+        "name": "Minnesota Timberwolves",
+        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/min.png",
         "color": ""
       },
       "away": {
-        "name": "Florida Gators",
-        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/57.png",
+        "name": "New York Knicks",
+        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/ny.png",
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cbb/2026-11-19/fla-wvu/playlist.m3u8?tk=_ZZxCnNUo15zYx1UN9Q7VA&e=1795162149|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nba/2026-11-19/ny-min/playlist.m3u8?tk=qxk1IacuWYQRmG6YuJj0fg&e=1795183525|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
-    "matchId": "mm-el-E2026-130",
-    "title": "Olympiacos vs Real Madrid",
-    "league": "EuroLeague",
+    "matchId": "espn-401909305",
+    "title": "Atlanta Hawks vs Charlotte Hornets",
+    "league": "National Basketball Association",
     "category": "basketball",
-    "date": 1795202100000,
+    "date": 1795219200000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Olympiacos Piraeus",
-        "badge": "https://media-cdn.incrowdsports.com/789423ac-3cdf-4b89-b11c-b458aa5f59a6.png"
+        "name": "Atlanta Hawks",
+        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/atl.png",
+        "color": ""
       },
       "away": {
-        "name": "Real Madrid",
-        "badge": "https://media-cdn.incrowdsports.com/371b0d9b-9250-4c09-bda7-0686cf024657.png"
+        "name": "Charlotte Hornets",
+        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/cha.png",
+        "color": ""
       }
     },
-    "hlsUrl": "",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nba/2026-11-20/cha-atl/playlist.m3u8?tk=FEbkptvs3aYGEGj4cv6Y0w&e=1795183530|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
-    "matchId": "espn-401909312",
-    "title": "Denver Nuggets vs Houston Rockets",
+    "matchId": "espn-401909313",
+    "title": "Los Angeles Lakers vs Sacramento Kings",
     "league": "National Basketball Association",
     "category": "basketball",
     "date": 1795230000000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Denver Nuggets",
-        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/den.png",
+        "name": "Los Angeles Lakers",
+        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lal.png",
         "color": ""
       },
       "away": {
-        "name": "Houston Rockets",
-        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/hou.png",
+        "name": "Sacramento Kings",
+        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sac.png",
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nba/2026-11-20/hou-den/playlist.m3u8?tk=lnYJCltcNpBWk2lGE8G3yQ&e=1795162161|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nba/2026-11-20/sac-lal/playlist.m3u8?tk=i6M1lGlIkDcBDIClOciHSw&e=1795183536|Referer=https://ondemand.st",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "espn-401909333",
+    "title": "San Antonio Spurs vs Los Angeles Lakers",
+    "league": "National Basketball Association",
+    "category": "basketball",
+    "date": 1795833000000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "San Antonio Spurs",
+        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sa.png",
+        "color": ""
+      },
+      "away": {
+        "name": "Los Angeles Lakers",
+        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lal.png",
+        "color": ""
+      }
+    },
+    "hlsUrl": "",
     "sdUrl": ""
   }
 ]
