@@ -1,19 +1,21 @@
 [
   {
-    "matchId": "mm-cric-dl-8e02915351",
-    "title": "Pakistan vs Sri Lanka",
-    "league": "2nd Test Day 5",
+    "matchId": "cr-pakistan-sri-lanka",
+    "title": "pakistan vs sri lanka",
+    "league": "2nd test day 5",
     "category": "cricket",
     "date": 1795235400000,
-    "status": "live",
+    "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Pakistan",
-        "badge": ""
+        "name": "pakistan",
+        "badge": "https://flagcdn.com/w320/pk.png",
+        "color": "#01411c"
       },
       "away": {
-        "name": "Sri Lanka",
-        "badge": ""
+        "name": "sri lanka",
+        "badge": "https://flagcdn.com/w320/lk.png",
+        "color": "#eb7400"
       }
     },
     "hlsUrl": "",
