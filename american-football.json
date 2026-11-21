@@ -1,68 +1,90 @@
 [
   {
-    "matchId": "espn-401856866",
-    "title": "Kansas Jayhawks vs BYU Cougars",
+    "matchId": "espn-401864545",
+    "title": "Air Force Falcons vs UTEP Miners",
     "league": "NCAA - Football",
     "category": "american-football",
-    "date": 1795280400000,
+    "date": 1795222800000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Kansas Jayhawks",
-        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/2305.png",
+        "name": "Air Force Falcons",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/2005.png",
         "color": ""
       },
       "away": {
-        "name": "BYU Cougars",
-        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/252.png",
+        "name": "UTEP Miners",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/2638.png",
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-11-21/byu-ku/playlist.m3u8?tk=aAu03C9G2CykERqwHY23Sg&e=1795244708|Referer=https://ondemand.st",
+    "hlsUrl": "",
     "sdUrl": ""
   },
   {
-    "matchId": "espn-401858304",
-    "title": "Florida State Seminoles vs NC State Wolfpack",
+    "matchId": "espn-401858535",
+    "title": "Washington Huskies vs Indiana Hoosiers",
     "league": "NCAA - Football",
     "category": "american-football",
     "date": 1795293000000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Florida State Seminoles",
-        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/52.png",
+        "name": "Washington Huskies",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/264.png",
         "color": ""
       },
       "away": {
-        "name": "NC State Wolfpack",
-        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/152.png",
+        "name": "Indiana Hoosiers",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/84.png",
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-11-21/sdsu-bois/playlist.m3u8?tk=Es5irfyvgNmfI4mUp_7aYw&e=1795244714|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-11-21/iu-wash/playlist.m3u8?tk=zHLT3eIYhHzMgkQY3MjsPQ&e=1795266623|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
-    "matchId": "espn-401873071",
-    "title": "Chicago Bears vs New Orleans Saints",
-    "league": "National Football League",
+    "matchId": "espn-401856870",
+    "title": "Arizona State Sun Devils vs Oklahoma State Cowboys",
+    "league": "NCAA - Football",
     "category": "american-football",
-    "date": 1795370400000,
+    "date": 1795317300000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Chicago Bears",
-        "badge": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/chi.png",
+        "name": "Arizona State Sun Devils",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/9.png",
         "color": ""
       },
       "away": {
-        "name": "New Orleans Saints",
-        "badge": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/no.png",
+        "name": "Oklahoma State Cowboys",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/197.png",
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-11-22/no-chi/playlist.m3u8?tk=mi0v3S-Rg9S0vo6lZx3-ZQ&e=1795244720|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-11-21/ariz-ksu/playlist.m3u8?tk=E-pccAy6Q-TXleLsoFBUSQ&e=1795266629|Referer=https://ondemand.st",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "espn-401873077",
+    "title": "San Francisco 49ers vs Minnesota Vikings",
+    "league": "National Football League",
+    "category": "american-football",
+    "date": 1795396800000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "San Francisco 49ers",
+        "badge": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/sf.png",
+        "color": ""
+      },
+      "away": {
+        "name": "Minnesota Vikings",
+        "badge": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/min.png",
+        "color": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-11-22/min-sf/playlist.m3u8?tk=3R54dqR3WciVMkbAFTefmw&e=1795266635|Referer=https://ondemand.st",
     "sdUrl": ""
   }
 ]
