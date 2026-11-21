@@ -1,20 +1,20 @@
 [
   {
-    "matchId": "espn-401864545",
-    "title": "Air Force Falcons vs UTEP Miners",
+    "matchId": "espn-401862831",
+    "title": "Army Black Knights vs East Carolina Pirates",
     "league": "NCAA - Football",
     "category": "american-football",
-    "date": 1795222800000,
+    "date": 1795280400000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Air Force Falcons",
-        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/2005.png",
+        "name": "Army Black Knights",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/349.png",
         "color": ""
       },
       "away": {
-        "name": "UTEP Miners",
-        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/2638.png",
+        "name": "East Carolina Pirates",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/151.png",
         "color": ""
       }
     },
@@ -22,69 +22,135 @@
     "sdUrl": ""
   },
   {
-    "matchId": "espn-401858535",
-    "title": "Washington Huskies vs Indiana Hoosiers",
+    "matchId": "espn-401871081",
+    "title": "Sam Houston Bearkats vs Middle Tennessee Blue Raiders",
+    "league": "NCAA - Football",
+    "category": "american-football",
+    "date": 1795287600000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Sam Houston Bearkats",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/2534.png",
+        "color": ""
+      },
+      "away": {
+        "name": "Middle Tennessee Blue Raiders",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/2393.png",
+        "color": ""
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "espn-401856871",
+    "title": "Baylor Bears vs Texas Tech Red Raiders",
     "league": "NCAA - Football",
     "category": "american-football",
     "date": 1795293000000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Washington Huskies",
-        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/264.png",
+        "name": "Baylor Bears",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/239.png",
         "color": ""
       },
       "away": {
-        "name": "Indiana Hoosiers",
-        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/84.png",
+        "name": "Texas Tech Red Raiders",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/2641.png",
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-11-21/iu-wash/playlist.m3u8?tk=zHLT3eIYhHzMgkQY3MjsPQ&e=1795266623|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-11-21/ttu-bay/playlist.m3u8?tk=oRf2GB6zQh9bkKx_RTPCSQ&e=1795296176|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
-    "matchId": "espn-401856870",
-    "title": "Arizona State Sun Devils vs Oklahoma State Cowboys",
+    "matchId": "espn-401856865",
+    "title": "Kansas State Wildcats vs Arizona Wildcats",
     "league": "NCAA - Football",
     "category": "american-football",
-    "date": 1795317300000,
+    "date": 1795305600000,
     "status": "upcoming",
     "teams": {
       "home": {
+        "name": "Kansas State Wildcats",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/2306.png",
+        "color": ""
+      },
+      "away": {
+        "name": "Arizona Wildcats",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/12.png",
+        "color": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-11-21/ariz-ksu/playlist.m3u8?tk=YjayklqeMTbFCvEGNUzV-A&e=1795296182|Referer=https://ondemand.st",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "espn-401864541",
+    "title": "Nevada Wolf Pack vs Hawai'i Rainbow Warriors",
+    "league": "NCAA - Football",
+    "category": "american-football",
+    "date": 1795318200000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Nevada Wolf Pack",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/2440.png",
+        "color": ""
+      },
+      "away": {
+        "name": "Hawai'i Rainbow Warriors",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/62.png",
+        "color": ""
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "espn-401873078",
+    "title": "Washington Commanders vs Cincinnati Bengals",
+    "league": "National Football League",
+    "category": "american-football",
+    "date": 1795482900000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Washington Commanders",
+        "badge": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/wsh.png",
+        "color": ""
+      },
+      "away": {
+        "name": "Cincinnati Bengals",
+        "badge": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/cin.png",
+        "color": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-11-23/cin-wsh/playlist.m3u8?tk=MPmSE79Gb_REUR8HA7UiDA&e=1795296194|Referer=https://ondemand.st",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "espn-401856873",
+    "title": "Arizona Wildcats vs Arizona State Sun Devils",
+    "league": "NCAA - Football",
+    "category": "american-football",
+    "date": 1795917600000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Arizona Wildcats",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/12.png",
+        "color": ""
+      },
+      "away": {
         "name": "Arizona State Sun Devils",
         "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/9.png",
         "color": ""
-      },
-      "away": {
-        "name": "Oklahoma State Cowboys",
-        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/197.png",
-        "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-11-21/ariz-ksu/playlist.m3u8?tk=E-pccAy6Q-TXleLsoFBUSQ&e=1795266629|Referer=https://ondemand.st",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "espn-401873077",
-    "title": "San Francisco 49ers vs Minnesota Vikings",
-    "league": "National Football League",
-    "category": "american-football",
-    "date": 1795396800000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "San Francisco 49ers",
-        "badge": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/sf.png",
-        "color": ""
-      },
-      "away": {
-        "name": "Minnesota Vikings",
-        "badge": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/min.png",
-        "color": ""
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-11-22/min-sf/playlist.m3u8?tk=3R54dqR3WciVMkbAFTefmw&e=1795266635|Referer=https://ondemand.st",
+    "hlsUrl": "",
     "sdUrl": ""
   }
 ]
