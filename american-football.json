@@ -1,90 +1,24 @@
 [
   {
-    "matchId": "espn-401856753",
-    "title": "South Carolina Gamecocks vs Georgia Bulldogs",
-    "league": "NCAA - Football",
-    "category": "american-football",
-    "date": 1795307400000,
-    "status": "live",
-    "teams": {
-      "home": {
-        "name": "South Carolina Gamecocks",
-        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/2579.png",
-        "color": ""
-      },
-      "away": {
-        "name": "Georgia Bulldogs",
-        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/61.png",
-        "color": ""
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-11-21/uga-sc/playlist.m3u8?tk=xgIZrQfrm9nkyIaIP8SlNQ&e=1795359285|Referer=https://ondemand.st",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "espn-401860918",
-    "title": "Fresno State Bulldogs vs Colorado State Rams",
-    "league": "NCAA - Football",
-    "category": "american-football",
-    "date": 1795307400000,
-    "status": "live",
-    "teams": {
-      "home": {
-        "name": "Fresno State Bulldogs",
-        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/278.png",
-        "color": ""
-      },
-      "away": {
-        "name": "Colorado State Rams",
-        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/36.png",
-        "color": ""
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-11-21/sdsu-bois/playlist.m3u8?tk=4r4c7gE4GOcZef1I-xQYsQ&e=1795359291|Referer=https://ondemand.st",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "espn-401873076",
-    "title": "Philadelphia Eagles vs Pittsburgh Steelers",
+    "matchId": "espn-401873072",
+    "title": "Detroit Lions vs Tampa Bay Buccaneers",
     "league": "National Football League",
     "category": "american-football",
     "date": 1795370400000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Philadelphia Eagles",
-        "badge": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/phi.png",
+        "name": "Detroit Lions",
+        "badge": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/det.png",
         "color": ""
       },
       "away": {
-        "name": "Pittsburgh Steelers",
-        "badge": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/pit.png",
+        "name": "Tampa Bay Buccaneers",
+        "badge": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/tb.png",
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-11-22/pit-phi/playlist.m3u8?tk=zokQAYCK5zmKBpINo1OUkg&e=1795359297|Referer=https://ondemand.st",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "espn-401858313",
-    "title": "North Carolina Tar Heels vs NC State Wolfpack",
-    "league": "NCAA - Football",
-    "category": "american-football",
-    "date": 1795885200000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "North Carolina Tar Heels",
-        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/153.png",
-        "color": ""
-      },
-      "away": {
-        "name": "NC State Wolfpack",
-        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/152.png",
-        "color": ""
-      }
-    },
-    "hlsUrl": "",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-11-22/tb-det/playlist.m3u8?tk=do4vKoDtm416xFeyddSlbA&e=1795387960|Referer=https://ondemand.st",
     "sdUrl": ""
   }
 ]
