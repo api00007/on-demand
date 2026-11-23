@@ -1,65 +1,41 @@
 [
   {
-    "matchId": "espn-401910033",
-    "title": "Utah Jazz vs Dallas Mavericks",
+    "matchId": "espn-401910041",
+    "title": "Chicago Bulls vs Cleveland Cavaliers",
     "league": "National Basketball Association",
     "category": "basketball",
-    "date": 1795392000000,
+    "date": 1795482000000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Utah Jazz",
-        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/utah.png",
-        "color": ""
-      },
-      "away": {
-        "name": "Dallas Mavericks",
-        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/dal.png",
-        "color": ""
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nba/2026-11-22/dal-utah/playlist.m3u8?tk=Co-ppOyfb2sXzTSLTdf59w&e=1795414755|Referer=https://ondemand.st",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "espn-401910045",
-    "title": "Sacramento Kings vs San Antonio Spurs",
-    "league": "National Basketball Association",
-    "category": "basketball",
-    "date": 1795489200000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Sacramento Kings",
-        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sac.png",
-        "color": ""
-      },
-      "away": {
-        "name": "San Antonio Spurs",
-        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sa.png",
-        "color": ""
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nba/2026-11-23/sa-sac/playlist.m3u8?tk=5R4lmBLmlLnHGmpDzbVYeQ&e=1795414761|Referer=https://ondemand.st",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "espn-401909318",
-    "title": "Charlotte Hornets vs Chicago Bulls",
-    "league": "National Basketball Association",
-    "category": "basketball",
-    "date": 1795651200000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Charlotte Hornets",
-        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/cha.png",
-        "color": ""
-      },
-      "away": {
         "name": "Chicago Bulls",
         "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/chi.png",
         "color": ""
+      },
+      "away": {
+        "name": "Cleveland Cavaliers",
+        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/cle.png",
+        "color": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nba/2026-11-23/cle-chi/playlist.m3u8?tk=ry0z6UnZ6F6iGtgTtPhqNQ&e=1795435401|Referer=https://ondemand.st",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "mm-el-E2026-140",
+    "title": "Olympiacos vs Hapoel TLV",
+    "league": "EuroLeague",
+    "category": "basketball",
+    "date": 1795634100000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Olympiacos Piraeus",
+        "badge": "https://media-cdn.incrowdsports.com/789423ac-3cdf-4b89-b11c-b458aa5f59a6.png"
+      },
+      "away": {
+        "name": "Hapoel IBI Tel Aviv",
+        "badge": "https://media-cdn.incrowdsports.com/cbb1c3ad-03d5-426a-b5ef-2832a4eee484.png"
       }
     },
     "hlsUrl": "",
