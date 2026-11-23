@@ -1,66 +1,46 @@
 [
   {
-    "matchId": "espn-401913530",
-    "title": "Illinois Fighting Illini vs Winthrop Eagles",
-    "league": "NCAA Men's Basketball",
+    "matchId": "espn-401910044",
+    "title": "Los Angeles Lakers vs Utah Jazz",
+    "league": "National Basketball Association",
     "category": "basketball",
-    "date": 1795482000000,
+    "date": 1795489200000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Illinois Fighting Illini",
-        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/356.png",
+        "name": "Los Angeles Lakers",
+        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lal.png",
         "color": ""
       },
       "away": {
-        "name": "Winthrop Eagles",
-        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/2737.png",
+        "name": "Utah Jazz",
+        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/utah.png",
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cbb/2026-11-23/win-ill/playlist.m3u8?tk=Dl0ZOEtZsuH5Myo2OkZNrA&e=1795466512|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nba/2026-11-23/utah-lal/playlist.m3u8?tk=oHD2RB0etXMtR54pPRLPHA&e=1795510684|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
-    "matchId": "mm-el-E2026-133",
-    "title": "FC Barcelona vs Fenerbahce",
-    "league": "EuroLeague",
+    "matchId": "espn-401909315",
+    "title": "Washington Wizards vs Boston Celtics",
+    "league": "National Basketball Association",
     "category": "basketball",
-    "date": 1795550400000,
+    "date": 1795568400000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "FC Barcelona",
-        "badge": "https://media-cdn.incrowdsports.com/35dfa503-e417-481f-963a-bdf6f013763e.png"
-      },
-      "away": {
-        "name": "Fenerbahce Tarfin Istanbul",
-        "badge": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCiezrk/aa39750a-6203-49ee-a87d-edd0c6f0397d.png"
-      }
-    },
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "espn-401920139",
-    "title": "Cal State Bakersfield Roadrunners vs Northern Arizona Lumberjacks",
-    "league": "NCAA Men's Basketball",
-    "category": "basketball",
-    "date": 1795903200000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Cal State Bakersfield Roadrunners",
-        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/2934.png",
+        "name": "Washington Wizards",
+        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/wsh.png",
         "color": ""
       },
       "away": {
-        "name": "Northern Arizona Lumberjacks",
-        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/2464.png",
+        "name": "Boston Celtics",
+        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/bos.png",
         "color": ""
       }
     },
-    "hlsUrl": "",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nba/2026-11-24/bos-wsh/playlist.m3u8?tk=_WVOdEkDLm9Q_Z0vnVIBMw&e=1795510690|Referer=https://ondemand.st",
     "sdUrl": ""
   }
 ]

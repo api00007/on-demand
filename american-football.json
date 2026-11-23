@@ -1,68 +1,90 @@
 [
   {
-    "matchId": "espn-401856756",
-    "title": "Texas A&M Aggies vs Texas Longhorns",
-    "league": "NCAA - Football",
-    "category": "american-football",
-    "date": 1795825800000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Texas A&M Aggies",
-        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/245.png",
-        "color": ""
-      },
-      "away": {
-        "name": "Texas Longhorns",
-        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/251.png",
-        "color": ""
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-11-27/tex-tam/playlist.m3u8?tk=7-RLI3FsvXLk6mvwvnqdFA&e=1795466530|Referer=https://ondemand.st",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "espn-401860929",
-    "title": "Washington State Cougars vs San Diego State Aztecs",
-    "league": "NCAA - Football",
-    "category": "american-football",
-    "date": 1795908600000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Washington State Cougars",
-        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/265.png",
-        "color": ""
-      },
-      "away": {
-        "name": "San Diego State Aztecs",
-        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/21.png",
-        "color": ""
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-11-28/bois-csu/playlist.m3u8?tk=JkKsRS82mnz-0H4WNLQ44Q&e=1795466536|Referer=https://ondemand.st",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "espn-401873090",
-    "title": "Jacksonville Jaguars vs Tennessee Titans",
+    "matchId": "espn-401873079",
+    "title": "Los Angeles Rams vs Green Bay Packers",
     "league": "National Football League",
     "category": "american-football",
-    "date": 1795975200000,
+    "date": 1795654800000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Jacksonville Jaguars",
-        "badge": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/jax.png",
+        "name": "Los Angeles Rams",
+        "badge": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/lar.png",
         "color": ""
       },
       "away": {
-        "name": "Tennessee Titans",
-        "badge": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ten.png",
+        "name": "Green Bay Packers",
+        "badge": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-11-29/ten-jax/playlist.m3u8?tk=XZRpNTyjewJifSzx8NFF3g&e=1795466542|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-11-25/gb-lar/playlist.m3u8?tk=WUgdLtrB0p17tDRQw-D0oA&e=1795510707|Referer=https://ondemand.st",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "espn-401873080",
+    "title": "Dallas Cowboys vs Philadelphia Eagles",
+    "league": "National Football League",
+    "category": "american-football",
+    "date": 1795728600000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Dallas Cowboys",
+        "badge": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/dal.png",
+        "color": ""
+      },
+      "away": {
+        "name": "Philadelphia Eagles",
+        "badge": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/phi.png",
+        "color": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-11-26/phi-dal/playlist.m3u8?tk=9UKtznk1CYdLWpNo51m44w&e=1795510708|Referer=https://ondemand.st",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "espn-401856764",
+    "title": "Clemson Tigers vs South Carolina Gamecocks",
+    "league": "NCAA - Football",
+    "category": "american-football",
+    "date": 1795896000000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Clemson Tigers",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/228.png",
+        "color": ""
+      },
+      "away": {
+        "name": "South Carolina Gamecocks",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/2579.png",
+        "color": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-11-28/sc-clem/playlist.m3u8?tk=8DB153gKAMplSzNosQOCzA&e=1795510714|Referer=https://ondemand.st",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "espn-401860928",
+    "title": "Utah State Aggies vs Texas State Bobcats",
+    "league": "NCAA - Football",
+    "category": "american-football",
+    "date": 1795919400000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Utah State Aggies",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/328.png",
+        "color": ""
+      },
+      "away": {
+        "name": "Texas State Bobcats",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/326.png",
+        "color": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-11-28/bois-csu/playlist.m3u8?tk=gRjKxcQO_rple2TA8h-PxA&e=1795510720|Referer=https://ondemand.st",
     "sdUrl": ""
   }
 ]
