@@ -1,41 +1,63 @@
 [
   {
-    "matchId": "espn-401910041",
-    "title": "Chicago Bulls vs Cleveland Cavaliers",
-    "league": "National Basketball Association",
+    "matchId": "espn-401913530",
+    "title": "Illinois Fighting Illini vs Winthrop Eagles",
+    "league": "NCAA Men's Basketball",
     "category": "basketball",
     "date": 1795482000000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Chicago Bulls",
-        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/chi.png",
+        "name": "Illinois Fighting Illini",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/356.png",
         "color": ""
       },
       "away": {
-        "name": "Cleveland Cavaliers",
-        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/cle.png",
+        "name": "Winthrop Eagles",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/2737.png",
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nba/2026-11-23/cle-chi/playlist.m3u8?tk=ry0z6UnZ6F6iGtgTtPhqNQ&e=1795435401|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cbb/2026-11-23/win-ill/playlist.m3u8?tk=Dl0ZOEtZsuH5Myo2OkZNrA&e=1795466512|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
-    "matchId": "mm-el-E2026-140",
-    "title": "Olympiacos vs Hapoel TLV",
+    "matchId": "mm-el-E2026-133",
+    "title": "FC Barcelona vs Fenerbahce",
     "league": "EuroLeague",
     "category": "basketball",
-    "date": 1795634100000,
+    "date": 1795550400000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Olympiacos Piraeus",
-        "badge": "https://media-cdn.incrowdsports.com/789423ac-3cdf-4b89-b11c-b458aa5f59a6.png"
+        "name": "FC Barcelona",
+        "badge": "https://media-cdn.incrowdsports.com/35dfa503-e417-481f-963a-bdf6f013763e.png"
       },
       "away": {
-        "name": "Hapoel IBI Tel Aviv",
-        "badge": "https://media-cdn.incrowdsports.com/cbb1c3ad-03d5-426a-b5ef-2832a4eee484.png"
+        "name": "Fenerbahce Tarfin Istanbul",
+        "badge": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCiezrk/aa39750a-6203-49ee-a87d-edd0c6f0397d.png"
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "espn-401920139",
+    "title": "Cal State Bakersfield Roadrunners vs Northern Arizona Lumberjacks",
+    "league": "NCAA Men's Basketball",
+    "category": "basketball",
+    "date": 1795903200000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Cal State Bakersfield Roadrunners",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/2934.png",
+        "color": ""
+      },
+      "away": {
+        "name": "Northern Arizona Lumberjacks",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/2464.png",
+        "color": ""
       }
     },
     "hlsUrl": "",
