@@ -1,90 +1,68 @@
 [
   {
-    "matchId": "espn-401873079",
-    "title": "Los Angeles Rams vs Green Bay Packers",
-    "league": "National Football League",
-    "category": "american-football",
-    "date": 1795654800000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Los Angeles Rams",
-        "badge": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/lar.png",
-        "color": ""
-      },
-      "away": {
-        "name": "Green Bay Packers",
-        "badge": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
-        "color": ""
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-11-25/gb-lar/playlist.m3u8?tk=WUgdLtrB0p17tDRQw-D0oA&e=1795510707|Referer=https://ondemand.st",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "espn-401873080",
-    "title": "Dallas Cowboys vs Philadelphia Eagles",
-    "league": "National Football League",
-    "category": "american-football",
-    "date": 1795728600000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Dallas Cowboys",
-        "badge": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/dal.png",
-        "color": ""
-      },
-      "away": {
-        "name": "Philadelphia Eagles",
-        "badge": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/phi.png",
-        "color": ""
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-11-26/phi-dal/playlist.m3u8?tk=9UKtznk1CYdLWpNo51m44w&e=1795510708|Referer=https://ondemand.st",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "espn-401856764",
-    "title": "Clemson Tigers vs South Carolina Gamecocks",
+    "matchId": "espn-401856759",
+    "title": "Florida State Seminoles vs Florida Gators",
     "league": "NCAA - Football",
     "category": "american-football",
-    "date": 1795896000000,
+    "date": 1795811400000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Clemson Tigers",
-        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/228.png",
+        "name": "Florida State Seminoles",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/52.png",
         "color": ""
       },
       "away": {
-        "name": "South Carolina Gamecocks",
-        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/2579.png",
+        "name": "Florida Gators",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/57.png",
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-11-28/sc-clem/playlist.m3u8?tk=8DB153gKAMplSzNosQOCzA&e=1795510714|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-11-27/fla-fsu/playlist.m3u8?tk=w7UZD1KFKxMncmVwO8o02Q&e=1795540464|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
-    "matchId": "espn-401860928",
-    "title": "Utah State Aggies vs Texas State Bobcats",
+    "matchId": "espn-401858312",
+    "title": "Wake Forest Demon Deacons vs Duke Blue Devils",
     "league": "NCAA - Football",
     "category": "american-football",
-    "date": 1795919400000,
+    "date": 1795897800000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Utah State Aggies",
-        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/328.png",
+        "name": "Wake Forest Demon Deacons",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/154.png",
         "color": ""
       },
       "away": {
-        "name": "Texas State Bobcats",
-        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/326.png",
+        "name": "Duke Blue Devils",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png",
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-11-28/bois-csu/playlist.m3u8?tk=gRjKxcQO_rple2TA8h-PxA&e=1795510720|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-11-28/duke-wake/playlist.m3u8?tk=TR98-dCJBhmh_93--SbX5w&e=1795540470|Referer=https://ondemand.st",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "espn-401873088",
+    "title": "Indianapolis Colts vs New York Giants",
+    "league": "National Football League",
+    "category": "american-football",
+    "date": 1795975200000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Indianapolis Colts",
+        "badge": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ind.png",
+        "color": ""
+      },
+      "away": {
+        "name": "New York Giants",
+        "badge": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyg.png",
+        "color": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-11-29/nyg-ind/playlist.m3u8?tk=9g-vNiaoxUZl5FJml6OVqg&e=1795540476|Referer=https://ondemand.st",
     "sdUrl": ""
   }
 ]
