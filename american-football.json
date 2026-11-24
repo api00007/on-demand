@@ -1,68 +1,90 @@
 [
   {
-    "matchId": "espn-401856759",
-    "title": "Florida State Seminoles vs Florida Gators",
-    "league": "NCAA - Football",
-    "category": "american-football",
-    "date": 1795811400000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Florida State Seminoles",
-        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/52.png",
-        "color": ""
-      },
-      "away": {
-        "name": "Florida Gators",
-        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/57.png",
-        "color": ""
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-11-27/fla-fsu/playlist.m3u8?tk=w7UZD1KFKxMncmVwO8o02Q&e=1795540464|Referer=https://ondemand.st",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "espn-401858312",
-    "title": "Wake Forest Demon Deacons vs Duke Blue Devils",
-    "league": "NCAA - Football",
-    "category": "american-football",
-    "date": 1795897800000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Wake Forest Demon Deacons",
-        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/154.png",
-        "color": ""
-      },
-      "away": {
-        "name": "Duke Blue Devils",
-        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png",
-        "color": ""
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-11-28/duke-wake/playlist.m3u8?tk=TR98-dCJBhmh_93--SbX5w&e=1795540470|Referer=https://ondemand.st",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "espn-401873088",
-    "title": "Indianapolis Colts vs New York Giants",
+    "matchId": "espn-401873079",
+    "title": "Los Angeles Rams vs Green Bay Packers",
     "league": "National Football League",
     "category": "american-football",
-    "date": 1795975200000,
+    "date": 1795654800000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Indianapolis Colts",
-        "badge": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ind.png",
+        "name": "Los Angeles Rams",
+        "badge": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/lar.png",
         "color": ""
       },
       "away": {
-        "name": "New York Giants",
-        "badge": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyg.png",
+        "name": "Green Bay Packers",
+        "badge": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-11-29/nyg-ind/playlist.m3u8?tk=9g-vNiaoxUZl5FJml6OVqg&e=1795540476|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-11-25/gb-lar/playlist.m3u8?tk=fmHgfRsfUGIq78-v6k_oxw&e=1795583400|Referer=https://ondemand.st",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "espn-401856761",
+    "title": "Kentucky Wildcats vs Louisville Cardinals",
+    "league": "NCAA - Football",
+    "category": "american-football",
+    "date": 1795885200000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Kentucky Wildcats",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/96.png",
+        "color": ""
+      },
+      "away": {
+        "name": "Louisville Cardinals",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/97.png",
+        "color": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-11-28/lou-uk/playlist.m3u8?tk=5FmdMdFKrE-1OjRilPUFtg&e=1795583406|Referer=https://ondemand.st",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "espn-401856765",
+    "title": "Vanderbilt Commodores vs Tennessee Volunteers",
+    "league": "NCAA - Football",
+    "category": "american-football",
+    "date": 1795910400000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Vanderbilt Commodores",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/238.png",
+        "color": ""
+      },
+      "away": {
+        "name": "Tennessee Volunteers",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/2633.png",
+        "color": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-11-28/tenn-van/playlist.m3u8?tk=zDC-DOeSO-NZb_hYaliSAw&e=1795583412|Referer=https://ondemand.st",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "espn-401873093",
+    "title": "Los Angeles Chargers vs New England Patriots",
+    "league": "National Football League",
+    "category": "american-football",
+    "date": 1795986300000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Los Angeles Chargers",
+        "badge": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/lac.png",
+        "color": ""
+      },
+      "away": {
+        "name": "New England Patriots",
+        "badge": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ne.png",
+        "color": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-11-29/ne-lac/playlist.m3u8?tk=7Vv86amjLGamfqOAa4XP9w&e=1795583418|Referer=https://ondemand.st",
     "sdUrl": ""
   }
 ]
