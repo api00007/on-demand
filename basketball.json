@@ -1,66 +1,66 @@
 [
   {
-    "matchId": "mm-el-E2026-135",
-    "title": "Valencia vs Panathinaikos",
+    "matchId": "espn-401916319",
+    "title": "Ohio State Buckeyes vs Vanderbilt Commodores",
+    "league": "NCAA Men's Basketball",
+    "category": "basketball",
+    "date": 1795564800000,
+    "status": "live",
+    "teams": {
+      "home": {
+        "name": "Ohio State Buckeyes",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/194.png",
+        "color": ""
+      },
+      "away": {
+        "name": "Vanderbilt Commodores",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/238.png",
+        "color": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cbb/2026-11-24/van-osu/playlist.m3u8?tk=q_tZF-Gh1jRL4rv13Rg8IQ&e=1795615224|Referer=https://ondemand.st",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "mm-el-E2026-137",
+    "title": "Dubai vs Partizan",
     "league": "EuroLeague",
     "category": "basketball",
-    "date": 1795548600000,
+    "date": 1795622400000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Valencia Basket",
-        "badge": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjChWbHL/bc3e00b2-fea4-40be-a7ec-1e633129bde3.png"
+        "name": "Dubai Basketball",
+        "badge": "https://media-cdn.incrowdsports.com/1efae090-16e2-4963-ae47-4b94f249c244.png"
       },
       "away": {
-        "name": "Panathinaikos AKTOR Athens",
-        "badge": "https://media-cdn.incrowdsports.com/e3dff28a-9ec6-4faf-9d96-ecbc68f75780.png"
+        "name": "Partizan Mozzart Bet Belgrade",
+        "badge": "https://media-cdn.incrowdsports.com/2681304e-77dd-4331-88b1-683078c0fb49.png"
       }
     },
     "hlsUrl": "",
     "sdUrl": ""
   },
   {
-    "matchId": "espn-401915943",
-    "title": "St. John's Red Storm vs Oregon Ducks",
-    "league": "NCAA Men's Basketball",
+    "matchId": "espn-401909321",
+    "title": "Memphis Grizzlies vs LA Clippers",
+    "league": "National Basketball Association",
     "category": "basketball",
-    "date": 1795577400000,
+    "date": 1795654800000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "St. John's Red Storm",
-        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/2599.png",
+        "name": "Memphis Grizzlies",
+        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mem.png",
         "color": ""
       },
       "away": {
-        "name": "Oregon Ducks",
-        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/2483.png",
+        "name": "LA Clippers",
+        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lac.png",
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cbb/2026-11-24/ore-sju/playlist.m3u8?tk=fDrM1hnqvqW2woN0-iLQdw&e=1795583388|Referer=https://ondemand.st",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "espn-401909568",
-    "title": "Duke Blue Devils vs UConn Huskies",
-    "league": "NCAA Men's Basketball",
-    "category": "basketball",
-    "date": 1795651200000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Duke Blue Devils",
-        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png",
-        "color": ""
-      },
-      "away": {
-        "name": "UConn Huskies",
-        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/41.png",
-        "color": ""
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cbb/2026-11-25/conn-duke/playlist.m3u8?tk=YtAx6g6XdkApOdlSK-o7eg&e=1795583394|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nba/2026-11-25/lac-mem/playlist.m3u8?tk=kx8Aus0iPA5Bs55kKRW3ig&e=1795615236|Referer=https://ondemand.st",
     "sdUrl": ""
   }
 ]
