@@ -1,68 +1,90 @@
 [
   {
-    "matchId": "espn-401856759",
-    "title": "Florida State Seminoles vs Florida Gators",
-    "league": "NCAA - Football",
+    "matchId": "espn-401873080",
+    "title": "Dallas Cowboys vs Philadelphia Eagles",
+    "league": "National Football League",
     "category": "american-football",
-    "date": 1795811400000,
+    "date": 1795728600000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Florida State Seminoles",
-        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/52.png",
+        "name": "Dallas Cowboys",
+        "badge": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/dal.png",
         "color": ""
       },
       "away": {
-        "name": "Florida Gators",
-        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/57.png",
+        "name": "Philadelphia Eagles",
+        "badge": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/phi.png",
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-11-27/fla-fsu/playlist.m3u8?tk=GrKxIrmNbTFWphQoyOeplg&e=1795648221|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-11-26/phi-dal/playlist.m3u8?tk=5LJ5aAQqGp6dR67Q4auVTg&e=1795684658|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
-    "matchId": "espn-401858543",
-    "title": "UCLA Bruins vs USC Trojans",
+    "matchId": "espn-401856878",
+    "title": "Iowa State Cyclones vs Kansas State Wildcats",
     "league": "NCAA - Football",
     "category": "american-football",
-    "date": 1795897800000,
+    "date": 1795892400000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "UCLA Bruins",
-        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/26.png",
+        "name": "Iowa State Cyclones",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/66.png",
         "color": ""
       },
       "away": {
-        "name": "USC Trojans",
-        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/30.png",
+        "name": "Kansas State Wildcats",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/2306.png",
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-11-28/usc-ucla/playlist.m3u8?tk=caMua4p-L-6jwvW005BM-w&e=1795648227|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-11-28/bois-csu/playlist.m3u8?tk=eIT0gVQ3TlI7cGAJ9BkxvA&e=1795684664|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
-    "matchId": "espn-401860927",
-    "title": "Fresno State Bulldogs vs Oregon State Beavers",
+    "matchId": "espn-401858541",
+    "title": "Oregon Ducks vs Washington Huskies",
     "league": "NCAA - Football",
     "category": "american-football",
-    "date": 1795921200000,
+    "date": 1795912200000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Fresno State Bulldogs",
-        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/278.png",
+        "name": "Oregon Ducks",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/2483.png",
         "color": ""
       },
       "away": {
-        "name": "Oregon State Beavers",
-        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/204.png",
+        "name": "Washington Huskies",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/264.png",
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-11-28/bois-csu/playlist.m3u8?tk=k4TnEoLP7fepaS-GWpZA4g&e=1795648233|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-11-28/wash-ore/playlist.m3u8?tk=1mMsNUCfKszXd0v5tgBTfQ&e=1795684670|Referer=https://ondemand.st",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "espn-401873090",
+    "title": "Jacksonville Jaguars vs Tennessee Titans",
+    "league": "National Football League",
+    "category": "american-football",
+    "date": 1795975200000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Jacksonville Jaguars",
+        "badge": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/jax.png",
+        "color": ""
+      },
+      "away": {
+        "name": "Tennessee Titans",
+        "badge": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ten.png",
+        "color": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-11-29/ten-jax/playlist.m3u8?tk=EsGPmqwDDVQAyH58qCBqzQ&e=1795684676|Referer=https://ondemand.st",
     "sdUrl": ""
   }
 ]

@@ -1,68 +1,44 @@
 [
   {
-    "matchId": "espn-401921669",
-    "title": "LSU Tigers vs Arizona State Sun Devils",
-    "league": "NCAA Men's Basketball",
+    "matchId": "mm-el-E2026-139",
+    "title": "Real Madrid vs Zalgiris",
+    "league": "EuroLeague",
     "category": "basketball",
-    "date": 1795633200000,
-    "status": "upcoming",
+    "date": 1795635900000,
+    "status": "live",
     "teams": {
       "home": {
-        "name": "LSU Tigers",
-        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/99.png",
-        "color": ""
+        "name": "Real Madrid",
+        "badge": "https://media-cdn.incrowdsports.com/371b0d9b-9250-4c09-bda7-0686cf024657.png"
       },
       "away": {
-        "name": "Arizona State Sun Devils",
-        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/9.png",
-        "color": ""
+        "name": "Zalgiris Kaunas",
+        "badge": "https://media-cdn.incrowdsports.com/0aa09358-3847-4c4e-b228-3582ee4e536d.png"
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cbb/2026-11-25/asu-lsu/playlist.m3u8?tk=P1pBqIC-k1j_f4qQTxNplQ&e=1795648197|Referer=https://ondemand.st",
+    "hlsUrl": "",
     "sdUrl": ""
   },
   {
-    "matchId": "espn-401917182",
-    "title": "Penn State Nittany Lions vs Memphis Tigers",
-    "league": "NCAA Men's Basketball",
-    "category": "basketball",
-    "date": 1795644000000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Penn State Nittany Lions",
-        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/213.png",
-        "color": ""
-      },
-      "away": {
-        "name": "Memphis Tigers",
-        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/235.png",
-        "color": ""
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cbb/2026-11-25/asu-lsu/playlist.m3u8?tk=PidGiG5UiCEg4ofIygng_w&e=1795648203|Referer=https://ondemand.st",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "espn-401909323",
-    "title": "Houston Rockets vs Phoenix Suns",
+    "matchId": "espn-401909321",
+    "title": "Memphis Grizzlies vs LA Clippers",
     "league": "National Basketball Association",
     "category": "basketball",
-    "date": 1795656600000,
+    "date": 1795654800000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Houston Rockets",
-        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/hou.png",
+        "name": "Memphis Grizzlies",
+        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mem.png",
         "color": ""
       },
       "away": {
-        "name": "Phoenix Suns",
-        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/phx.png",
+        "name": "LA Clippers",
+        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lac.png",
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nba/2026-11-25/phx-hou/playlist.m3u8?tk=zxnyOQH8OJjlxDevSJh2DQ&e=1795648209|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nba/2026-11-25/lac-mem/playlist.m3u8?tk=q0wU6-VBub-hwv_vpY6Wug&e=1795684646|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
