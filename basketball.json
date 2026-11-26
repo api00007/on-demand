@@ -1,62 +1,64 @@
 [
   {
-    "matchId": "mm-el-E2026-139",
-    "title": "Real Madrid vs Zalgiris",
-    "league": "EuroLeague",
+    "matchId": "espn-401909325",
+    "title": "Portland Trail Blazers vs San Antonio Spurs",
+    "league": "National Basketball Association",
     "category": "basketball",
-    "date": 1795635900000,
+    "date": 1795662000000,
     "status": "live",
     "teams": {
       "home": {
-        "name": "Real Madrid",
-        "badge": "https://media-cdn.incrowdsports.com/371b0d9b-9250-4c09-bda7-0686cf024657.png"
-      },
-      "away": {
-        "name": "Zalgiris Kaunas",
-        "badge": "https://media-cdn.incrowdsports.com/0aa09358-3847-4c4e-b228-3582ee4e536d.png"
-      }
-    },
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "espn-401909321",
-    "title": "Memphis Grizzlies vs LA Clippers",
-    "league": "National Basketball Association",
-    "category": "basketball",
-    "date": 1795654800000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Memphis Grizzlies",
-        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mem.png",
+        "name": "Portland Trail Blazers",
+        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/por.png",
         "color": ""
       },
       "away": {
-        "name": "LA Clippers",
-        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lac.png",
+        "name": "San Antonio Spurs",
+        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sa.png",
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nba/2026-11-25/lac-mem/playlist.m3u8?tk=q0wU6-VBub-hwv_vpY6Wug&e=1795684646|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nba/2026-11-25/sa-por/playlist.m3u8?tk=Mn4U4w3jkDlAJ3JUNa25UA&e=1795708848|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
-    "matchId": "espn-401918989",
-    "title": "Memphis Tigers vs Jackson State Tigers",
+    "matchId": "espn-401918972",
+    "title": "LSU Tigers vs SMU Mustangs",
     "league": "NCAA Men's Basketball",
     "category": "basketball",
-    "date": 1796230800000,
+    "date": 1795737600000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Memphis Tigers",
-        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/235.png",
+        "name": "LSU Tigers",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/99.png",
         "color": ""
       },
       "away": {
-        "name": "Jackson State Tigers",
-        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/2296.png",
+        "name": "SMU Mustangs",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/2567.png",
+        "color": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cbb/2026-11-26/smu-lsu/playlist.m3u8?tk=PxGf8yJ0rqSnKYPdZFfV8Q&e=1795708854|Referer=https://ondemand.st",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "espn-401875304",
+    "title": "Brisbane Bullets vs Perth Wildcats",
+    "league": "National Basketball League",
+    "category": "basketball",
+    "date": 1796288400000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Brisbane Bullets",
+        "badge": "https://a.espncdn.com/i/teamlogos/nbl/500/bri.png",
+        "color": ""
+      },
+      "away": {
+        "name": "Perth Wildcats",
+        "badge": "https://a.espncdn.com/i/teamlogos/nbl/500/per.png",
         "color": ""
       }
     },
