@@ -1,64 +1,86 @@
 [
   {
-    "matchId": "espn-401909325",
-    "title": "Portland Trail Blazers vs San Antonio Spurs",
-    "league": "National Basketball Association",
-    "category": "basketball",
-    "date": 1795662000000,
-    "status": "live",
-    "teams": {
-      "home": {
-        "name": "Portland Trail Blazers",
-        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/por.png",
-        "color": ""
-      },
-      "away": {
-        "name": "San Antonio Spurs",
-        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sa.png",
-        "color": ""
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nba/2026-11-25/sa-por/playlist.m3u8?tk=Mn4U4w3jkDlAJ3JUNa25UA&e=1795708848|Referer=https://ondemand.st",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "espn-401918972",
-    "title": "LSU Tigers vs SMU Mustangs",
+    "matchId": "espn-401906869",
+    "title": "Texas Longhorns vs Georgetown Hoyas",
     "league": "NCAA Men's Basketball",
     "category": "basketball",
-    "date": 1795737600000,
+    "date": 1795721400000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "LSU Tigers",
-        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/99.png",
+        "name": "Texas Longhorns",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/251.png",
         "color": ""
       },
       "away": {
-        "name": "SMU Mustangs",
-        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/2567.png",
+        "name": "Georgetown Hoyas",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/46.png",
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cbb/2026-11-26/smu-lsu/playlist.m3u8?tk=PxGf8yJ0rqSnKYPdZFfV8Q&e=1795708854|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cbb/2026-11-26/gtwn-tex/playlist.m3u8?tk=OjHuWWFgZR5zwmkvsg70mQ&e=1795744024|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
-    "matchId": "espn-401875304",
-    "title": "Brisbane Bullets vs Perth Wildcats",
-    "league": "National Basketball League",
+    "matchId": "espn-401920531",
+    "title": "Oregon Ducks vs Texas Tech Red Raiders",
+    "league": "NCAA Men's Basketball",
     "category": "basketball",
-    "date": 1796288400000,
+    "date": 1795753800000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Brisbane Bullets",
-        "badge": "https://a.espncdn.com/i/teamlogos/nbl/500/bri.png",
+        "name": "Oregon Ducks",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/2483.png",
         "color": ""
       },
       "away": {
-        "name": "Perth Wildcats",
-        "badge": "https://a.espncdn.com/i/teamlogos/nbl/500/per.png",
+        "name": "Texas Tech Red Raiders",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/2641.png",
+        "color": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cbb/2026-11-26/ttu-ore/playlist.m3u8?tk=FQDbXQcM2idENLc9fBsdDw&e=1795744030|Referer=https://ondemand.st",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "espn-401909330",
+    "title": "Boston Celtics vs Atlanta Hawks",
+    "league": "National Basketball Association",
+    "category": "basketball",
+    "date": 1795827600000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Boston Celtics",
+        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/bos.png",
+        "color": ""
+      },
+      "away": {
+        "name": "Atlanta Hawks",
+        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/atl.png",
+        "color": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nba/2026-11-27/atl-bos/playlist.m3u8?tk=IaPuF6Y6FG5YbeiBXkTswA&e=1795744036|Referer=https://ondemand.st",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "espn-401911381",
+    "title": "Charleston Southern Buccaneers vs Morehead State Eagles",
+    "league": "NCAA Men's Basketball",
+    "category": "basketball",
+    "date": 1795910400000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Charleston Southern Buccaneers",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/2127.png",
+        "color": ""
+      },
+      "away": {
+        "name": "Morehead State Eagles",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/2413.png",
         "color": ""
       }
     },
