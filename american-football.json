@@ -1,68 +1,46 @@
 [
   {
-    "matchId": "espn-401873081",
-    "title": "Detroit Lions vs Chicago Bears",
+    "matchId": "espn-401873083",
+    "title": "Pittsburgh Steelers vs Denver Broncos",
     "league": "National Football League",
     "category": "american-football",
-    "date": 1795716000000,
+    "date": 1795809600000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Detroit Lions",
-        "badge": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/det.png",
+        "name": "Pittsburgh Steelers",
+        "badge": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/pit.png",
         "color": ""
       },
       "away": {
-        "name": "Chicago Bears",
-        "badge": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/chi.png",
+        "name": "Denver Broncos",
+        "badge": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/den.png",
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-11-26/chi-det/playlist.m3u8?tk=srFyJgaVvE82sTucIdQMmw&e=1795744049|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-11-27/den-pit/playlist.m3u8?tk=1dUpqRP8WdOfSf_lLEsnbA&e=1795776778|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
-    "matchId": "espn-401856880",
-    "title": "Utah Utes vs West Virginia Mountaineers",
-    "league": "NCAA - Football",
-    "category": "american-football",
-    "date": 1795831200000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Utah Utes",
-        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/254.png",
-        "color": ""
-      },
-      "away": {
-        "name": "West Virginia Mountaineers",
-        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/277.png",
-        "color": ""
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-11-27/wvu-utah/playlist.m3u8?tk=Vk4kwkMBtTUyOM6YDEPKLQ&e=1795744054|Referer=https://ondemand.st",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "espn-401858543",
-    "title": "UCLA Bruins vs USC Trojans",
+    "matchId": "espn-401858312",
+    "title": "Wake Forest Demon Deacons vs Duke Blue Devils",
     "league": "NCAA - Football",
     "category": "american-football",
     "date": 1795897800000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "UCLA Bruins",
-        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/26.png",
+        "name": "Wake Forest Demon Deacons",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/154.png",
         "color": ""
       },
       "away": {
-        "name": "USC Trojans",
-        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/30.png",
+        "name": "Duke Blue Devils",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png",
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-11-28/usc-ucla/playlist.m3u8?tk=jhtdNf-5hvRDFpqWxucV0g&e=1795744060|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-11-28/duke-wake/playlist.m3u8?tk=yCAJpDtk23-FmAQSikdu9A&e=1795776784|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
@@ -84,29 +62,7 @@
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-11-28/bois-csu/playlist.m3u8?tk=5u_3Ghoq6O6AFgWvhFxu7A&e=1795744066|Referer=https://ondemand.st",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "espn-401873094",
-    "title": "Tampa Bay Buccaneers vs Carolina Panthers",
-    "league": "National Football League",
-    "category": "american-football",
-    "date": 1796087700000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Tampa Bay Buccaneers",
-        "badge": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/tb.png",
-        "color": ""
-      },
-      "away": {
-        "name": "Carolina Panthers",
-        "badge": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/car.png",
-        "color": ""
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-11-30/car-tb/playlist.m3u8?tk=94h8SVDD_xyIqqwEnlsJBQ&e=1795744072|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-11-28/bois-csu/playlist.m3u8?tk=XzoE3tHJOjHPgFVeUUE_-Q&e=1795776790|Referer=https://ondemand.st",
     "sdUrl": ""
   }
 ]
