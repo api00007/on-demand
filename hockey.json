@@ -1,46 +1,68 @@
 [
   {
-    "matchId": "espn-401892799",
-    "title": "Tampa Bay Lightning vs Ottawa Senators",
+    "matchId": "espn-401892803",
+    "title": "Minnesota Wild vs Colorado Avalanche",
     "league": "National Hockey League",
     "category": "hockey",
-    "date": 1795809600000,
-    "status": "upcoming",
+    "date": 1795813200000,
+    "status": "live",
     "teams": {
       "home": {
-        "name": "Tampa Bay Lightning",
-        "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/tb.png",
+        "name": "Minnesota Wild",
+        "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/min.png",
         "color": ""
       },
       "away": {
-        "name": "Ottawa Senators",
-        "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/ott.png",
+        "name": "Colorado Avalanche",
+        "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/col.png",
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-11-27/ott-tb/playlist.m3u8?tk=J3fy94qi-pG6Bm-QNqmnlw&e=1795834131|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-11-27/col-min/playlist.m3u8?tk=NN5kdCXAeF2vvL6RCXJTUg&e=1795864687|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
-    "matchId": "espn-401892809",
-    "title": "Edmonton Oilers vs Seattle Kraken",
-    "league": "National Hockey League",
+    "matchId": "espn-401904466",
+    "title": "Robert Morris Colonials vs Niagara Purple Eagles",
+    "league": "NCAA Men's Ice Hockey",
     "category": "hockey",
-    "date": 1795827600000,
+    "date": 1795824000000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Edmonton Oilers",
-        "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/edm.png",
+        "name": "Robert Morris Colonials",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/2523.png",
         "color": ""
       },
       "away": {
-        "name": "Seattle Kraken",
-        "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/sea.png",
+        "name": "Niagara Purple Eagles",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/315.png",
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-11-27/sea-edm/playlist.m3u8?tk=y02KfxAgRXi9Sg3tI-tykA&e=1795834136|Referer=https://ondemand.st",
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "espn-401904613",
+    "title": "Ferris State Bulldogs vs Lake Superior State Lakers",
+    "league": "NCAA Men's Ice Hockey",
+    "category": "hockey",
+    "date": 1796429220000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Ferris State Bulldogs",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/2222.png",
+        "color": ""
+      },
+      "away": {
+        "name": "Lake Superior State Lakers",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/285.png",
+        "color": ""
+      }
+    },
+    "hlsUrl": "",
     "sdUrl": ""
   }
 ]

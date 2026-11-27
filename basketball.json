@@ -1,42 +1,20 @@
 [
   {
-    "matchId": "tsdb-2596889",
-    "title": "Westchester Knicks vs Capital City Go-Go",
-    "league": "NBA G League",
-    "category": "basketball",
-    "date": 1795802400000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Westchester Knicks",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/q7aory1526836555.png",
-        "color": ""
-      },
-      "away": {
-        "name": "Capital City Go-Go",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/cvsaoz1550084988.png",
-        "color": ""
-      }
-    },
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "tsdb-2595881",
-    "title": "North Carolina vs West Virginia",
+    "matchId": "tsdb-2628824",
+    "title": "UCF Knights vs Georgia",
     "league": "NCAA Division I Basketball Mens",
     "category": "basketball",
     "date": 1795824000000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "North Carolina",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/bo1lhk1584718020.png",
+        "name": "UCF Knights",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/o6rh1o1608652955.png",
         "color": ""
       },
       "away": {
-        "name": "West Virginia",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/vt9xu51584217798.png",
+        "name": "Georgia",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/bu52001720071086.png",
         "color": ""
       }
     },
@@ -44,64 +22,42 @@
     "sdUrl": ""
   },
   {
-    "matchId": "espn-401909331",
-    "title": "Minnesota Timberwolves vs Memphis Grizzlies",
+    "matchId": "espn-401909335",
+    "title": "LA Clippers vs New Orleans Pelicans",
     "league": "National Basketball Association",
     "category": "basketball",
-    "date": 1795829400000,
+    "date": 1795833000000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Minnesota Timberwolves",
-        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/min.png",
+        "name": "LA Clippers",
+        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lac.png",
         "color": ""
       },
       "away": {
-        "name": "Memphis Grizzlies",
-        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mem.png",
+        "name": "New Orleans Pelicans",
+        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/no.png",
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nba/2026-11-27/mem-min/playlist.m3u8?tk=I9IrIlocR4CRRLDPiGrl0g&e=1795834088|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nba/2026-11-27/no-lac/playlist.m3u8?tk=gUSMMnaVMRWMU3PTUZoumg&e=1795864648|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
-    "matchId": "espn-401910050",
-    "title": "Houston Rockets vs Philadelphia 76ers",
-    "league": "National Basketball Association",
-    "category": "basketball",
-    "date": 1795915800000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Houston Rockets",
-        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/hou.png",
-        "color": ""
-      },
-      "away": {
-        "name": "Philadelphia 76ers",
-        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/phi.png",
-        "color": ""
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nba/2026-11-28/phi-hou/playlist.m3u8?tk=clhaXyZxtZiEjNOKWVOc8A&e=1795834094|Referer=https://ondemand.st",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "mm-el-E2026-150",
-    "title": "Olympiacos vs LDLC ASVEL",
+    "matchId": "mm-el-E2026-144",
+    "title": "Fenerbahce vs Crvena Zvezda",
     "league": "EuroLeague",
     "category": "basketball",
-    "date": 1796411700000,
+    "date": 1796319900000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Olympiacos Piraeus",
-        "badge": "https://media-cdn.incrowdsports.com/789423ac-3cdf-4b89-b11c-b458aa5f59a6.png"
+        "name": "Fenerbahce Tarfin Istanbul",
+        "badge": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCiezrk/aa39750a-6203-49ee-a87d-edd0c6f0397d.png"
       },
       "away": {
-        "name": "LDLC ASVEL Villeurbanne",
-        "badge": "https://media-cdn.incrowdsports.com/e33c6d1a-95ca-4dbc-b8cb-0201812104cc.png"
+        "name": "Crvena Zvezda Meridianbet Belgrade",
+        "badge": "https://media-cdn.incrowdsports.com/d2eef4a8-62df-4fdd-9076-276004268515.png"
       }
     },
     "hlsUrl": "",
