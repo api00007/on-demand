@@ -1,13 +1,35 @@
 [
   {
-    "matchId": "mm-mot-f1-600057450-race",
-    "title": "Qatar Grand Prix - Race",
+    "matchId": "tsdb-2419077",
+    "title": "V8 Supercars Adelaide Grand Final Race 35",
+    "league": "V8 Supercars",
+    "category": "motor-sports",
+    "date": 1795758600000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "V8 Supercars Adelaide Grand Final Race 35",
+        "badge": "",
+        "color": ""
+      },
+      "away": {
+        "name": "",
+        "badge": "",
+        "color": ""
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "mm-mot-f1-600057450-fp3",
+    "title": "Qatar Grand Prix - Practice 3",
     "league": "Formula 1",
     "category": "motor-sports",
-    "date": 1795968000000,
+    "date": 1795876200000,
     "status": "upcoming",
     "teams": {},
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/f1/2026/qatar/race/playlist.m3u8?tk=rsOh21vPIaJYbCzJdZKWQg&e=1795776802|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/f1/2026/qatar/fp3/playlist.m3u8?tk=0etVpoUookwbbywKozzpdw&e=1795798411|Referer=https://ondemand.st",
     "sdUrl": ""
   }
 ]

@@ -1,37 +1,15 @@
 [
   {
-    "matchId": "espn-401925757",
-    "title": "Michigan State Spartans vs Arkansas Razorbacks",
-    "league": "NCAA Men's Basketball",
+    "matchId": "espn-401912971",
+    "title": "LSU Tigers vs Villanova Wildcats",
+    "league": "NCAA Women's Basketball",
     "category": "basketball",
-    "date": 1795728600000,
-    "status": "live",
-    "teams": {
-      "home": {
-        "name": "Michigan State Spartans",
-        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/127.png",
-        "color": ""
-      },
-      "away": {
-        "name": "Arkansas Razorbacks",
-        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/8.png",
-        "color": ""
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cbb/2026-11-26/ark-msu/playlist.m3u8?tk=ziMXYos-BTRr9TW1_1N6UQ&e=1795776754|Referer=https://ondemand.st",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "espn-401909789",
-    "title": "Kansas Jayhawks vs Villanova Wildcats",
-    "league": "NCAA Men's Basketball",
-    "category": "basketball",
-    "date": 1795816800000,
+    "date": 1795815000000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Kansas Jayhawks",
-        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/2305.png",
+        "name": "LSU Tigers",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/99.png",
         "color": ""
       },
       "away": {
@@ -40,46 +18,68 @@
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cbb/2026-11-27/vill-ku/playlist.m3u8?tk=htDvsiCz2__5CGy_-kM4Zw&e=1795776760|Referer=https://ondemand.st",
+    "hlsUrl": "",
     "sdUrl": ""
   },
   {
-    "matchId": "espn-401909333",
-    "title": "San Antonio Spurs vs Los Angeles Lakers",
-    "league": "National Basketball Association",
+    "matchId": "espn-401925703",
+    "title": "Houston Cougars vs Oakland Golden Grizzlies",
+    "league": "NCAA Men's Basketball",
     "category": "basketball",
-    "date": 1795833000000,
+    "date": 1795825800000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "San Antonio Spurs",
-        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sa.png",
+        "name": "Houston Cougars",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/248.png",
         "color": ""
       },
       "away": {
-        "name": "Los Angeles Lakers",
-        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lal.png",
+        "name": "Oakland Golden Grizzlies",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/2473.png",
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nba/2026-11-27/lal-sa/playlist.m3u8?tk=yOJTfwd12KTrDa921-f20Q&e=1795776766|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cbb/2026-11-27/oak-hou/playlist.m3u8?tk=bk4BOMwJrkgHbwPpdLWvVQ&e=1795798344|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
-    "matchId": "mm-el-E2026-144",
-    "title": "Fenerbahce vs Crvena Zvezda",
-    "league": "EuroLeague",
+    "matchId": "espn-401921009",
+    "title": "Kansas City Roos vs Southeast Missouri State Redhawks",
+    "league": "NCAA Men's Basketball",
     "category": "basketball",
-    "date": 1796319900000,
+    "date": 1795896000000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Fenerbahce Tarfin Istanbul",
-        "badge": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCiezrk/aa39750a-6203-49ee-a87d-edd0c6f0397d.png"
+        "name": "Kansas City Roos",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/140.png",
+        "color": ""
       },
       "away": {
-        "name": "Crvena Zvezda Meridianbet Belgrade",
-        "badge": "https://media-cdn.incrowdsports.com/d2eef4a8-62df-4fdd-9076-276004268515.png"
+        "name": "Southeast Missouri State Redhawks",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/2546.png",
+        "color": ""
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "mm-el-E2026-145",
+    "title": "Real Madrid vs FC Barcelona",
+    "league": "EuroLeague",
+    "category": "basketball",
+    "date": 1796327100000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Real Madrid",
+        "badge": "https://media-cdn.incrowdsports.com/371b0d9b-9250-4c09-bda7-0686cf024657.png"
+      },
+      "away": {
+        "name": "FC Barcelona",
+        "badge": "https://media-cdn.incrowdsports.com/35dfa503-e417-481f-963a-bdf6f013763e.png"
       }
     },
     "hlsUrl": "",

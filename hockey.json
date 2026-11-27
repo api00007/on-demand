@@ -1,1 +1,46 @@
-[]
+[
+  {
+    "matchId": "espn-401892804",
+    "title": "Anaheim Ducks vs Los Angeles Kings",
+    "league": "National Hockey League",
+    "category": "hockey",
+    "date": 1795813200000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Anaheim Ducks",
+        "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/ana.png",
+        "color": ""
+      },
+      "away": {
+        "name": "Los Angeles Kings",
+        "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/la.png",
+        "color": ""
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "espn-401923165",
+    "title": "Ohio State Buckeyes vs Michigan State Spartans",
+    "league": "NCAA Men's Ice Hockey",
+    "category": "hockey",
+    "date": 1796346000000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Ohio State Buckeyes",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/194.png",
+        "color": ""
+      },
+      "away": {
+        "name": "Michigan State Spartans",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/127.png",
+        "color": ""
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  }
+]
