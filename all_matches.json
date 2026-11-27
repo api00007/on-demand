@@ -1,73 +1,11 @@
 [
   {
-    "matchId": "mm-own-dc6eae8bea",
-    "title": "León vs Cruz Azul",
-    "league": "Liga MX",
-    "category": "football",
-    "date": 1795749000000,
-    "status": "live",
-    "teams": {
-      "home": {
-        "name": "León",
-        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/228.png"
-      },
-      "away": {
-        "name": "Cruz Azul",
-        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/218.png"
-      }
-    },
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "mm-own-6f0dda6ac6",
-    "title": "Macarthur FC vs Melbourne City FC",
-    "league": "A-League",
-    "category": "football",
-    "date": 1795768800000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Macarthur FC",
-        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/19340.png"
-      },
-      "away": {
-        "name": "Melbourne City FC",
-        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/11143.png"
-      }
-    },
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "tsdb-2493623",
-    "title": "Maccabi Petah Tikva vs Hapoel Tel-Aviv",
-    "league": "Israeli Premier League",
-    "category": "football",
-    "date": 1795780800000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Maccabi Petah Tikva",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/3bvby91720417514.png",
-        "color": ""
-      },
-      "away": {
-        "name": "Hapoel Tel-Aviv",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/19siqf1781239772.png",
-        "color": ""
-      }
-    },
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
     "matchId": "mm-own-7cae6855c8",
     "title": "Al Kholood vs Al Khaleej",
     "league": "Saudi Pro League",
     "category": "football",
     "date": 1795781700000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "Al Kholood",
@@ -87,7 +25,7 @@
     "league": "Israeli Liga Leumit",
     "category": "football",
     "date": 1795784400000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "Hapoel Akko",
@@ -109,7 +47,7 @@
     "league": "Israeli Liga Leumit",
     "category": "football",
     "date": 1795784400000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "Maccabi Akhi Nazareth",
@@ -131,7 +69,7 @@
     "league": "Israeli Liga Leumit",
     "category": "football",
     "date": 1795784400000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "Hapoel Kfar Shalem",
@@ -153,7 +91,7 @@
     "league": "Qatar Stars League",
     "category": "football",
     "date": 1795784400000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "Al-Sailiya",
@@ -175,7 +113,7 @@
     "league": "CAF Confederation Cup",
     "category": "football",
     "date": 1795784400000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "Azam",
@@ -197,7 +135,7 @@
     "league": "Jordanian Pro League",
     "category": "football",
     "date": 1795788000000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "Shabab Al-Ordon",
@@ -219,7 +157,7 @@
     "league": "Saudi Pro League",
     "category": "football",
     "date": 1795789200000,
-    "status": "upcoming",
+    "status": "live",
     "teams": {
       "home": {
         "name": "Al Qadsiah",
@@ -750,6 +688,26 @@
     "sdUrl": ""
   },
   {
+    "matchId": "mm-own-d3bdb9a29a",
+    "title": "Sønderjyske Fodbold vs Brøndby IF",
+    "league": "Danish Superliga",
+    "category": "football",
+    "date": 1795802400000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Sønderjyske Fodbold",
+        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/8118.png"
+      },
+      "away": {
+        "name": "Brøndby IF",
+        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/575.png"
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
     "matchId": "tsdb-2493531",
     "title": "Kriens vs Aarau",
     "league": "Swiss Challenge League",
@@ -772,21 +730,21 @@
     "sdUrl": ""
   },
   {
-    "matchId": "tsdb-2555140",
-    "title": "Cavese vs Scafatese",
-    "league": "Italian Serie C Girone C",
+    "matchId": "tsdb-2498408",
+    "title": "Győri ETO vs Debrecen",
+    "league": "Hungarian NB I",
     "category": "football",
-    "date": 1795807800000,
+    "date": 1795804200000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Cavese",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/2bio4v1573819229.png",
+        "name": "Győri ETO",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/mk29081781160208.png",
         "color": ""
       },
       "away": {
-        "name": "Scafatese",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/yu90621724355710.png",
+        "name": "Debrecen",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/0e2yn71579728606.png",
         "color": ""
       }
     },
@@ -794,325 +752,451 @@
     "sdUrl": ""
   },
   {
-    "matchId": "mm-own-acccebe85f",
-    "title": "Columbus Crew vs Inter Miami CF",
-    "league": "MLS",
+    "matchId": "espn-401875834",
+    "title": "FC Dordrecht vs Vitesse",
+    "league": "Dutch Keuken Kampioen Divisie",
     "category": "football",
-    "date": 1795827600000,
+    "date": 1795806000000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Columbus Crew",
-        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/183.png"
+        "name": "FC Dordrecht",
+        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/4426.png",
+        "color": ""
       },
       "away": {
-        "name": "Inter Miami CF",
-        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/20232.png"
+        "name": "Vitesse",
+        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/154.png",
+        "color": ""
       }
     },
-    "hlsUrl": "",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/keuken-kampioen-divisie/2026-11-27/dor-vit/playlist.m3u8?tk=Y-MXJAbuT4atV0qEMki-Hw&e=1795833980|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
-    "matchId": "mm-own-f0dc495ab2",
-    "title": "Frosinone vs Parma",
+    "matchId": "mm-own-49b0db76b7",
+    "title": "Venezia vs Bologna",
     "league": "Serie A",
     "category": "football",
-    "date": 1795874400000,
+    "date": 1795808700000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Frosinone",
-        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/4057.png"
+        "name": "Venezia",
+        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/17530.png"
       },
       "away": {
-        "name": "Parma",
-        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/115.png"
+        "name": "Bologna",
+        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/107.png"
       }
     },
     "hlsUrl": "",
     "sdUrl": ""
   },
   {
-    "matchId": "mm-own-9025897239",
-    "title": "West Ham United vs Stoke City",
-    "league": "Championship",
+    "matchId": "mm-own-ef5bb07dd3",
+    "title": "Al Hazem vs Al Nassr",
+    "league": "Saudi Pro League",
+    "category": "football",
+    "date": 1795868100000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Al Hazem",
+        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/21964.png"
+      },
+      "away": {
+        "name": "Al Nassr",
+        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/817.png"
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "mm-own-ec0dc55773",
+    "title": "Hamburg SV vs Bayern Munich",
+    "league": "Bundesliga",
+    "category": "football",
+    "date": 1795876200000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Hamburg SV",
+        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/127.png"
+      },
+      "away": {
+        "name": "Bayern Munich",
+        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png"
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "mm-own-e29b2dd430",
+    "title": "Leicester City vs Mansfield Town",
+    "league": "League One",
     "category": "football",
     "date": 1795878000000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "West Ham United",
-        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/371.png"
+        "name": "Leicester City",
+        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/375.png"
       },
       "away": {
-        "name": "Stoke City",
-        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/336.png"
+        "name": "Mansfield Town",
+        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/304.png"
       }
     },
     "hlsUrl": "",
     "sdUrl": ""
   },
   {
-    "matchId": "mm-own-c781c01d65",
-    "title": "Crewe Alexandra vs Grimsby Town",
+    "matchId": "mm-own-5521ab1fc5",
+    "title": "Rotherham United vs Oldham Athletic",
     "league": "League Two",
     "category": "football",
     "date": 1795878000000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Crewe Alexandra",
-        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/396.png"
+        "name": "Rotherham United",
+        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/402.png"
       },
       "away": {
-        "name": "Grimsby Town",
-        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/386.png"
+        "name": "Oldham Athletic",
+        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/332.png"
       }
     },
     "hlsUrl": "",
     "sdUrl": ""
   },
   {
-    "matchId": "mm-own-905ab3d3b4",
-    "title": "Gaziantep FK vs Amed SFK",
-    "league": "Süper Lig",
+    "matchId": "mm-own-346543ac38",
+    "title": "Torino vs Lazio",
+    "league": "Serie A",
     "category": "football",
-    "date": 1795881600000,
+    "date": 1795885200000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Gaziantep FK",
-        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/20070.png"
+        "name": "Torino",
+        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/239.png"
       },
       "away": {
-        "name": "Amed SFK",
-        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/132335.png"
+        "name": "Lazio",
+        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/112.png"
       }
     },
     "hlsUrl": "",
     "sdUrl": ""
   },
   {
-    "matchId": "mm-own-8b6c113137",
-    "title": "Académico de Viseu vs Alverca",
-    "league": "Primeira Liga",
+    "matchId": "mm-own-2a27846cf5",
+    "title": "Paris Saint-Germain vs Lorient",
+    "league": "Ligue 1",
     "category": "football",
-    "date": 1795888800000,
+    "date": 1795895100000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Académico de Viseu",
-        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/21607.png"
+        "name": "Paris Saint-Germain",
+        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png"
       },
       "away": {
-        "name": "Alverca",
-        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/21613.png"
+        "name": "Lorient",
+        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/273.png"
       }
     },
     "hlsUrl": "",
     "sdUrl": ""
   },
   {
-    "matchId": "mm-own-47e05621f8",
-    "title": "Instituto (Córdoba) vs River Plate",
-    "league": "Liga Argentina",
+    "matchId": "mm-own-9d367a010a",
+    "title": "ADO Den Haag vs FC Utrecht",
+    "league": "Eredivisie",
     "category": "football",
-    "date": 1795914000000,
+    "date": 1795950900000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Instituto (Córdoba)",
-        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/2975.png"
+        "name": "ADO Den Haag",
+        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/2726.png"
       },
       "away": {
-        "name": "River Plate",
-        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/16.png"
+        "name": "FC Utrecht",
+        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/153.png"
       }
     },
     "hlsUrl": "",
     "sdUrl": ""
   },
   {
-    "matchId": "tsdb-2487377",
-    "title": "Septemvri Sofia vs Levski Sofia",
-    "league": "Bulgarian First League",
-    "category": "football",
-    "date": 1795960800000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Septemvri Sofia",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/3ss1da1594300740.png",
-        "color": ""
-      },
-      "away": {
-        "name": "Levski Sofia",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/9krgx71781149189.png",
-        "color": ""
-      }
-    },
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "mm-own-b7779b0218",
-    "title": "Arsenal vs Manchester City",
+    "matchId": "mm-own-c159ffa68c",
+    "title": "Crystal Palace vs Hull City",
     "league": "Premier League",
     "category": "football",
-    "date": 1795969800000,
+    "date": 1795961100000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Arsenal",
-        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png"
+        "name": "Crystal Palace",
+        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/384.png"
       },
       "away": {
-        "name": "Manchester City",
-        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png"
+        "name": "Hull City",
+        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/306.png"
       }
     },
     "hlsUrl": "",
     "sdUrl": ""
   },
   {
-    "matchId": "mm-own-7479ea17b6",
-    "title": "Guadalajara vs Pachuca",
-    "league": "Liga MX",
+    "matchId": "mm-own-70870c5902",
+    "title": "Borussia Dortmund vs Bayer Leverkusen",
+    "league": "Bundesliga",
     "category": "football",
-    "date": 1796000820000,
+    "date": 1795977000000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Guadalajara",
-        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/219.png"
+        "name": "Borussia Dortmund",
+        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/124.png"
       },
       "away": {
-        "name": "Pachuca",
-        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/234.png"
+        "name": "Bayer Leverkusen",
+        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/131.png"
       }
     },
     "hlsUrl": "",
     "sdUrl": ""
   },
   {
-    "matchId": "mm-own-8fec074138",
-    "title": "Burton Albion vs Wigan Athletic",
+    "matchId": "mm-own-cf6d5a3696",
+    "title": "Besiktas vs Galatasaray",
+    "league": "Süper Lig",
+    "category": "football",
+    "date": 1796061600000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Besiktas",
+        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/1895.png"
+      },
+      "away": {
+        "name": "Galatasaray",
+        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/432.png"
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "mm-own-b58a44a7d7",
+    "title": "Notts County vs AFC Wimbledon",
     "league": "League One",
     "category": "football",
     "date": 1796154300000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Burton Albion",
-        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/2567.png"
+        "name": "Notts County",
+        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/340.png"
       },
       "away": {
-        "name": "Wigan Athletic",
-        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/350.png"
+        "name": "AFC Wimbledon",
+        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/3802.png"
       }
     },
     "hlsUrl": "",
     "sdUrl": ""
   },
   {
-    "matchId": "mm-own-f25b64525f",
-    "title": "Gillingham vs Swindon Town",
+    "matchId": "mm-own-77a2bec20d",
+    "title": "Oldham Athletic vs Bristol Rovers",
     "league": "League Two",
     "category": "football",
     "date": 1796154300000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Gillingham",
-        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/389.png"
+        "name": "Oldham Athletic",
+        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/332.png"
       },
       "away": {
-        "name": "Swindon Town",
-        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/341.png"
+        "name": "Bristol Rovers",
+        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/308.png"
       }
     },
     "hlsUrl": "",
     "sdUrl": ""
   },
   {
-    "matchId": "mm-own-cdae6d90a6",
-    "title": "Manchester City vs Leeds United",
+    "matchId": "mm-own-bea17de828",
+    "title": "Brentford vs Arsenal",
     "league": "Premier League",
     "category": "football",
-    "date": 1796239800000,
+    "date": 1796242500000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Manchester City",
-        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png"
+        "name": "Brentford",
+        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/337.png"
       },
       "away": {
-        "name": "Leeds United",
-        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/357.png"
+        "name": "Arsenal",
+        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png"
       }
     },
     "hlsUrl": "",
     "sdUrl": ""
   },
   {
-    "matchId": "mm-own-ba69220120",
-    "title": "Al Ahli vs Al Faisaly",
-    "league": "Saudi Pro League",
+    "matchId": "mm-own-c6a0f173c3",
+    "title": "Telstar vs FC Groningen",
+    "league": "Eredivisie",
     "category": "football",
-    "date": 1796397300000,
+    "date": 1796410800000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Al Ahli",
-        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/8346.png"
+        "name": "Telstar",
+        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/3735.png"
       },
       "away": {
-        "name": "Al Faisaly",
-        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/21446.png"
+        "name": "FC Groningen",
+        "badge": "https://a.espncdn.com/i/teamlogos/soccer/500/145.png"
       }
     },
     "hlsUrl": "",
     "sdUrl": ""
   },
   {
-    "matchId": "espn-1543979",
-    "title": "Perth Scorchers Women vs Hobart Hurricanes Women",
-    "league": "Women's Big Bash League",
-    "category": "cricket",
-    "date": 1795774200000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Perth Scorchers Women",
-        "badge": "https://a.espncdn.com/i/teamlogos/cricket/500/896405.png",
-        "color": ""
-      },
-      "away": {
-        "name": "Hobart Hurricanes Women",
-        "badge": "https://a.espncdn.com/i/teamlogos/cricket/500/896433.png",
-        "color": ""
-      }
-    },
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "espn-401912971",
-    "title": "LSU Tigers vs Villanova Wildcats",
-    "league": "NCAA Women's Basketball",
+    "matchId": "tsdb-2596889",
+    "title": "Westchester Knicks vs Capital City Go-Go",
+    "league": "NBA G League",
     "category": "basketball",
+    "date": 1795802400000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Westchester Knicks",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/q7aory1526836555.png",
+        "color": ""
+      },
+      "away": {
+        "name": "Capital City Go-Go",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/cvsaoz1550084988.png",
+        "color": ""
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "tsdb-2595881",
+    "title": "North Carolina vs West Virginia",
+    "league": "NCAA Division I Basketball Mens",
+    "category": "basketball",
+    "date": 1795824000000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "North Carolina",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/bo1lhk1584718020.png",
+        "color": ""
+      },
+      "away": {
+        "name": "West Virginia",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/vt9xu51584217798.png",
+        "color": ""
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "espn-401909331",
+    "title": "Minnesota Timberwolves vs Memphis Grizzlies",
+    "league": "National Basketball Association",
+    "category": "basketball",
+    "date": 1795829400000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Minnesota Timberwolves",
+        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/min.png",
+        "color": ""
+      },
+      "away": {
+        "name": "Memphis Grizzlies",
+        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mem.png",
+        "color": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nba/2026-11-27/mem-min/playlist.m3u8?tk=I9IrIlocR4CRRLDPiGrl0g&e=1795834088|Referer=https://ondemand.st",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "espn-401910050",
+    "title": "Houston Rockets vs Philadelphia 76ers",
+    "league": "National Basketball Association",
+    "category": "basketball",
+    "date": 1795915800000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Houston Rockets",
+        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/hou.png",
+        "color": ""
+      },
+      "away": {
+        "name": "Philadelphia 76ers",
+        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/phi.png",
+        "color": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nba/2026-11-28/phi-hou/playlist.m3u8?tk=clhaXyZxtZiEjNOKWVOc8A&e=1795834094|Referer=https://ondemand.st",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "mm-el-E2026-150",
+    "title": "Olympiacos vs LDLC ASVEL",
+    "league": "EuroLeague",
+    "category": "basketball",
+    "date": 1796411700000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Olympiacos Piraeus",
+        "badge": "https://media-cdn.incrowdsports.com/789423ac-3cdf-4b89-b11c-b458aa5f59a6.png"
+      },
+      "away": {
+        "name": "LDLC ASVEL Villeurbanne",
+        "badge": "https://media-cdn.incrowdsports.com/e33c6d1a-95ca-4dbc-b8cb-0201812104cc.png"
+      }
+    },
+    "hlsUrl": "",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "espn-401864546",
+    "title": "New Mexico Lobos vs Air Force Falcons",
+    "league": "NCAA - Football",
+    "category": "american-football",
     "date": 1795815000000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "LSU Tigers",
-        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/99.png",
+        "name": "New Mexico Lobos",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/167.png",
         "color": ""
       },
       "away": {
-        "name": "Villanova Wildcats",
-        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/222.png",
+        "name": "Air Force Falcons",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/2005.png",
         "color": ""
       }
     },
@@ -1120,11 +1204,33 @@
     "sdUrl": ""
   },
   {
-    "matchId": "espn-401925703",
-    "title": "Houston Cougars vs Oakland Golden Grizzlies",
-    "league": "NCAA Men's Basketball",
-    "category": "basketball",
-    "date": 1795825800000,
+    "matchId": "espn-401856760",
+    "title": "Georgia Bulldogs vs Georgia Tech Yellow Jackets",
+    "league": "NCAA - Football",
+    "category": "american-football",
+    "date": 1795897800000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Georgia Bulldogs",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/61.png",
+        "color": ""
+      },
+      "away": {
+        "name": "Georgia Tech Yellow Jackets",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/59.png",
+        "color": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-11-28/gt-uga/playlist.m3u8?tk=3hB7ZFHuFsvaqJJwwKx41w&e=1795834112|Referer=https://ondemand.st",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "espn-401856874",
+    "title": "Houston Cougars vs Baylor Bears",
+    "league": "NCAA - Football",
+    "category": "american-football",
+    "date": 1795919400000,
     "status": "upcoming",
     "teams": {
       "home": {
@@ -1133,180 +1239,96 @@
         "color": ""
       },
       "away": {
-        "name": "Oakland Golden Grizzlies",
-        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/2473.png",
+        "name": "Baylor Bears",
+        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/239.png",
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cbb/2026-11-27/oak-hou/playlist.m3u8?tk=bk4BOMwJrkgHbwPpdLWvVQ&e=1795798344|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-11-28/bay-hou/playlist.m3u8?tk=R7PT1ka65gSB40_kgWdTnQ&e=1795834118|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
-    "matchId": "espn-401921009",
-    "title": "Kansas City Roos vs Southeast Missouri State Redhawks",
-    "league": "NCAA Men's Basketball",
-    "category": "basketball",
-    "date": 1795896000000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Kansas City Roos",
-        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/140.png",
-        "color": ""
-      },
-      "away": {
-        "name": "Southeast Missouri State Redhawks",
-        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/2546.png",
-        "color": ""
-      }
-    },
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "mm-el-E2026-145",
-    "title": "Real Madrid vs FC Barcelona",
-    "league": "EuroLeague",
-    "category": "basketball",
-    "date": 1796327100000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Real Madrid",
-        "badge": "https://media-cdn.incrowdsports.com/371b0d9b-9250-4c09-bda7-0686cf024657.png"
-      },
-      "away": {
-        "name": "FC Barcelona",
-        "badge": "https://media-cdn.incrowdsports.com/35dfa503-e417-481f-963a-bdf6f013763e.png"
-      }
-    },
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "espn-401873083",
-    "title": "Pittsburgh Steelers vs Denver Broncos",
+    "matchId": "espn-401873094",
+    "title": "Tampa Bay Buccaneers vs Carolina Panthers",
     "league": "National Football League",
     "category": "american-football",
+    "date": 1796087700000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Tampa Bay Buccaneers",
+        "badge": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/tb.png",
+        "color": ""
+      },
+      "away": {
+        "name": "Carolina Panthers",
+        "badge": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/car.png",
+        "color": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-11-30/car-tb/playlist.m3u8?tk=rsRRm_USX-1udthmwyZS7w&e=1795834125|Referer=https://ondemand.st",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "espn-401892799",
+    "title": "Tampa Bay Lightning vs Ottawa Senators",
+    "league": "National Hockey League",
+    "category": "hockey",
     "date": 1795809600000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Pittsburgh Steelers",
-        "badge": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/pit.png",
+        "name": "Tampa Bay Lightning",
+        "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/tb.png",
         "color": ""
       },
       "away": {
-        "name": "Denver Broncos",
-        "badge": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/den.png",
+        "name": "Ottawa Senators",
+        "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/ott.png",
         "color": ""
       }
     },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-11-27/den-pit/playlist.m3u8?tk=S7tcTXSRs18v1creoNi6ew&e=1795798362|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-11-27/ott-tb/playlist.m3u8?tk=J3fy94qi-pG6Bm-QNqmnlw&e=1795834131|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
-    "matchId": "espn-401858313",
-    "title": "North Carolina Tar Heels vs NC State Wolfpack",
-    "league": "NCAA - Football",
-    "category": "american-football",
-    "date": 1795885200000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "North Carolina Tar Heels",
-        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/153.png",
-        "color": ""
-      },
-      "away": {
-        "name": "NC State Wolfpack",
-        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/152.png",
-        "color": ""
-      }
-    },
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "espn-401860926",
-    "title": "Colorado State Rams vs Boise State Broncos",
-    "league": "NCAA - Football",
-    "category": "american-football",
-    "date": 1795906800000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Colorado State Rams",
-        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/36.png",
-        "color": ""
-      },
-      "away": {
-        "name": "Boise State Broncos",
-        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/68.png",
-        "color": ""
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cfb/2026-11-28/bois-csu/playlist.m3u8?tk=NjlZ253eozzBZ05PChFzFQ&e=1795798374|Referer=https://ondemand.st",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "espn-401873084",
-    "title": "Minnesota Vikings vs Atlanta Falcons",
-    "league": "National Football League",
-    "category": "american-football",
-    "date": 1795975200000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Minnesota Vikings",
-        "badge": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/min.png",
-        "color": ""
-      },
-      "away": {
-        "name": "Atlanta Falcons",
-        "badge": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/atl.png",
-        "color": ""
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nfl/2026-11-29/atl-min/playlist.m3u8?tk=xQDp4Eec2p5vKePbslX1OA&e=1795798380|Referer=https://ondemand.st",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "mm-raw-20261130",
-    "title": "WWE Monday Night Raw",
-    "league": "WWE",
-    "category": "fight",
-    "date": 1796086800000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "",
-        "badge": ""
-      },
-      "away": {
-        "name": "",
-        "badge": ""
-      }
-    },
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "espn-401892804",
-    "title": "Anaheim Ducks vs Los Angeles Kings",
+    "matchId": "espn-401892809",
+    "title": "Edmonton Oilers vs Seattle Kraken",
     "league": "National Hockey League",
     "category": "hockey",
-    "date": 1795813200000,
+    "date": 1795827600000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Anaheim Ducks",
-        "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/ana.png",
+        "name": "Edmonton Oilers",
+        "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/edm.png",
         "color": ""
       },
       "away": {
-        "name": "Los Angeles Kings",
-        "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/la.png",
+        "name": "Seattle Kraken",
+        "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/sea.png",
+        "color": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-11-27/sea-edm/playlist.m3u8?tk=y02KfxAgRXi9Sg3tI-tykA&e=1795834136|Referer=https://ondemand.st",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "tsdb-2550640",
+    "title": "Colomiers vs Nevers",
+    "league": "French Pro D2",
+    "category": "rugby",
+    "date": 1795804200000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Colomiers",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/5s3tax1641776881.png",
+        "color": ""
+      },
+      "away": {
+        "name": "Nevers",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/xts28v1641776892.png",
         "color": ""
       }
     },
@@ -1314,70 +1336,26 @@
     "sdUrl": ""
   },
   {
-    "matchId": "espn-401923165",
-    "title": "Ohio State Buckeyes vs Michigan State Spartans",
-    "league": "NCAA Men's Ice Hockey",
-    "category": "hockey",
-    "date": 1796346000000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Ohio State Buckeyes",
-        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/194.png",
-        "color": ""
-      },
-      "away": {
-        "name": "Michigan State Spartans",
-        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/127.png",
-        "color": ""
-      }
-    },
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "tsdb-2419077",
-    "title": "V8 Supercars Adelaide Grand Final Race 35",
-    "league": "V8 Supercars",
-    "category": "motor-sports",
-    "date": 1795758600000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "V8 Supercars Adelaide Grand Final Race 35",
-        "badge": "",
-        "color": ""
-      },
-      "away": {
-        "name": "",
-        "badge": "",
-        "color": ""
-      }
-    },
-    "hlsUrl": "",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "mm-mot-f1-600057450-fp3",
-    "title": "Qatar Grand Prix - Practice 3",
+    "matchId": "mm-mot-f1-600057450-fp2",
+    "title": "Qatar Grand Prix - Practice 2",
     "league": "Formula 1",
     "category": "motor-sports",
-    "date": 1795876200000,
+    "date": 1795798800000,
     "status": "upcoming",
     "teams": {},
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/f1/2026/qatar/fp3/playlist.m3u8?tk=0etVpoUookwbbywKozzpdw&e=1795798411|Referer=https://ondemand.st",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/f1/2026/qatar/fp2/playlist.m3u8?tk=y0OgQFP2T3E3LpjkYReLrA&e=1795834149|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
-    "matchId": "tsdb-2600185",
-    "title": "Ladies European Tour Andalucia Costa del Sol Open de Espana Final Round",
+    "matchId": "tsdb-2600184",
+    "title": "Ladies European Tour Andalucia Costa del Sol Open de Espana Round 3",
     "league": "Ladies European Tour",
     "category": "golf",
-    "date": 1795939200000,
+    "date": 1795852800000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Ladies European Tour Andalucia Costa del Sol Open de Espana Final Round",
+        "name": "Ladies European Tour Andalucia Costa del Sol Open de Espana Round 3",
         "badge": "",
         "color": ""
       },
@@ -1391,21 +1369,21 @@
     "sdUrl": ""
   },
   {
-    "matchId": "tsdb-2593171",
-    "title": "Spacer's Toulouse Volley vs Paris Volley",
-    "league": "French Ligue A Mens Volleyball",
-    "category": "volleyball",
-    "date": 1795885200000,
+    "matchId": "tsdb-2630179",
+    "title": "World Snooker Leasing Options UK Championship Round 1 Day 1",
+    "league": "World Snooker",
+    "category": "snooker",
+    "date": 1795824000000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Spacer's Toulouse Volley",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/h5g6ba1742372668.png",
+        "name": "World Snooker Leasing Options UK Championship Round 1 Day 1",
+        "badge": "",
         "color": ""
       },
       "away": {
-        "name": "Paris Volley",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/wskpz71574267136.png",
+        "name": "",
+        "badge": "",
         "color": ""
       }
     },

@@ -1,20 +1,20 @@
 [
   {
-    "matchId": "espn-401912971",
-    "title": "LSU Tigers vs Villanova Wildcats",
-    "league": "NCAA Women's Basketball",
+    "matchId": "tsdb-2596889",
+    "title": "Westchester Knicks vs Capital City Go-Go",
+    "league": "NBA G League",
     "category": "basketball",
-    "date": 1795815000000,
+    "date": 1795802400000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "LSU Tigers",
-        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/99.png",
+        "name": "Westchester Knicks",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/q7aory1526836555.png",
         "color": ""
       },
       "away": {
-        "name": "Villanova Wildcats",
-        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/222.png",
+        "name": "Capital City Go-Go",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/cvsaoz1550084988.png",
         "color": ""
       }
     },
@@ -22,43 +22,21 @@
     "sdUrl": ""
   },
   {
-    "matchId": "espn-401925703",
-    "title": "Houston Cougars vs Oakland Golden Grizzlies",
-    "league": "NCAA Men's Basketball",
+    "matchId": "tsdb-2595881",
+    "title": "North Carolina vs West Virginia",
+    "league": "NCAA Division I Basketball Mens",
     "category": "basketball",
-    "date": 1795825800000,
+    "date": 1795824000000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Houston Cougars",
-        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/248.png",
+        "name": "North Carolina",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/bo1lhk1584718020.png",
         "color": ""
       },
       "away": {
-        "name": "Oakland Golden Grizzlies",
-        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/2473.png",
-        "color": ""
-      }
-    },
-    "hlsUrl": "https://messi.damitv.st/live-hls/channel/cbb/2026-11-27/oak-hou/playlist.m3u8?tk=bk4BOMwJrkgHbwPpdLWvVQ&e=1795798344|Referer=https://ondemand.st",
-    "sdUrl": ""
-  },
-  {
-    "matchId": "espn-401921009",
-    "title": "Kansas City Roos vs Southeast Missouri State Redhawks",
-    "league": "NCAA Men's Basketball",
-    "category": "basketball",
-    "date": 1795896000000,
-    "status": "upcoming",
-    "teams": {
-      "home": {
-        "name": "Kansas City Roos",
-        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/140.png",
-        "color": ""
-      },
-      "away": {
-        "name": "Southeast Missouri State Redhawks",
-        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/2546.png",
+        "name": "West Virginia",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/vt9xu51584217798.png",
         "color": ""
       }
     },
@@ -66,20 +44,64 @@
     "sdUrl": ""
   },
   {
-    "matchId": "mm-el-E2026-145",
-    "title": "Real Madrid vs FC Barcelona",
+    "matchId": "espn-401909331",
+    "title": "Minnesota Timberwolves vs Memphis Grizzlies",
+    "league": "National Basketball Association",
+    "category": "basketball",
+    "date": 1795829400000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Minnesota Timberwolves",
+        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/min.png",
+        "color": ""
+      },
+      "away": {
+        "name": "Memphis Grizzlies",
+        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mem.png",
+        "color": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nba/2026-11-27/mem-min/playlist.m3u8?tk=I9IrIlocR4CRRLDPiGrl0g&e=1795834088|Referer=https://ondemand.st",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "espn-401910050",
+    "title": "Houston Rockets vs Philadelphia 76ers",
+    "league": "National Basketball Association",
+    "category": "basketball",
+    "date": 1795915800000,
+    "status": "upcoming",
+    "teams": {
+      "home": {
+        "name": "Houston Rockets",
+        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/hou.png",
+        "color": ""
+      },
+      "away": {
+        "name": "Philadelphia 76ers",
+        "badge": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/phi.png",
+        "color": ""
+      }
+    },
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nba/2026-11-28/phi-hou/playlist.m3u8?tk=clhaXyZxtZiEjNOKWVOc8A&e=1795834094|Referer=https://ondemand.st",
+    "sdUrl": ""
+  },
+  {
+    "matchId": "mm-el-E2026-150",
+    "title": "Olympiacos vs LDLC ASVEL",
     "league": "EuroLeague",
     "category": "basketball",
-    "date": 1796327100000,
+    "date": 1796411700000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Real Madrid",
-        "badge": "https://media-cdn.incrowdsports.com/371b0d9b-9250-4c09-bda7-0686cf024657.png"
+        "name": "Olympiacos Piraeus",
+        "badge": "https://media-cdn.incrowdsports.com/789423ac-3cdf-4b89-b11c-b458aa5f59a6.png"
       },
       "away": {
-        "name": "FC Barcelona",
-        "badge": "https://media-cdn.incrowdsports.com/35dfa503-e417-481f-963a-bdf6f013763e.png"
+        "name": "LDLC ASVEL Villeurbanne",
+        "badge": "https://media-cdn.incrowdsports.com/e33c6d1a-95ca-4dbc-b8cb-0201812104cc.png"
       }
     },
     "hlsUrl": "",

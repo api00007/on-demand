@@ -1,46 +1,46 @@
 [
   {
-    "matchId": "espn-401892804",
-    "title": "Anaheim Ducks vs Los Angeles Kings",
+    "matchId": "espn-401892799",
+    "title": "Tampa Bay Lightning vs Ottawa Senators",
     "league": "National Hockey League",
     "category": "hockey",
-    "date": 1795813200000,
+    "date": 1795809600000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Anaheim Ducks",
-        "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/ana.png",
+        "name": "Tampa Bay Lightning",
+        "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/tb.png",
         "color": ""
       },
       "away": {
-        "name": "Los Angeles Kings",
-        "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/la.png",
+        "name": "Ottawa Senators",
+        "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/ott.png",
         "color": ""
       }
     },
-    "hlsUrl": "",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-11-27/ott-tb/playlist.m3u8?tk=J3fy94qi-pG6Bm-QNqmnlw&e=1795834131|Referer=https://ondemand.st",
     "sdUrl": ""
   },
   {
-    "matchId": "espn-401923165",
-    "title": "Ohio State Buckeyes vs Michigan State Spartans",
-    "league": "NCAA Men's Ice Hockey",
+    "matchId": "espn-401892809",
+    "title": "Edmonton Oilers vs Seattle Kraken",
+    "league": "National Hockey League",
     "category": "hockey",
-    "date": 1796346000000,
+    "date": 1795827600000,
     "status": "upcoming",
     "teams": {
       "home": {
-        "name": "Ohio State Buckeyes",
-        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/194.png",
+        "name": "Edmonton Oilers",
+        "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/edm.png",
         "color": ""
       },
       "away": {
-        "name": "Michigan State Spartans",
-        "badge": "https://a.espncdn.com/i/teamlogos/ncaa/500/127.png",
+        "name": "Seattle Kraken",
+        "badge": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/sea.png",
         "color": ""
       }
     },
-    "hlsUrl": "",
+    "hlsUrl": "https://messi.damitv.st/live-hls/channel/nhl/2026-11-27/sea-edm/playlist.m3u8?tk=y02KfxAgRXi9Sg3tI-tykA&e=1795834136|Referer=https://ondemand.st",
     "sdUrl": ""
   }
 ]
